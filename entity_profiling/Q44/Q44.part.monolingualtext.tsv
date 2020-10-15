@@ -1,0 +1,3590 @@
+id	node1	label	node2
+Q1011-P1448-4	Q1011	P1448	'Cabo Verde'@pt
+Q1011-P1448-1	Q1011	P1448	'Capo Verde'@it
+Q1011-P1448-3	Q1011	P1448	'Republik Cabo Verde'@de
+Q1011-P1448-2	Q1011	P1448	'República de Cabo Verde'@pt
+Q1011-P1448-5	Q1011	P1448	'la République du Cap-Vert'@fr
+Q1011-P1451-2	Q1011	P1451	'Friede, Arbeit, Vaterland'@de
+Q1011-P1451-3	Q1011	P1451	'No stress'@en
+Q1011-P1451-1	Q1011	P1451	'Paz, Trabalho, Pátria'@pt
+Q1011-P1549-1	Q1011	P1549	'Cabo Verdean'@en
+Q1011-P1549-11	Q1011	P1549	'Cap-Verdien'@fr
+Q1011-P1549-12	Q1011	P1549	'Cap-Verdienne'@fr
+Q1011-P1549-21	Q1011	P1549	'Cap-verdien'@fr
+Q1011-P1549-23	Q1011	P1549	'Cap-verdienne'@fr
+Q1011-P1549-4	Q1011	P1549	'Cape Verdean'@en
+Q1011-P1549-22	Q1011	P1549	'Capverdien'@fr
+Q1011-P1549-24	Q1011	P1549	'Capverdienne'@fr
+Q1011-P1549-18	Q1011	P1549	'cabo-verdiano'@pt
+Q1011-P1549-20	Q1011	P1549	'cabuverdiana'@ast
+Q1011-P1549-19	Q1011	P1549	'cabuverdiano'@ast
+Q1011-P1549-17	Q1011	P1549	'capoverdean'@lfn
+Q1011-P1549-14	Q1011	P1549	'capoverdiana'@it
+Q1011-P1549-16	Q1011	P1549	'capoverdiane'@it
+Q1011-P1549-15	Q1011	P1549	'capoverdiani'@it
+Q1011-P1549-13	Q1011	P1549	'capoverdiano'@it
+Q1011-P1549-8	Q1011	P1549	'capverdian'@ro
+Q1011-P1549-9	Q1011	P1549	'capverdiană'@ro
+Q1011-P1549-7	Q1011	P1549	'capverdieni'@ro
+Q1011-P1549-3	Q1011	P1549	'kapverder'@da
+Q1011-P1549-2	Q1011	P1549	'zöld-foki köztársasági'@hu
+Q1011-P1549-5	Q1011	P1549	'כף ורדי'@he
+Q1011-P1549-6	Q1011	P1549	'כף ורדית'@he
+Q1011-P1549-10	Q1011	P1549	'কাবু ভের্দীয়'@bn
+Q1011-P1813-1	Q1011	P1813	'🇨🇻'@zxx
+Q1019-P1448-2	Q1019	P1448	'Madagascar'@fr
+Q1019-P1448-1	Q1019	P1448	'Madagascar'@it
+Q1019-P1448-3	Q1019	P1448	'la République de Madagascar'@fr
+Q1019-P1451-5	Q1019	P1451	'A genuine island, a world apart'@en
+Q1019-P1451-2	Q1019	P1451	'Amour, Patrie, Progrès'@fr
+Q1019-P1451-1	Q1019	P1451	'Fitiavana, Tanindrazana, Fandrosoana'@mg
+Q1019-P1451-3	Q1019	P1451	'Love, Land of Our Ancestors, Progress'@en
+Q1019-P1451-4	Q1019	P1451	'Любов, Отечество, прогрес'@bg
+Q1019-P1549-22	Q1019	P1549	'Madagaskarano'@eo
+Q1019-P1549-5	Q1019	P1549	'Madagaskarano'@io
+Q1019-P1549-6	Q1019	P1549	'Malagaseänan'@vo
+Q1019-P1549-1	Q1019	P1549	'Malagasy'@en
+Q1019-P1549-20	Q1019	P1549	'Malagasy'@mg
+Q1019-P1549-14	Q1019	P1549	'Malgache'@fr
+Q1019-P1549-2	Q1019	P1549	'madagaszkári'@hu
+Q1019-P1549-19	Q1019	P1549	'malagasi'@lfn
+Q1019-P1549-18	Q1019	P1549	'malgasce'@it
+Q1019-P1549-17	Q1019	P1549	'malgasci'@it
+Q1019-P1549-16	Q1019	P1549	'malgascia'@it
+Q1019-P1549-15	Q1019	P1549	'malgascio'@it
+Q1019-P1549-21	Q1019	P1549	'malgaxe'@ast
+Q1019-P1549-11	Q1019	P1549	'malgaș'@ro
+Q1019-P1549-10	Q1019	P1549	'malgași'@ro
+Q1019-P1549-12	Q1019	P1549	'malgașă'@ro
+Q1019-P1549-3	Q1019	P1549	'малагасиец'@ru
+Q1019-P1549-4	Q1019	P1549	'малагасийка'@ru
+Q1019-P1549-7	Q1019	P1549	'مدغشقري'@ar
+Q1019-P1549-8	Q1019	P1549	'مدغشقرية'@ar
+Q1019-P1549-9	Q1019	P1549	'مدغشقريون'@ar
+Q1019-P1549-13	Q1019	P1549	'মালাগাসি'@bn
+Q1019-P1705-1	Q1019	P1705	'Republikan\\\\'i Madagaskar'@mg
+Q1019-P1705-2	Q1019	P1705	'République de Madagascar'@fr
+Q1019-P1813-1	Q1019	P1813	'🇲🇬'@zxx
+Q1027-P1448-2	Q1027	P1448	'Mauritius'@en
+Q1027-P1448-1	Q1027	P1448	'Mauritius'@it
+Q1027-P1448-3	Q1027	P1448	'la République de Maurice'@fr
+Q1027-P1451-4	Q1027	P1451	'It\\\\'s a pleasure'@en
+Q1027-P1451-2	Q1027	P1451	'L’étoile et la clé de l’océan Indien'@fr
+Q1027-P1451-3	Q1027	P1451	'Star and Key of the Indian Ocean'@en
+Q1027-P1451-1	Q1027	P1451	'Stella Clavisque Maris Indici'@la
+Q1027-P1549-3	Q1027	P1549	'Mauricano'@io
+Q1027-P1549-28	Q1027	P1549	'Mauricien'@fr
+Q1027-P1549-29	Q1027	P1549	'Mauricienne'@fr
+Q1027-P1549-2	Q1027	P1549	'Mauritian'@en
+Q1027-P1549-4	Q1027	P1549	'Moriseänan'@vo
+Q1027-P1549-26	Q1027	P1549	'mauriciana'@ast
+Q1027-P1549-27	Q1027	P1549	'mauriciano'@ast
+Q1027-P1549-25	Q1027	P1549	'mauricianu'@ast
+Q1027-P1549-21	Q1027	P1549	'mauricien'@fr
+Q1027-P1549-22	Q1027	P1549	'mauricienne'@fr
+Q1027-P1549-24	Q1027	P1549	'mauriciennes'@fr
+Q1027-P1549-23	Q1027	P1549	'mauriciens'@fr
+Q1027-P1549-20	Q1027	P1549	'maurisian'@lfn
+Q1027-P1549-13	Q1027	P1549	'mauritian'@ro
+Q1027-P1549-14	Q1027	P1549	'mauritiană'@ro
+Q1027-P1549-12	Q1027	P1549	'mauritieni'@ro
+Q1027-P1549-1	Q1027	P1549	'mauritiusi'@hu
+Q1027-P1549-17	Q1027	P1549	'mauriziana'@it
+Q1027-P1549-19	Q1027	P1549	'mauriziane'@it
+Q1027-P1549-18	Q1027	P1549	'mauriziani'@it
+Q1027-P1549-16	Q1027	P1549	'mauriziano'@it
+Q1027-P1549-9	Q1027	P1549	'маврикиец'@ru
+Q1027-P1549-8	Q1027	P1549	'маврикийцы'@ru
+Q1027-P1549-10	Q1027	P1549	'מאוריציאני'@he
+Q1027-P1549-11	Q1027	P1549	'מאוריציאנית'@he
+Q1027-P1549-5	Q1027	P1549	'موريشيوسي'@ar
+Q1027-P1549-6	Q1027	P1549	'موريشيوسية'@ar
+Q1027-P1549-7	Q1027	P1549	'موريشيوسيون'@ar
+Q1027-P1549-15	Q1027	P1549	'মরিশাসীয়'@bn
+Q1027-P1705-1	Q1027	P1705	'République de Maurice'@fr
+Q1027-P1813-1	Q1027	P1813	'🇲🇺'@zxx
+Q10272528-P1559-1	Q10272528	P1559	'Empresa de Cervejas da Madeira'@pt
+Q1033-P1448-1	Q1033	P1448	'Federal Republic of Nigeria'@en
+Q1033-P1448-5	Q1033	P1448	'Naigeria'@ig
+Q1033-P1448-4	Q1033	P1448	'Nigeria'@en
+Q1033-P1448-3	Q1033	P1448	'Nijeriya'@ha
+Q1033-P1448-6	Q1033	P1448	'Nàìjíríà'@yo
+Q1033-P1448-2	Q1033	P1448	'Orílẹ̀-èdè Olómìniira Aláàpapọ̀ Nàìjíríà'@yo
+Q1033-P1448-7	Q1033	P1448	'la République fédérale du Nigéria'@fr
+Q1033-P1451-3	Q1033	P1451	'Good people, great nation'@en
+Q1033-P1451-1	Q1033	P1451	'Unity and Faith, Peace and Progress'@en
+Q1033-P1451-2	Q1033	P1451	'Единство и вяра, мир и прогрес'@bg
+Q1033-P1549-2	Q1033	P1549	'Nigerian'@en
+Q1033-P1549-3	Q1033	P1549	'Nigeriano'@io
+Q1033-P1549-4	Q1033	P1549	'Nigeriyänan'@vo
+Q1033-P1549-28	Q1033	P1549	'Nigérian'@fr
+Q1033-P1549-27	Q1033	P1549	'Nigériane'@fr
+Q1033-P1549-26	Q1033	P1549	'Niĝeriano'@eo
+Q1033-P1549-14	Q1033	P1549	'nigerian'@ro
+Q1033-P1549-18	Q1033	P1549	'nigeriana'@it
+Q1033-P1549-15	Q1033	P1549	'nigeriancă'@ro
+Q1033-P1549-20	Q1033	P1549	'nigeriane'@it
+Q1033-P1549-19	Q1033	P1549	'nigeriani'@it
+Q1033-P1549-17	Q1033	P1549	'nigeriano'@it
+Q1033-P1549-13	Q1033	P1549	'nigerieni'@ro
+Q1033-P1549-1	Q1033	P1549	'nigériai'@hu
+Q1033-P1549-22	Q1033	P1549	'nigérian'@fr
+Q1033-P1549-23	Q1033	P1549	'nigériane'@fr
+Q1033-P1549-21	Q1033	P1549	'nijerian'@lfn
+Q1033-P1549-25	Q1033	P1549	'nixeriana'@ast
+Q1033-P1549-24	Q1033	P1549	'nixerianu'@ast
+Q1033-P1549-8	Q1033	P1549	'нигериец'@ru
+Q1033-P1549-9	Q1033	P1549	'нигерийка'@ru
+Q1033-P1549-10	Q1033	P1549	'нигерийцы'@ru
+Q1033-P1549-11	Q1033	P1549	'ניגרי'@he
+Q1033-P1549-12	Q1033	P1549	'ניגרית'@he
+Q1033-P1549-5	Q1033	P1549	'نيجيري'@ar
+Q1033-P1549-7	Q1033	P1549	'نيجيرية'@ar
+Q1033-P1549-6	Q1033	P1549	'نيجيريون'@ar
+Q1033-P1549-16	Q1033	P1549	'নাইজেরীয়'@bn
+Q1033-P1705-2	Q1033	P1705	'Naigeria'@ig
+Q1033-P1705-1	Q1033	P1705	'Nijeriya'@ha
+Q1033-P1705-3	Q1033	P1705	'Nàìjíríà'@yo
+Q1033-P1813-3	Q1033	P1813	'NG'@en
+Q1033-P1813-2	Q1033	P1813	'Nigeria'@en
+Q1033-P1813-1	Q1033	P1813	'🇳🇬'@zxx
+Q1036-P1448-3	Q1036	P1448	'Ouganda'@fr
+Q1036-P1448-2	Q1036	P1448	'Uganda'@en
+Q1036-P1448-1	Q1036	P1448	'Uganda'@it
+Q1036-P1451-1	Q1036	P1451	'For God and My Country'@en
+Q1036-P1451-2	Q1036	P1451	'kwa mungu na nchi yangu'@sw
+Q1036-P1451-3	Q1036	P1451	'За Бог и страната ми'@bg
+Q1036-P1549-7	Q1036	P1549	'Lugandayänan'@vo
+Q1036-P1549-4	Q1036	P1549	'Oegandees'@nl
+Q1036-P1549-17	Q1036	P1549	'Ougandais'@fr
+Q1036-P1549-18	Q1036	P1549	'Ougandaise'@fr
+Q1036-P1549-5	Q1036	P1549	'Ugandan'@en
+Q1036-P1549-24	Q1036	P1549	'Ugandano'@eo
+Q1036-P1549-6	Q1036	P1549	'Ugandano'@io
+Q1036-P1549-3	Q1036	P1549	'ugandai'@hu
+Q1036-P1549-21	Q1036	P1549	'ugandan'@lfn
+Q1036-P1549-2	Q1036	P1549	'ugandar'@nn
+Q1036-P1549-1	Q1036	P1549	'ugander'@nb
+Q1036-P1549-23	Q1036	P1549	'ugandesa'@ast
+Q1036-P1549-19	Q1036	P1549	'ugandese'@it
+Q1036-P1549-20	Q1036	P1549	'ugandesi'@it
+Q1036-P1549-14	Q1036	P1549	'ugandez'@ro
+Q1036-P1549-13	Q1036	P1549	'ugandezi'@ro
+Q1036-P1549-15	Q1036	P1549	'ugandeză'@ro
+Q1036-P1549-22	Q1036	P1549	'ugandés'@ast
+Q1036-P1549-11	Q1036	P1549	'אוגנדי'@he
+Q1036-P1549-12	Q1036	P1549	'אוגנדית'@he
+Q1036-P1549-8	Q1036	P1549	'أوغندي'@ar
+Q1036-P1549-9	Q1036	P1549	'أوغندية'@ar
+Q1036-P1549-10	Q1036	P1549	'أوغنديون'@ar
+Q1036-P1549-16	Q1036	P1549	'উগান্ডীয়'@bn
+Q1036-P1813-1	Q1036	P1813	'🇺🇬'@zxx
+Q113215-P1448-1	Q113215	P1448	'CARLSBERG BREWERIES A/S'@en
+Q11575-P1843-3	Q11575	P1843	'Aburoo'@ak
+Q11575-P1843-11	Q11575	P1843	'Blat de moro'@ca
+Q11575-P1843-18	Q11575	P1843	'Bli'@ee
+Q11575-P1843-24	Q11575	P1843	'Coronta o Panocha'@es
+Q11575-P1843-12	Q11575	P1843	'Dacsa'@ca
+Q11575-P1843-65	Q11575	P1843	'Dinrêye'@wa
+Q11575-P1843-25	Q11575	P1843	'Elote o Choclo'@es
+Q11575-P1843-62	Q11575	P1843	'Formenton'@vec
+Q11575-P1843-63	Q11575	P1843	'Granturco'@vec
+Q11575-P1843-6	Q11575	P1843	'Gugarutz'@bar
+Q11575-P1843-1	Q11575	P1843	'India-corn'@cy
+Q11575-P1843-20	Q11575	P1843	'Indian Corn'@en
+Q11575-P1843-42	Q11575	P1843	'Jagung'@jv
+Q11575-P1843-44	Q11575	P1843	'Jagung'@ms
+Q11575-P1843-10	Q11575	P1843	'Kaba'@bm
+Q11575-P1843-35	Q11575	P1843	'Kukorica'@hu
+Q11575-P1843-54	Q11575	P1843	'Kukurica siata'@sk
+Q11575-P1843-16	Q11575	P1843	'Kukuruz (AT)'@de
+Q11575-P1843-48	Q11575	P1843	'Kukurydza'@pl
+Q11575-P1843-14	Q11575	P1843	'Kukuřice'@cs
+Q11575-P1843-7	Q11575	P1843	'Mais'@bar
+Q11575-P1843-17	Q11575	P1843	'Mais'@de
+Q11575-P1843-28	Q11575	P1843	'Mais'@et
+Q11575-P1843-39	Q11575	P1843	'Mais'@it
+Q11575-P1843-46	Q11575	P1843	'Mais'@nb
+Q11575-P1843-30	Q11575	P1843	'Maissi'@fi
+Q11575-P1843-26	Q11575	P1843	'Maiz'@es
+Q11575-P1843-23	Q11575	P1843	'Maizo'@eo
+Q11575-P1843-37	Q11575	P1843	'Maizo'@io
+Q11575-P1843-15	Q11575	P1843	'Majs'@da
+Q11575-P1843-57	Q11575	P1843	'Majs'@sv
+Q11575-P1843-38	Q11575	P1843	'Maís'@is
+Q11575-P1843-31	Q11575	P1843	'Maïs'@fr
+Q11575-P1843-45	Q11575	P1843	'Maïs'@nl
+Q11575-P1843-32	Q11575	P1843	'Meis'@frr
+Q11575-P1843-52	Q11575	P1843	'Milho'@pt
+Q11575-P1843-60	Q11575	P1843	'Mısır'@tr
+Q11575-P1843-27	Q11575	P1843	'Olote'@es
+Q11575-P1843-13	Q11575	P1843	'Panís'@ca
+Q11575-P1843-43	Q11575	P1843	'Parastā kukurūza'@lv
+Q11575-P1843-64	Q11575	P1843	'Sorgo Turco'@vec
+Q11575-P1843-22	Q11575	P1843	'Teosinte'@en
+Q11575-P1843-8	Q11575	P1843	'Tyrk'@bar
+Q11575-P1843-49	Q11575	P1843	'abati'@pt
+Q11575-P1843-50	Q11575	P1843	'auati'@pt
+Q11575-P1843-51	Q11575	P1843	'avati'@pt
+Q11575-P1843-68	Q11575	P1843	'blé d’Inde'@fr-ca
+Q11575-P1843-2	Q11575	P1843	'corn'@en
+Q11575-P1843-36	Q11575	P1843	'jagung'@id
+Q11575-P1843-55	Q11575	P1843	'koruza'@sl
+Q11575-P1843-21	Q11575	P1843	'maize'@en
+Q11575-P1843-5	Q11575	P1843	'maíz'@ast
+Q11575-P1843-69	Q11575	P1843	'viljamaissi'@fi
+Q11575-P1843-41	Q11575	P1843	'zumri'@jbo
+Q11575-P1843-19	Q11575	P1843	'Καλαμπόκι'@el
+Q11575-P1843-56	Q11575	P1843	'Кукуруз'@sr
+Q11575-P1843-53	Q11575	P1843	'Кукуруза'@ru
+Q11575-P1843-9	Q11575	P1843	'Царевица'@bg
+Q11575-P1843-33	Q11575	P1843	'תירס'@he
+Q11575-P1843-4	Q11575	P1843	'ذرة (نبات)'@ar
+Q11575-P1843-29	Q11575	P1843	'ذرت'@fa
+Q11575-P1843-61	Q11575	P1843	'ظات حعشلعق قوناق'@ug
+Q11575-P1843-34	Q11575	P1843	'मक्का'@hi
+Q11575-P1843-47	Q11575	P1843	'ਮੱਕੀ'@pa
+Q11575-P1843-58	Q11575	P1843	'சோளம்'@ta
+Q11575-P1843-59	Q11575	P1843	'ข้าวโพด'@th
+Q11575-P1843-40	Q11575	P1843	'トウモロコシ'@ja
+Q11575-P1843-66	Q11575	P1843	'玉米'@zh
+Q11575-P1843-67	Q11575	P1843	'玉蜀黍'@zh
+Q11577-P1843-7	Q11577	P1843	'Bere'@frr
+Q11577-P1843-4	Q11577	P1843	'Cebada'@es
+Q11577-P1843-19	Q11577	P1843	'Gerst'@nl
+Q11577-P1843-8	Q11577	P1843	'Ječam'@hr
+Q11577-P1843-16	Q11577	P1843	'Ječmen'@sl
+Q11577-P1843-5	Q11577	P1843	'Ohra'@fi
+Q11577-P1843-2	Q11577	P1843	'common barley'@en
+Q11577-P1843-1	Q11577	P1843	'haidd chwerhesog'@cy
+Q11577-P1843-20	Q11577	P1843	'ječmen obecný'@cs
+Q11577-P1843-14	Q11577	P1843	'jęczmień'@pl
+Q11577-P1843-10	Q11577	P1843	'négysoros árpa'@hu
+Q11577-P1843-6	Q11577	P1843	'pelto-ohra'@fi
+Q11577-P1843-11	Q11577	P1843	'takarmányárpa'@hu
+Q11577-P1843-9	Q11577	P1843	'árpa'@hu
+Q11577-P1843-3	Q11577	P1843	'κριθάρι'@el
+Q11577-P1843-13	Q11577	P1843	'Јачмен'@mk
+Q11577-P1843-15	Q11577	P1843	'Ячмень обыкновенный'@ru
+Q11577-P1843-12	Q11577	P1843	'オオムギ'@ja
+Q11577-P1843-18	Q11577	P1843	'二棱大麥'@zh
+Q11577-P1843-17	Q11577	P1843	'大麥'@zh
+Q117-P1448-2	Q117	P1448	'Ghana'@ak
+Q117-P1448-1	Q117	P1448	'Ghana'@en
+Q117-P1448-3	Q117	P1448	'la République du Ghana'@fr
+Q117-P1451-1	Q117	P1451	'Freedom and Justice'@en
+Q117-P1549-22	Q117	P1549	'Ganaano'@eo
+Q117-P1549-5	Q117	P1549	'Ganänan'@vo
+Q117-P1549-26	Q117	P1549	'Ghanaer'@de
+Q117-P1549-27	Q117	P1549	'Ghanaerin'@de
+Q117-P1549-1	Q117	P1549	'Ghanaian'@en
+Q117-P1549-4	Q117	P1549	'Ghanano'@io
+Q117-P1549-31	Q117	P1549	'Ghanéen'@fr
+Q117-P1549-30	Q117	P1549	'Ghanéenne'@fr
+Q117-P1549-17	Q117	P1549	'ganaian'@lfn
+Q117-P1549-18	Q117	P1549	'ghanan'@sv
+Q117-P1549-19	Q117	P1549	'ghananer'@sv
+Q117-P1549-29	Q117	P1549	'ghanesa'@ca
+Q117-P1549-15	Q117	P1549	'ghanese'@it
+Q117-P1549-3	Q117	P1549	'ghaneser'@da
+Q117-P1549-16	Q117	P1549	'ghanesi'@it
+Q117-P1549-12	Q117	P1549	'ghanez'@ro
+Q117-P1549-11	Q117	P1549	'ghanezi'@ro
+Q117-P1549-13	Q117	P1549	'ghaneză'@ro
+Q117-P1549-21	Q117	P1549	'ghaniana'@ast
+Q117-P1549-20	Q117	P1549	'ghanianu'@ast
+Q117-P1549-28	Q117	P1549	'ghanès'@ca
+Q117-P1549-2	Q117	P1549	'ghánai'@hu
+Q117-P1549-9	Q117	P1549	'גאנאי'@he
+Q117-P1549-10	Q117	P1549	'גאנאית'@he
+Q117-P1549-6	Q117	P1549	'غاني'@ar
+Q117-P1549-23	Q117	P1549	'غانيات'@ar
+Q117-P1549-7	Q117	P1549	'غانية'@ar
+Q117-P1549-8	Q117	P1549	'غانيون'@ar
+Q117-P1549-24	Q117	P1549	'غانيون'@ar
+Q117-P1549-25	Q117	P1549	'غانيين'@ar
+Q117-P1549-14	Q117	P1549	'ঘানায়ীয়'@bn
+Q117-P1705-1	Q117	P1705	'Ghana'@ak
+Q117-P1813-1	Q117	P1813	'🇬🇭'@zxx
+Q12111-P1843-5	Q12111	P1843	'Cirok'@hu
+Q12111-P1843-2	Q12111	P1843	'Durra'@da
+Q12111-P1843-4	Q12111	P1843	'Durrat'@fi
+Q12111-P1843-3	Q12111	P1843	'Mbayeeri'@ff
+Q12111-P1843-9	Q12111	P1843	'Sirek'@sl
+Q12111-P1843-10	Q12111	P1843	'Sorgo'@nl
+Q12111-P1843-1	Q12111	P1843	'sorghum'@en
+Q12111-P1843-7	Q12111	P1843	'Сирак'@mk
+Q12111-P1843-8	Q12111	P1843	'Сорго'@ru
+Q12111-P1843-6	Q12111	P1843	'モロコシ属'@ja
+Q1246-P1448-3	Q1246	P1448	'Republika Kosovo'@sr-el
+Q1246-P1448-1	Q1246	P1448	'Republika e Kosovës'@sq
+Q1246-P1448-4	Q1246	P1448	'la République du Kosovo'@fr
+Q1246-P1448-2	Q1246	P1448	'Република Косово'@sr-ec
+Q1246-P1549-3	Q1246	P1549	'Kosovan'@en
+Q1246-P1549-14	Q1246	P1549	'Kosovano'@eo
+Q1246-P1549-4	Q1246	P1549	'Kosovano'@io
+Q1246-P1549-2	Q1246	P1549	'Kosovar'@en
+Q1246-P1549-16	Q1246	P1549	'Kosovar'@fr
+Q1246-P1549-17	Q1246	P1549	'Kosovare'@fr
+Q1246-P1549-15	Q1246	P1549	'Kossovien'@fr
+Q1246-P1549-18	Q1246	P1549	'Kossovienne'@fr
+Q1246-P1549-11	Q1246	P1549	'cosovan'@lfn
+Q1246-P1549-12	Q1246	P1549	'kosovar'@ast
+Q1246-P1549-13	Q1246	P1549	'kosovar'@sq
+Q1246-P1549-1	Q1246	P1549	'koszovói'@hu
+Q1246-P1549-5	Q1246	P1549	'косовар'@ru
+Q1246-P1549-6	Q1246	P1549	'косоварка'@ru
+Q1246-P1549-7	Q1246	P1549	'косовары'@ru
+Q1246-P1549-8	Q1246	P1549	'קוסוברי'@he
+Q1246-P1549-9	Q1246	P1549	'קוסוברית'@he
+Q1246-P1549-10	Q1246	P1549	'কসোভীয়'@bn
+Q1246-P1705-3	Q1246	P1705	'Republika Kosovo'@sr-el
+Q1246-P1705-1	Q1246	P1705	'Republika e Kosovës'@sq
+Q1246-P1705-2	Q1246	P1705	'Република Косово'@sr-ec
+Q1246-P1813-1	Q1246	P1813	'🇽🇰'@zxx
+Q12877510-P1448-1	Q12877510	P1448	'Macedonian Thrace Brewery S.A.'@en
+Q12877510-P1448-2	Q12877510	P1448	'Ζυθοποιία Μακεδονίας Θράκης Α.Ε.'@el
+Q12877510-P6375-1	Q12877510	P6375	'Industrial Area of ​​Komotini, P.O. Box 13, 69100 Komotini'@en
+Q12877510-P6375-2	Q12877510	P6375	'Βιομηχανική Περιοχή Κομοτηνής, Ο.Τ. 9, 69100 Κομοτηνή'@el
+Q133123-P1705-1	Q133123	P1705	'Πάτρα'@el
+Q142-P1448-6	Q142	P1448	'France'@fr
+Q142-P1448-1	Q142	P1448	'Francouzská republika'@cs
+Q142-P1448-4	Q142	P1448	'Republica Franceză'@ro
+Q142-P1448-2	Q142	P1448	'República Francesa'@ca
+Q142-P1448-3	Q142	P1448	'République française'@fr
+Q142-P1448-7	Q142	P1448	'la République française'@fr
+Q142-P1448-5	Q142	P1448	'Република Француска'@sr
+Q142-P1451-1	Q142	P1451	'Liberté, égalité, fraternité'@fr
+Q142-P1451-2	Q142	P1451	'Rendez vous en France'@en
+Q142-P1549-46	Q142	P1549	'Ffrances'@cy
+Q142-P1549-45	Q142	P1549	'Ffrancwr'@cy
+Q142-P1549-47	Q142	P1549	'Ffrancwyr'@cy
+Q142-P1549-17	Q142	P1549	'Franciano'@io
+Q142-P1549-48	Q142	P1549	'Francés'@oc
+Q142-P1549-4	Q142	P1549	'Fransman'@nl
+Q142-P1549-18	Q142	P1549	'Fransänan'@vo
+Q142-P1549-49	Q142	P1549	'Français'@fr
+Q142-P1549-50	Q142	P1549	'Française'@fr
+Q142-P1549-5	Q142	P1549	'Française'@nl
+Q142-P1549-11	Q142	P1549	'French'@en
+Q142-P1549-43	Q142	P1549	'francesa'@ast
+Q142-P1549-34	Q142	P1549	'francesa'@ca
+Q142-P1549-13	Q142	P1549	'francesa'@es
+Q142-P1549-39	Q142	P1549	'francesa'@gl
+Q142-P1549-9	Q142	P1549	'francesa'@pt
+Q142-P1549-35	Q142	P1549	'francese'@it
+Q142-P1549-36	Q142	P1549	'francesi'@it
+Q142-P1549-31	Q142	P1549	'francez'@ro
+Q142-P1549-30	Q142	P1549	'francezi'@ro
+Q142-P1549-14	Q142	P1549	'francia'@hu
+Q142-P1549-33	Q142	P1549	'francès'@ca
+Q142-P1549-42	Q142	P1549	'francés'@ast
+Q142-P1549-12	Q142	P1549	'francés'@es
+Q142-P1549-40	Q142	P1549	'francés'@gl
+Q142-P1549-8	Q142	P1549	'francês'@pt
+Q142-P1549-22	Q142	P1549	'franses'@lfn
+Q142-P1549-41	Q142	P1549	'fransk'@sv
+Q142-P1549-15	Q142	P1549	'franskmand'@da
+Q142-P1549-37	Q142	P1549	'fransman'@sv
+Q142-P1549-38	Q142	P1549	'fransyska'@sv
+Q142-P1549-6	Q142	P1549	'français'@fr
+Q142-P1549-7	Q142	P1549	'française'@fr
+Q142-P1549-29	Q142	P1549	'franțuzoaică'@ro
+Q142-P1549-44	Q142	P1549	'Француз'@sr
+Q142-P1549-2	Q142	P1549	'француженка'@ru
+Q142-P1549-24	Q142	P1549	'француженка'@uk
+Q142-P1549-1	Q142	P1549	'француз'@ru
+Q142-P1549-23	Q142	P1549	'француз'@uk
+Q142-P1549-25	Q142	P1549	'французи'@uk
+Q142-P1549-3	Q142	P1549	'французы'@ru
+Q142-P1549-16	Q142	P1549	'френски'@bg
+Q142-P1549-26	Q142	P1549	'צרפתי'@he
+Q142-P1549-27	Q142	P1549	'צרפתייה'@he
+Q142-P1549-19	Q142	P1549	'فرنسي'@ar
+Q142-P1549-20	Q142	P1549	'فرنسية'@ar
+Q142-P1549-21	Q142	P1549	'فرنسيون'@ar
+Q142-P1549-32	Q142	P1549	'ফরাসি'@bn
+Q142-P1549-10	Q142	P1549	'フランス人'@ja
+Q142-P1549-28	Q142	P1549	'法国人'@zh-cn
+Q142-P1705-2	Q142	P1705	'ߝߊ߬ߙߊ߲߬ߛߌ߬ ߞߊ߲ߓߍ߲'@nqo
+Q142-P1705-1	Q142	P1705	'ߝߊ߬ߙߊ߲߬ߛߌ߬'@nqo
+Q142-P1813-6	Q142	P1813	'F'@zxx
+Q142-P1813-4	Q142	P1813	'FR'@zxx
+Q142-P1813-5	Q142	P1813	'FRA'@fr
+Q142-P1813-2	Q142	P1813	'FRA'@zxx
+Q142-P1813-3	Q142	P1813	'RF'@fr
+Q142-P1813-7	Q142	P1813	'ߝߊ߬ߙߊ߲߬ߛߌ߬'@nqo
+Q142-P1813-1	Q142	P1813	'🇫🇷'@zxx
+Q145-P1448-7	Q145	P1448	'Förenade konungariket Storbritannien och Nordirland'@sv
+Q145-P1448-14	Q145	P1448	'Ir-Renju Unit tal-Gran Brittanja u l-Irlanda ta\\\\' Fuq'@mt
+Q145-P1448-16	Q145	P1448	'Nagy-Britannia és Észak-Írország Egyesült Királysága'@hu
+Q145-P1448-15	Q145	P1448	'Regatul Unit al Marii Britanii și al Irlandei de Nord'@ro
+Q145-P1448-6	Q145	P1448	'Regne Unit'@ca
+Q145-P1448-4	Q145	P1448	'Regno Unito di Gran Bretagna e Irlanda del Nord'@it
+Q145-P1448-11	Q145	P1448	'Royaume-Uni de Grande-Bretagne et d\\\\'Irlande du Nord'@fr
+Q145-P1448-8	Q145	P1448	'Spojené království Velké Británie a Severního Irska'@cs
+Q145-P1448-9	Q145	P1448	'Spojené kráľovstvo Veľkej Británie a Severného Írska'@sk
+Q145-P1448-3	Q145	P1448	'Teyrnas Unedig Prydain Fawr a Gogledd Iwerddon'@cy
+Q145-P1448-1	Q145	P1448	'United Kingdom of Great Britain and Northern Ireland'@en
+Q145-P1448-2	Q145	P1448	'Unitit Kinrick o Great Breetain an Northren Irland'@sco
+Q145-P1448-5	Q145	P1448	'Vereinigtes Königreich Großbritannien und Nordirland'@de
+Q145-P1448-10	Q145	P1448	'Zjednoćene kralestwo Wulkeje Britaniskeje a Sewjerneje Irskeje'@hsb
+Q145-P1448-18	Q145	P1448	'le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord'@fr
+Q145-P1448-17	Q145	P1448	'Ηνωμένο Βασίλειο της Μεγάλης Βρετανίας και της Βόρειας Ιρλανδίας'@el
+Q145-P1448-13	Q145	P1448	'Об\\\\'єднане Королівство Великої Британії та Північної Ірландії'@uk
+Q145-P1448-12	Q145	P1448	'Соединённое королевство Великобритании и Северной Ирландии'@ru
+Q145-P1549-53	Q145	P1549	'Anglais'@fr
+Q145-P1549-52	Q145	P1549	'Anglaise'@fr
+Q145-P1549-26	Q145	P1549	'Breatannaich'@gd
+Q145-P1549-27	Q145	P1549	'Brit'@sk
+Q145-P1549-2	Q145	P1549	'Britannique'@fr
+Q145-P1549-3	Q145	P1549	'Brite'@de
+Q145-P1549-4	Q145	P1549	'Britin'@de
+Q145-P1549-1	Q145	P1549	'British'@en
+Q145-P1549-7	Q145	P1549	'Britové'@cs
+Q145-P1549-38	Q145	P1549	'Brittaniku'@mt
+Q145-P1549-5	Q145	P1549	'Brytyjczycy'@pl
+Q145-P1549-14	Q145	P1549	'Orang Inggris'@id
+Q145-P1549-17	Q145	P1549	'Wong Inggeris'@jv
+Q145-P1549-9	Q145	P1549	'breti'@fo
+Q145-P1549-30	Q145	P1549	'brit'@hu
+Q145-P1549-23	Q145	P1549	'britanic'@ro
+Q145-P1549-40	Q145	P1549	'britanici'@ro
+Q145-P1549-41	Q145	P1549	'britanică'@ro
+Q145-P1549-43	Q145	P1549	'britannica'@it
+Q145-P1549-45	Q145	P1549	'britanniche'@it
+Q145-P1549-44	Q145	P1549	'britannici'@it
+Q145-P1549-42	Q145	P1549	'britannico'@it
+Q145-P1549-8	Q145	P1549	'brite'@da
+Q145-P1549-20	Q145	P1549	'brite'@nb
+Q145-P1549-21	Q145	P1549	'brite'@nn
+Q145-P1549-10	Q145	P1549	'britit'@fi
+Q145-P1549-49	Q145	P1549	'britse'@nl
+Q145-P1549-28	Q145	P1549	'britt'@sv
+Q145-P1549-51	Q145	P1549	'brittiläinen'@fi
+Q145-P1549-46	Q145	P1549	'brittisk'@sv
+Q145-P1549-29	Q145	P1549	'brittiska'@sv
+Q145-P1549-48	Q145	P1549	'británica'@ast
+Q145-P1549-6	Q145	P1549	'británicos'@es
+Q145-P1549-47	Q145	P1549	'británicu'@ast
+Q145-P1549-22	Q145	P1549	'britânicos'@pt
+Q145-P1549-50	Q145	P1549	'isobritannialainen'@fi
+Q145-P1549-12	Q145	P1549	'Βρετανή'@el
+Q145-P1549-11	Q145	P1549	'Βρετανός'@el
+Q145-P1549-18	Q145	P1549	'Британци'@mk
+Q145-P1549-24	Q145	P1549	'брита́нец'@ru
+Q145-P1549-25	Q145	P1549	'брита́нка'@ru
+Q145-P1549-35	Q145	P1549	'британець'@uk
+Q145-P1549-36	Q145	P1549	'британка'@uk
+Q145-P1549-32	Q145	P1549	'британцы'@ru
+Q145-P1549-37	Q145	P1549	'британці'@uk
+Q145-P1549-13	Q145	P1549	'בריטי'@he
+Q145-P1549-39	Q145	P1549	'בריטית'@he
+Q145-P1549-31	Q145	P1549	'بريطاني'@ar
+Q145-P1549-33	Q145	P1549	'بريطانية'@ar
+Q145-P1549-34	Q145	P1549	'بريطانيون'@ar
+Q145-P1549-19	Q145	P1549	'ब्रिटिश'@mr
+Q145-P1549-15	Q145	P1549	'イギリス人'@ja
+Q145-P1549-54	Q145	P1549	'大不列颠人'@zh-hans
+Q145-P1549-16	Q145	P1549	'英国人'@ja
+Q145-P1705-1	Q145	P1705	'United Kingdom of Great Britain and Northern Ireland'@en-gb
+Q145-P1813-6	Q145	P1813	'Ir-Renju Unit'@mt
+Q145-P1813-7	Q145	P1813	'Regatul Unit'@ro
+Q145-P1813-2	Q145	P1813	'Storbritannien'@sv
+Q145-P1813-1	Q145	P1813	'UK'@en
+Q145-P1813-9	Q145	P1813	'ΗΒ'@el
+Q145-P1813-5	Q145	P1813	'Велика Британія'@uk
+Q145-P1813-3	Q145	P1813	'Великобритания'@ru
+Q145-P1813-4	Q145	P1813	'Соединённое Королевство'@ru
+Q145-P1813-8	Q145	P1813	'🇬🇧'@zxx
+Q148-P1448-7	Q148	P1448	'Cộng hòa Nhân dân Trung Hoa'@vi
+Q148-P1448-3	Q148	P1448	'People\\\\'s Republic of China'@en
+Q148-P1448-4	Q148	P1448	'Repubblica Popolare Cinese'@it
+Q148-P1448-8	Q148	P1448	'República Popular China'@es
+Q148-P1448-10	Q148	P1448	'la République populaire de Chine'@fr
+Q148-P1448-6	Q148	P1448	'Китайская Народная Республика'@ru
+Q148-P1448-5	Q148	P1448	'Народна Република Кина'@sr
+Q148-P1448-1	Q148	P1448	'中华人民共和国'@zh-hans
+Q148-P1448-2	Q148	P1448	'中華人民共和國'@zh-hant
+Q148-P1448-9	Q148	P1448	'中華人民共和國'@zh-tw
+Q148-P1451-1	Q148	P1451	'China Like Never Before'@en
+Q148-P1549-17	Q148	P1549	'Chinese'@en
+Q148-P1549-8	Q148	P1549	'Chinois'@fr
+Q148-P1549-43	Q148	P1549	'Chinoise'@fr
+Q148-P1549-18	Q148	P1549	'Chińczyk'@pl
+Q148-P1549-7	Q148	P1549	'Sjinees'@af
+Q148-P1549-14	Q148	P1549	'Tsyinänan'@vo
+Q148-P1549-41	Q148	P1549	'china'@ast
+Q148-P1549-33	Q148	P1549	'china'@es
+Q148-P1549-39	Q148	P1549	'china'@es
+Q148-P1549-30	Q148	P1549	'chinez'@ro
+Q148-P1549-29	Q148	P1549	'chinezi'@ro
+Q148-P1549-31	Q148	P1549	'chinezoaică'@ro
+Q148-P1549-11	Q148	P1549	'chino'@es
+Q148-P1549-40	Q148	P1549	'chinu'@ast
+Q148-P1549-34	Q148	P1549	'cinese'@it
+Q148-P1549-35	Q148	P1549	'cinesi'@it
+Q148-P1549-36	Q148	P1549	'jonguo'@lfn
+Q148-P1549-19	Q148	P1549	'kinesisk'@sv
+Q148-P1549-9	Q148	P1549	'kínai'@hu
+Q148-P1549-37	Q148	P1549	'xines'@lfn
+Q148-P1549-10	Q148	P1549	'xinès'@ca
+Q148-P1549-42	Q148	P1549	'Ĉiniano'@eo
+Q148-P1549-6	Q148	P1549	'Κινέζα'@el
+Q148-P1549-5	Q148	P1549	'Κινέζος'@el
+Q148-P1549-3	Q148	P1549	'Кинез'@sr
+Q148-P1549-2	Q148	P1549	'Кинези'@sr
+Q148-P1549-4	Q148	P1549	'Кинескиња'@sr
+Q148-P1549-23	Q148	P1549	'китаец'@ru
+Q148-P1549-25	Q148	P1549	'китайцы'@ru
+Q148-P1549-26	Q148	P1549	'китайці'@uk
+Q148-P1549-24	Q148	P1549	'китаянка'@ru
+Q148-P1549-16	Q148	P1549	'китаянка'@uk
+Q148-P1549-15	Q148	P1549	'китаєць'@uk
+Q148-P1549-27	Q148	P1549	'סיני'@he
+Q148-P1549-38	Q148	P1549	'סינים'@he
+Q148-P1549-28	Q148	P1549	'סינית'@he
+Q148-P1549-20	Q148	P1549	'صيني'@ar
+Q148-P1549-21	Q148	P1549	'صينية'@ar
+Q148-P1549-22	Q148	P1549	'صينيون'@ar
+Q148-P1549-1	Q148	P1549	'چيني'@ps
+Q148-P1549-32	Q148	P1549	'চীনা'@bn
+Q148-P1549-12	Q148	P1549	'中国人'@zh-hans
+Q148-P1549-13	Q148	P1549	'中國人'@zh-hant
+Q148-P1705-1	Q148	P1705	'中华人民共和国'@zh
+Q148-P1705-2	Q148	P1705	'中華人民共和國'@zh-hant
+Q148-P1813-8	Q148	P1813	'CHNDTH'@vi
+Q148-P1813-17	Q148	P1813	'China'@de
+Q148-P1813-4	Q148	P1813	'China'@en
+Q148-P1813-9	Q148	P1813	'Chine'@fr
+Q148-P1813-13	Q148	P1813	'Chiny'@pl
+Q148-P1813-5	Q148	P1813	'PRC'@en
+Q148-P1813-6	Q148	P1813	'RPC'@es
+Q148-P1813-10	Q148	P1813	'RPC'@fr
+Q148-P1813-7	Q148	P1813	'Trung Quốc'@vi
+Q148-P1813-11	Q148	P1813	'Čína'@cs
+Q148-P1813-12	Q148	P1813	'Čína'@sk
+Q148-P1813-1	Q148	P1813	'КНР'@ru
+Q148-P1813-2	Q148	P1813	'КНР'@uk
+Q148-P1813-14	Q148	P1813	'中国'@zh
+Q148-P1813-15	Q148	P1813	'中国'@zh-hans
+Q148-P1813-16	Q148	P1813	'中國'@zh-hant
+Q148-P1813-3	Q148	P1813	'🇨🇳'@zxx
+Q14835-P1448-1	Q14835	P1448	'Bautzen'@de
+Q14835-P1448-2	Q14835	P1448	'Budissin'@de
+Q14835-P1549-1	Q14835	P1549	'Budyšan'@hsb
+Q14835-P1549-2	Q14835	P1549	'Budyšanka'@hsb
+Q14835-P1549-5	Q14835	P1549	'Budyšenjo'@hsb
+Q14835-P1549-3	Q14835	P1549	'Budyšynaŕ'@dsb
+Q14835-P1549-4	Q14835	P1549	'Budyšynaŕka'@dsb
+Q14835-P1705-2	Q14835	P1705	'Bautzen'@de
+Q14835-P1705-1	Q14835	P1705	'Budyšin'@hsb
+Q14835-P1813-1	Q14835	P1813	'Bn'@de
+Q15180-P1448-1	Q15180	P1448	'СССР'@ru
+Q15180-P1451-1	Q15180	P1451	'Пролетарии всех стран, соединяйтесь!'@ru
+Q15180-P1549-2	Q15180	P1549	'Soviet'@en
+Q15180-P1549-16	Q15180	P1549	'Soviético'@ru
+Q15180-P1549-3	Q15180	P1549	'sovietic'@ro
+Q15180-P1549-4	Q15180	P1549	'sovietică'@ro
+Q15180-P1549-15	Q15180	P1549	'soviética'@ast
+Q15180-P1549-9	Q15180	P1549	'soviética'@es
+Q15180-P1549-8	Q15180	P1549	'soviético'@es
+Q15180-P1549-14	Q15180	P1549	'soviéticu'@ast
+Q15180-P1549-13	Q15180	P1549	'soviétique'@fr
+Q15180-P1549-1	Q15180	P1549	'szovjet'@hu
+Q15180-P1549-23	Q15180	P1549	'Σοβιετική'@el
+Q15180-P1549-22	Q15180	P1549	'Σοβιετικός'@el
+Q15180-P1549-10	Q15180	P1549	'радянський'@uk
+Q15180-P1549-21	Q15180	P1549	'советиҳо'@tg
+Q15180-P1549-6	Q15180	P1549	'советская'@ru
+Q15180-P1549-7	Q15180	P1549	'советские'@ru
+Q15180-P1549-5	Q15180	P1549	'советский'@ru
+Q15180-P1549-19	Q15180	P1549	'советӣ'@tg
+Q15180-P1549-11	Q15180	P1549	'совєтський'@uk
+Q15180-P1549-12	Q15180	P1549	'совітський'@uk
+Q15180-P1549-20	Q15180	P1549	'шӯравиҳо'@tg
+Q15180-P1549-18	Q15180	P1549	'шӯравӣ'@tg
+Q15180-P1549-17	Q15180	P1549	'საბჭოთა'@ka
+Q15180-P1705-14	Q15180	P1705	'Nõukogude Sotsialistlike Vabariikide Liit'@et
+Q15180-P1705-10	Q15180	P1705	'Padomju Sociālistisko Republiku Savienība'@lv
+Q15180-P1705-8	Q15180	P1705	'Tarybų Socialistinių Respublikų Sąjunga'@lt
+Q15180-P1705-16	Q15180	P1705	'Иттифоқи Шӯравӣ'@tg
+Q15180-P1705-12	Q15180	P1705	'Иттиҳоди Шӯравӣ'@tg
+Q15180-P1705-15	Q15180	P1705	'Иттиҳоди Ҷамоҳири Шӯравии Сотсиалистӣ'@tg
+Q15180-P1705-3	Q15180	P1705	'Саюз Савецкіх Сацыялістычных Рэспублік'@be
+Q15180-P1705-7	Q15180	P1705	'Совет Сосиалист Республикалары Иттифагы'@az
+Q15180-P1705-4	Q15180	P1705	'Совет Социалистик Республикалари Иттифоқи'@uz
+Q15180-P1705-13	Q15180	P1705	'Совет Социалистик Республикалары Союзы'@tk
+Q15180-P1705-17	Q15180	P1705	'Советрин Социализмдин Республикайрин ГалкӀ'@lez
+Q15180-P1705-11	Q15180	P1705	'Советтик Социалисттик Республикалар Союзу'@ky
+Q15180-P1705-5	Q15180	P1705	'Советтік Социалистік Республикалар Одағы'@kk
+Q15180-P1705-2	Q15180	P1705	'Союз Радянських Соціалістичних Республік'@uk
+Q15180-P1705-1	Q15180	P1705	'Союз Советских Социалистических Республик'@ru
+Q15180-P1705-9	Q15180	P1705	'Унюня Републичилор Советиче Сочиалисте'@mo
+Q15180-P1705-6	Q15180	P1705	'საბჭოთა სოციალისტური რესპუბლიკების კავშირი'@ka
+Q15180-P1813-13	Q15180	P1813	'SNTL'@fi
+Q15180-P1813-12	Q15180	P1813	'SSRİ'@az
+Q15180-P1813-10	Q15180	P1813	'URSS'@es
+Q15180-P1813-14	Q15180	P1813	'URSS'@fr
+Q15180-P1813-2	Q15180	P1813	'URSS'@ro
+Q15180-P1813-1	Q15180	P1813	'USSR'@en
+Q15180-P1813-7	Q15180	P1813	'UdSSR'@de
+Q15180-P1813-8	Q15180	P1813	'ZSRR'@pl
+Q15180-P1813-20	Q15180	P1813	'ΕΣΣΔ'@el
+Q15180-P1813-17	Q15180	P1813	'ИРСС'@tg
+Q15180-P1813-16	Q15180	P1813	'ИҶШС'@tg
+Q15180-P1813-3	Q15180	P1813	'СРСР'@uk
+Q15180-P1813-18	Q15180	P1813	'ССРГ'@lez
+Q15180-P1813-6	Q15180	P1813	'СССР'@be
+Q15180-P1813-9	Q15180	P1813	'СССР'@be-tarask
+Q15180-P1813-4	Q15180	P1813	'СССР'@ru
+Q15180-P1813-11	Q15180	P1813	'СССР'@sr
+Q15180-P1813-19	Q15180	P1813	'СССР'@tt
+Q15180-P1813-5	Q15180	P1813	'СССР'@udm
+Q15180-P1813-15	Q15180	P1813	'სსრკ'@ka
+Q1524-P1448-1	Q1524	P1448	'Αθήνα'@el
+Q1524-P1549-2	Q1524	P1549	'Atenano'@eo
+Q1524-P1549-3	Q1524	P1549	'Athenian'@en
+Q1524-P1549-5	Q1524	P1549	'Athénien'@fr
+Q1524-P1549-4	Q1524	P1549	'Athénienne'@fr
+Q1524-P1549-1	Q1524	P1549	'атиня̀ни'@bg
+Q1524-P1705-1	Q1524	P1705	'Αθήνα'@el
+Q153546-P1705-1	Q153546	P1705	'Augustiner-Bräu'@de
+Q155-P1448-1	Q155	P1448	'Brasil'@pt
+Q155-P1448-2	Q155	P1448	'la République fédérative du Brésil'@fr
+Q155-P1451-1	Q155	P1451	'Brasil – sensational!'@en
+Q155-P1549-25	Q155	P1549	'Brasilianer'@lb
+Q155-P1549-24	Q155	P1549	'Brasilianerin'@lb
+Q155-P1549-9	Q155	P1549	'Brasilänan'@vo
+Q155-P1549-1	Q155	P1549	'Brazilian'@en
+Q155-P1549-7	Q155	P1549	'Braziliano'@io
+Q155-P1549-36	Q155	P1549	'Brésilien'@fr
+Q155-P1549-37	Q155	P1549	'Brésilienne'@fr
+Q155-P1549-35	Q155	P1549	'brasilana'@ast
+Q155-P1549-34	Q155	P1549	'brasilanu'@ast
+Q155-P1549-6	Q155	P1549	'brasileira'@pt-br
+Q155-P1549-3	Q155	P1549	'brasileiro'@pt-br
+Q155-P1549-31	Q155	P1549	'brasilera'@lfn
+Q155-P1549-33	Q155	P1549	'brasileña'@es
+Q155-P1549-32	Q155	P1549	'brasileño'@es
+Q155-P1549-28	Q155	P1549	'brasiliana'@it
+Q155-P1549-30	Q155	P1549	'brasiliane'@it
+Q155-P1549-4	Q155	P1549	'brasilianer'@da
+Q155-P1549-29	Q155	P1549	'brasiliani'@it
+Q155-P1549-27	Q155	P1549	'brasiliano'@it
+Q155-P1549-2	Q155	P1549	'brazil'@hu
+Q155-P1549-8	Q155	P1549	'brazilano'@eo
+Q155-P1549-22	Q155	P1549	'brazilian'@ro
+Q155-P1549-23	Q155	P1549	'braziliancă'@ro
+Q155-P1549-21	Q155	P1549	'brazilieni'@ro
+Q155-P1549-13	Q155	P1549	'бразилец'@ru
+Q155-P1549-18	Q155	P1549	'бразилець'@uk
+Q155-P1549-15	Q155	P1549	'бразильцы'@ru
+Q155-P1549-16	Q155	P1549	'бразильці'@uk
+Q155-P1549-14	Q155	P1549	'бразильянка'@ru
+Q155-P1549-17	Q155	P1549	'бразилійка'@uk
+Q155-P1549-19	Q155	P1549	'ברזילאי'@he
+Q155-P1549-5	Q155	P1549	'ברזילאים'@he
+Q155-P1549-20	Q155	P1549	'ברזילאית'@he
+Q155-P1549-10	Q155	P1549	'برازيلي'@ar
+Q155-P1549-11	Q155	P1549	'برازيلية'@ar
+Q155-P1549-12	Q155	P1549	'برازيليون'@ar
+Q155-P1549-26	Q155	P1549	'ব্রাজিলীয়'@bn
+Q155-P1705-1	Q155	P1705	'República Federativa do Brasil'@pt
+Q155-P1813-2	Q155	P1813	'BRA'@pt-br
+Q155-P1813-1	Q155	P1813	'🇧🇷'@zxx
+Q1580339-P1705-1	Q1580339	P1705	'Père Noël'@fr
+Q159-P1448-2	Q159	P1448	'Venemaa Föderatsioon'@et
+Q159-P1448-4	Q159	P1448	'la Fédération de Russie'@fr
+Q159-P1448-1	Q159	P1448	'Российская Федерация'@ru
+Q159-P1448-3	Q159	P1448	'Россия'@ru
+Q159-P1451-1	Q159	P1451	'Reveal your own Russia'@en
+Q159-P1549-19	Q159	P1549	'Rosjanie'@pl
+Q159-P1549-17	Q159	P1549	'Rosjanin'@pl
+Q159-P1549-18	Q159	P1549	'Rosjanka'@pl
+Q159-P1549-56	Q159	P1549	'Rus'@cs
+Q159-P1549-4	Q159	P1549	'Rus'@nl
+Q159-P1549-21	Q159	P1549	'Rusiano'@eo
+Q159-P1549-20	Q159	P1549	'Rusiano'@io
+Q159-P1549-57	Q159	P1549	'Ruska'@cs
+Q159-P1549-23	Q159	P1549	'Ruslandano'@eo
+Q159-P1549-58	Q159	P1549	'Rusové'@cs
+Q159-P1549-49	Q159	P1549	'Russe'@de
+Q159-P1549-59	Q159	P1549	'Russe'@fr
+Q159-P1549-60	Q159	P1549	'Russe'@fr
+Q159-P1549-50	Q159	P1549	'Russen'@de
+Q159-P1549-11	Q159	P1549	'Russian'@en
+Q159-P1549-51	Q159	P1549	'Russin'@de
+Q159-P1549-52	Q159	P1549	'Russinnen'@de
+Q159-P1549-5	Q159	P1549	'Russländisch'@de
+Q159-P1549-22	Q159	P1549	'Rusujano'@eo
+Q159-P1549-24	Q159	P1549	'Rusänan'@vo
+Q159-P1549-16	Q159	P1549	'orosz'@hu
+Q159-P1549-31	Q159	P1549	'rus'@ca
+Q159-P1549-37	Q159	P1549	'rus'@ro
+Q159-P1549-47	Q159	P1549	'rusa'@ast
+Q159-P1549-53	Q159	P1549	'rusa'@es
+Q159-P1549-55	Q159	P1549	'rusas'@es
+Q159-P1549-45	Q159	P1549	'rusce'@lfn
+Q159-P1549-25	Q159	P1549	'ruso'@es
+Q159-P1549-38	Q159	P1549	'rusoaică'@ro
+Q159-P1549-54	Q159	P1549	'rusos'@es
+Q159-P1549-32	Q159	P1549	'russa'@ca
+Q159-P1549-41	Q159	P1549	'russa'@it
+Q159-P1549-15	Q159	P1549	'russar'@nn
+Q159-P1549-43	Q159	P1549	'russe'@it
+Q159-P1549-14	Q159	P1549	'russer'@nb
+Q159-P1549-42	Q159	P1549	'russi'@it
+Q159-P1549-40	Q159	P1549	'russo'@it
+Q159-P1549-33	Q159	P1549	'russos'@ca
+Q159-P1549-46	Q159	P1549	'rusu'@ast
+Q159-P1549-36	Q159	P1549	'ruși'@ro
+Q159-P1549-6	Q159	P1549	'rysk'@sv
+Q159-P1549-44	Q159	P1549	'ryskt'@sv
+Q159-P1549-48	Q159	P1549	'venelased'@et
+Q159-P1549-7	Q159	P1549	'ресейліктер'@kk-kz
+Q159-P1549-1	Q159	P1549	'россияне'@ru
+Q159-P1549-2	Q159	P1549	'россиянин'@ru
+Q159-P1549-3	Q159	P1549	'россиянка'@ru
+Q159-P1549-30	Q159	P1549	'росіяни'@uk
+Q159-P1549-28	Q159	P1549	'росіянин'@uk
+Q159-P1549-29	Q159	P1549	'росіянка'@uk
+Q159-P1549-13	Q159	P1549	'руска'@bg
+Q159-P1549-10	Q159	P1549	'руска'@sr
+Q159-P1549-12	Q159	P1549	'руски'@bg
+Q159-P1549-9	Q159	P1549	'руски'@sr
+Q159-P1549-8	Q159	P1549	'ռուսաստանցիներ'@hy
+Q159-P1549-34	Q159	P1549	'רוסי'@he
+Q159-P1549-35	Q159	P1549	'רוסייה'@he
+Q159-P1549-27	Q159	P1549	'روس'@ar
+Q159-P1549-26	Q159	P1549	'روسي'@ar
+Q159-P1549-39	Q159	P1549	'রুশ'@bn
+Q159-P1705-2	Q159	P1705	'Российская Федерация'@ru
+Q159-P1705-1	Q159	P1705	'Россия'@ru
+Q159-P1813-2	Q159	P1813	'Россия'@ru
+Q159-P1813-1	Q159	P1813	'🇷🇺'@zxx
+Q16-P1448-1	Q16	P1448	'Canada'@en
+Q16-P1448-2	Q16	P1448	'Canada'@fr
+Q16-P1448-3	Q16	P1448	'le Canada'@fr
+Q16-P1451-1	Q16	P1451	'A mari usque ad mare'@la
+Q16-P1451-2	Q16	P1451	'Keep exploring'@en
+Q16-P1549-6	Q16	P1549	'Canadees'@nl
+Q16-P1549-1	Q16	P1549	'Canadian'@en
+Q16-P1549-7	Q16	P1549	'Canadien'@fr
+Q16-P1549-8	Q16	P1549	'Canadienne'@fr
+Q16-P1549-16	Q16	P1549	'Kanadano'@io
+Q16-P1549-4	Q16	P1549	'Kanadier'@de
+Q16-P1549-5	Q16	P1549	'Kanadierin'@de
+Q16-P1549-2	Q16	P1549	'Kanadyjczyk'@pl
+Q16-P1549-3	Q16	P1549	'Kanadyjka'@pl
+Q16-P1549-18	Q16	P1549	'Kanadänan'@vo
+Q16-P1549-14	Q16	P1549	'Kanaďan'@cs
+Q16-P1549-15	Q16	P1549	'Kanaďanka'@cs
+Q16-P1549-13	Q16	P1549	'canadenc'@ca
+Q16-P1549-34	Q16	P1549	'canadenca'@ca
+Q16-P1549-35	Q16	P1549	'canadencs'@ca
+Q16-P1549-41	Q16	P1549	'canadense'@pt-br
+Q16-P1549-44	Q16	P1549	'canadese'@it
+Q16-P1549-45	Q16	P1549	'canadesi'@it
+Q16-P1549-49	Q16	P1549	'canadian'@lfn
+Q16-P1549-39	Q16	P1549	'canadian'@ro
+Q16-P1549-57	Q16	P1549	'canadiana'@ast
+Q16-P1549-43	Q16	P1549	'canadiana'@pt
+Q16-P1549-40	Q16	P1549	'canadiancă'@ro
+Q16-P1549-42	Q16	P1549	'canadiano'@pt
+Q16-P1549-56	Q16	P1549	'canadianu'@ast
+Q16-P1549-52	Q16	P1549	'canadiar'@nn
+Q16-P1549-38	Q16	P1549	'canadieni'@ro
+Q16-P1549-12	Q16	P1549	'canadier'@da
+Q16-P1549-50	Q16	P1549	'canadier'@nb
+Q16-P1549-10	Q16	P1549	'kanadai'@hu
+Q16-P1549-17	Q16	P1549	'kanadano'@eo
+Q16-P1549-58	Q16	P1549	'kanadar'@eu
+Q16-P1549-53	Q16	P1549	'kanadiar'@nn
+Q16-P1549-51	Q16	P1549	'kanadier'@nb
+Q16-P1549-47	Q16	P1549	'Καναδή'@el
+Q16-P1549-48	Q16	P1549	'Καναδοί'@el
+Q16-P1549-46	Q16	P1549	'Καναδός'@el
+Q16-P1549-54	Q16	P1549	'канадец'@bg
+Q16-P1549-32	Q16	P1549	'канадец'@ru
+Q16-P1549-25	Q16	P1549	'канадець'@uk
+Q16-P1549-55	Q16	P1549	'канадка'@bg
+Q16-P1549-33	Q16	P1549	'канадка'@ru
+Q16-P1549-27	Q16	P1549	'канадка'@uk
+Q16-P1549-20	Q16	P1549	'канадци'@bg
+Q16-P1549-31	Q16	P1549	'канадцы'@ru
+Q16-P1549-29	Q16	P1549	'канадці'@uk
+Q16-P1549-28	Q16	P1549	'канадійка'@uk
+Q16-P1549-30	Q16	P1549	'канадійці'@uk
+Q16-P1549-26	Q16	P1549	'канадієць'@uk
+Q16-P1549-36	Q16	P1549	'קנדי'@he
+Q16-P1549-37	Q16	P1549	'קנדית'@he
+Q16-P1549-22	Q16	P1549	'كندي'@ar
+Q16-P1549-59	Q16	P1549	'كنديات'@ar
+Q16-P1549-23	Q16	P1549	'كندية'@ar
+Q16-P1549-24	Q16	P1549	'كنديون'@ar
+Q16-P1549-60	Q16	P1549	'کانادایی'@fa
+Q16-P1549-11	Q16	P1549	'कनाडा'@hi
+Q16-P1549-21	Q16	P1549	'কানাডীয়'@bn
+Q16-P1549-9	Q16	P1549	'カナダ人'@ja
+Q16-P1549-19	Q16	P1549	'加拿大人'@zh
+Q16-P1705-1	Q16	P1705	'Canada'@en
+Q16-P1705-2	Q16	P1705	'Canada'@fr
+Q16-P1813-1	Q16	P1813	'🇨🇦'@zxx
+Q167270-P1813-1	Q167270	P1813	'TM'@en
+Q168648-P1705-1	Q168648	P1705	'Sopron'@hu
+Q168648-P1705-2	Q168648	P1705	'Ödenburg'@de
+Q17-P1448-2	Q17	P1448	'le Japon'@fr
+Q17-P1448-1	Q17	P1448	'日本国'@ja
+Q17-P1449-2	Q17	P1449	'Terra del sol naixent'@ca
+Q17-P1449-3	Q17	P1449	'The Land of the Rising Sun'@en
+Q17-P1449-1	Q17	P1449	'Страна Восходящего Солнца'@ru
+Q17-P1449-4	Q17	P1449	'ארץ השמש העולה'@he
+Q17-P1451-1	Q17	P1451	'Endless discovery'@en
+Q17-P1549-8	Q17	P1549	'Japaner'@de
+Q17-P1549-9	Q17	P1549	'Japanerin'@de
+Q17-P1549-1	Q17	P1549	'Japanese'@en
+Q17-P1549-2	Q17	P1549	'Japanner'@nl
+Q17-P1549-3	Q17	P1549	'Japanse'@nl
+Q17-P1549-15	Q17	P1549	'Japonais'@fr
+Q17-P1549-14	Q17	P1549	'Japonaise'@fr
+Q17-P1549-7	Q17	P1549	'Japonec'@cs
+Q17-P1549-20	Q17	P1549	'Japoniano'@io
+Q17-P1549-47	Q17	P1549	'Japonés'@oc
+Q17-P1549-22	Q17	P1549	'Yapänan'@vo
+Q17-P1549-38	Q17	P1549	'giapponese'@it
+Q17-P1549-39	Q17	P1549	'giapponesi'@it
+Q17-P1549-17	Q17	P1549	'giappunisa'@scn
+Q17-P1549-16	Q17	P1549	'giappunisi'@scn
+Q17-P1549-18	Q17	P1549	'giappunisi'@scn
+Q17-P1549-41	Q17	P1549	'japanes'@lfn
+Q17-P1549-21	Q17	P1549	'japano'@eo
+Q17-P1549-12	Q17	P1549	'japonesa'@es
+Q17-P1549-35	Q17	P1549	'japonez'@ro
+Q17-P1549-34	Q17	P1549	'japonezi'@ro
+Q17-P1549-36	Q17	P1549	'japoneză'@ro
+Q17-P1549-23	Q17	P1549	'japoniar'@eu
+Q17-P1549-11	Q17	P1549	'japonés'@es
+Q17-P1549-19	Q17	P1549	'japán'@hu
+Q17-P1549-40	Q17	P1549	'nion'@lfn
+Q17-P1549-45	Q17	P1549	'orang Jepun'@ms
+Q17-P1549-44	Q17	P1549	'xaponesa'@ast
+Q17-P1549-46	Q17	P1549	'xaponeso'@ast
+Q17-P1549-43	Q17	P1549	'xaponés'@ast
+Q17-P1549-49	Q17	P1549	'Γιαπωνέζα'@el
+Q17-P1549-48	Q17	P1549	'Ιάπωνας'@el
+Q17-P1549-50	Q17	P1549	'Ιάπωνες'@el
+Q17-P1549-25	Q17	P1549	'японец'@bg
+Q17-P1549-5	Q17	P1549	'японец'@ru
+Q17-P1549-29	Q17	P1549	'японець'@uk
+Q17-P1549-26	Q17	P1549	'японка'@bg
+Q17-P1549-6	Q17	P1549	'японка'@ru
+Q17-P1549-30	Q17	P1549	'японка'@uk
+Q17-P1549-24	Q17	P1549	'японци'@bg
+Q17-P1549-4	Q17	P1549	'японцы'@ru
+Q17-P1549-31	Q17	P1549	'японці'@uk
+Q17-P1549-32	Q17	P1549	'יפני'@he
+Q17-P1549-33	Q17	P1549	'יפנית'@he
+Q17-P1549-27	Q17	P1549	'ياباني'@ar
+Q17-P1549-42	Q17	P1549	'يابانية'@ar
+Q17-P1549-28	Q17	P1549	'يابانيون'@ar
+Q17-P1549-51	Q17	P1549	'ژاپنی'@fa
+Q17-P1549-37	Q17	P1549	'জাপানি'@bn
+Q17-P1549-13	Q17	P1549	'日本人'@ja
+Q17-P1549-10	Q17	P1549	'日本人'@zh
+Q17-P1705-1	Q17	P1705	'日本'@ja
+Q17-P1813-1	Q17	P1813	'Japan'@en
+Q17-P1813-2	Q17	P1813	'🇯🇵'@en
+Q17151-P1448-1	Q17151	P1448	'Θεσσαλονίκη'@el
+Q17151-P1549-1	Q17151	P1549	'Thessalonicien'@fr
+Q17151-P1549-3	Q17151	P1549	'Thessalonicienne'@fr
+Q17151-P1549-2	Q17151	P1549	'солунчанин'@bg
+Q17151-P1705-1	Q17151	P1705	'Θεσσαλονίκη'@el
+Q17252-P1549-1	Q17252	P1549	'Tibetan'@en
+Q1726-P1448-1	Q1726	P1448	'München'@de
+Q1726-P1549-6	Q1726	P1549	'Munichois'@fr
+Q1726-P1549-5	Q1726	P1549	'Munichoise'@fr
+Q1726-P1549-4	Q1726	P1549	'Munkenano'@eo
+Q1726-P1549-1	Q1726	P1549	'Münchner'@de
+Q1726-P1549-2	Q1726	P1549	'Münchnerin'@de
+Q1726-P1549-3	Q1726	P1549	'Münchnerinnen'@de
+Q1726-P1705-1	Q1726	P1705	'München'@de
+Q1726-P1813-1	Q1726	P1813	'M'@de
+Q172668-P1705-1	Q172668	P1705	'Fucking'@de
+Q182809-P1705-1	Q182809	P1705	'Хасково'@bg
+Q1828277-P1705-1	Q1828277	P1705	'Brouwerij De Molen'@nl
+Q183-P1448-1	Q183	P1448	'Bundesrepublik Deutschland'@de
+Q183-P1448-23	Q183	P1448	'Deutschland'@de
+Q183-P1448-8	Q183	P1448	'Federacia Respubliko Germanujo'@eo
+Q183-P1448-2	Q183	P1448	'Federal Republic of Germany'@en
+Q183-P1448-3	Q183	P1448	'Repubblica Federale di Germania'@it
+Q183-P1448-7	Q183	P1448	'Republica Federală Germania'@ro
+Q183-P1448-10	Q183	P1448	'Republika Federalna Niemiec'@pl
+Q183-P1448-6	Q183	P1448	'República Federal da Alemanha'@pt-br
+Q183-P1448-4	Q183	P1448	'République fédérale d\\\\'Allemagne'@fr
+Q183-P1448-21	Q183	P1448	'Saksamaa Liitvabariik'@et
+Q183-P1448-12	Q183	P1448	'Saksan liittotasavalta'@fi
+Q183-P1448-17	Q183	P1448	'Spolková republika Německo'@cs
+Q183-P1448-19	Q183	P1448	'Zwjazkowa republika Němska'@hsb
+Q183-P1448-20	Q183	P1448	'Zwězkowa republika Nimska'@dsb
+Q183-P1448-24	Q183	P1448	'la République fédérale d’Allemagne'@fr
+Q183-P1448-16	Q183	P1448	'Ομοσπονδιακή Δημοκρατία της Γερμανίας'@el
+Q183-P1448-22	Q183	P1448	'Савезна Република Немачка'@sr
+Q183-P1448-18	Q183	P1448	'Федерална република Германия'@bg
+Q183-P1448-15	Q183	P1448	'Федеративна Республіка Німеччина'@uk
+Q183-P1448-5	Q183	P1448	'Федеративная Республика Германия'@ru
+Q183-P1448-13	Q183	P1448	'הרפובליקה הפדרלית של גרמניה'@he
+Q183-P1448-9	Q183	P1448	'جمهورية ألمانيا الاتحادية'@ar
+Q183-P1448-14	Q183	P1448	'გერმანიის ფედერალური რესპუბლიკა'@ka
+Q183-P1448-11	Q183	P1448	'德意志联邦共和国'@zh
+Q183-P1451-1	Q183	P1451	'Einigkeit und Recht und Freiheit'@de
+Q183-P1451-4	Q183	P1451	'Simply inspiring'@en
+Q183-P1451-2	Q183	P1451	'Unity and Justice and Freedom'@en
+Q183-P1451-3	Q183	P1451	'Единство и справедливост, и свобода'@bg
+Q183-P1549-64	Q183	P1549	'Allemand'@fr
+Q183-P1549-63	Q183	P1549	'Allemande'@fr
+Q183-P1549-61	Q183	P1549	'Almaenes'@cy
+Q183-P1549-60	Q183	P1549	'Almaenwr'@cy
+Q183-P1549-62	Q183	P1549	'Almaenwyr'@cy
+Q183-P1549-3	Q183	P1549	'Deutsche'@de
+Q183-P1549-2	Q183	P1549	'Deutscher'@de
+Q183-P1549-27	Q183	P1549	'Deutänan'@vo
+Q183-P1549-9	Q183	P1549	'Duitse'@nl
+Q183-P1549-1	Q183	P1549	'Duitser'@nl
+Q183-P1549-31	Q183	P1549	'Döüdschä'@vmf
+Q183-P1549-8	Q183	P1549	'German'@en
+Q183-P1549-26	Q183	P1549	'Germaniano'@io
+Q183-P1549-57	Q183	P1549	'Němc'@hsb
+Q183-P1549-55	Q183	P1549	'Němcy'@hsb
+Q183-P1549-6	Q183	P1549	'Němec'@cs
+Q183-P1549-7	Q183	P1549	'Němka'@cs
+Q183-P1549-56	Q183	P1549	'Němka'@hsb
+Q183-P1549-54	Q183	P1549	'alemana'@ast
+Q183-P1549-23	Q183	P1549	'alemany'@ca
+Q183-P1549-28	Q183	P1549	'alemanya'@ca
+Q183-P1549-38	Q183	P1549	'alemanys'@ca
+Q183-P1549-53	Q183	P1549	'alemán'@ast
+Q183-P1549-13	Q183	P1549	'alemã'@pt-br
+Q183-P1549-12	Q183	P1549	'alemão'@pt-br
+Q183-P1549-24	Q183	P1549	'allemand'@fr
+Q183-P1549-25	Q183	P1549	'allemande'@fr
+Q183-P1549-52	Q183	P1549	'deutx'@lfn
+Q183-P1549-17	Q183	P1549	'german'@ro
+Q183-P1549-45	Q183	P1549	'germani'@ro
+Q183-P1549-20	Q183	P1549	'germano'@eo
+Q183-P1549-46	Q183	P1549	'nemțoaică'@ro
+Q183-P1549-18	Q183	P1549	'német'@hu
+Q183-P1549-58	Q183	P1549	'sakslased'@et
+Q183-P1549-49	Q183	P1549	'tedesca'@it
+Q183-P1549-51	Q183	P1549	'tedesche'@it
+Q183-P1549-50	Q183	P1549	'tedeschi'@it
+Q183-P1549-48	Q183	P1549	'tedesco'@it
+Q183-P1549-29	Q183	P1549	'tysk'@sv
+Q183-P1549-5	Q183	P1549	'tyskar'@nn
+Q183-P1549-59	Q183	P1549	'tyskarinne'@nn
+Q183-P1549-19	Q183	P1549	'tysker'@da
+Q183-P1549-4	Q183	P1549	'tysker'@nb
+Q183-P1549-42	Q183	P1549	'γερμανίδα'@el
+Q183-P1549-44	Q183	P1549	'γερμανίδες'@el
+Q183-P1549-43	Q183	P1549	'γερμανοί'@el
+Q183-P1549-41	Q183	P1549	'γερμανός'@el
+Q183-P1549-14	Q183	P1549	'Немац'@sr
+Q183-P1549-15	Q183	P1549	'Немица'@sr
+Q183-P1549-16	Q183	P1549	'Немци'@sr
+Q183-P1549-10	Q183	P1549	'немец'@ru
+Q183-P1549-11	Q183	P1549	'немка'@ru
+Q183-P1549-22	Q183	P1549	'немски'@bg
+Q183-P1549-21	Q183	P1549	'немцы'@ru
+Q183-P1549-35	Q183	P1549	'німець'@uk
+Q183-P1549-36	Q183	P1549	'німкеня'@uk
+Q183-P1549-37	Q183	P1549	'німці'@uk
+Q183-P1549-39	Q183	P1549	'גרמני'@he
+Q183-P1549-40	Q183	P1549	'גרמנייה'@he
+Q183-P1549-34	Q183	P1549	'ألمان'@ar
+Q183-P1549-32	Q183	P1549	'ألماني'@ar
+Q183-P1549-33	Q183	P1549	'ألمانية'@ar
+Q183-P1549-47	Q183	P1549	'জার্মান'@bn
+Q183-P1549-30	Q183	P1549	'გერმანელი'@ka
+Q183-P1705-1	Q183	P1705	'Bundesrepublik Deutschland'@de
+Q183-P1705-2	Q183	P1705	'Deutschland'@de
+Q183-P1813-7	Q183	P1813	'Allemagne'@fr
+Q183-P1813-5	Q183	P1813	'Germania'@ro
+Q183-P1813-10	Q183	P1813	'Nimska'@dsb
+Q183-P1813-4	Q183	P1813	'Německo'@cs
+Q183-P1813-9	Q183	P1813	'Němska'@hsb
+Q183-P1813-8	Q183	P1813	'Saksamaa'@et
+Q183-P1813-6	Q183	P1813	'Германия'@bg
+Q183-P1813-1	Q183	P1813	'Германия'@ru
+Q183-P1813-2	Q183	P1813	'Німеччина'@uk
+Q183-P1813-3	Q183	P1813	'🇩🇪'@zxx
+Q184-P1448-3	Q184	P1448	'République de Biélorussie'@fr
+Q184-P1448-4	Q184	P1448	'la République de Biélorussie'@fr
+Q184-P1448-2	Q184	P1448	'Беларусь'@be
+Q184-P1448-1	Q184	P1448	'Республика Беларусь'@ru
+Q184-P1451-1	Q184	P1451	'Hospitality Beyond Borders'@en
+Q184-P1549-2	Q184	P1549	'Belarusian'@en
+Q184-P1549-6	Q184	P1549	'Belarusänan'@vo
+Q184-P1549-5	Q184	P1549	'Bielorusiano'@io
+Q184-P1549-33	Q184	P1549	'Biélorusse'@fr
+Q184-P1549-1	Q184	P1549	'Wit-Rus'@nl
+Q184-P1549-3	Q184	P1549	'belarusz'@hu
+Q184-P1549-30	Q184	P1549	'bielarusce'@lfn
+Q184-P1549-32	Q184	P1549	'bielorrusa'@ast
+Q184-P1549-31	Q184	P1549	'bielorrusu'@ast
+Q184-P1549-23	Q184	P1549	'bielorus'@ro
+Q184-P1549-18	Q184	P1549	'bielorussa'@ca
+Q184-P1549-27	Q184	P1549	'bielorussa'@it
+Q184-P1549-29	Q184	P1549	'bielorusse'@it
+Q184-P1549-28	Q184	P1549	'bielorussi'@it
+Q184-P1549-26	Q184	P1549	'bielorusso'@it
+Q184-P1549-19	Q184	P1549	'bielorussos'@ca
+Q184-P1549-24	Q184	P1549	'bielorusă'@ro
+Q184-P1549-22	Q184	P1549	'bieloruși'@ro
+Q184-P1549-17	Q184	P1549	'bielorús'@ca
+Q184-P1549-4	Q184	P1549	'hviderusser'@da
+Q184-P1549-10	Q184	P1549	'белорус'@ru
+Q184-P1549-11	Q184	P1549	'белоруска'@ru
+Q184-P1549-12	Q184	P1549	'белорусы'@ru
+Q184-P1549-13	Q184	P1549	'білорус'@uk
+Q184-P1549-15	Q184	P1549	'білоруси'@uk
+Q184-P1549-16	Q184	P1549	'білорусини'@uk
+Q184-P1549-14	Q184	P1549	'білоруска'@uk
+Q184-P1549-20	Q184	P1549	'בלארוסי'@he
+Q184-P1549-21	Q184	P1549	'בלארוסית'@he
+Q184-P1549-7	Q184	P1549	'بيلاروسي'@ar
+Q184-P1549-8	Q184	P1549	'بيلاروسية'@ar
+Q184-P1549-9	Q184	P1549	'بيلاروسيون'@ar
+Q184-P1549-25	Q184	P1549	'বেলারুশীয়'@bn
+Q184-P1705-3	Q184	P1705	'Беларусь'@be
+Q184-P1705-2	Q184	P1705	'Республика Беларусь'@ru
+Q184-P1705-1	Q184	P1705	'Рэспубліка Беларусь'@be
+Q184-P1813-5	Q184	P1813	'Biélorussie'@fr
+Q184-P1813-4	Q184	P1813	'Беларусь'@be
+Q184-P1813-3	Q184	P1813	'Беларусь'@ru
+Q184-P1813-2	Q184	P1813	'Белоруссия'@ru
+Q184-P1813-1	Q184	P1813	'🇧🇾'@zxx
+Q189-P1448-1	Q189	P1448	'Islandi Vabariik'@et
+Q189-P1448-2	Q189	P1448	'Lýðveldið Ísland'@is
+Q189-P1448-4	Q189	P1448	'la République d’Islande'@fr
+Q189-P1448-3	Q189	P1448	'Ísland'@is
+Q189-P1451-1	Q189	P1451	'Inspired by Iceland'@en
+Q189-P1549-2	Q189	P1549	'Icelander'@en
+Q189-P1549-1	Q189	P1549	'Icelandic'@en
+Q189-P1549-31	Q189	P1549	'Islandais'@fr
+Q189-P1549-30	Q189	P1549	'Islandaise'@fr
+Q189-P1549-6	Q189	P1549	'Islandano'@eo
+Q189-P1549-4	Q189	P1549	'Islandano'@io
+Q189-P1549-28	Q189	P1549	'Islanďan'@cs
+Q189-P1549-29	Q189	P1549	'Islanďanka'@cs
+Q189-P1549-5	Q189	P1549	'Lisladeänan'@vo
+Q189-P1549-26	Q189	P1549	'islandesa'@ast
+Q189-P1549-22	Q189	P1549	'islandese'@it
+Q189-P1549-23	Q189	P1549	'islandesi'@it
+Q189-P1549-19	Q189	P1549	'islandez'@ro
+Q189-P1549-18	Q189	P1549	'islandezi'@ro
+Q189-P1549-20	Q189	P1549	'islandeză'@ro
+Q189-P1549-27	Q189	P1549	'islandlased'@et
+Q189-P1549-25	Q189	P1549	'islandés'@ast
+Q189-P1549-24	Q189	P1549	'islansce'@lfn
+Q189-P1549-3	Q189	P1549	'izlandi'@hu
+Q189-P1549-10	Q189	P1549	'исландец'@ru
+Q189-P1549-12	Q189	P1549	'исландка'@ru
+Q189-P1549-11	Q189	P1549	'исландцы'@ru
+Q189-P1549-14	Q189	P1549	'ісландець'@uk
+Q189-P1549-13	Q189	P1549	'ісландка'@uk
+Q189-P1549-15	Q189	P1549	'ісландці'@uk
+Q189-P1549-16	Q189	P1549	'איסלנדי'@he
+Q189-P1549-17	Q189	P1549	'איסלנדית'@he
+Q189-P1549-7	Q189	P1549	'آيسلندي'@ar
+Q189-P1549-8	Q189	P1549	'آيسلندية'@ar
+Q189-P1549-9	Q189	P1549	'آيسلنديون'@ar
+Q189-P1549-21	Q189	P1549	'আইসল্যান্ডীয়'@bn
+Q189-P1705-1	Q189	P1705	'Ísland'@is
+Q189-P1813-1	Q189	P1813	'🇮🇸'@zxx
+Q191-P1448-3	Q191	P1448	'Eesti Vabariik'@et
+Q191-P1448-19	Q191	P1448	'Estijos Respublika'@lt
+Q191-P1448-1	Q191	P1448	'Estonská republika'@cs
+Q191-P1448-29	Q191	P1448	'Estonya Cumhuriyeti'@tr
+Q191-P1448-26	Q191	P1448	'Estónska republika'@sk
+Q191-P1448-5	Q191	P1448	'Igaunijas Republika'@lv
+Q191-P1448-9	Q191	P1448	'Lýðveldið Eistland'@is
+Q191-P1448-17	Q191	P1448	'Repubblica d\\\\'Estonia'@it
+Q191-P1448-28	Q191	P1448	'Republic of Estonia'@en
+Q191-P1448-2	Q191	P1448	'Republica Estonia'@ro
+Q191-P1448-18	Q191	P1448	'Republiek Estland'@nl
+Q191-P1448-8	Q191	P1448	'Republik Estland'@de
+Q191-P1448-24	Q191	P1448	'Republika Estonija'@hr
+Q191-P1448-25	Q191	P1448	'Republika Estonija'@sl
+Q191-P1448-7	Q191	P1448	'Republika Estońska'@pl
+Q191-P1448-13	Q191	P1448	'Republiken Estland'@sv
+Q191-P1448-10	Q191	P1448	'Republikken Estland'@da
+Q191-P1448-11	Q191	P1448	'Republikken Estland'@nb
+Q191-P1448-12	Q191	P1448	'Republikken Estland'@nn
+Q191-P1448-22	Q191	P1448	'República da Estónia'@pt
+Q191-P1448-16	Q191	P1448	'República de Estonia'@es
+Q191-P1448-4	Q191	P1448	'Viron tasavalta'@fi
+Q191-P1448-34	Q191	P1448	'la République d’Estonie'@fr
+Q191-P1448-15	Q191	P1448	'république d’Estonie'@fr
+Q191-P1448-27	Q191	P1448	'Észt Köztársaság'@hu
+Q191-P1448-20	Q191	P1448	'Δημοκρατία της Εσθονίας'@el
+Q191-P1448-21	Q191	P1448	'Естонська Республіка'@uk
+Q191-P1448-33	Q191	P1448	'Република Естонија'@mk
+Q191-P1448-23	Q191	P1448	'Република Естонија'@sr
+Q191-P1448-6	Q191	P1448	'Эстонская Республика'@ru
+Q191-P1448-14	Q191	P1448	'Эстонская Рэспубліка'@be
+Q191-P1448-31	Q191	P1448	'Էստոնիայի Հանրապետություն'@hy
+Q191-P1448-32	Q191	P1448	'רעפובליק פון עסטלאנד'@yi
+Q191-P1448-30	Q191	P1448	'ესტონეთის რესპუბლიკა'@ka
+Q191-P1451-1	Q191	P1451	'Epic Estonia'@en
+Q191-P1549-4	Q191	P1549	'Est'@nl
+Q191-P1549-2	Q191	P1549	'Este'@de
+Q191-P1549-3	Q191	P1549	'Estin'@de
+Q191-P1549-9	Q191	P1549	'Estonian'@en
+Q191-P1549-13	Q191	P1549	'Estoniano'@io
+Q191-P1549-40	Q191	P1549	'Estonien'@fr
+Q191-P1549-41	Q191	P1549	'Estonienne'@fr
+Q191-P1549-14	Q191	P1549	'Lestiyänan'@vo
+Q191-P1549-37	Q191	P1549	'eestlased'@et
+Q191-P1549-11	Q191	P1549	'ester'@da
+Q191-P1549-32	Q191	P1549	'esti'@lfn
+Q191-P1549-12	Q191	P1549	'estlænder'@da
+Q191-P1549-1	Q191	P1549	'estnisch'@de
+Q191-P1549-30	Q191	P1549	'estone'@it
+Q191-P1549-31	Q191	P1549	'estoni'@it
+Q191-P1549-27	Q191	P1549	'estonian'@ro
+Q191-P1549-34	Q191	P1549	'estoniana'@ast
+Q191-P1549-39	Q191	P1549	'estoniana'@ca
+Q191-P1549-33	Q191	P1549	'estonianu'@ast
+Q191-P1549-28	Q191	P1549	'estoniană'@ro
+Q191-P1549-26	Q191	P1549	'estonieni'@ro
+Q191-P1549-38	Q191	P1549	'estonià'@ca
+Q191-P1549-36	Q191	P1549	'igauņi'@lv
+Q191-P1549-35	Q191	P1549	'virolaiset'@fi
+Q191-P1549-10	Q191	P1549	'észt'@hu
+Q191-P1549-22	Q191	P1549	'Εσθονή'@el
+Q191-P1549-23	Q191	P1549	'Εσθονοί'@el
+Q191-P1549-21	Q191	P1549	'Εσθονός'@el
+Q191-P1549-18	Q191	P1549	'естонець'@uk
+Q191-P1549-19	Q191	P1549	'естонка'@uk
+Q191-P1549-20	Q191	P1549	'естонці'@uk
+Q191-P1549-5	Q191	P1549	'эстонец'@ru
+Q191-P1549-6	Q191	P1549	'эстонка'@ru
+Q191-P1549-8	Q191	P1549	'эстонки'@ru
+Q191-P1549-7	Q191	P1549	'эстонцы'@ru
+Q191-P1549-24	Q191	P1549	'אסטוני'@he
+Q191-P1549-25	Q191	P1549	'אסטונית'@he
+Q191-P1549-15	Q191	P1549	'إستوني'@ar
+Q191-P1549-16	Q191	P1549	'إستونية'@ar
+Q191-P1549-17	Q191	P1549	'إستونيون'@ar
+Q191-P1549-29	Q191	P1549	'এস্তোনীয়'@bn
+Q191-P1705-1	Q191	P1705	'Eesti Vabariik'@et
+Q191-P1813-2	Q191	P1813	'Eesti'@et
+Q191-P1813-10	Q191	P1813	'Estija'@lt
+Q191-P1813-7	Q191	P1813	'Estland'@da
+Q191-P1813-4	Q191	P1813	'Estland'@de
+Q191-P1813-8	Q191	P1813	'Estland'@nb
+Q191-P1813-6	Q191	P1813	'Estland'@sv
+Q191-P1813-5	Q191	P1813	'Estonia'@en
+Q191-P1813-11	Q191	P1813	'Estonia'@pl
+Q191-P1813-9	Q191	P1813	'Igaunija'@lv
+Q191-P1813-3	Q191	P1813	'Viro'@fi
+Q191-P1813-1	Q191	P1813	'Эстония'@ru
+Q191-P1813-13	Q191	P1813	'Эстонія'@be
+Q191-P1813-12	Q191	P1813	'🇪🇪'@zxx
+Q19175504-P1476-1	Q19175504	P1476	'Die Geschichte des Bieres'@de
+Q19237092-P1476-1	Q19237092	P1476	'Was Alles in Deutschland früher getrunken wurde'@de
+Q2079-P1448-1	Q2079	P1448	'Leipzig'@de
+Q2079-P1705-1	Q2079	P1705	'Leipzig'@de
+Q2079-P1813-1	Q2079	P1813	'L'@de
+Q208403-P1549-1	Q208403	P1549	'komotinès, komotinesa'@ca
+Q208403-P1705-1	Q208403	P1705	'Κομοτηνή'@el
+Q211-P1448-1	Q211	P1448	'Latvijas Republika'@lv
+Q211-P1448-2	Q211	P1448	'Läti Vabariik'@et
+Q211-P1448-3	Q211	P1448	'la République de Lettonie'@fr
+Q211-P1451-3	Q211	P1451	'Best enjoyed slowly'@en
+Q211-P1451-2	Q211	P1451	'Per la Pàtria i la llibertat'@ca
+Q211-P1451-1	Q211	P1451	'Tēvzemei un Brīvībai'@lv
+Q211-P1549-2	Q211	P1549	'Latvian'@en
+Q211-P1549-5	Q211	P1549	'Latviano'@io
+Q211-P1549-39	Q211	P1549	'Latvians'@en
+Q211-P1549-6	Q211	P1549	'Latviyänan'@vo
+Q211-P1549-1	Q211	P1549	'Let'@nl
+Q211-P1549-37	Q211	P1549	'Letton'@fr
+Q211-P1549-38	Q211	P1549	'Lettonne'@fr
+Q211-P1549-40	Q211	P1549	'latvialainen'@fi
+Q211-P1549-41	Q211	P1549	'latvialaiset'@fi
+Q211-P1549-33	Q211	P1549	'latviete'@lv
+Q211-P1549-4	Q211	P1549	'latvietis'@lv
+Q211-P1549-30	Q211	P1549	'latvisce'@lfn
+Q211-P1549-25	Q211	P1549	'leton'@ro
+Q211-P1549-32	Q211	P1549	'letona'@ast
+Q211-P1549-14	Q211	P1549	'letona'@ca
+Q211-P1549-36	Q211	P1549	'letona'@es
+Q211-P1549-24	Q211	P1549	'letoni'@ro
+Q211-P1549-15	Q211	P1549	'letons'@ca
+Q211-P1549-26	Q211	P1549	'letonă'@ro
+Q211-P1549-3	Q211	P1549	'lett'@hu
+Q211-P1549-28	Q211	P1549	'lettone'@it
+Q211-P1549-29	Q211	P1549	'lettoni'@it
+Q211-P1549-13	Q211	P1549	'letó'@ca
+Q211-P1549-31	Q211	P1549	'letón'@ast
+Q211-P1549-35	Q211	P1549	'letón'@es
+Q211-P1549-34	Q211	P1549	'lätlased'@et
+Q211-P1549-7	Q211	P1549	'латвиец'@ru
+Q211-P1549-8	Q211	P1549	'латвийка'@ru
+Q211-P1549-9	Q211	P1549	'латвийцы'@ru
+Q211-P1549-18	Q211	P1549	'латвійка'@uk
+Q211-P1549-20	Q211	P1549	'латвійці'@uk
+Q211-P1549-16	Q211	P1549	'латвієць'@uk
+Q211-P1549-17	Q211	P1549	'латиш'@uk
+Q211-P1549-19	Q211	P1549	'латишка'@uk
+Q211-P1549-21	Q211	P1549	'латиші'@uk
+Q211-P1549-22	Q211	P1549	'לטבי'@he
+Q211-P1549-23	Q211	P1549	'לטבית'@he
+Q211-P1549-10	Q211	P1549	'لاتفي'@ar
+Q211-P1549-11	Q211	P1549	'لاتفية'@ar
+Q211-P1549-12	Q211	P1549	'لاتفيون'@ar
+Q211-P1549-27	Q211	P1549	'লাতভীয়'@bn
+Q211-P1705-1	Q211	P1705	'Latvija'@lv
+Q211-P1813-1	Q211	P1813	'🇱🇻'@zxx
+Q212-P1448-3	Q212	P1448	'l’Ukraine'@fr
+Q212-P1448-2	Q212	P1448	'Украина'@ru
+Q212-P1448-1	Q212	P1448	'Україна'@uk
+Q212-P1549-12	Q212	P1549	'Lukrayänan'@vo
+Q212-P1549-1	Q212	P1549	'Oekraïner'@nl
+Q212-P1549-29	Q212	P1549	'Oekraïners'@nl
+Q212-P1549-9	Q212	P1549	'Ukrainian'@en
+Q212-P1549-10	Q212	P1549	'Ukrainiano'@io
+Q212-P1549-33	Q212	P1549	'Ukrainien'@fr
+Q212-P1549-34	Q212	P1549	'Ukrainienne'@fr
+Q212-P1549-32	Q212	P1549	'ucraina'@ast
+Q212-P1549-26	Q212	P1549	'ucraina'@it
+Q212-P1549-28	Q212	P1549	'ucraine'@it
+Q212-P1549-22	Q212	P1549	'ucrainean'@ro
+Q212-P1549-23	Q212	P1549	'ucraineancă'@ro
+Q212-P1549-21	Q212	P1549	'ucraineni'@ro
+Q212-P1549-27	Q212	P1549	'ucraini'@it
+Q212-P1549-25	Q212	P1549	'ucraino'@it
+Q212-P1549-30	Q212	P1549	'ucrainsce'@lfn
+Q212-P1549-31	Q212	P1549	'ucraín'@ast
+Q212-P1549-17	Q212	P1549	'ucraïnesa'@ca
+Q212-P1549-18	Q212	P1549	'ucraïnesos'@ca
+Q212-P1549-16	Q212	P1549	'ucraïnès'@ca
+Q212-P1549-11	Q212	P1549	'ukraino'@eo
+Q212-P1549-5	Q212	P1549	'ukrán'@hu
+Q212-P1549-6	Q212	P1549	'украинец'@ru
+Q212-P1549-7	Q212	P1549	'украинка'@ru
+Q212-P1549-8	Q212	P1549	'украинцы'@ru
+Q212-P1549-2	Q212	P1549	'українець'@uk
+Q212-P1549-3	Q212	P1549	'українка'@uk
+Q212-P1549-4	Q212	P1549	'українці'@uk
+Q212-P1549-19	Q212	P1549	'אוקראיני'@he
+Q212-P1549-20	Q212	P1549	'אוקראינית'@he
+Q212-P1549-13	Q212	P1549	'أوكراني'@ar
+Q212-P1549-14	Q212	P1549	'أوكرانية'@ar
+Q212-P1549-15	Q212	P1549	'أوكرانيون'@ar
+Q212-P1549-24	Q212	P1549	'ইউক্রেনীয়'@bn
+Q212-P1705-2	Q212	P1705	'Украина'@ru
+Q212-P1705-1	Q212	P1705	'Україна'@uk
+Q212-P1813-1	Q212	P1813	'🇺🇦'@zxx
+Q213-P1448-2	Q213	P1448	'la République tchèque'@fr
+Q213-P1448-1	Q213	P1448	'Česká republika'@cs
+Q213-P1451-2	Q213	P1451	'Land of stories'@en
+Q213-P1451-1	Q213	P1451	'Pravda vítězí.'@cs
+Q213-P1549-10	Q213	P1549	'Chekiano'@io
+Q213-P1549-6	Q213	P1549	'Czech'@en
+Q213-P1549-34	Q213	P1549	'Tchèque'@fr
+Q213-P1549-1	Q213	P1549	'Tsjech'@nl
+Q213-P1549-12	Q213	P1549	'Tsyegänan'@vo
+Q213-P1549-27	Q213	P1549	'ceca'@it
+Q213-P1549-29	Q213	P1549	'ceche'@it
+Q213-P1549-28	Q213	P1549	'cechi'@it
+Q213-P1549-26	Q213	P1549	'ceco'@it
+Q213-P1549-22	Q213	P1549	'ceh'@ro
+Q213-P1549-21	Q213	P1549	'cehi'@ro
+Q213-P1549-23	Q213	P1549	'cehoaică'@ro
+Q213-P1549-32	Q213	P1549	'checa'@ast
+Q213-P1549-31	Q213	P1549	'checu'@ast
+Q213-P1549-7	Q213	P1549	'cseh'@hu
+Q213-P1549-24	Q213	P1549	'tjeck'@sv
+Q213-P1549-8	Q213	P1549	'tjekke'@da
+Q213-P1549-9	Q213	P1549	'tjekker'@da
+Q213-P1549-30	Q213	P1549	'txesce'@lfn
+Q213-P1549-33	Q213	P1549	'Çek'@tr
+Q213-P1549-11	Q213	P1549	'ĉeĥo'@eo
+Q213-P1549-5	Q213	P1549	'Češi'@cs
+Q213-P1549-2	Q213	P1549	'Чех'@sr
+Q213-P1549-3	Q213	P1549	'Чехиња'@sr
+Q213-P1549-4	Q213	P1549	'чеси'@sr
+Q213-P1549-16	Q213	P1549	'чех'@ru
+Q213-P1549-17	Q213	P1549	'чехи'@ru
+Q213-P1549-18	Q213	P1549	'чешка'@ru
+Q213-P1549-19	Q213	P1549	'צ\\\\'כי'@he
+Q213-P1549-20	Q213	P1549	'צ\\\\'כית'@he
+Q213-P1549-13	Q213	P1549	'تشيكي'@ar
+Q213-P1549-14	Q213	P1549	'تشيكية'@ar
+Q213-P1549-15	Q213	P1549	'تشيكيون'@ar
+Q213-P1549-25	Q213	P1549	'চেক'@bn
+Q213-P1705-1	Q213	P1705	'Česká republika'@cs
+Q213-P1813-1	Q213	P1813	'Czechia'@en
+Q213-P1813-3	Q213	P1813	'Çekya'@tr
+Q213-P1813-4	Q213	P1813	'ČR'@cs
+Q213-P1813-5	Q213	P1813	'Česko'@cs
+Q213-P1813-2	Q213	P1813	'🇨🇿'@zxx
+Q214-P1448-1	Q214	P1448	'Slovenská republika'@cs
+Q214-P1448-2	Q214	P1448	'la République slovaque'@fr
+Q214-P1451-1	Q214	P1451	'Travel in Slovakia - Good idea'@en
+Q214-P1549-6	Q214	P1549	'Slovak'@en
+Q214-P1549-7	Q214	P1549	'Slovakiano'@io
+Q214-P1549-9	Q214	P1549	'Slovakiyänan'@vo
+Q214-P1549-35	Q214	P1549	'Slovaque'@fr
+Q214-P1549-4	Q214	P1549	'Slowaak'@nl
+Q214-P1549-2	Q214	P1549	'Slowake'@de
+Q214-P1549-3	Q214	P1549	'Slowake'@de
+Q214-P1549-33	Q214	P1549	'Słowaczka'@pl
+Q214-P1549-32	Q214	P1549	'Słowak'@pl
+Q214-P1549-31	Q214	P1549	'eslovaca'@ast
+Q214-P1549-34	Q214	P1549	'eslovaco'@ast
+Q214-P1549-30	Q214	P1549	'eslovacu'@ast
+Q214-P1549-22	Q214	P1549	'slovac'@ro
+Q214-P1549-26	Q214	P1549	'slovacca'@it
+Q214-P1549-28	Q214	P1549	'slovacche'@it
+Q214-P1549-27	Q214	P1549	'slovacchi'@it
+Q214-P1549-25	Q214	P1549	'slovacco'@it
+Q214-P1549-21	Q214	P1549	'slovaci'@ro
+Q214-P1549-23	Q214	P1549	'slovacă'@ro
+Q214-P1549-8	Q214	P1549	'slovako'@eo
+Q214-P1549-29	Q214	P1549	'slovensce'@lfn
+Q214-P1549-1	Q214	P1549	'slowakisch'@de
+Q214-P1549-5	Q214	P1549	'szlovák'@hu
+Q214-P1549-14	Q214	P1549	'словак'@ru
+Q214-P1549-16	Q214	P1549	'словак'@uk
+Q214-P1549-13	Q214	P1549	'словаки'@ru
+Q214-P1549-18	Q214	P1549	'словаки'@uk
+Q214-P1549-15	Q214	P1549	'словачка'@ru
+Q214-P1549-17	Q214	P1549	'словачка'@uk
+Q214-P1549-19	Q214	P1549	'סלובקי'@he
+Q214-P1549-20	Q214	P1549	'סלובקית'@he
+Q214-P1549-10	Q214	P1549	'سلوفاكي'@ar
+Q214-P1549-11	Q214	P1549	'سلوفاكية'@ar
+Q214-P1549-12	Q214	P1549	'سلوفاكيون'@ar
+Q214-P1549-24	Q214	P1549	'স্লোভাক'@bn
+Q214-P1705-1	Q214	P1705	'Slovenská republika'@sk
+Q214-P1813-1	Q214	P1813	'🇸🇰'@zxx
+Q219-P1448-1	Q219	P1448	'Bulharská republika'@cs
+Q219-P1448-3	Q219	P1448	'Republica Bulgaria'@ro
+Q219-P1448-4	Q219	P1448	'Republiken Bulgarien'@sv
+Q219-P1448-5	Q219	P1448	'la République de Bulgarie'@fr
+Q219-P1448-2	Q219	P1448	'Република България'@bg
+Q219-P1451-1	Q219	P1451	'A discovery to share'@en
+Q219-P1549-1	Q219	P1549	'Bulgaar'@nl
+Q219-P1549-34	Q219	P1549	'Bulgare'@fr
+Q219-P1549-2	Q219	P1549	'Bulgarian'@en
+Q219-P1549-6	Q219	P1549	'Bulgariano'@io
+Q219-P1549-8	Q219	P1549	'Bulgaränan'@vo
+Q219-P1549-33	Q219	P1549	'Bulgárach'@ga
+Q219-P1549-30	Q219	P1549	'balgarsce'@lfn
+Q219-P1549-3	Q219	P1549	'bolgár'@hu
+Q219-P1549-19	Q219	P1549	'bulgar'@ro
+Q219-P1549-22	Q219	P1549	'bulgara'@it
+Q219-P1549-9	Q219	P1549	'bulgare'@fr
+Q219-P1549-28	Q219	P1549	'bulgare'@fr
+Q219-P1549-24	Q219	P1549	'bulgare'@it
+Q219-P1549-4	Q219	P1549	'bulgarer'@da
+Q219-P1549-29	Q219	P1549	'bulgares'@fr
+Q219-P1549-23	Q219	P1549	'bulgari'@it
+Q219-P1549-18	Q219	P1549	'bulgari'@ro
+Q219-P1549-7	Q219	P1549	'bulgaro'@eo
+Q219-P1549-25	Q219	P1549	'bulgaro'@it
+Q219-P1549-20	Q219	P1549	'bulgăroaică'@ro
+Q219-P1549-32	Q219	P1549	'búlgara'@ast
+Q219-P1549-31	Q219	P1549	'búlgaru'@ast
+Q219-P1549-15	Q219	P1549	'болгарин'@ru
+Q219-P1549-14	Q219	P1549	'болгарка'@ru
+Q219-P1549-13	Q219	P1549	'болгары'@ru
+Q219-P1549-5	Q219	P1549	'бъ̀лгари'@bg
+Q219-P1549-26	Q219	P1549	'бъ̀лгарин'@bg
+Q219-P1549-27	Q219	P1549	'бъ̀лгарка'@bg
+Q219-P1549-16	Q219	P1549	'בולגרי'@he
+Q219-P1549-17	Q219	P1549	'בולגרייה'@he
+Q219-P1549-10	Q219	P1549	'بلغاري'@ar
+Q219-P1549-11	Q219	P1549	'بلغارية'@ar
+Q219-P1549-12	Q219	P1549	'بلغاريون'@ar
+Q219-P1549-21	Q219	P1549	'বুলগেরীয়'@bn
+Q219-P1705-1	Q219	P1705	'България'@bg
+Q219-P1813-1	Q219	P1813	'🇧🇬'@zxx
+Q221-P1448-5	Q221	P1448	'Republika e Maqedonisë së Veriut'@sq
+Q221-P1448-6	Q221	P1448	'la République de Macédoine du Nord'@fr
+Q221-P1448-1	Q221	P1448	'Δημοκρατία της Βόρειας Μακεδονίας'@el
+Q221-P1448-4	Q221	P1448	'Македонија'@mk
+Q221-P1448-2	Q221	P1448	'Република Македонија'@mk
+Q221-P1448-3	Q221	P1448	'Република Северна Македонија'@mk
+Q221-P1451-1	Q221	P1451	'North Macedonia Timeless'@en
+Q221-P1549-1	Q221	P1549	'Macedonian'@en
+Q221-P1549-40	Q221	P1549	'Macédonien'@fr
+Q221-P1549-39	Q221	P1549	'Macédonienne'@fr
+Q221-P1549-3	Q221	P1549	'Makedoniyänan'@vo
+Q221-P1549-13	Q221	P1549	'Maqedonas'@sq
+Q221-P1549-14	Q221	P1549	'Maqedonase'@sq
+Q221-P1549-21	Q221	P1549	'macedone'@it
+Q221-P1549-16	Q221	P1549	'macedonean'@ro
+Q221-P1549-17	Q221	P1549	'macedoneancă'@ro
+Q221-P1549-15	Q221	P1549	'macedoneni'@ro
+Q221-P1549-35	Q221	P1549	'macedoni'@ca
+Q221-P1549-22	Q221	P1549	'macedoni'@it
+Q221-P1549-30	Q221	P1549	'macedonia'@ast
+Q221-P1549-27	Q221	P1549	'macedonia'@es
+Q221-P1549-26	Q221	P1549	'macedonio'@es
+Q221-P1549-37	Q221	P1549	'macedonis'@ca
+Q221-P1549-29	Q221	P1549	'macedoniu'@ast
+Q221-P1549-25	Q221	P1549	'macedonsce'@lfn
+Q221-P1549-36	Q221	P1549	'macedònia'@ca
+Q221-P1549-38	Q221	P1549	'macedònies'@ca
+Q221-P1549-2	Q221	P1549	'macedón'@hu
+Q221-P1549-23	Q221	P1549	'macédonien'@fr
+Q221-P1549-24	Q221	P1549	'macédonienne'@fr
+Q221-P1549-28	Q221	P1549	'makedono'@eo
+Q221-P1549-19	Q221	P1549	'Македонец'@mk
+Q221-P1549-20	Q221	P1549	'Македонка'@mk
+Q221-P1549-18	Q221	P1549	'Македонци'@mk
+Q221-P1549-31	Q221	P1549	'македонец'@be-tarask
+Q221-P1549-8	Q221	P1549	'македонець'@uk
+Q221-P1549-33	Q221	P1549	'македонка'@be-tarask
+Q221-P1549-9	Q221	P1549	'македонка'@uk
+Q221-P1549-32	Q221	P1549	'македонцы'@be-tarask
+Q221-P1549-7	Q221	P1549	'македонцы'@ru
+Q221-P1549-10	Q221	P1549	'македонці'@uk
+Q221-P1549-11	Q221	P1549	'מקדוני'@he
+Q221-P1549-12	Q221	P1549	'מקדונית'@he
+Q221-P1549-4	Q221	P1549	'مقدوني'@ar
+Q221-P1549-5	Q221	P1549	'مقدونية'@ar
+Q221-P1549-6	Q221	P1549	'مقدونيون'@ar
+Q221-P1549-34	Q221	P1549	'マケドニア人'@ja
+Q221-P1705-2	Q221	P1705	'Македонија'@mk
+Q221-P1705-1	Q221	P1705	'Република Северна Македонија'@mk
+Q221-P1813-5	Q221	P1813	'FYROM'@en
+Q221-P1813-3	Q221	P1813	'Βόρεια Μακεδονία'@el
+Q221-P1813-4	Q221	P1813	'Македония'@ru
+Q221-P1813-2	Q221	P1813	'Северная Македония'@ru
+Q221-P1813-1	Q221	P1813	'🇲🇰'@zxx
+Q222-P1448-1	Q222	P1448	'Republika e Shqipërisë'@sq
+Q222-P1448-3	Q222	P1448	'la République d’Albanie'@fr
+Q222-P1448-2	Q222	P1448	'Αλβανία'@el
+Q222-P1451-1	Q222	P1451	'Go your own way!'@en
+Q222-P1549-32	Q222	P1549	'Albanais'@fr
+Q222-P1549-33	Q222	P1549	'Albanaise'@fr
+Q222-P1549-8	Q222	P1549	'Albanees'@nl
+Q222-P1549-6	Q222	P1549	'Albaner'@de
+Q222-P1549-7	Q222	P1549	'Albanerin'@de
+Q222-P1549-3	Q222	P1549	'Albanian'@en
+Q222-P1549-11	Q222	P1549	'Albaniano'@io
+Q222-P1549-31	Q222	P1549	'Albánach'@ga
+Q222-P1549-12	Q222	P1549	'Lalbanänan'@vo
+Q222-P1549-30	Q222	P1549	'albana'@ast
+Q222-P1549-10	Q222	P1549	'albaner'@da
+Q222-P1549-25	Q222	P1549	'albanese'@it
+Q222-P1549-26	Q222	P1549	'albanesi'@it
+Q222-P1549-22	Q222	P1549	'albanez'@ro
+Q222-P1549-21	Q222	P1549	'albanezi'@ro
+Q222-P1549-23	Q222	P1549	'albaneză'@ro
+Q222-P1549-28	Q222	P1549	'albanian'@lfn
+Q222-P1549-5	Q222	P1549	'albanisch'@de
+Q222-P1549-29	Q222	P1549	'albanu'@ast
+Q222-P1549-9	Q222	P1549	'albán'@hu
+Q222-P1549-27	Q222	P1549	'xcip'@lfn
+Q222-P1549-4	Q222	P1549	'албанец'@ru
+Q222-P1549-16	Q222	P1549	'албанець'@uk
+Q222-P1549-2	Q222	P1549	'албанка'@ru
+Q222-P1549-17	Q222	P1549	'албанка'@uk
+Q222-P1549-1	Q222	P1549	'албанцы'@ru
+Q222-P1549-18	Q222	P1549	'албанці'@uk
+Q222-P1549-19	Q222	P1549	'אלבני'@he
+Q222-P1549-20	Q222	P1549	'אלבנית'@he
+Q222-P1549-15	Q222	P1549	'ألبان'@ar
+Q222-P1549-13	Q222	P1549	'ألباني'@ar
+Q222-P1549-14	Q222	P1549	'ألبانية'@ar
+Q222-P1549-24	Q222	P1549	'আলবেনীয়'@bn
+Q222-P1705-1	Q222	P1705	'Republika e Shqipërisë'@sq
+Q222-P1705-2	Q222	P1705	'Αλβανία'@el
+Q222-P1813-1	Q222	P1813	'🇦🇱'@zxx
+Q224-P1448-3	Q224	P1448	'Chorvatská republika'@cs
+Q224-P1448-4	Q224	P1448	'Hrvatska'@hr
+Q224-P1448-1	Q224	P1448	'Republica Croația'@ro
+Q224-P1448-2	Q224	P1448	'Republika Hrvatska'@hr
+Q224-P1448-6	Q224	P1448	'la République de Croatie'@fr
+Q224-P1448-5	Q224	P1448	'Хрватска'@sr
+Q224-P1451-1	Q224	P1451	'Full of life'@en
+Q224-P1549-36	Q224	P1549	'Croate'@fr
+Q224-P1549-37	Q224	P1549	'Croate'@fr
+Q224-P1549-7	Q224	P1549	'Croatian'@en
+Q224-P1549-5	Q224	P1549	'Hrvat'@hr
+Q224-P1549-6	Q224	P1549	'Hrvatica'@hr
+Q224-P1549-4	Q224	P1549	'Kroaat'@nl
+Q224-P1549-12	Q224	P1549	'Kroasänan'@vo
+Q224-P1549-2	Q224	P1549	'Kroate'@de
+Q224-P1549-11	Q224	P1549	'Kroatiano'@io
+Q224-P1549-3	Q224	P1549	'Kroatin'@de
+Q224-P1549-30	Q224	P1549	'corvatsce'@lfn
+Q224-P1549-23	Q224	P1549	'croat'@ro
+Q224-P1549-31	Q224	P1549	'croata'@ast
+Q224-P1549-27	Q224	P1549	'croata'@it
+Q224-P1549-29	Q224	P1549	'croate'@it
+Q224-P1549-28	Q224	P1549	'croati'@it
+Q224-P1549-26	Q224	P1549	'croato'@it
+Q224-P1549-24	Q224	P1549	'croată'@ro
+Q224-P1549-22	Q224	P1549	'croați'@ro
+Q224-P1549-8	Q224	P1549	'horvát'@hu
+Q224-P1549-9	Q224	P1549	'kroat'@da
+Q224-P1549-10	Q224	P1549	'kroater'@da
+Q224-P1549-1	Q224	P1549	'kroatisch'@de
+Q224-P1549-35	Q224	P1549	'kroatisk'@sv
+Q224-P1549-32	Q224	P1549	'kroato'@eo
+Q224-P1549-17	Q224	P1549	'хорват'@uk
+Q224-P1549-19	Q224	P1549	'хорвати'@uk
+Q224-P1549-18	Q224	P1549	'хорватка'@uk
+Q224-P1549-16	Q224	P1549	'хорваты'@ru
+Q224-P1549-34	Q224	P1549	'хрватска'@sr
+Q224-P1549-33	Q224	P1549	'хрватски'@sr
+Q224-P1549-20	Q224	P1549	'קרואטי'@he
+Q224-P1549-21	Q224	P1549	'קרואטית'@he
+Q224-P1549-15	Q224	P1549	'كروات'@ar
+Q224-P1549-13	Q224	P1549	'كرواتي'@ar
+Q224-P1549-14	Q224	P1549	'كرواتية'@ar
+Q224-P1549-25	Q224	P1549	'ক্রোয়েশীয়'@bn
+Q224-P1705-2	Q224	P1705	'Hrvatska'@hr
+Q224-P1705-1	Q224	P1705	'Republika Hrvatska'@hr
+Q224-P1813-2	Q224	P1813	'Croația'@ro
+Q224-P1813-1	Q224	P1813	'🇭🇷'@zxx
+Q225-P1448-3	Q225	P1448	'Bosna i Hercegovina'@bs
+Q225-P1448-1	Q225	P1448	'Bosna i Hercegovina'@hr
+Q225-P1448-4	Q225	P1448	'la Bosnie-Herzégovine'@fr
+Q225-P1448-2	Q225	P1448	'Босна и Херцеговина'@sr
+Q225-P1451-1	Q225	P1451	'The heart shaped land'@en
+Q225-P1549-4	Q225	P1549	'Bosanac'@bs
+Q225-P1549-1	Q225	P1549	'Bosnian'@en
+Q225-P1549-31	Q225	P1549	'Bosnien'@fr
+Q225-P1549-32	Q225	P1549	'Bosnienne'@fr
+Q225-P1549-5	Q225	P1549	'Hercegovac'@bs
+Q225-P1549-2	Q225	P1549	'Herzegovinian'@en
+Q225-P1549-30	Q225	P1549	'bosnia'@ast
+Q225-P1549-26	Q225	P1549	'bosnia'@es
+Q225-P1549-18	Q225	P1549	'bosniac'@ro
+Q225-P1549-22	Q225	P1549	'bosniaca'@it
+Q225-P1549-24	Q225	P1549	'bosniache'@it
+Q225-P1549-23	Q225	P1549	'bosniaci'@it
+Q225-P1549-17	Q225	P1549	'bosniaci'@ro
+Q225-P1549-21	Q225	P1549	'bosniaco'@it
+Q225-P1549-19	Q225	P1549	'bosniacă'@ro
+Q225-P1549-27	Q225	P1549	'bosnian'@lfn
+Q225-P1549-6	Q225	P1549	'bosnier'@da
+Q225-P1549-25	Q225	P1549	'bosnio'@es
+Q225-P1549-29	Q225	P1549	'bosniu'@ast
+Q225-P1549-3	Q225	P1549	'bosznia-hercegovinai'@hu
+Q225-P1549-7	Q225	P1549	'hercegoviner'@da
+Q225-P1549-28	Q225	P1549	'hersegovasce'@lfn
+Q225-P1549-9	Q225	P1549	'босниец'@ru
+Q225-P1549-10	Q225	P1549	'боснийка'@ru
+Q225-P1549-8	Q225	P1549	'боснийцы'@ru
+Q225-P1549-13	Q225	P1549	'боснійка'@uk
+Q225-P1549-15	Q225	P1549	'боснійці'@uk
+Q225-P1549-11	Q225	P1549	'боснієць'@uk
+Q225-P1549-12	Q225	P1549	'герцеговинець'@uk
+Q225-P1549-14	Q225	P1549	'герцеговинка'@uk
+Q225-P1549-16	Q225	P1549	'герцеговинці'@uk
+Q225-P1549-20	Q225	P1549	'বসনীয়'@bn
+Q225-P1705-2	Q225	P1705	'Bosna i Hercegovina'@bs
+Q225-P1705-1	Q225	P1705	'Bosna i Hercegovina'@sh
+Q225-P1813-2	Q225	P1813	'Бүснә-Һәрсәк'@tt
+Q225-P1813-1	Q225	P1813	'🇧🇦'@zxx
+Q227-P1448-1	Q227	P1448	'Azərbaycan Respublikası'@az
+Q227-P1448-2	Q227	P1448	'la République d’Azerbaïdjan'@fr
+Q227-P1549-7	Q227	P1549	'Azerbaijanano'@io
+Q227-P1549-1	Q227	P1549	'Azerbaijani'@en
+Q227-P1549-30	Q227	P1549	'Azerbajĝanano'@eo
+Q227-P1549-33	Q227	P1549	'Azerbaïdjanais'@fr
+Q227-P1549-34	Q227	P1549	'Azerbaïdjanaise'@fr
+Q227-P1549-6	Q227	P1549	'Azeri'@en
+Q227-P1549-8	Q227	P1549	'Lasärbäcänan'@vo
+Q227-P1549-3	Q227	P1549	'aserbajdsjaner'@da
+Q227-P1549-20	Q227	P1549	'azer'@ro
+Q227-P1549-24	Q227	P1549	'azera'@it
+Q227-P1549-32	Q227	P1549	'azerbaidjanesa'@ca
+Q227-P1549-27	Q227	P1549	'azerbaidjani'@lfn
+Q227-P1549-31	Q227	P1549	'azerbaidjanès'@ca
+Q227-P1549-29	Q227	P1549	'azerbaixana'@ast
+Q227-P1549-28	Q227	P1549	'azerbaixanu'@ast
+Q227-P1549-26	Q227	P1549	'azere'@it
+Q227-P1549-2	Q227	P1549	'azeri'@hu
+Q227-P1549-25	Q227	P1549	'azeri'@it
+Q227-P1549-19	Q227	P1549	'azeri'@ro
+Q227-P1549-23	Q227	P1549	'azero'@it
+Q227-P1549-21	Q227	P1549	'azeră'@ro
+Q227-P1549-4	Q227	P1549	'Ázerbájdžánec'@cs
+Q227-P1549-5	Q227	P1549	'Ázerbájdžánka'@cs
+Q227-P1549-14	Q227	P1549	'азербайджанець'@uk
+Q227-P1549-15	Q227	P1549	'азербайджанка'@uk
+Q227-P1549-13	Q227	P1549	'азербайджанцы'@ru
+Q227-P1549-16	Q227	P1549	'азербайджанці'@uk
+Q227-P1549-17	Q227	P1549	'אזרי'@he
+Q227-P1549-18	Q227	P1549	'אזרית'@he
+Q227-P1549-9	Q227	P1549	'أذربيجاني'@ar
+Q227-P1549-10	Q227	P1549	'أذربيجانية'@ar
+Q227-P1549-11	Q227	P1549	'أذربيجانيون'@ar
+Q227-P1549-22	Q227	P1549	'আজারবাইজানী'@bn
+Q227-P1549-12	Q227	P1549	'აზერბაიჯანელი'@ka
+Q227-P1705-1	Q227	P1705	'Azərbaycan Respublikası'@az
+Q227-P1705-2	Q227	P1705	'Azərbaycan'@az
+Q227-P1813-2	Q227	P1813	'Azərbaycan'@az
+Q227-P1813-1	Q227	P1813	'🇦🇿'@zxx
+Q228-P1448-2	Q228	P1448	'Andorra'@ca
+Q228-P1448-1	Q228	P1448	'Principat d\\\\'Andorra'@ca
+Q228-P1448-3	Q228	P1448	'la Principauté d’Andorre'@fr
+Q228-P1451-2	Q228	P1451	'The Pyrenean Country'@en
+Q228-P1451-1	Q228	P1451	'Virtus Unita Fortior'@la
+Q228-P1549-27	Q228	P1549	'Andorano'@eo
+Q228-P1549-12	Q228	P1549	'Andorano'@io
+Q228-P1549-1	Q228	P1549	'Andorran'@en
+Q228-P1549-37	Q228	P1549	'Andorran'@fr
+Q228-P1549-36	Q228	P1549	'Andorrane'@fr
+Q228-P1549-30	Q228	P1549	'Andořan'@cs
+Q228-P1549-31	Q228	P1549	'Andořanka'@cs
+Q228-P1549-13	Q228	P1549	'Landoränan'@vo
+Q228-P1549-24	Q228	P1549	'andoran'@lfn
+Q228-P1549-10	Q228	P1549	'andorrai'@hu
+Q228-P1549-32	Q228	P1549	'andorran'@fr
+Q228-P1549-26	Q228	P1549	'andorrana'@ast
+Q228-P1549-7	Q228	P1549	'andorrana'@ca
+Q228-P1549-9	Q228	P1549	'andorrana'@es
+Q228-P1549-21	Q228	P1549	'andorrana'@it
+Q228-P1549-34	Q228	P1549	'andorrane'@fr
+Q228-P1549-23	Q228	P1549	'andorrane'@it
+Q228-P1549-11	Q228	P1549	'andorraner'@da
+Q228-P1549-35	Q228	P1549	'andorranes'@fr
+Q228-P1549-22	Q228	P1549	'andorrani'@it
+Q228-P1549-8	Q228	P1549	'andorrano'@es
+Q228-P1549-20	Q228	P1549	'andorrano'@it
+Q228-P1549-33	Q228	P1549	'andorrans'@fr
+Q228-P1549-25	Q228	P1549	'andorranu'@ast
+Q228-P1549-6	Q228	P1549	'andorrà'@ca
+Q228-P1549-5	Q228	P1549	'андорранец'@ru
+Q228-P1549-4	Q228	P1549	'андорранка'@ru
+Q228-P1549-2	Q228	P1549	'андорранцы'@ru
+Q228-P1549-3	Q228	P1549	'андоррцы'@ru
+Q228-P1549-17	Q228	P1549	'אנדורי'@he
+Q228-P1549-18	Q228	P1549	'אנדורית'@he
+Q228-P1549-14	Q228	P1549	'أندوري'@ar
+Q228-P1549-15	Q228	P1549	'أندورية'@ar
+Q228-P1549-16	Q228	P1549	'أندوريون'@ar
+Q228-P1549-19	Q228	P1549	'অ্যান্ডোরীয়'@bn
+Q228-P1549-28	Q228	P1549	'アンドラ人'@ja
+Q228-P1549-29	Q228	P1549	'안도라인'@ko
+Q228-P1705-1	Q228	P1705	'Andorra'@ca
+Q228-P1813-1	Q228	P1813	'🇦🇩'@zxx
+Q229-P1448-1	Q229	P1448	'Kıbrıs Cumhuriyeti'@tr
+Q229-P1448-3	Q229	P1448	'la République de Chypre'@fr
+Q229-P1448-2	Q229	P1448	'Κυπριακή Δημοκρατία'@el
+Q229-P1451-1	Q229	P1451	'Cyprus in your heart'@en
+Q229-P1549-4	Q229	P1549	'Chiprano'@io
+Q229-P1549-28	Q229	P1549	'Chypriote'@fr
+Q229-P1549-29	Q229	P1549	'Chypriote'@fr
+Q229-P1549-1	Q229	P1549	'Cypriot'@en
+Q229-P1549-27	Q229	P1549	'Cypriote'@fr
+Q229-P1549-25	Q229	P1549	'Kiprano'@eo
+Q229-P1549-5	Q229	P1549	'Sipreänan'@vo
+Q229-P1549-23	Q229	P1549	'ciprica'@lfn
+Q229-P1549-16	Q229	P1549	'cipriot'@ro
+Q229-P1549-19	Q229	P1549	'cipriota'@it
+Q229-P1549-20	Q229	P1549	'ciprioti'@it
+Q229-P1549-17	Q229	P1549	'cipriotă'@ro
+Q229-P1549-15	Q229	P1549	'ciprioți'@ro
+Q229-P1549-2	Q229	P1549	'ciprusi'@hu
+Q229-P1549-3	Q229	P1549	'cypriot'@da
+Q229-P1549-24	Q229	P1549	'xipriota'@ast
+Q229-P1549-21	Q229	P1549	'xipriota'@ca
+Q229-P1549-22	Q229	P1549	'xipriotes'@ca
+Q229-P1549-26	Q229	P1549	'Κύπριος'@el
+Q229-P1549-9	Q229	P1549	'киприоты'@ru
+Q229-P1549-10	Q229	P1549	'кіпріот'@uk
+Q229-P1549-12	Q229	P1549	'кіпріоти'@uk
+Q229-P1549-11	Q229	P1549	'кіпріотка'@uk
+Q229-P1549-13	Q229	P1549	'קפריסאי'@he
+Q229-P1549-14	Q229	P1549	'קפריסאית'@he
+Q229-P1549-6	Q229	P1549	'قبرصي'@ar
+Q229-P1549-7	Q229	P1549	'قبرصية'@ar
+Q229-P1549-8	Q229	P1549	'قبرصيون'@ar
+Q229-P1549-18	Q229	P1549	'সাইপ্রাসীয়'@bn
+Q229-P1705-1	Q229	P1705	'Kıbrıs Cumhuriyeti'@tr
+Q229-P1705-2	Q229	P1705	'Κυπριακή Δημοκρατία'@el
+Q229-P1813-2	Q229	P1813	'Kıbrıs'@tr
+Q229-P1813-3	Q229	P1813	'Κύπρος'@el
+Q229-P1813-1	Q229	P1813	'🇨🇾'@zxx
+Q2291152-P6375-1	Q2291152	P6375	'Beukenhofstraat 96, Vichte'@nl
+Q230-P1448-3	Q230	P1448	'Georgia'@en
+Q230-P1448-4	Q230	P1448	'la Géorgie'@fr
+Q230-P1448-2	Q230	P1448	'Грузия'@ru
+Q230-P1448-1	Q230	P1448	'საქართველო'@ka
+Q230-P1451-1	Q230	P1451	'ძალა ერთობაშია'@ka
+Q230-P1549-1	Q230	P1549	'Georgian'@en
+Q230-P1549-6	Q230	P1549	'Grusiyänan'@vo
+Q230-P1549-4	Q230	P1549	'Gruziano'@io
+Q230-P1549-36	Q230	P1549	'Géorgien'@fr
+Q230-P1549-37	Q230	P1549	'Géorgienne'@fr
+Q230-P1549-23	Q230	P1549	'Géorgiens'@fr
+Q230-P1549-28	Q230	P1549	'cartuli'@lfn
+Q230-P1549-34	Q230	P1549	'djeyordjin'@wa
+Q230-P1549-35	Q230	P1549	'djeyordjinne'@wa
+Q230-P1549-19	Q230	P1549	'georgian'@ro
+Q230-P1549-33	Q230	P1549	'georgiana'@ca
+Q230-P1549-25	Q230	P1549	'georgiana'@it
+Q230-P1549-27	Q230	P1549	'georgiane'@it
+Q230-P1549-26	Q230	P1549	'georgiani'@it
+Q230-P1549-24	Q230	P1549	'georgiano'@it
+Q230-P1549-20	Q230	P1549	'georgiană'@ro
+Q230-P1549-18	Q230	P1549	'georgieni'@ro
+Q230-P1549-3	Q230	P1549	'georgier'@da
+Q230-P1549-32	Q230	P1549	'georgià'@ca
+Q230-P1549-2	Q230	P1549	'grúz'@hu
+Q230-P1549-22	Q230	P1549	'géorgien'@fr
+Q230-P1549-29	Q230	P1549	'jorjian'@lfn
+Q230-P1549-5	Q230	P1549	'kartvelo'@eo
+Q230-P1549-31	Q230	P1549	'xeorxana'@ast
+Q230-P1549-30	Q230	P1549	'xeorxanu'@ast
+Q230-P1549-8	Q230	P1549	'грузин'@ru
+Q230-P1549-13	Q230	P1549	'грузин'@uk
+Q230-P1549-15	Q230	P1549	'грузини'@uk
+Q230-P1549-9	Q230	P1549	'грузинка'@ru
+Q230-P1549-14	Q230	P1549	'грузинка'@uk
+Q230-P1549-16	Q230	P1549	'גאורגי'@he
+Q230-P1549-17	Q230	P1549	'גאורגית'@he
+Q230-P1549-10	Q230	P1549	'جورجي'@ar
+Q230-P1549-11	Q230	P1549	'جورجية'@ar
+Q230-P1549-12	Q230	P1549	'جورجيون'@ar
+Q230-P1549-21	Q230	P1549	'জর্জীয়'@bn
+Q230-P1549-7	Q230	P1549	'ქართველი'@ka
+Q230-P1705-1	Q230	P1705	'საქართველო'@ka
+Q230-P1813-1	Q230	P1813	'🇬🇪'@zxx
+Q233-P1448-4	Q233	P1448	'Malta'@en
+Q233-P1448-5	Q233	P1448	'Malta'@mt
+Q233-P1448-1	Q233	P1448	'Maltská republika'@cs
+Q233-P1448-3	Q233	P1448	'Repubblika ta\\\\' Malta'@mt
+Q233-P1448-2	Q233	P1448	'Republic of Malta'@en
+Q233-P1448-6	Q233	P1448	'la République de Malte'@fr
+Q233-P1451-1	Q233	P1451	'Truly Mediterranean'@en
+Q233-P1549-24	Q233	P1549	'Maltais'@fr
+Q233-P1549-25	Q233	P1549	'Maltaise'@fr
+Q233-P1549-23	Q233	P1549	'Maltano'@eo
+Q233-P1549-3	Q233	P1549	'Maltano'@io
+Q233-P1549-1	Q233	P1549	'Maltese'@en
+Q233-P1549-4	Q233	P1549	'Malteänan'@vo
+Q233-P1549-22	Q233	P1549	'maltesa'@ast
+Q233-P1549-18	Q233	P1549	'maltese'@it
+Q233-P1549-19	Q233	P1549	'maltesi'@it
+Q233-P1549-12	Q233	P1549	'maltez'@ro
+Q233-P1549-16	Q233	P1549	'maltezi'@ro
+Q233-P1549-13	Q233	P1549	'malteză'@ro
+Q233-P1549-20	Q233	P1549	'malti'@lfn
+Q233-P1549-21	Q233	P1549	'maltés'@ast
+Q233-P1549-2	Q233	P1549	'máltai'@hu
+Q233-P1549-8	Q233	P1549	'мальтийцы'@ru
+Q233-P1549-10	Q233	P1549	'мальтійка'@uk
+Q233-P1549-11	Q233	P1549	'мальтійці'@uk
+Q233-P1549-9	Q233	P1549	'мальтієць'@uk
+Q233-P1549-14	Q233	P1549	'מלטזי'@he
+Q233-P1549-15	Q233	P1549	'מלטזית'@he
+Q233-P1549-5	Q233	P1549	'مالطي'@ar
+Q233-P1549-6	Q233	P1549	'مالطية'@ar
+Q233-P1549-7	Q233	P1549	'مالطيون'@ar
+Q233-P1549-17	Q233	P1549	'মাল্টীয়'@bn
+Q233-P1705-1	Q233	P1705	'Malta'@mt
+Q233-P1813-1	Q233	P1813	'🇲🇹'@zxx
+Q23482-P1448-3	Q23482	P1448	'Sans-Nom'@fr
+Q23482-P1448-2	Q23482	P1448	'Ville-sans-Nom'@fr
+Q23482-P1448-1	Q23482	P1448	'Маrseille'@fr
+Q23482-P1549-1	Q23482	P1549	'Marseillais'@fr
+Q23482-P1549-2	Q23482	P1549	'Marseillaise'@fr
+Q23482-P1705-1	Q23482	P1705	'Marseille'@fr
+Q236-P1448-2	Q236	P1448	'Crna Gora'@hr
+Q236-P1448-4	Q236	P1448	'le Monténégro'@fr
+Q236-P1448-1	Q236	P1448	'Црна Гора / Crna Gora'@sr
+Q236-P1448-3	Q236	P1448	'Црна Гора'@sr
+Q236-P1451-1	Q236	P1451	'Wild Beauty'@en
+Q236-P1549-27	Q236	P1549	'Montenegrano'@eo
+Q236-P1549-4	Q236	P1549	'Montenegrano'@io
+Q236-P1549-1	Q236	P1549	'Montenegrijn'@nl
+Q236-P1549-3	Q236	P1549	'Montenegrin'@en
+Q236-P1549-5	Q236	P1549	'Montenegränan'@vo
+Q236-P1549-32	Q236	P1549	'Monténégrin'@fr
+Q236-P1549-33	Q236	P1549	'Monténégrine'@fr
+Q236-P1549-24	Q236	P1549	'montenegrin'@lfn
+Q236-P1549-26	Q236	P1549	'montenegrina'@ast
+Q236-P1549-29	Q236	P1549	'montenegrina'@es
+Q236-P1549-20	Q236	P1549	'montenegrina'@it
+Q236-P1549-31	Q236	P1549	'montenegrinas'@es
+Q236-P1549-22	Q236	P1549	'montenegrine'@it
+Q236-P1549-21	Q236	P1549	'montenegrini'@it
+Q236-P1549-28	Q236	P1549	'montenegrino'@es
+Q236-P1549-19	Q236	P1549	'montenegrino'@it
+Q236-P1549-30	Q236	P1549	'montenegrinos'@es
+Q236-P1549-25	Q236	P1549	'montenegrín'@ast
+Q236-P1549-2	Q236	P1549	'montenegrói'@hu
+Q236-P1549-16	Q236	P1549	'muntenegrean'@ro
+Q236-P1549-17	Q236	P1549	'muntenegreană'@ro
+Q236-P1549-15	Q236	P1549	'muntenegreni'@ro
+Q236-P1549-23	Q236	P1549	'tsernagorsce'@lfn
+Q236-P1549-9	Q236	P1549	'черногорцы'@ru
+Q236-P1549-10	Q236	P1549	'чорногорець'@uk
+Q236-P1549-11	Q236	P1549	'чорногорка'@uk
+Q236-P1549-12	Q236	P1549	'чорногорці'@uk
+Q236-P1549-13	Q236	P1549	'מונטנגרי'@he
+Q236-P1549-14	Q236	P1549	'מונטנגרית'@he
+Q236-P1549-6	Q236	P1549	'مونتينيغري'@ar
+Q236-P1549-7	Q236	P1549	'مونتينيغرية'@ar
+Q236-P1549-8	Q236	P1549	'مونتينيغريون'@ar
+Q236-P1549-18	Q236	P1549	'মন্টিনিগ্রীয়'@bn
+Q236-P1705-2	Q236	P1705	'Crna Gora'@hr
+Q236-P1705-1	Q236	P1705	'Црна Гора / Crna Gora'@sr
+Q236-P1705-3	Q236	P1705	'Црна Гора'@sr
+Q236-P1813-1	Q236	P1813	'🇲🇪'@zxx
+Q241-P1448-1	Q241	P1448	'Cuba'@es
+Q241-P1448-2	Q241	P1448	'la République de Cuba'@fr
+Q241-P1451-5	Q241	P1451	'Autentica Cuba'@en
+Q241-P1451-4	Q241	P1451	'Fe Orchfygwn Angau neu Famwlad'@cy
+Q241-P1451-2	Q241	P1451	'Homeland or Death, we shall overcome!'@en
+Q241-P1451-1	Q241	P1451	'¡Patria o Muerte, Venceremos!'@es
+Q241-P1451-3	Q241	P1451	'Родина или смърт, ние ще победим!'@bg
+Q241-P1549-37	Q241	P1549	'Cubain'@fr
+Q241-P1549-38	Q241	P1549	'Cubaine'@fr
+Q241-P1549-1	Q241	P1549	'Cuban'@en
+Q241-P1549-32	Q241	P1549	'Kubano'@eo
+Q241-P1549-7	Q241	P1549	'Kubano'@io
+Q241-P1549-8	Q241	P1549	'Kubeänan'@vo
+Q241-P1549-2	Q241	P1549	'cubain'@fr
+Q241-P1549-31	Q241	P1549	'cuban'@lfn
+Q241-P1549-34	Q241	P1549	'cubana'@ast
+Q241-P1549-16	Q241	P1549	'cubana'@es
+Q241-P1549-24	Q241	P1549	'cubana'@it
+Q241-P1549-36	Q241	P1549	'cubanar'@nn
+Q241-P1549-26	Q241	P1549	'cubane'@it
+Q241-P1549-5	Q241	P1549	'cubaner'@da
+Q241-P1549-20	Q241	P1549	'cubanez'@ro
+Q241-P1549-19	Q241	P1549	'cubanezi'@ro
+Q241-P1549-21	Q241	P1549	'cubaneză'@ro
+Q241-P1549-25	Q241	P1549	'cubani'@it
+Q241-P1549-3	Q241	P1549	'cubano'@es
+Q241-P1549-23	Q241	P1549	'cubano'@it
+Q241-P1549-33	Q241	P1549	'cubanu'@ast
+Q241-P1549-6	Q241	P1549	'cubà'@ca
+Q241-P1549-4	Q241	P1549	'kubai'@hu
+Q241-P1549-35	Q241	P1549	'kubanar'@nn
+Q241-P1549-30	Q241	P1549	'κουβανές'@el
+Q241-P1549-29	Q241	P1549	'κουβανή'@el
+Q241-P1549-28	Q241	P1549	'κουβανοί'@el
+Q241-P1549-27	Q241	P1549	'κουβανός'@el
+Q241-P1549-13	Q241	P1549	'кубинець'@uk
+Q241-P1549-14	Q241	P1549	'кубинка'@uk
+Q241-P1549-12	Q241	P1549	'кубинцы'@ru
+Q241-P1549-15	Q241	P1549	'кубинці'@uk
+Q241-P1549-17	Q241	P1549	'קובני'@he
+Q241-P1549-18	Q241	P1549	'קובנית'@he
+Q241-P1549-9	Q241	P1549	'كوبي'@ar
+Q241-P1549-10	Q241	P1549	'كوبية'@ar
+Q241-P1549-11	Q241	P1549	'كوبيون'@ar
+Q241-P1549-22	Q241	P1549	'কিউবান'@bn
+Q241-P1705-1	Q241	P1705	'República de Cuba'@es
+Q241-P1813-1	Q241	P1813	'🇨🇺'@zxx
+Q258-P1448-3	Q258	P1448	'Repubblica Sudafricana'@it
+Q258-P1448-6	Q258	P1448	'Repubblika tal-Afrika t\\\\'Isfel'@mt
+Q258-P1448-1	Q258	P1448	'Republic of South Africa'@en
+Q258-P1448-2	Q258	P1448	'Republiek van Suid-Afrika'@af
+Q258-P1448-5	Q258	P1448	'República de Sudáfrica'@es
+Q258-P1448-4	Q258	P1448	'République d\\\\'Afrique du Sud'@fr
+Q258-P1448-8	Q258	P1448	'Suid-Afrika'@af
+Q258-P1448-9	Q258	P1448	'la République d’Afrique du Sud'@fr
+Q258-P1448-7	Q258	P1448	'Јужноафриканска Република'@mk
+Q258-P1451-2	Q258	P1451	'Ex Unitate Vires'@la
+Q258-P1451-3	Q258	P1451	'Inspiring new ways'@en
+Q258-P1451-1	Q258	P1451	'ǃke e: ǀxarra ǁke'@en
+Q258-P1549-3	Q258	P1549	'South African'@en
+Q258-P1549-8	Q258	P1549	'Sud-Africain'@fr
+Q258-P1549-9	Q258	P1549	'Sud-Africaine'@fr
+Q258-P1549-32	Q258	P1549	'Sud-Afrikano'@eo
+Q258-P1549-34	Q258	P1549	'Sud-africain'@fr
+Q258-P1549-36	Q258	P1549	'Sud-africaine'@fr
+Q258-P1549-35	Q258	P1549	'Sudafricain'@fr
+Q258-P1549-33	Q258	P1549	'Sudafricaine'@fr
+Q258-P1549-6	Q258	P1549	'Sudafrikano'@io
+Q258-P1549-2	Q258	P1549	'Suid-Afrikaner'@af
+Q258-P1549-7	Q258	P1549	'Sulüdafrikänan'@vo
+Q258-P1549-1	Q258	P1549	'Zuid-Afrikaan'@nl
+Q258-P1549-4	Q258	P1549	'dél-afrikai'@hu
+Q258-P1549-19	Q258	P1549	'sud-african'@ro
+Q258-P1549-20	Q258	P1549	'sud-africancă'@ro
+Q258-P1549-18	Q258	P1549	'sud-africani'@ro
+Q258-P1549-26	Q258	P1549	'sudafrican'@lfn
+Q258-P1549-31	Q258	P1549	'sudafricana'@ast
+Q258-P1549-23	Q258	P1549	'sudafricana'@it
+Q258-P1549-25	Q258	P1549	'sudafricane'@it
+Q258-P1549-24	Q258	P1549	'sudafricani'@it
+Q258-P1549-22	Q258	P1549	'sudafricano'@it
+Q258-P1549-30	Q258	P1549	'sudafricanu'@ast
+Q258-P1549-5	Q258	P1549	'sørafrikanere'@nb
+Q258-P1549-27	Q258	P1549	'Јужноафриканец'@mk
+Q258-P1549-28	Q258	P1549	'Јужноафриканка'@mk
+Q258-P1549-29	Q258	P1549	'Јужноафриканци'@mk
+Q258-P1549-13	Q258	P1549	'південноафриканець'@uk
+Q258-P1549-14	Q258	P1549	'південноафриканка'@uk
+Q258-P1549-15	Q258	P1549	'південноафриканці'@uk
+Q258-P1549-16	Q258	P1549	'דרום אפריקאי'@he
+Q258-P1549-17	Q258	P1549	'דרום אפריקאית'@he
+Q258-P1549-10	Q258	P1549	'جنوب أفريقي'@ar
+Q258-P1549-11	Q258	P1549	'جنوب أفريقية'@ar
+Q258-P1549-12	Q258	P1549	'جنوب أفريقيون'@ar
+Q258-P1549-21	Q258	P1549	'দক্ষিণ আফ্রিকান'@bn
+Q258-P1705-1	Q258	P1705	'Suid-Afrika'@af
+Q258-P1813-7	Q258	P1813	'CAR'@az
+Q258-P1813-5	Q258	P1813	'ЈАР'@mk
+Q258-P1813-4	Q258	P1813	'ПАР'@be
+Q258-P1813-3	Q258	P1813	'ПАР'@uk
+Q258-P1813-1	Q258	P1813	'ЮАР'@ru
+Q258-P1813-6	Q258	P1813	'ՀԱՀ'@hy
+Q258-P1813-2	Q258	P1813	'🇿🇦'@zxx
+Q27-P1448-2	Q27	P1448	'Ireland'@en
+Q27-P1448-1	Q27	P1448	'Poblacht na hÉireann'@ga
+Q27-P1448-3	Q27	P1448	'Republic of Ireland'@en
+Q27-P1448-5	Q27	P1448	'l’Irlande'@fr
+Q27-P1448-4	Q27	P1448	'Éire'@ga
+Q27-P1451-1	Q27	P1451	'Jump into Ireland'@en
+Q27-P1549-1	Q27	P1549	'Ier'@nl
+Q27-P1549-2	Q27	P1549	'Irish'@en
+Q27-P1549-30	Q27	P1549	'Irlandais'@fr
+Q27-P1549-31	Q27	P1549	'Irlandaise'@fr
+Q27-P1549-27	Q27	P1549	'Irlandano'@eo
+Q27-P1549-6	Q27	P1549	'Irlandczycy'@pl
+Q27-P1549-4	Q27	P1549	'Irlandczyk'@pl
+Q27-P1549-5	Q27	P1549	'Irlandka'@pl
+Q27-P1549-8	Q27	P1549	'Lireyänan'@vo
+Q27-P1549-24	Q27	P1549	'eres'@lfn
+Q27-P1549-26	Q27	P1549	'irlandesa'@ast
+Q27-P1549-21	Q27	P1549	'irlandese'@it
+Q27-P1549-22	Q27	P1549	'irlandesi'@it
+Q27-P1549-19	Q27	P1549	'irlandez'@ro
+Q27-P1549-18	Q27	P1549	'irlandezi'@ro
+Q27-P1549-20	Q27	P1549	'irlandeză'@ro
+Q27-P1549-25	Q27	P1549	'irlandés'@ast
+Q27-P1549-7	Q27	P1549	'Éireannach'@ga
+Q27-P1549-23	Q27	P1549	'Éireannaigh'@ga
+Q27-P1549-3	Q27	P1549	'ír'@hu
+Q27-P1549-29	Q27	P1549	'Ιρλανδή'@el
+Q27-P1549-28	Q27	P1549	'Ιρλανδός'@el
+Q27-P1549-15	Q27	P1549	'ирландцы'@ru
+Q27-P1549-12	Q27	P1549	'ірландець'@uk
+Q27-P1549-13	Q27	P1549	'ірландка'@uk
+Q27-P1549-14	Q27	P1549	'ірландці'@uk
+Q27-P1549-16	Q27	P1549	'אירי'@he
+Q27-P1549-17	Q27	P1549	'אירית'@he
+Q27-P1549-9	Q27	P1549	'أيرلندي'@ar
+Q27-P1549-10	Q27	P1549	'أيرلندية'@ar
+Q27-P1549-11	Q27	P1549	'أيرلنديون'@ar
+Q27-P1705-2	Q27	P1705	'Ireland'@en
+Q27-P1705-1	Q27	P1705	'Éire'@ga
+Q27-P1813-2	Q27	P1813	'Éire'@ga
+Q27-P1813-1	Q27	P1813	'🇮🇪'@zxx
+Q2782244-P6375-1	Q2782244	P6375	'Kaldenkerkerweg 239-243'@nl
+Q28-P1448-2	Q28	P1448	'Magyarország'@hu
+Q28-P1448-1	Q28	P1448	'Maďarská republika'@cs
+Q28-P1448-3	Q28	P1448	'la Hongrie'@fr
+Q28-P1451-1	Q28	P1451	'Think Hungary more than expected'@en
+Q28-P1549-5	Q28	P1549	'Hongaar'@nl
+Q28-P1549-48	Q28	P1549	'Hongrois'@fr
+Q28-P1549-49	Q28	P1549	'Hongroise'@fr
+Q28-P1549-1	Q28	P1549	'Hungarian'@en
+Q28-P1549-7	Q28	P1549	'Hungariano'@io
+Q28-P1549-9	Q28	P1549	'Macaränan'@vo
+Q28-P1549-3	Q28	P1549	'Ungar'@de
+Q28-P1549-4	Q28	P1549	'Ungarin'@de
+Q28-P1549-29	Q28	P1549	'hongaresa'@ca
+Q28-P1549-30	Q28	P1549	'hongaresos'@ca
+Q28-P1549-28	Q28	P1549	'hongarès'@ca
+Q28-P1549-8	Q28	P1549	'hungaro'@eo
+Q28-P1549-42	Q28	P1549	'húngara'@ast
+Q28-P1549-43	Q28	P1549	'húngaro'@ast
+Q28-P1549-41	Q28	P1549	'húngaru'@ast
+Q28-P1549-34	Q28	P1549	'maghiar'@ro
+Q28-P1549-33	Q28	P1549	'maghiari'@ro
+Q28-P1549-35	Q28	P1549	'maghiară'@ro
+Q28-P1549-39	Q28	P1549	'magiar'@lfn
+Q28-P1549-6	Q28	P1549	'magyar'@hu
+Q28-P1549-14	Q28	P1549	'mađar'@hr
+Q28-P1549-15	Q28	P1549	'mađarica'@hr
+Q28-P1549-40	Q28	P1549	'ungarian'@lfn
+Q28-P1549-2	Q28	P1549	'ungarisch'@de
+Q28-P1549-10	Q28	P1549	'ungersk'@sv
+Q28-P1549-37	Q28	P1549	'ungherese'@it
+Q28-P1549-38	Q28	P1549	'ungheresi'@it
+Q28-P1549-45	Q28	P1549	'Ουγγαρέζα'@el
+Q28-P1549-47	Q28	P1549	'Ουγγαρέζες'@el
+Q28-P1549-46	Q28	P1549	'Ούγγροι'@el
+Q28-P1549-44	Q28	P1549	'Ούγγρος'@el
+Q28-P1549-26	Q28	P1549	'венгерка'@ru
+Q28-P1549-25	Q28	P1549	'венгр'@ru
+Q28-P1549-27	Q28	P1549	'венгры'@ru
+Q28-P1549-20	Q28	P1549	'мадяр'@uk
+Q28-P1549-24	Q28	P1549	'мадяри'@uk
+Q28-P1549-22	Q28	P1549	'мадярка'@uk
+Q28-P1549-19	Q28	P1549	'угорець'@uk
+Q28-P1549-21	Q28	P1549	'угорка'@uk
+Q28-P1549-23	Q28	P1549	'угорці'@uk
+Q28-P1549-12	Q28	P1549	'унгарец'@bg
+Q28-P1549-13	Q28	P1549	'унгарка'@bg
+Q28-P1549-11	Q28	P1549	'унгарци'@bg
+Q28-P1549-31	Q28	P1549	'הונגרי'@he
+Q28-P1549-32	Q28	P1549	'הונגרייה'@he
+Q28-P1549-16	Q28	P1549	'مجري'@ar
+Q28-P1549-17	Q28	P1549	'مجرية'@ar
+Q28-P1549-18	Q28	P1549	'مجريون'@ar
+Q28-P1549-36	Q28	P1549	'হাঙ্গেরীয়'@bn
+Q28-P1705-1	Q28	P1705	'Magyarország'@hu
+Q28-P1813-1	Q28	P1813	'🇭🇺'@zxx
+Q29-P1448-6	Q29	P1448	'Espainiako Erresuma'@eu
+Q29-P1448-5	Q29	P1448	'España'@es
+Q29-P1448-4	Q29	P1448	'Kingdom of Spain'@en
+Q29-P1448-8	Q29	P1448	'Regne d\\\\'Espanya'@ca
+Q29-P1448-2	Q29	P1448	'Reino de España'@es
+Q29-P1448-7	Q29	P1448	'le Royaume d’Espagne'@fr
+Q29-P1448-1	Q29	P1448	'Španělské království'@cs
+Q29-P1448-3	Q29	P1448	'Королівство Іспанія'@uk
+Q29-P1451-1	Q29	P1451	'#spainindetail'@en
+Q29-P1549-47	Q29	P1549	'Espagnol'@fr
+Q29-P1549-48	Q29	P1549	'Espagnole'@fr
+Q29-P1549-16	Q29	P1549	'Hispaniano'@io
+Q29-P1549-8	Q29	P1549	'Spanier'@de
+Q29-P1549-9	Q29	P1549	'Spanierin'@de
+Q29-P1549-1	Q29	P1549	'Spanish'@en
+Q29-P1549-12	Q29	P1549	'Spanjaard'@nl
+Q29-P1549-18	Q29	P1549	'Spanyänan'@vo
+Q29-P1549-10	Q29	P1549	'espanhol'@pt
+Q29-P1549-11	Q29	P1549	'espanhola'@pt
+Q29-P1549-23	Q29	P1549	'espaniol'@lfn
+Q29-P1549-15	Q29	P1549	'espanyol'@ca
+Q29-P1549-19	Q29	P1549	'espanyola'@ca
+Q29-P1549-39	Q29	P1549	'españois'@gl
+Q29-P1549-45	Q29	P1549	'español'@ast
+Q29-P1549-2	Q29	P1549	'español'@es
+Q29-P1549-37	Q29	P1549	'español'@gl
+Q29-P1549-46	Q29	P1549	'española'@ast
+Q29-P1549-3	Q29	P1549	'española'@es
+Q29-P1549-38	Q29	P1549	'española'@gl
+Q29-P1549-43	Q29	P1549	'españolas'@es
+Q29-P1549-40	Q29	P1549	'españolas'@gl
+Q29-P1549-41	Q29	P1549	'españoles'@es
+Q29-P1549-42	Q29	P1549	'españoles'@es
+Q29-P1549-17	Q29	P1549	'hispano'@eo
+Q29-P1549-34	Q29	P1549	'spagnola'@it
+Q29-P1549-36	Q29	P1549	'spagnole'@it
+Q29-P1549-35	Q29	P1549	'spagnoli'@it
+Q29-P1549-33	Q29	P1549	'spagnolo'@it
+Q29-P1549-30	Q29	P1549	'spaniol'@ro
+Q29-P1549-29	Q29	P1549	'spanioli'@ro
+Q29-P1549-31	Q29	P1549	'spaniolă'@ro
+Q29-P1549-7	Q29	P1549	'spanisch'@de
+Q29-P1549-44	Q29	P1549	'spansk'@sv
+Q29-P1549-13	Q29	P1549	'spanyol'@hu
+Q29-P1549-4	Q29	P1549	'испанец'@ru
+Q29-P1549-5	Q29	P1549	'испанка'@ru
+Q29-P1549-14	Q29	P1549	'испански'@bg
+Q29-P1549-6	Q29	P1549	'испанцы'@ru
+Q29-P1549-24	Q29	P1549	'іспанець'@uk
+Q29-P1549-25	Q29	P1549	'іспанка'@uk
+Q29-P1549-26	Q29	P1549	'іспанці'@uk
+Q29-P1549-27	Q29	P1549	'ספרדי'@he
+Q29-P1549-28	Q29	P1549	'ספרדייה'@he
+Q29-P1549-22	Q29	P1549	'إسبان'@ar
+Q29-P1549-20	Q29	P1549	'إسباني'@ar
+Q29-P1549-21	Q29	P1549	'إسبانية'@ar
+Q29-P1549-32	Q29	P1549	'স্পেনীয়'@bn
+Q29-P1705-1	Q29	P1705	'España'@es
+Q29-P1813-4	Q29	P1813	'Espanya'@ca
+Q29-P1813-3	Q29	P1813	'España'@es
+Q29-P1813-2	Q29	P1813	'Spain'@en
+Q29-P1813-1	Q29	P1813	'Іспанія'@uk
+Q29-P1813-5	Q29	P1813	'🇪🇸'@zxx
+Q298-P1448-1	Q298	P1448	'Chile'@es
+Q298-P1448-2	Q298	P1448	'la République du Chili'@fr
+Q298-P1451-3	Q298	P1451	'All are welcome'@en
+Q298-P1451-2	Q298	P1451	'By Right or Might'@en
+Q298-P1451-1	Q298	P1451	'Por la razón o la fuerza'@es
+Q298-P1549-1	Q298	P1549	'Chilean'@en
+Q298-P1549-5	Q298	P1549	'Chiliano'@io
+Q298-P1549-32	Q298	P1549	'Chilien'@fr
+Q298-P1549-31	Q298	P1549	'Chilienne'@fr
+Q298-P1549-7	Q298	P1549	'Cilänan'@vo
+Q298-P1549-2	Q298	P1549	'chilei'@hu
+Q298-P1549-30	Q298	P1549	'chilena'@ast
+Q298-P1549-28	Q298	P1549	'chilena'@es
+Q298-P1549-3	Q298	P1549	'chilener'@da
+Q298-P1549-4	Q298	P1549	'chileno'@es
+Q298-P1549-27	Q298	P1549	'chileno'@es
+Q298-P1549-29	Q298	P1549	'chilenu'@ast
+Q298-P1549-19	Q298	P1549	'chilian'@ro
+Q298-P1549-20	Q298	P1549	'chiliană'@ro
+Q298-P1549-18	Q298	P1549	'chilieni'@ro
+Q298-P1549-23	Q298	P1549	'cilena'@it
+Q298-P1549-25	Q298	P1549	'cilene'@it
+Q298-P1549-24	Q298	P1549	'cileni'@it
+Q298-P1549-22	Q298	P1549	'cileno'@it
+Q298-P1549-26	Q298	P1549	'txilan'@lfn
+Q298-P1549-6	Q298	P1549	'ĉiliano'@eo
+Q298-P1549-11	Q298	P1549	'чилиец'@ru
+Q298-P1549-12	Q298	P1549	'чилийка'@ru
+Q298-P1549-13	Q298	P1549	'чилийцы'@ru
+Q298-P1549-15	Q298	P1549	'чилійка'@uk
+Q298-P1549-16	Q298	P1549	'чилійці'@uk
+Q298-P1549-14	Q298	P1549	'чилієць'@uk
+Q298-P1549-17	Q298	P1549	'צ\\\\'יליאני'@he
+Q298-P1549-8	Q298	P1549	'تشيلي'@ar
+Q298-P1549-9	Q298	P1549	'تشيلية'@ar
+Q298-P1549-10	Q298	P1549	'تشيليون'@ar
+Q298-P1549-21	Q298	P1549	'চিলীয়'@bn
+Q298-P1705-2	Q298	P1705	'Chile'@es
+Q298-P1705-1	Q298	P1705	'República de Chile'@es
+Q298-P1813-1	Q298	P1813	'🇨🇱'@zxx
+Q30-P1448-6	Q30	P1448	'Estados Unidos de América'@es
+Q30-P1448-4	Q30	P1448	'Statele Unite ale Americii'@ro
+Q30-P1448-3	Q30	P1448	'United States'@en
+Q30-P1448-5	Q30	P1448	'Vereinigte Staaten von Amerika'@de
+Q30-P1448-1	Q30	P1448	'the United States of America'@en
+Q30-P1448-7	Q30	P1448	'États-Unis d’Amérique'@fr
+Q30-P1448-2	Q30	P1448	'Сједињене Америчке Државе'@sr
+Q30-P1451-3	Q30	P1451	'All within your reach'@en
+Q30-P1451-2	Q30	P1451	'E Pluribus Unum'@la
+Q30-P1451-1	Q30	P1451	'In God We Trust'@en
+Q30-P1549-1	Q30	P1549	'American'@en
+Q30-P1549-54	Q30	P1549	'Americanaidd'@cy
+Q30-P1549-58	Q30	P1549	'Amerikalı'@tr
+Q30-P1549-6	Q30	P1549	'Amerikaner'@de
+Q30-P1549-7	Q30	P1549	'Amerikanerin'@de
+Q30-P1549-48	Q30	P1549	'Američan'@cs
+Q30-P1549-2	Q30	P1549	'Américain'@fr
+Q30-P1549-3	Q30	P1549	'Américaine'@fr
+Q30-P1549-23	Q30	P1549	'Lamerikänan'@vo
+Q30-P1549-21	Q30	P1549	'Usano'@io
+Q30-P1549-49	Q30	P1549	'american'@lfn
+Q30-P1549-8	Q30	P1549	'american'@ro
+Q30-P1549-44	Q30	P1549	'americana'@pt
+Q30-P1549-9	Q30	P1549	'americancă'@ro
+Q30-P1549-40	Q30	P1549	'americani'@ro
+Q30-P1549-43	Q30	P1549	'americano'@pt
+Q30-P1549-13	Q30	P1549	'amerikai'@hu
+Q30-P1549-12	Q30	P1549	'amerikan'@sv
+Q30-P1549-10	Q30	P1549	'estadounidense'@es
+Q30-P1549-18	Q30	P1549	'estadounidenses'@es
+Q30-P1549-42	Q30	P1549	'estadunidense'@pt-br
+Q30-P1549-27	Q30	P1549	'estatubatuar'@eu
+Q30-P1549-17	Q30	P1549	'estatunidenc'@ca
+Q30-P1549-24	Q30	P1549	'estatunidenca'@ca
+Q30-P1549-53	Q30	P1549	'estauxunidense'@ast
+Q30-P1549-26	Q30	P1549	'nord-americana'@ca
+Q30-P1549-25	Q30	P1549	'nord-americà'@ca
+Q30-P1549-46	Q30	P1549	'statunitense'@it
+Q30-P1549-47	Q30	P1549	'statunitensi'@it
+Q30-P1549-22	Q30	P1549	'usonano'@eo
+Q30-P1549-59	Q30	P1549	'États-Unien'@fr
+Q30-P1549-15	Q30	P1549	'Αμερικανή'@el
+Q30-P1549-16	Q30	P1549	'Αμερικανοί'@el
+Q30-P1549-14	Q30	P1549	'Αμερικανός'@el
+Q30-P1549-55	Q30	P1549	'Американац'@sr
+Q30-P1549-50	Q30	P1549	'Американец'@mk
+Q30-P1549-51	Q30	P1549	'Американка'@mk
+Q30-P1549-56	Q30	P1549	'Американка'@sr
+Q30-P1549-52	Q30	P1549	'Американци'@mk
+Q30-P1549-11	Q30	P1549	'Американци'@sr
+Q30-P1549-34	Q30	P1549	'американец'@ru
+Q30-P1549-31	Q30	P1549	'американець'@uk
+Q30-P1549-35	Q30	P1549	'американка'@ru
+Q30-P1549-32	Q30	P1549	'американка'@uk
+Q30-P1549-19	Q30	P1549	'американски'@bg
+Q30-P1549-36	Q30	P1549	'американцы'@ru
+Q30-P1549-33	Q30	P1549	'американці'@uk
+Q30-P1549-37	Q30	P1549	'אמריקאי'@he
+Q30-P1549-39	Q30	P1549	'אמריקאים'@he
+Q30-P1549-38	Q30	P1549	'אמריקאית'@he
+Q30-P1549-57	Q30	P1549	'آمریکایی'@fa
+Q30-P1549-28	Q30	P1549	'أمريكي'@ar
+Q30-P1549-29	Q30	P1549	'أمريكية'@ar
+Q30-P1549-30	Q30	P1549	'أمريكيون'@ar
+Q30-P1549-45	Q30	P1549	'ماريكان'@arq
+Q30-P1549-41	Q30	P1549	'মার্কিন'@bn
+Q30-P1549-20	Q30	P1549	'ამერიკელი'@ka
+Q30-P1549-4	Q30	P1549	'アメリカ人'@ja
+Q30-P1549-5	Q30	P1549	'米国人'@ja
+Q30-P1549-60	Q30	P1549	'美国人'@zh-hans
+Q30-P1705-1	Q30	P1705	'United States of America'@en
+Q30-P1813-39	Q30	P1813	'ABD'@tr
+Q30-P1813-37	Q30	P1813	'ABŞ'@az
+Q30-P1813-25	Q30	P1813	'AEÁ'@hu
+Q30-P1813-33	Q30	P1813	'AS'@id
+Q30-P1813-13	Q30	P1813	'America'@en
+Q30-P1813-16	Q30	P1813	'Amerika'@de
+Q30-P1813-19	Q30	P1813	'Amerika'@de-at
+Q30-P1813-22	Q30	P1813	'Amerika'@de-ch
+Q30-P1813-31	Q30	P1813	'BNA'@is
+Q30-P1813-9	Q30	P1813	'EE.UU.'@es
+Q30-P1813-11	Q30	P1813	'EUA'@ca
+Q30-P1813-34	Q30	P1813	'EUA'@gl
+Q30-P1813-2	Q30	P1813	'EUA'@pt
+Q30-P1813-4	Q30	P1813	'SUA'@ro
+Q30-P1813-38	Q30	P1813	'UDA'@cy
+Q30-P1813-35	Q30	P1813	'UNITED STATES OF AMERICA'@en
+Q30-P1813-6	Q30	P1813	'USA'@cs
+Q30-P1813-17	Q30	P1813	'USA'@de
+Q30-P1813-20	Q30	P1813	'USA'@de-at
+Q30-P1813-23	Q30	P1813	'USA'@de-ch
+Q30-P1813-1	Q30	P1813	'USA'@en
+Q30-P1813-36	Q30	P1813	'United States of America (the)'@en
+Q30-P1813-14	Q30	P1813	'United States'@en
+Q30-P1813-12	Q30	P1813	'VS'@nl
+Q30-P1813-15	Q30	P1813	'Vereinigte Staaten'@de
+Q30-P1813-18	Q30	P1813	'Vereinigte Staaten'@de-at
+Q30-P1813-21	Q30	P1813	'Vereinigte Staaten'@de-ch
+Q30-P1813-32	Q30	P1813	'É.-U.'@fr
+Q30-P1813-8	Q30	P1813	'АОШ'@udm
+Q30-P1813-27	Q30	P1813	'ЗША'@be
+Q30-P1813-28	Q30	P1813	'ЗША'@be-tarask
+Q30-P1813-3	Q30	P1813	'САД'@sr
+Q30-P1813-5	Q30	P1813	'США'@ru
+Q30-P1813-10	Q30	P1813	'США'@uk
+Q30-P1813-40	Q30	P1813	'ԱՄՆ'@hy
+Q30-P1813-26	Q30	P1813	'ארה\\\\"ב'@he
+Q30-P1813-7	Q30	P1813	'აშშ'@ka
+Q30-P1813-30	Q30	P1813	'米'@ja
+Q30-P1813-29	Q30	P1813	'米国'@ja
+Q30-P1813-24	Q30	P1813	'🇺🇸'@zxx
+Q303690-P6375-1	Q303690	P6375	'Ole Steens gate 10 3015 Drammen'@mul
+Q31-P1448-1	Q31	P1448	'Belgické království'@cs
+Q31-P1448-3	Q31	P1448	'Kingdom of Belgium'@en
+Q31-P1448-4	Q31	P1448	'Koninkrijk België'@nl
+Q31-P1448-2	Q31	P1448	'Königreich Belgien'@de
+Q31-P1448-5	Q31	P1448	'Royaume de Belgique'@fr
+Q31-P1448-6	Q31	P1448	'le Royaume de Belgique'@fr
+Q31-P1451-1	Q31	P1451	'Eendracht maakt macht'@nl
+Q31-P1451-2	Q31	P1451	'L\\\\'union fait la force'@fr
+Q31-P1451-6	Q31	P1451	'La Unió fa la força'@ca
+Q31-P1451-4	Q31	P1451	'La unión hace la fuerza'@es
+Q31-P1451-7	Q31	P1451	'The place to be'@en
+Q31-P1451-5	Q31	P1451	'Undod sy\\\\'n creu cryfder'@cy
+Q31-P1451-3	Q31	P1451	'Unity makes strength'@en
+Q31-P1549-38	Q31	P1549	'Bedje'@wa
+Q31-P1549-1	Q31	P1549	'Belg'@nl
+Q31-P1549-5	Q31	P1549	'Belge'@fr
+Q31-P1549-2	Q31	P1549	'Belgian'@en
+Q31-P1549-8	Q31	P1549	'Belgiano'@io
+Q31-P1549-6	Q31	P1549	'Belgier'@de
+Q31-P1549-4	Q31	P1549	'Belgische'@nl
+Q31-P1549-12	Q31	P1549	'Belgičan'@sk
+Q31-P1549-10	Q31	P1549	'Belgänan'@vo
+Q31-P1549-26	Q31	P1549	'Belsch'@lb
+Q31-P1549-27	Q31	P1549	'Belsch'@lb
+Q31-P1549-36	Q31	P1549	'belga'@ca
+Q31-P1549-20	Q31	P1549	'belga'@es
+Q31-P1549-3	Q31	P1549	'belga'@hu
+Q31-P1549-28	Q31	P1549	'belga'@it
+Q31-P1549-30	Q31	P1549	'belghe'@it
+Q31-P1549-29	Q31	P1549	'belgi'@it
+Q31-P1549-24	Q31	P1549	'belgian'@ro
+Q31-P1549-25	Q31	P1549	'belgiancă'@ro
+Q31-P1549-23	Q31	P1549	'belgieni'@ro
+Q31-P1549-7	Q31	P1549	'belgier'@da
+Q31-P1549-33	Q31	P1549	'belgisk'@sv
+Q31-P1549-9	Q31	P1549	'belgo'@eo
+Q31-P1549-32	Q31	P1549	'beljes'@lfn
+Q31-P1549-35	Q31	P1549	'belxicana'@ast
+Q31-P1549-37	Q31	P1549	'belxicano'@ast
+Q31-P1549-34	Q31	P1549	'belxicanu'@ast
+Q31-P1549-19	Q31	P1549	'бельгийцы'@ru
+Q31-P1549-17	Q31	P1549	'бельгійка'@uk
+Q31-P1549-18	Q31	P1549	'бельгійці'@uk
+Q31-P1549-16	Q31	P1549	'бельгієць'@uk
+Q31-P1549-21	Q31	P1549	'בלגי'@he
+Q31-P1549-22	Q31	P1549	'בלגית'@he
+Q31-P1549-13	Q31	P1549	'بلجيكي'@ar
+Q31-P1549-14	Q31	P1549	'بلجيكية'@ar
+Q31-P1549-15	Q31	P1549	'بلجيكيون'@ar
+Q31-P1549-11	Q31	P1549	'பெல்ஜியர்'@ta
+Q31-P1549-31	Q31	P1549	'比利时'@zh-cn
+Q31-P1705-1	Q31	P1705	'Koninkrijk België'@nl
+Q31-P1705-3	Q31	P1705	'Königreich Belgien'@de
+Q31-P1705-2	Q31	P1705	'Royaume de Belgique'@fr
+Q31-P1813-1	Q31	P1813	'🇧🇪'@zxx
+Q32-P1448-4	Q32	P1448	'Grand-Duché Lëtzebuerg'@lb
+Q32-P1448-1	Q32	P1448	'Grand-Duché de Luxembourg'@fr
+Q32-P1448-3	Q32	P1448	'Groussherzogtum Lëtzebuerg'@lb
+Q32-P1448-2	Q32	P1448	'Großherzogtum Luxemburg'@de
+Q32-P1448-7	Q32	P1448	'Luxembourg'@fr
+Q32-P1448-6	Q32	P1448	'Luxemburg'@de
+Q32-P1448-5	Q32	P1448	'Lëtzebuerg'@lb
+Q32-P1448-8	Q32	P1448	'le Grand-Duché de Luxembourg'@fr
+Q32-P1451-1	Q32	P1451	'Live your unexpected Luxembourg'@en
+Q32-P1549-28	Q32	P1549	'Luxembourgeois'@fr
+Q32-P1549-27	Q32	P1549	'Luxembourgeoise'@fr
+Q32-P1549-3	Q32	P1549	'Luxembourger'@en
+Q32-P1549-23	Q32	P1549	'Luxembourgian'@en
+Q32-P1549-2	Q32	P1549	'Luxembourgish'@en
+Q32-P1549-1	Q32	P1549	'Luxemburger'@nl
+Q32-P1549-5	Q32	P1549	'Luxemburgiano'@io
+Q32-P1549-6	Q32	P1549	'Luxämburgänan'@vo
+Q32-P1549-16	Q32	P1549	'Lëtzebuerger'@lb
+Q32-P1549-17	Q32	P1549	'Lëtzebuergerin'@lb
+Q32-P1549-21	Q32	P1549	'lussemburghese'@it
+Q32-P1549-22	Q32	P1549	'lussemburghesi'@it
+Q32-P1549-12	Q32	P1549	'luxembourgeois'@fr
+Q32-P1549-13	Q32	P1549	'luxembourgeoise'@fr
+Q32-P1549-24	Q32	P1549	'luxemburges'@lfn
+Q32-P1549-10	Q32	P1549	'luxemburghez'@ro
+Q32-P1549-19	Q32	P1549	'luxemburghez'@ro
+Q32-P1549-18	Q32	P1549	'luxemburghezi'@ro
+Q32-P1549-11	Q32	P1549	'luxemburgheză'@ro
+Q32-P1549-4	Q32	P1549	'luxemburgi'@hu
+Q32-P1549-26	Q32	P1549	'luxemburguesa'@ast
+Q32-P1549-25	Q32	P1549	'luxemburgués'@ast
+Q32-P1549-14	Q32	P1549	'לוקסמבורגי'@he
+Q32-P1549-15	Q32	P1549	'לוקסמבורגית'@he
+Q32-P1549-7	Q32	P1549	'لوكسمبورغي'@ar
+Q32-P1549-8	Q32	P1549	'لوكسمبورغية'@ar
+Q32-P1549-9	Q32	P1549	'لوكسمبورغيون'@ar
+Q32-P1549-20	Q32	P1549	'লুক্সেমবুর্গীয়'@bn
+Q32-P1705-2	Q32	P1705	'Luxembourg'@fr
+Q32-P1705-1	Q32	P1705	'Lëtzebuerg'@lb
+Q32-P1813-1	Q32	P1813	'🇱🇺'@zxx
+Q33-P1448-1	Q33	P1448	'Finská republika'@cs
+Q33-P1448-2	Q33	P1448	'Lääˊddjânnam'@sms
+Q33-P1448-5	Q33	P1448	'Republiken Finland'@sv
+Q33-P1448-6	Q33	P1448	'Soome Vabariik'@et
+Q33-P1448-4	Q33	P1448	'Suomen tasavalta'@fi
+Q33-P1448-7	Q33	P1448	'Suomi'@fi
+Q33-P1448-3	Q33	P1448	'Suomâ'@smn
+Q33-P1448-8	Q33	P1448	'la République de Finlande'@fr
+Q33-P1451-1	Q33	P1451	'I wish I was in Finland'@en
+Q33-P1549-1	Q33	P1549	'Fin'@nl
+Q33-P1549-43	Q33	P1549	'Finlandais'@fr
+Q33-P1549-44	Q33	P1549	'Finlandaise'@fr
+Q33-P1549-11	Q33	P1549	'Finlandano'@io
+Q33-P1549-4	Q33	P1549	'Finn'@en
+Q33-P1549-2	Q33	P1549	'Finnish'@en
+Q33-P1549-12	Q33	P1549	'Suomiyänan'@vo
+Q33-P1549-37	Q33	P1549	'finesa'@es
+Q33-P1549-41	Q33	P1549	'finesas'@es
+Q33-P1549-42	Q33	P1549	'fineses'@es
+Q33-P1549-30	Q33	P1549	'finlandesa'@ast
+Q33-P1549-33	Q33	P1549	'finlandesa'@ca
+Q33-P1549-35	Q33	P1549	'finlandesa'@es
+Q33-P1549-39	Q33	P1549	'finlandesas'@es
+Q33-P1549-24	Q33	P1549	'finlandese'@it
+Q33-P1549-40	Q33	P1549	'finlandeses'@es
+Q33-P1549-25	Q33	P1549	'finlandesi'@it
+Q33-P1549-21	Q33	P1549	'finlandez'@ro
+Q33-P1549-20	Q33	P1549	'finlandezi'@ro
+Q33-P1549-22	Q33	P1549	'finlandeză'@ro
+Q33-P1549-32	Q33	P1549	'finlandès'@ca
+Q33-P1549-29	Q33	P1549	'finlandés'@ast
+Q33-P1549-36	Q33	P1549	'finlandés'@es
+Q33-P1549-28	Q33	P1549	'finländare'@sv
+Q33-P1549-34	Q33	P1549	'finländskt'@sv
+Q33-P1549-9	Q33	P1549	'finlænder'@da
+Q33-P1549-7	Q33	P1549	'finn'@hu
+Q33-P1549-8	Q33	P1549	'finne'@da
+Q33-P1549-5	Q33	P1549	'finne'@nb
+Q33-P1549-6	Q33	P1549	'finne'@nn
+Q33-P1549-10	Q33	P1549	'finno'@eo
+Q33-P1549-27	Q33	P1549	'finsce'@lfn
+Q33-P1549-38	Q33	P1549	'finés'@es
+Q33-P1549-31	Q33	P1549	'soomlased'@et
+Q33-P1549-3	Q33	P1549	'suomalainen'@fi
+Q33-P1549-26	Q33	P1549	'suomi'@lfn
+Q33-P1549-17	Q33	P1549	'финн'@ru
+Q33-P1549-16	Q33	P1549	'финны'@ru
+Q33-P1549-18	Q33	P1549	'פיני'@he
+Q33-P1549-19	Q33	P1549	'פינית'@he
+Q33-P1549-13	Q33	P1549	'فنلندي'@ar
+Q33-P1549-14	Q33	P1549	'فنلندية'@ar
+Q33-P1549-15	Q33	P1549	'فنلنديون'@ar
+Q33-P1549-23	Q33	P1549	'ফিনিশীয়'@bn
+Q33-P1705-2	Q33	P1705	'Finland'@sv
+Q33-P1705-1	Q33	P1705	'Suomi'@fi
+Q33-P1813-1	Q33	P1813	'🇫🇮'@zxx
+Q34-P1448-1	Q34	P1448	'Konungariket Sverige'@sv
+Q34-P1549-8	Q34	P1549	'Suediano'@io
+Q34-P1549-42	Q34	P1549	'Suédois'@fr
+Q34-P1549-43	Q34	P1549	'Suédoise'@fr
+Q34-P1549-10	Q34	P1549	'Svedänan'@vo
+Q34-P1549-2	Q34	P1549	'Swedish'@en
+Q34-P1549-1	Q34	P1549	'Zweed'@nl
+Q34-P1549-36	Q34	P1549	'rootslased'@et
+Q34-P1549-26	Q34	P1549	'suec'@ca
+Q34-P1549-35	Q34	P1549	'sueca'@ast
+Q34-P1549-34	Q34	P1549	'suecu'@ast
+Q34-P1549-24	Q34	P1549	'suedez'@ro
+Q34-P1549-23	Q34	P1549	'suedezi'@ro
+Q34-P1549-25	Q34	P1549	'suedeză'@ro
+Q34-P1549-31	Q34	P1549	'suédois'@fr
+Q34-P1549-32	Q34	P1549	'suédoise'@fr
+Q34-P1549-33	Q34	P1549	'suédoises'@fr
+Q34-P1549-28	Q34	P1549	'svedese'@it
+Q34-P1549-29	Q34	P1549	'svedesi'@it
+Q34-P1549-9	Q34	P1549	'svedo'@eo
+Q34-P1549-30	Q34	P1549	'svensce'@lfn
+Q34-P1549-3	Q34	P1549	'svensk'@sv
+Q34-P1549-38	Q34	P1549	'svensk'@sv
+Q34-P1549-39	Q34	P1549	'svenska'@sv
+Q34-P1549-40	Q34	P1549	'svenskar'@sv
+Q34-P1549-5	Q34	P1549	'svenske'@nb
+Q34-P1549-6	Q34	P1549	'svenske'@nn
+Q34-P1549-4	Q34	P1549	'svensker'@da
+Q34-P1549-41	Q34	P1549	'svenskor'@sv
+Q34-P1549-37	Q34	P1549	'svenskt'@sv
+Q34-P1549-7	Q34	P1549	'svéd'@hu
+Q34-P1549-15	Q34	P1549	'швед'@ru
+Q34-P1549-20	Q34	P1549	'швед'@uk
+Q34-P1549-18	Q34	P1549	'шведи'@uk
+Q34-P1549-16	Q34	P1549	'шведка'@ru
+Q34-P1549-19	Q34	P1549	'шведка'@uk
+Q34-P1549-17	Q34	P1549	'шведы'@ru
+Q34-P1549-21	Q34	P1549	'שוודי'@he
+Q34-P1549-22	Q34	P1549	'שוודית'@he
+Q34-P1549-14	Q34	P1549	'سُوَيْدِيَّات'@ar
+Q34-P1549-12	Q34	P1549	'سُوَيْدِيَّة'@ar
+Q34-P1549-13	Q34	P1549	'سُوَيْدِيُّونَ'@ar
+Q34-P1549-11	Q34	P1549	'سُوَيْدِيّ'@ar
+Q34-P1549-27	Q34	P1549	'সুয়েডীয়'@bn
+Q34-P1705-1	Q34	P1705	'Sverige'@sv
+Q34-P1813-1	Q34	P1813	'🇸🇪'@zxx
+Q35-P1448-1	Q35	P1448	'Danmark'@da
+Q35-P1448-2	Q35	P1448	'le Royaume du Danemark'@fr
+Q35-P1451-1	Q35	P1451	'Happiest place on Earth!'@en
+Q35-P1549-7	Q35	P1549	'Dane'@en
+Q35-P1549-14	Q35	P1549	'Daniano'@io
+Q35-P1549-6	Q35	P1549	'Danish'@en
+Q35-P1549-41	Q35	P1549	'Danois'@fr
+Q35-P1549-42	Q35	P1549	'Danoise'@fr
+Q35-P1549-16	Q35	P1549	'Danänan'@vo
+Q35-P1549-2	Q35	P1549	'Deen'@nl
+Q35-P1549-34	Q35	P1549	'Däne'@de
+Q35-P1549-35	Q35	P1549	'Dänen'@de
+Q35-P1549-36	Q35	P1549	'Dänin'@de
+Q35-P1549-37	Q35	P1549	'Däninnen'@de
+Q35-P1549-39	Q35	P1549	'danesa'@ast
+Q35-P1549-13	Q35	P1549	'danesa'@es
+Q35-P1549-31	Q35	P1549	'danese'@it
+Q35-P1549-32	Q35	P1549	'danesi'@it
+Q35-P1549-26	Q35	P1549	'danez'@ro
+Q35-P1549-25	Q35	P1549	'danezi'@ro
+Q35-P1549-27	Q35	P1549	'daneză'@ro
+Q35-P1549-15	Q35	P1549	'dano'@eo
+Q35-P1549-33	Q35	P1549	'dansce'@lfn
+Q35-P1549-29	Q35	P1549	'dansk'@sv
+Q35-P1549-8	Q35	P1549	'danske'@nb
+Q35-P1549-9	Q35	P1549	'danske'@nn
+Q35-P1549-3	Q35	P1549	'dansker'@da
+Q35-P1549-28	Q35	P1549	'danès'@ca
+Q35-P1549-38	Q35	P1549	'danés'@ast
+Q35-P1549-12	Q35	P1549	'danés'@es
+Q35-P1549-11	Q35	P1549	'dán'@hu
+Q35-P1549-1	Q35	P1549	'dänisch'@de
+Q35-P1549-40	Q35	P1549	'taanlased'@et
+Q35-P1549-23	Q35	P1549	'δανή'@el
+Q35-P1549-24	Q35	P1549	'δανοί'@el
+Q35-P1549-22	Q35	P1549	'δανός'@el
+Q35-P1549-4	Q35	P1549	'Данац'@sr
+Q35-P1549-5	Q35	P1549	'Данкиња'@sr
+Q35-P1549-10	Q35	P1549	'Данци'@sr
+Q35-P1549-19	Q35	P1549	'датчане'@ru
+Q35-P1549-17	Q35	P1549	'датчанин'@ru
+Q35-P1549-18	Q35	P1549	'датчанка'@ru
+Q35-P1549-20	Q35	P1549	'דני'@he
+Q35-P1549-21	Q35	P1549	'דנית'@he
+Q35-P1549-30	Q35	P1549	'ডেনীয়'@bn
+Q35-P1705-1	Q35	P1705	'Danmark'@da
+Q35-P1813-1	Q35	P1813	'🇩🇰'@zxx
+Q3508302-P1448-1	Q3508302	P1448	'PIVOVAR SVIJANY, a.s.'@cs
+Q3546954-P1476-1	Q3546954	P1476	'Tête de turc'@fr
+Q36-P1448-15	Q36	P1448	'Polska'@pl
+Q36-P1448-9	Q36	P1448	'Polsko Republika'@szl
+Q36-P1448-12	Q36	P1448	'Polská republika'@cs
+Q36-P1448-13	Q36	P1448	'Poola Vabariik'@et
+Q36-P1448-14	Q36	P1448	'Puolan tasavalta'@fi
+Q36-P1448-3	Q36	P1448	'Repubblica di Polonia'@it
+Q36-P1448-2	Q36	P1448	'Republic of Poland'@en
+Q36-P1448-4	Q36	P1448	'Republik Polen'@de
+Q36-P1448-7	Q36	P1448	'República da Polónia'@pt
+Q36-P1448-6	Q36	P1448	'República de Polonia'@es
+Q36-P1448-10	Q36	P1448	'República de Polònia'@ca
+Q36-P1448-1	Q36	P1448	'Rzeczpospolita Polska'@pl
+Q36-P1448-5	Q36	P1448	'République de Pologne'@fr
+Q36-P1448-16	Q36	P1448	'la République de Pologne'@fr
+Q36-P1448-8	Q36	P1448	'Республика Польша'@ru
+Q36-P1448-11	Q36	P1448	'רפובליקת פולין'@he
+Q36-P1451-1	Q36	P1451	'Move your imagination'@en
+Q36-P1549-50	Q36	P1549	'Polacy'@pl
+Q36-P1549-48	Q36	P1549	'Polak'@pl
+Q36-P1549-1	Q36	P1549	'Pole'@de
+Q36-P1549-11	Q36	P1549	'Poliak'@sk
+Q36-P1549-2	Q36	P1549	'Polin'@de
+Q36-P1549-9	Q36	P1549	'Polish'@en
+Q36-P1549-49	Q36	P1549	'Polka'@pl
+Q36-P1549-51	Q36	P1549	'Polki'@pl
+Q36-P1549-52	Q36	P1549	'Polonais'@fr
+Q36-P1549-53	Q36	P1549	'Polonaise'@fr
+Q36-P1549-54	Q36	P1549	'Polonaises'@fr
+Q36-P1549-14	Q36	P1549	'Poloniano'@io
+Q36-P1549-15	Q36	P1549	'Polänan'@vo
+Q36-P1549-6	Q36	P1549	'Pool'@nl
+Q36-P1549-7	Q36	P1549	'Poolse'@nl
+Q36-P1549-12	Q36	P1549	'Poľka'@sk
+Q36-P1549-10	Q36	P1549	'lengyel'@hu
+Q36-P1549-46	Q36	P1549	'polaca'@ast
+Q36-P1549-42	Q36	P1549	'polaca'@es
+Q36-P1549-31	Q36	P1549	'polaca'@pt
+Q36-P1549-44	Q36	P1549	'polacas'@es
+Q36-P1549-35	Q36	P1549	'polacca'@it
+Q36-P1549-37	Q36	P1549	'polacche'@it
+Q36-P1549-36	Q36	P1549	'polacchi'@it
+Q36-P1549-34	Q36	P1549	'polacco'@it
+Q36-P1549-41	Q36	P1549	'polaco'@es
+Q36-P1549-30	Q36	P1549	'polaco'@pt
+Q36-P1549-43	Q36	P1549	'polacos'@es
+Q36-P1549-45	Q36	P1549	'polacu'@ast
+Q36-P1549-38	Q36	P1549	'polakk'@nb
+Q36-P1549-8	Q36	P1549	'polnisch'@de
+Q36-P1549-13	Q36	P1549	'polo'@eo
+Q36-P1549-20	Q36	P1549	'polonesa'@ca
+Q36-P1549-33	Q36	P1549	'polonesa'@pt-br
+Q36-P1549-21	Q36	P1549	'polonesos'@ca
+Q36-P1549-25	Q36	P1549	'polonez'@ro
+Q36-P1549-24	Q36	P1549	'polonezi'@ro
+Q36-P1549-26	Q36	P1549	'poloneză'@ro
+Q36-P1549-19	Q36	P1549	'polonès'@ca
+Q36-P1549-32	Q36	P1549	'polonês'@pt-br
+Q36-P1549-39	Q36	P1549	'polsce'@lfn
+Q36-P1549-40	Q36	P1549	'polsk'@sv
+Q36-P1549-47	Q36	P1549	'poolakad'@et
+Q36-P1549-29	Q36	P1549	'Πολωνή'@el
+Q36-P1549-28	Q36	P1549	'Πολωνός'@el
+Q36-P1549-3	Q36	P1549	'поляк'@ru
+Q36-P1549-5	Q36	P1549	'поляки'@ru
+Q36-P1549-4	Q36	P1549	'полячка'@ru
+Q36-P1549-22	Q36	P1549	'פולני'@he
+Q36-P1549-23	Q36	P1549	'פולנייה'@he
+Q36-P1549-16	Q36	P1549	'بولندي'@ar
+Q36-P1549-17	Q36	P1549	'بولندية'@ar
+Q36-P1549-18	Q36	P1549	'بولنديون'@ar
+Q36-P1549-27	Q36	P1549	'পোলীয়'@bn
+Q36-P1705-2	Q36	P1705	'Polska'@pl
+Q36-P1705-1	Q36	P1705	'Rzeczpospolita Polska'@pl
+Q36-P1813-3	Q36	P1813	'Pologne'@fr
+Q36-P1813-2	Q36	P1813	'Польша'@ru
+Q36-P1813-1	Q36	P1813	'🇵🇱'@zxx
+Q37-P1448-3	Q37	P1448	'Leedu Vabariik'@et
+Q37-P1448-4	Q37	P1448	'Lietuva'@lt
+Q37-P1448-1	Q37	P1448	'Lietuvos Respublika'@lt
+Q37-P1448-2	Q37	P1448	'Litevská republika'@cs
+Q37-P1448-5	Q37	P1448	'la République de Lituanie'@fr
+Q37-P1451-3	Q37	P1451	'Real is Beautiful'@en
+Q37-P1451-1	Q37	P1451	'Vienybė težydi'@lt
+Q37-P1451-2	Q37	P1451	'Нека единството да процъфтява'@bg
+Q37-P1549-11	Q37	P1549	'Lietuvänan'@vo
+Q37-P1549-2	Q37	P1549	'Litauer'@de
+Q37-P1549-3	Q37	P1549	'Litauerin'@de
+Q37-P1549-5	Q37	P1549	'Lithuanian'@en
+Q37-P1549-4	Q37	P1549	'Litouwer'@nl
+Q37-P1549-10	Q37	P1549	'Lituaniano'@io
+Q37-P1549-37	Q37	P1549	'Lituanien'@fr
+Q37-P1549-36	Q37	P1549	'Lituanienne'@fr
+Q37-P1549-35	Q37	P1549	'leedulased'@et
+Q37-P1549-32	Q37	P1549	'lietuvisce'@lfn
+Q37-P1549-1	Q37	P1549	'litauisch'@de
+Q37-P1549-34	Q37	P1549	'lituana'@ast
+Q37-P1549-20	Q37	P1549	'lituana'@ca
+Q37-P1549-29	Q37	P1549	'lituana'@it
+Q37-P1549-31	Q37	P1549	'lituane'@it
+Q37-P1549-30	Q37	P1549	'lituani'@it
+Q37-P1549-25	Q37	P1549	'lituanian'@ro
+Q37-P1549-26	Q37	P1549	'lituaniană'@ro
+Q37-P1549-24	Q37	P1549	'lituanieni'@ro
+Q37-P1549-28	Q37	P1549	'lituano'@it
+Q37-P1549-21	Q37	P1549	'lituans'@ca
+Q37-P1549-33	Q37	P1549	'lituanu'@ast
+Q37-P1549-19	Q37	P1549	'lituà'@ca
+Q37-P1549-9	Q37	P1549	'litván'@hu
+Q37-P1549-6	Q37	P1549	'литовец'@ru
+Q37-P1549-16	Q37	P1549	'литовець'@uk
+Q37-P1549-7	Q37	P1549	'литовка'@ru
+Q37-P1549-17	Q37	P1549	'литовка'@uk
+Q37-P1549-8	Q37	P1549	'литовцы'@ru
+Q37-P1549-18	Q37	P1549	'литовці'@uk
+Q37-P1549-22	Q37	P1549	'ליטאי'@he
+Q37-P1549-23	Q37	P1549	'ליטאית'@he
+Q37-P1549-13	Q37	P1549	'ليتواني'@ar
+Q37-P1549-14	Q37	P1549	'ليتوانية'@ar
+Q37-P1549-15	Q37	P1549	'ليتوانيون'@ar
+Q37-P1549-27	Q37	P1549	'লিথুয়ানীয়'@bn
+Q37-P1549-12	Q37	P1549	'லித்துவேனியர்'@ta
+Q37-P1705-1	Q37	P1705	'Lietuva'@lt
+Q37-P1813-1	Q37	P1813	'Литва'@ru
+Q37-P1813-2	Q37	P1813	'🇱🇹'@zxx
+Q371901-P6375-1	Q371901	P6375	'Faxe Alle'@da
+Q38-P1448-2	Q38	P1448	'Italia'@it
+Q38-P1448-1	Q38	P1448	'Repubblica Italiana'@it
+Q38-P1448-3	Q38	P1448	'la République italienne'@fr
+Q38-P1451-1	Q38	P1451	'Made in Italy'@en
+Q38-P1549-1	Q38	P1549	'Italiaan'@nl
+Q38-P1549-2	Q38	P1549	'Italian'@en
+Q38-P1549-7	Q38	P1549	'Italiano'@io
+Q38-P1549-36	Q38	P1549	'Italien'@fr
+Q38-P1549-33	Q38	P1549	'Italiener'@de
+Q38-P1549-20	Q38	P1549	'Italiener'@lb
+Q38-P1549-21	Q38	P1549	'Italienerin'@lb
+Q38-P1549-35	Q38	P1549	'Italienne'@fr
+Q38-P1549-34	Q38	P1549	'Itałiani'@vec
+Q38-P1549-8	Q38	P1549	'Litaliyänan'@vo
+Q38-P1549-4	Q38	P1549	'italialainen'@fi
+Q38-P1549-29	Q38	P1549	'italian'@lfn
+Q38-P1549-23	Q38	P1549	'italian'@ro
+Q38-P1549-32	Q38	P1549	'italiana'@ast
+Q38-P1549-26	Q38	P1549	'italiana'@it
+Q38-P1549-24	Q38	P1549	'italiancă'@ro
+Q38-P1549-28	Q38	P1549	'italiane'@it
+Q38-P1549-27	Q38	P1549	'italiani'@it
+Q38-P1549-25	Q38	P1549	'italiano'@it
+Q38-P1549-31	Q38	P1549	'italianu'@ast
+Q38-P1549-22	Q38	P1549	'italieni'@ro
+Q38-P1549-30	Q38	P1549	'italiensk'@sv
+Q38-P1549-5	Q38	P1549	'italo'@eo
+Q38-P1549-3	Q38	P1549	'olasz'@hu
+Q38-P1549-12	Q38	P1549	'итальянец'@ru
+Q38-P1549-13	Q38	P1549	'итальянка'@ru
+Q38-P1549-14	Q38	P1549	'итальянцы'@ru
+Q38-P1549-16	Q38	P1549	'італійка'@uk
+Q38-P1549-17	Q38	P1549	'італійці'@uk
+Q38-P1549-15	Q38	P1549	'італієць'@uk
+Q38-P1549-18	Q38	P1549	'איטלקי'@he
+Q38-P1549-19	Q38	P1549	'איטלקייה'@he
+Q38-P1549-9	Q38	P1549	'إيطالي'@ar
+Q38-P1549-10	Q38	P1549	'إيطالية'@ar
+Q38-P1549-11	Q38	P1549	'إِيطَالِيُّونَ'@ar
+Q38-P1549-6	Q38	P1549	'ইতালীয়'@bn
+Q38-P1705-2	Q38	P1705	'Italia'@it
+Q38-P1705-1	Q38	P1705	'Repubblica Italiana'@it
+Q38-P1813-1	Q38	P1813	'🇮🇹'@zxx
+Q39-P1448-4	Q39	P1448	'Confederazione svizzera'@it
+Q39-P1448-5	Q39	P1448	'Confederaziun svizra'@rm
+Q39-P1448-1	Q39	P1448	'Confoederatio Helvetica'@la
+Q39-P1448-3	Q39	P1448	'Confédération suisse'@fr
+Q39-P1448-6	Q39	P1448	'Schweiz'@de
+Q39-P1448-2	Q39	P1448	'Schweizerische Eidgenossenschaft'@de
+Q39-P1448-7	Q39	P1448	'la Confédération suisse'@fr
+Q39-P1451-2	Q39	P1451	'Einer für alle, alle für einen'@de-ch
+Q39-P1451-5	Q39	P1451	'In per tuts, tuts per in'@rm
+Q39-P1451-6	Q39	P1451	'Un er mwyn pawb; pawb er mwyn un'@cy
+Q39-P1451-3	Q39	P1451	'Un pour tous, tous pour un'@fr
+Q39-P1451-4	Q39	P1451	'Uno per tutti, tutti per uno'@it
+Q39-P1451-1	Q39	P1451	'Unus pro omnibus, omnes pro uno'@la
+Q39-P1451-7	Q39	P1451	'אחד למען כולם, כולם למען אחד'@he
+Q39-P1549-10	Q39	P1549	'Jveizänan'@vo
+Q39-P1549-3	Q39	P1549	'Schweizer'@de
+Q39-P1549-8	Q39	P1549	'Suisiano'@io
+Q39-P1549-4	Q39	P1549	'Suisse'@fr
+Q39-P1549-7	Q39	P1549	'Suissesse'@fr
+Q39-P1549-2	Q39	P1549	'Swiss'@en
+Q39-P1549-1	Q39	P1549	'Zwitser'@nl
+Q39-P1549-23	Q39	P1549	'elvețian'@ro
+Q39-P1549-24	Q39	P1549	'elvețiancă'@ro
+Q39-P1549-22	Q39	P1549	'elvețieni'@ro
+Q39-P1549-31	Q39	P1549	'schweizisk'@sv
+Q39-P1549-30	Q39	P1549	'suiz'@lfn
+Q39-P1549-33	Q39	P1549	'suiza'@ast
+Q39-P1549-34	Q39	P1549	'suiza'@es
+Q39-P1549-35	Q39	P1549	'suizo'@es
+Q39-P1549-32	Q39	P1549	'suizu'@ast
+Q39-P1549-9	Q39	P1549	'sviso'@eo
+Q39-P1549-27	Q39	P1549	'svizzera'@it
+Q39-P1549-29	Q39	P1549	'svizzere'@it
+Q39-P1549-28	Q39	P1549	'svizzeri'@it
+Q39-P1549-26	Q39	P1549	'svizzero'@it
+Q39-P1549-6	Q39	P1549	'svájci'@hu
+Q39-P1549-14	Q39	P1549	'швейцарец'@ru
+Q39-P1549-17	Q39	P1549	'швейцарець'@uk
+Q39-P1549-15	Q39	P1549	'швейцарка'@ru
+Q39-P1549-18	Q39	P1549	'швейцарка'@uk
+Q39-P1549-16	Q39	P1549	'швейцарцы'@ru
+Q39-P1549-19	Q39	P1549	'швейцарці'@uk
+Q39-P1549-20	Q39	P1549	'שווייצרי'@he
+Q39-P1549-21	Q39	P1549	'שווייצרית'@he
+Q39-P1549-11	Q39	P1549	'سويسري'@ar
+Q39-P1549-12	Q39	P1549	'سويسرية'@ar
+Q39-P1549-13	Q39	P1549	'سويسريون'@ar
+Q39-P1549-25	Q39	P1549	'সুইজারল্যান্ডীয়'@bn
+Q39-P1549-5	Q39	P1549	'スイス人'@ja
+Q39-P1705-3	Q39	P1705	'Confederazione Svizzera'@it
+Q39-P1705-4	Q39	P1705	'Confederaziun svizra'@rm
+Q39-P1705-2	Q39	P1705	'Confédération suisse'@fr
+Q39-P1705-1	Q39	P1705	'Schweizerische Eidgenossenschaft'@de
+Q39-P1813-1	Q39	P1813	'🇨🇭'@zxx
+Q399-P1448-3	Q399	P1448	'Ermənistan'@az
+Q399-P1448-4	Q399	P1448	'la République d’Arménie'@fr
+Q399-P1448-1	Q399	P1448	'Հայաստան'@hy
+Q399-P1448-2	Q399	P1448	'Հայաստանի Հանրապետություն'@hy
+Q399-P1451-1	Q399	P1451	'Visit Armenia, It is Beautiful'@en
+Q399-P1549-33	Q399	P1549	'Airméanach'@ga
+Q399-P1549-1	Q399	P1549	'Armenian'@en
+Q399-P1549-6	Q399	P1549	'Armeniano'@io
+Q399-P1549-4	Q399	P1549	'Arménec'@cs
+Q399-P1549-29	Q399	P1549	'Arménien'@fr
+Q399-P1549-34	Q399	P1549	'Arménienne'@fr
+Q399-P1549-30	Q399	P1549	'Arméniens'@fr
+Q399-P1549-5	Q399	P1549	'Arménka'@cs
+Q399-P1549-7	Q399	P1549	'Larmeniyänan'@vo
+Q399-P1549-20	Q399	P1549	'armean'@ro
+Q399-P1549-21	Q399	P1549	'armeancă'@ro
+Q399-P1549-24	Q399	P1549	'armena'@it
+Q399-P1549-26	Q399	P1549	'armene'@it
+Q399-P1549-25	Q399	P1549	'armeni'@it
+Q399-P1549-19	Q399	P1549	'armeni'@ro
+Q399-P1549-32	Q399	P1549	'armenia'@ast
+Q399-P1549-28	Q399	P1549	'armenian'@lfn
+Q399-P1549-3	Q399	P1549	'armenier'@da
+Q399-P1549-31	Q399	P1549	'armeniu'@ast
+Q399-P1549-23	Q399	P1549	'armeno'@it
+Q399-P1549-27	Q399	P1549	'haiaren'@lfn
+Q399-P1549-2	Q399	P1549	'örmény'@hu
+Q399-P1549-13	Q399	P1549	'армяне'@ru
+Q399-P1549-11	Q399	P1549	'армянин'@ru
+Q399-P1549-12	Q399	P1549	'армянка'@ru
+Q399-P1549-14	Q399	P1549	'вірмени'@uk
+Q399-P1549-15	Q399	P1549	'вірменин'@uk
+Q399-P1549-16	Q399	P1549	'вірменка'@uk
+Q399-P1549-17	Q399	P1549	'ארמני'@he
+Q399-P1549-18	Q399	P1549	'ארמנית'@he
+Q399-P1549-8	Q399	P1549	'أرمني'@ar
+Q399-P1549-9	Q399	P1549	'أرمنية'@ar
+Q399-P1549-10	Q399	P1549	'أرمنيون'@ar
+Q399-P1549-22	Q399	P1549	'আর্মেনীয়'@bn
+Q399-P1705-1	Q399	P1705	'Հայաստան'@hy
+Q399-P1705-2	Q399	P1705	'Հայաստանի Հանրապետություն'@hy
+Q399-P1813-1	Q399	P1813	'🇦🇲'@zxx
+Q40-P1448-5	Q40	P1448	'Ausztria'@hu
+Q40-P1448-1	Q40	P1448	'Rakouská republika'@cs
+Q40-P1448-3	Q40	P1448	'Republica Austria'@ro
+Q40-P1448-2	Q40	P1448	'Republik Österreich'@de
+Q40-P1448-6	Q40	P1448	'la République d’Autriche'@fr
+Q40-P1448-4	Q40	P1448	'Österreich'@de
+Q40-P1451-1	Q40	P1451	'Arrive and revive'@en
+Q40-P1549-2	Q40	P1549	'Austrian'@en
+Q40-P1549-5	Q40	P1549	'Austriano'@io
+Q40-P1549-33	Q40	P1549	'Autrichien'@fr
+Q40-P1549-34	Q40	P1549	'Autrichienne'@fr
+Q40-P1549-6	Q40	P1549	'Lösteränan'@vo
+Q40-P1549-1	Q40	P1549	'Oostenrijker'@nl
+Q40-P1549-31	Q40	P1549	'austerrikar'@nn
+Q40-P1549-21	Q40	P1549	'austriac'@ro
+Q40-P1549-30	Q40	P1549	'austriaca'@ast
+Q40-P1549-25	Q40	P1549	'austriaca'@it
+Q40-P1549-27	Q40	P1549	'austriache'@it
+Q40-P1549-26	Q40	P1549	'austriaci'@it
+Q40-P1549-17	Q40	P1549	'austriaco'@es
+Q40-P1549-24	Q40	P1549	'austriaco'@it
+Q40-P1549-29	Q40	P1549	'austriacu'@ast
+Q40-P1549-22	Q40	P1549	'austriacă'@ro
+Q40-P1549-20	Q40	P1549	'austrieci'@ro
+Q40-P1549-28	Q40	P1549	'osteraices'@lfn
+Q40-P1549-3	Q40	P1549	'osztrák'@hu
+Q40-P1549-32	Q40	P1549	'Österreicher'@de
+Q40-P1549-4	Q40	P1549	'østriger'@da
+Q40-P1549-10	Q40	P1549	'австрийцы'@ru
+Q40-P1549-13	Q40	P1549	'австрійка'@uk
+Q40-P1549-15	Q40	P1549	'австрійці'@uk
+Q40-P1549-12	Q40	P1549	'австріяка'@uk
+Q40-P1549-16	Q40	P1549	'австріяки'@uk
+Q40-P1549-14	Q40	P1549	'австріячка'@uk
+Q40-P1549-11	Q40	P1549	'австрієць'@uk
+Q40-P1549-18	Q40	P1549	'אוסטרי'@he
+Q40-P1549-19	Q40	P1549	'אוסטרית'@he
+Q40-P1549-7	Q40	P1549	'نمساوي'@ar
+Q40-P1549-8	Q40	P1549	'نمساوية'@ar
+Q40-P1549-9	Q40	P1549	'نمساويون'@ar
+Q40-P1549-23	Q40	P1549	'অস্ট্রীয়'@bn
+Q40-P1705-1	Q40	P1705	'Republik Österreich'@de
+Q40-P1705-2	Q40	P1705	'Österreich'@de
+Q40-P1813-1	Q40	P1813	'AUT'@en
+Q40-P1813-2	Q40	P1813	'🇦🇹'@zxx
+Q408-P1448-6	Q408	P1448	'Australia'@en
+Q408-P1448-1	Q408	P1448	'Australské společenství'@cs
+Q408-P1448-2	Q408	P1448	'Commonwealth of Australia'@en
+Q408-P1448-3	Q408	P1448	'Cymanwlad Awstralia'@cy
+Q408-P1448-7	Q408	P1448	'le Commonwealth d’Australie'@fr
+Q408-P1448-4	Q408	P1448	'Австралийский союз'@ru
+Q408-P1448-5	Q408	P1448	'Австралійський Союз'@uk
+Q408-P1451-2	Q408	P1451	'Come and say G’day'@en
+Q408-P1451-3	Q408	P1451	'So where the bloody hell are you?'@en
+Q408-P1451-1	Q408	P1451	'There\\\\'s NOTHING like Australia'@en
+Q408-P1549-11	Q408	P1549	'Australan'@cs
+Q408-P1549-12	Q408	P1549	'Australanka'@cs
+Q408-P1549-1	Q408	P1549	'Australian'@en
+Q408-P1549-13	Q408	P1549	'Australiano'@io
+Q408-P1549-40	Q408	P1549	'Australien'@fr
+Q408-P1549-41	Q408	P1549	'Australienne'@fr
+Q408-P1549-39	Q408	P1549	'Australiër'@nl
+Q408-P1549-32	Q408	P1549	'Awstraliad'@cy
+Q408-P1549-15	Q408	P1549	'Laustralänan'@vo
+Q408-P1549-33	Q408	P1549	'australian'@lfn
+Q408-P1549-25	Q408	P1549	'australian'@ro
+Q408-P1549-38	Q408	P1549	'australiana'@ast
+Q408-P1549-36	Q408	P1549	'australiana'@es
+Q408-P1549-29	Q408	P1549	'australiana'@it
+Q408-P1549-26	Q408	P1549	'australiancă'@ro
+Q408-P1549-31	Q408	P1549	'australiane'@it
+Q408-P1549-30	Q408	P1549	'australiani'@it
+Q408-P1549-35	Q408	P1549	'australiano'@es
+Q408-P1549-28	Q408	P1549	'australiano'@it
+Q408-P1549-37	Q408	P1549	'australianu'@ast
+Q408-P1549-24	Q408	P1549	'australieni'@ro
+Q408-P1549-10	Q408	P1549	'australier'@da
+Q408-P1549-34	Q408	P1549	'australisk'@sv
+Q408-P1549-4	Q408	P1549	'ausztrál'@hu
+Q408-P1549-14	Q408	P1549	'aŭstraliano'@eo
+Q408-P1549-9	Q408	P1549	'Αυστραλή'@el
+Q408-P1549-8	Q408	P1549	'Αυστραλός'@el
+Q408-P1549-6	Q408	P1549	'австралиец'@ru
+Q408-P1549-7	Q408	P1549	'австралийка'@ru
+Q408-P1549-3	Q408	P1549	'австралийска'@bg
+Q408-P1549-2	Q408	P1549	'австралийски'@bg
+Q408-P1549-5	Q408	P1549	'австралийцы'@ru
+Q408-P1549-20	Q408	P1549	'австралійка'@uk
+Q408-P1549-21	Q408	P1549	'австралійці'@uk
+Q408-P1549-19	Q408	P1549	'австралієць'@uk
+Q408-P1549-22	Q408	P1549	'אוסטרלי'@he
+Q408-P1549-23	Q408	P1549	'אוסטרלית'@he
+Q408-P1549-16	Q408	P1549	'أسترالي'@ar
+Q408-P1549-17	Q408	P1549	'أسترالية'@ar
+Q408-P1549-18	Q408	P1549	'أستراليون'@ar
+Q408-P1549-27	Q408	P1549	'অস্ট্রেলীয়'@bn
+Q408-P1705-1	Q408	P1705	'Australia'@en
+Q408-P1813-2	Q408	P1813	'AUS'@en
+Q408-P1813-3	Q408	P1813	'Австралия'@ru
+Q408-P1813-1	Q408	P1813	'🇦🇺'@zxx
+Q41-P1448-3	Q41	P1448	'la République hellénique'@fr
+Q41-P1448-2	Q41	P1448	'Ελλάδα'@el
+Q41-P1448-1	Q41	P1448	'Ελληνική Δημοκρατία'@el
+Q41-P1451-3	Q41	P1451	'All Time Classic'@en
+Q41-P1451-2	Q41	P1451	'Rhyddid neu farwolaeth'@cy
+Q41-P1451-1	Q41	P1451	'Ελευθερία ή Θάνατος'@el
+Q41-P1549-39	Q41	P1549	'Grec'@fr
+Q41-P1549-40	Q41	P1549	'Grecque'@fr
+Q41-P1549-11	Q41	P1549	'Greek'@en
+Q41-P1549-14	Q41	P1549	'Grekiano'@io
+Q41-P1549-2	Q41	P1549	'Grieche'@de
+Q41-P1549-3	Q41	P1549	'Griechin'@de
+Q41-P1549-4	Q41	P1549	'Griek'@nl
+Q41-P1549-16	Q41	P1549	'Grikänan'@vo
+Q41-P1549-32	Q41	P1549	'elinica'@lfn
+Q41-P1549-5	Q41	P1549	'grec'@fr
+Q41-P1549-25	Q41	P1549	'grec'@ro
+Q41-P1549-29	Q41	P1549	'greca'@it
+Q41-P1549-31	Q41	P1549	'greche'@it
+Q41-P1549-30	Q41	P1549	'greci'@it
+Q41-P1549-24	Q41	P1549	'greci'@ro
+Q41-P1549-28	Q41	P1549	'greco'@it
+Q41-P1549-26	Q41	P1549	'grecoaică'@ro
+Q41-P1549-6	Q41	P1549	'grecque'@fr
+Q41-P1549-15	Q41	P1549	'greko'@eo
+Q41-P1549-1	Q41	P1549	'griechisch'@de
+Q41-P1549-34	Q41	P1549	'griega'@ast
+Q41-P1549-33	Q41	P1549	'griegu'@ast
+Q41-P1549-13	Q41	P1549	'græker'@da
+Q41-P1549-12	Q41	P1549	'görög'@hu
+Q41-P1549-35	Q41	P1549	'Έλληνας'@el
+Q41-P1549-37	Q41	P1549	'Έλληνες'@el
+Q41-P1549-36	Q41	P1549	'Ελληνίδα'@el
+Q41-P1549-38	Q41	P1549	'Ελληνίδες'@el
+Q41-P1549-8	Q41	P1549	'Грк'@sr
+Q41-P1549-9	Q41	P1549	'Гркиња'@sr
+Q41-P1549-10	Q41	P1549	'Грци'@sr
+Q41-P1549-19	Q41	P1549	'грек'@ru
+Q41-P1549-21	Q41	P1549	'греки'@ru
+Q41-P1549-20	Q41	P1549	'гречанка'@ru
+Q41-P1549-22	Q41	P1549	'יווני'@he
+Q41-P1549-23	Q41	P1549	'יוונייה'@he
+Q41-P1549-17	Q41	P1549	'يوناني'@ar
+Q41-P1549-18	Q41	P1549	'يونانية'@ar
+Q41-P1549-27	Q41	P1549	'গ্রিক'@bn
+Q41-P1549-7	Q41	P1549	'ギリシャ人'@ja
+Q41-P1705-1	Q41	P1705	'Ελλάδα'@el
+Q41-P1705-2	Q41	P1705	'Ελλάς'@el
+Q41-P1705-3	Q41	P1705	'Ελληνική Δημοκρατία'@el
+Q41-P1813-1	Q41	P1813	'🇬🇷'@zxx
+Q414-P1448-1	Q414	P1448	'Argentina'@es
+Q414-P1448-2	Q414	P1448	'la République argentine'@fr
+Q414-P1451-1	Q414	P1451	'Beats to your rhythm'@en
+Q414-P1549-38	Q414	P1549	'Argentin'@fr
+Q414-P1549-10	Q414	P1549	'Argentine'@en
+Q414-P1549-39	Q414	P1549	'Argentine'@fr
+Q414-P1549-5	Q414	P1549	'Argentinec'@cs
+Q414-P1549-1	Q414	P1549	'Argentinian'@en
+Q414-P1549-2	Q414	P1549	'Argentinier'@de
+Q414-P1549-6	Q414	P1549	'Argentinka'@cs
+Q414-P1549-11	Q414	P1549	'Arjentiniano'@io
+Q414-P1549-13	Q414	P1549	'Largäntänan'@vo
+Q414-P1549-3	Q414	P1549	'argentin'@hu
+Q414-P1549-35	Q414	P1549	'argentina'@es
+Q414-P1549-32	Q414	P1549	'argentina'@it
+Q414-P1549-12	Q414	P1549	'argentinano'@eo
+Q414-P1549-34	Q414	P1549	'argentine'@it
+Q414-P1549-7	Q414	P1549	'argentiner'@da
+Q414-P1549-33	Q414	P1549	'argentini'@it
+Q414-P1549-26	Q414	P1549	'argentinian'@ro
+Q414-P1549-27	Q414	P1549	'argentiniancă'@ro
+Q414-P1549-25	Q414	P1549	'argentinieni'@ro
+Q414-P1549-4	Q414	P1549	'argentino'@es
+Q414-P1549-31	Q414	P1549	'argentino'@it
+Q414-P1549-8	Q414	P1549	'argentí'@ca
+Q414-P1549-17	Q414	P1549	'arjentina'@lfn
+Q414-P1549-37	Q414	P1549	'arxentina'@ast
+Q414-P1549-36	Q414	P1549	'arxentín'@ast
+Q414-P1549-30	Q414	P1549	'Αργεντινή'@el
+Q414-P1549-29	Q414	P1549	'Αργεντινός'@el
+Q414-P1549-18	Q414	P1549	'аргентинец'@ru
+Q414-P1549-20	Q414	P1549	'аргентинець'@uk
+Q414-P1549-19	Q414	P1549	'аргентинка'@ru
+Q414-P1549-21	Q414	P1549	'аргентинка'@uk
+Q414-P1549-22	Q414	P1549	'аргентинці'@uk
+Q414-P1549-9	Q414	P1549	'արգենտինացի'@hy
+Q414-P1549-23	Q414	P1549	'ארגנטינאי'@he
+Q414-P1549-24	Q414	P1549	'ארגנטינאית'@he
+Q414-P1549-14	Q414	P1549	'أرجنتيني'@ar
+Q414-P1549-15	Q414	P1549	'أرجنتينية'@ar
+Q414-P1549-16	Q414	P1549	'أرجنتينيون'@ar
+Q414-P1549-28	Q414	P1549	'আর্জেন্টিনীয়'@bn
+Q414-P1813-1	Q414	P1813	'🇦🇷'@zxx
+Q419-P1448-1	Q419	P1448	'Perú'@es
+Q419-P1448-2	Q419	P1448	'la République du Pérou'@fr
+Q419-P1451-2	Q419	P1451	'Firm and Happy for the Union'@en
+Q419-P1451-1	Q419	P1451	'Firme y feliz por la unión'@es
+Q419-P1451-4	Q419	P1451	'Land of the Incas'@en
+Q419-P1451-3	Q419	P1451	'Твърди и радостни за съюза'@bg
+Q419-P1549-5	Q419	P1549	'Peruaan'@nl
+Q419-P1549-6	Q419	P1549	'Peruaanse'@nl
+Q419-P1549-3	Q419	P1549	'Peruano'@io
+Q419-P1549-7	Q419	P1549	'Peruviaan'@nl
+Q419-P1549-8	Q419	P1549	'Peruviaanse'@nl
+Q419-P1549-1	Q419	P1549	'Peruvian'@en
+Q419-P1549-4	Q419	P1549	'Peruvänan'@vo
+Q419-P1549-28	Q419	P1549	'Péruvien'@fr
+Q419-P1549-29	Q419	P1549	'Péruvienne'@fr
+Q419-P1549-25	Q419	P1549	'peruan'@lfn
+Q419-P1549-18	Q419	P1549	'peruan'@ro
+Q419-P1549-27	Q419	P1549	'peruana'@ast
+Q419-P1549-16	Q419	P1549	'peruana'@es
+Q419-P1549-17	Q419	P1549	'peruani'@ro
+Q419-P1549-15	Q419	P1549	'peruano'@es
+Q419-P1549-26	Q419	P1549	'peruanu'@ast
+Q419-P1549-19	Q419	P1549	'peruană'@ro
+Q419-P1549-2	Q419	P1549	'perui'@hu
+Q419-P1549-22	Q419	P1549	'peruviana'@it
+Q419-P1549-24	Q419	P1549	'peruviane'@it
+Q419-P1549-23	Q419	P1549	'peruviani'@it
+Q419-P1549-21	Q419	P1549	'peruviano'@it
+Q419-P1549-12	Q419	P1549	'перуанцы'@ru
+Q419-P1549-13	Q419	P1549	'פרואני'@he
+Q419-P1549-14	Q419	P1549	'פרואנית'@he
+Q419-P1549-9	Q419	P1549	'بيروفي'@ar
+Q419-P1549-10	Q419	P1549	'بيروفية'@ar
+Q419-P1549-11	Q419	P1549	'بيروفيون'@ar
+Q419-P1549-20	Q419	P1549	'পেরুভীয়'@bn
+Q419-P1705-1	Q419	P1705	'República del Perú'@es
+Q419-P1813-1	Q419	P1813	'🇵🇪'@zxx
+Q424-P1448-2	Q424	P1448	'le Royaume du Cambodge'@fr
+Q424-P1448-1	Q424	P1448	'កម្ពុជា'@km
+Q424-P1451-4	Q424	P1451	'Kingdom of wonder'@en
+Q424-P1451-2	Q424	P1451	'Nation, Religion, King'@en
+Q424-P1451-3	Q424	P1451	'Нация, религия, крал'@bg
+Q424-P1451-1	Q424	P1451	'ជាតិ សាសនា ព្រះមហាក្សត្រ'@km
+Q424-P1549-1	Q424	P1549	'Cambodgien'@fr
+Q424-P1549-2	Q424	P1549	'Cambodgienne'@fr
+Q424-P1549-3	Q424	P1549	'Cambodian'@en
+Q424-P1549-8	Q424	P1549	'Kambocänan'@vo
+Q424-P1549-7	Q424	P1549	'Kambodjano'@io
+Q424-P1549-26	Q424	P1549	'Kamboĝano'@eo
+Q424-P1549-16	Q424	P1549	'cambodgian'@ro
+Q424-P1549-17	Q424	P1549	'cambodgiană'@ro
+Q424-P1549-15	Q424	P1549	'cambodgieni'@ro
+Q424-P1549-6	Q424	P1549	'cambodianer'@da
+Q424-P1549-5	Q424	P1549	'cambodjaner'@da
+Q424-P1549-20	Q424	P1549	'cambogiana'@it
+Q424-P1549-22	Q424	P1549	'cambogiane'@it
+Q424-P1549-21	Q424	P1549	'cambogiani'@it
+Q424-P1549-19	Q424	P1549	'cambogiano'@it
+Q424-P1549-25	Q424	P1549	'camboyana'@ast
+Q424-P1549-24	Q424	P1549	'camboyanu'@ast
+Q424-P1549-23	Q424	P1549	'camputxa'@lfn
+Q424-P1549-4	Q424	P1549	'kambodzsai'@hu
+Q424-P1549-12	Q424	P1549	'камбоджийцы'@ru
+Q424-P1549-13	Q424	P1549	'קמבודי'@he
+Q424-P1549-14	Q424	P1549	'קמבודית'@he
+Q424-P1549-9	Q424	P1549	'كمبودي'@ar
+Q424-P1549-10	Q424	P1549	'كمبودية'@ar
+Q424-P1549-11	Q424	P1549	'كمبوديون'@ar
+Q424-P1549-18	Q424	P1549	'কম্বোডীয়'@bn
+Q424-P1705-1	Q424	P1705	'កម្ពុជា'@km
+Q424-P1813-1	Q424	P1813	'🇰🇭'@zxx
+Q43-P1448-1	Q43	P1448	'Türkiye Cumhuriyeti'@tr
+Q43-P1448-2	Q43	P1448	'la République de Turquie'@fr
+Q43-P1451-1	Q43	P1451	'Yurtta Sulh, Cihanda Sulh'@tr
+Q43-P1549-33	Q43	P1549	'Turc'@fr
+Q43-P1549-4	Q43	P1549	'Turk'@nl
+Q43-P1549-9	Q43	P1549	'Turkiano'@io
+Q43-P1549-5	Q43	P1549	'Turkish'@en
+Q43-P1549-34	Q43	P1549	'Turque'@fr
+Q43-P1549-12	Q43	P1549	'Türk'@tr
+Q43-P1549-2	Q43	P1549	'Türke'@de
+Q43-P1549-3	Q43	P1549	'Türkin'@de
+Q43-P1549-11	Q43	P1549	'Türkänan'@vo
+Q43-P1549-22	Q43	P1549	'turc'@ro
+Q43-P1549-32	Q43	P1549	'turca'@ast
+Q43-P1549-26	Q43	P1549	'turca'@it
+Q43-P1549-30	Q43	P1549	'turces'@lfn
+Q43-P1549-28	Q43	P1549	'turche'@it
+Q43-P1549-27	Q43	P1549	'turchi'@it
+Q43-P1549-21	Q43	P1549	'turci'@ro
+Q43-P1549-25	Q43	P1549	'turco'@it
+Q43-P1549-23	Q43	P1549	'turcoaică'@ro
+Q43-P1549-31	Q43	P1549	'turcu'@ast
+Q43-P1549-10	Q43	P1549	'turko'@eo
+Q43-P1549-6	Q43	P1549	'török'@hu
+Q43-P1549-1	Q43	P1549	'türkisch'@de
+Q43-P1549-8	Q43	P1549	'Τουρκάλα'@el
+Q43-P1549-7	Q43	P1549	'Τούρκος'@el
+Q43-P1549-16	Q43	P1549	'турки'@ru
+Q43-P1549-17	Q43	P1549	'турок'@ru
+Q43-P1549-18	Q43	P1549	'турчанка'@ru
+Q43-P1549-19	Q43	P1549	'טורקי'@he
+Q43-P1549-20	Q43	P1549	'טורקייה'@he
+Q43-P1549-15	Q43	P1549	'أترك'@ar
+Q43-P1549-13	Q43	P1549	'تركي'@ar
+Q43-P1549-14	Q43	P1549	'تركية'@ar
+Q43-P1549-24	Q43	P1549	'তুর্কি'@bn
+Q43-P1549-29	Q43	P1549	'თურქი'@ka
+Q43-P1705-1	Q43	P1705	'Türkiye Cumhuriyeti'@tr
+Q43-P1705-2	Q43	P1705	'Türkiye'@tr
+Q43-P1813-1	Q43	P1813	'Türkiye'@tr
+Q43-P1813-2	Q43	P1813	'🇹🇷'@zxx
+Q45-P1448-2	Q45	P1448	'Portugal'@pt
+Q45-P1448-1	Q45	P1448	'Portugalská republika'@cs
+Q45-P1448-3	Q45	P1448	'la République portugaise'@fr
+Q45-P1451-1	Q45	P1451	'Europe\\\\'s West Coast'@en
+Q45-P1549-28	Q45	P1549	'Portugais'@fr
+Q45-P1549-29	Q45	P1549	'Portugaise'@fr
+Q45-P1549-7	Q45	P1549	'Portugalano'@io
+Q45-P1549-1	Q45	P1549	'Portugees'@nl
+Q45-P1549-17	Q45	P1549	'Portugis'@lb
+Q45-P1549-18	Q45	P1549	'Portugisin'@lb
+Q45-P1549-4	Q45	P1549	'Portuguese'@en
+Q45-P1549-8	Q45	P1549	'Portugänan'@vo
+Q45-P1549-23	Q45	P1549	'portoghese'@it
+Q45-P1549-24	Q45	P1549	'portoghesi'@it
+Q45-P1549-25	Q45	P1549	'portuges'@lfn
+Q45-P1549-20	Q45	P1549	'portughez'@ro
+Q45-P1549-19	Q45	P1549	'portughezi'@ro
+Q45-P1549-21	Q45	P1549	'portugheză'@ro
+Q45-P1549-27	Q45	P1549	'portuguesa'@ast
+Q45-P1549-26	Q45	P1549	'portugués'@ast
+Q45-P1549-6	Q45	P1549	'português'@pt
+Q45-P1549-5	Q45	P1549	'portugál'@hu
+Q45-P1549-2	Q45	P1549	'Португалац'@sr
+Q45-P1549-3	Q45	P1549	'Португалка'@sr
+Q45-P1549-12	Q45	P1549	'португалец'@ru
+Q45-P1549-14	Q45	P1549	'португалка'@ru
+Q45-P1549-13	Q45	P1549	'португальцы'@ru
+Q45-P1549-15	Q45	P1549	'פורטוגזי'@he
+Q45-P1549-16	Q45	P1549	'פורטוגזית'@he
+Q45-P1549-9	Q45	P1549	'برتغالي'@ar
+Q45-P1549-10	Q45	P1549	'برتغالية'@ar
+Q45-P1549-11	Q45	P1549	'برتغاليون'@ar
+Q45-P1549-22	Q45	P1549	'পর্তুগিজ'@bn
+Q45-P1705-2	Q45	P1705	'Portugal'@pt
+Q45-P1705-1	Q45	P1705	'República Portuguesa'@pt
+Q45-P1813-1	Q45	P1813	'🇵🇹'@zxx
+Q459-P1448-1	Q459	P1448	'Пловдив'@bg
+Q459-P1705-1	Q459	P1705	'Пловдив'@bg
+Q503-P1843-1	Q503	P1843	'香蕉'@zh-tw
+Q503-P2559-1	Q503	P2559	'for the best-known species, see Q10757112; for the genus, see Q8666090'@en
+Q503-P2559-3	Q503	P2559	'pour les espèces les plus connues, voir Q10757112; pour le genre, voir Q8666090'@fr
+Q503-P2559-2	Q503	P2559	'有关最著名物种，请参见Q10757112；有关生物属，请参见Q8666090'@zh-hans
+Q503-P2559-4	Q503	P2559	'栽培品種はQ10757112、属名はQ8666090を参照'@ja
+Q55-P1448-1	Q55	P1448	'Nederland'@nl
+Q55-P1448-2	Q55	P1448	'le Royaume des Pays-Bas'@fr
+Q55-P1451-5	Q55	P1451	'Cynhaliaf'@cy
+Q55-P1451-1	Q55	P1451	'I will uphold'@en
+Q55-P1451-2	Q55	P1451	'Ik zal handhaven'@nl
+Q55-P1451-3	Q55	P1451	'Je maintiendrai'@fr
+Q55-P1451-4	Q55	P1451	'Ще удържа'@bg
+Q55-P1549-13	Q55	P1549	'Dutch'@en
+Q55-P1549-20	Q55	P1549	'Nederlandano'@io
+Q55-P1549-1	Q55	P1549	'Nederlander'@nl
+Q55-P1549-8	Q55	P1549	'Nederlanner'@fy
+Q55-P1549-21	Q55	P1549	'Nedänan'@vo
+Q55-P1549-10	Q55	P1549	'Neerlandés'@es
+Q55-P1549-16	Q55	P1549	'Niederländer'@de
+Q55-P1549-41	Q55	P1549	'Niederländerin'@de
+Q55-P1549-42	Q55	P1549	'Niederländerinnen'@de
+Q55-P1549-32	Q55	P1549	'Nizozemec'@sl
+Q55-P1549-45	Q55	P1549	'Néerlandais'@fr
+Q55-P1549-46	Q55	P1549	'Néerlandaise'@fr
+Q55-P1549-47	Q55	P1549	'Néerlandaises'@fr
+Q55-P1549-48	Q55	P1549	'Ollannach'@ga
+Q55-P1549-14	Q55	P1549	'holland'@hu
+Q55-P1549-19	Q55	P1549	'jan Netelan'@mis
+Q55-P1549-15	Q55	P1549	'nederlandano'@eo
+Q55-P1549-40	Q55	P1549	'nederlandes'@lfn
+Q55-P1549-18	Q55	P1549	'nederlender'@nb
+Q55-P1549-17	Q55	P1549	'nederlænder'@da
+Q55-P1549-44	Q55	P1549	'neerlandesa'@ast
+Q55-P1549-38	Q55	P1549	'neerlandesa'@ca
+Q55-P1549-39	Q55	P1549	'neerlandesos'@ca
+Q55-P1549-37	Q55	P1549	'neerlandès'@ca
+Q55-P1549-43	Q55	P1549	'neerlandés'@ast
+Q55-P1549-9	Q55	P1549	'neerlandés'@es
+Q55-P1549-33	Q55	P1549	'olandese'@it
+Q55-P1549-34	Q55	P1549	'olandesi'@it
+Q55-P1549-12	Q55	P1549	'Ολλανδός'@el
+Q55-P1549-51	Q55	P1549	'Холанђани'@sr
+Q55-P1549-49	Q55	P1549	'Холанђанин'@sr
+Q55-P1549-50	Q55	P1549	'Холанђанка'@sr
+Q55-P1549-23	Q55	P1549	'голандець'@uk
+Q55-P1549-25	Q55	P1549	'голандка'@uk
+Q55-P1549-27	Q55	P1549	'голандці'@uk
+Q55-P1549-6	Q55	P1549	'голландец'@ru
+Q55-P1549-7	Q55	P1549	'голландка'@ru
+Q55-P1549-2	Q55	P1549	'голландцы'@ru
+Q55-P1549-4	Q55	P1549	'нидерландец'@ru
+Q55-P1549-5	Q55	P1549	'нидерландка'@ru
+Q55-P1549-3	Q55	P1549	'нидерландцы'@ru
+Q55-P1549-24	Q55	P1549	'нідерландець'@uk
+Q55-P1549-26	Q55	P1549	'нідерландка'@uk
+Q55-P1549-28	Q55	P1549	'нідерландці'@uk
+Q55-P1549-29	Q55	P1549	'הולנדי'@he
+Q55-P1549-36	Q55	P1549	'הולנדיות'@he
+Q55-P1549-35	Q55	P1549	'הולנדים'@he
+Q55-P1549-30	Q55	P1549	'הולנדית'@he
+Q55-P1549-22	Q55	P1549	'هولنديون'@ar
+Q55-P1549-31	Q55	P1549	'ওলন্দাজ'@bn
+Q55-P1549-11	Q55	P1549	'オランダ人'@ja
+Q55-P1705-1	Q55	P1705	'Nederland'@nl
+Q55-P1813-1	Q55	P1813	'🇳🇱'@zxx
+Q609966-P1448-1	Q609966	P1448	'BUDĚJOVICKÝ MĚŠŤANSKÝ PIVOVAR a.s.'@cs
+Q61-P1448-1	Q61	P1448	'Washington, District of Columbia'@en
+Q61-P1451-1	Q61	P1451	'Justitia Omnibus'@la
+Q61-P1549-2	Q61	P1549	'Vaŝingtonano'@eo
+Q61-P1549-3	Q61	P1549	'Washingtoner'@de
+Q61-P1549-4	Q61	P1549	'Washingtonerin'@de
+Q61-P1549-5	Q61	P1549	'Washingtonerinnen'@de
+Q61-P1549-1	Q61	P1549	'Washingtonian'@en
+Q61-P1549-7	Q61	P1549	'Washingtonien'@fr
+Q61-P1549-8	Q61	P1549	'Washingtonienne'@fr
+Q61-P1549-6	Q61	P1549	'washingtoniano'@es
+Q61-P1705-1	Q61	P1705	'Washington'@en
+Q61-P1813-1	Q61	P1813	'Washington'@en
+Q61442319-P1476-1	Q61442319	P1476	'Die Societätsbrauerei zum Waldschlößchen bei Dresden'@de
+Q61976614-P1705-1	Q61976614	P1705	'Rastrum'@de
+Q62617508-P1476-1	Q62617508	P1476	'Allerlei alte Biere'@de
+Q664609-P1549-2	Q664609	P1549	'Caribbean person'@en
+Q664609-P1549-1	Q664609	P1549	'Caribbean'@en
+Q664609-P1549-3	Q664609	P1549	'West Indian'@en
+Q69007-P1448-1	Q69007	P1448	'Chur'@de-ch
+Q69007-P1705-1	Q69007	P1705	'Chur'@de
+Q695-P1448-1	Q695	P1448	'Palau'@en
+Q695-P1448-2	Q695	P1448	'la République des Palaos'@fr
+Q695-P1451-2	Q695	P1451	'Pristime Paradise Palau'@en
+Q695-P1451-1	Q695	P1451	novalue
+Q695-P1549-13	Q695	P1549	'Palaois'@fr
+Q695-P1549-14	Q695	P1549	'Palaoise'@fr
+Q695-P1549-2	Q695	P1549	'Palauan'@en
+Q695-P1549-3	Q695	P1549	'Palauano'@io
+Q695-P1549-12	Q695	P1549	'Palaŭano'@eo
+Q695-P1549-10	Q695	P1549	'belau'@lfn
+Q695-P1549-11	Q695	P1549	'de Paláu'@ast
+Q695-P1549-1	Q695	P1549	'palaui'@hu
+Q695-P1549-7	Q695	P1549	'פלאואני'@he
+Q695-P1549-8	Q695	P1549	'פלאואנית'@he
+Q695-P1549-4	Q695	P1549	'بالاوي'@ar
+Q695-P1549-5	Q695	P1549	'بالاوية'@ar
+Q695-P1549-6	Q695	P1549	'بالاويون'@ar
+Q695-P1549-9	Q695	P1549	'পালাউয়ীয়'@bn
+Q695-P1705-1	Q695	P1705	'Republic of Palau'@en
+Q695-P1813-2	Q695	P1813	'PW'@en
+Q695-P1813-1	Q695	P1813	'🇵🇼'@zxx
+Q717-P1448-2	Q717	P1448	'Bolivarian Republic of Venezuela'@en
+Q717-P1448-1	Q717	P1448	'República Bolivariana de Venezuela'@es
+Q717-P1448-3	Q717	P1448	'Venezuela'@es
+Q717-P1448-4	Q717	P1448	'la République bolivarienne du Vénézuéla'@fr
+Q717-P1549-4	Q717	P1549	'Venesolänan'@vo
+Q717-P1549-17	Q717	P1549	'Venezuelan'@en
+Q717-P1549-25	Q717	P1549	'Venezuelano'@eo
+Q717-P1549-3	Q717	P1549	'Venezuelano'@io
+Q717-P1549-27	Q717	P1549	'Venezuelans'@en
+Q717-P1549-30	Q717	P1549	'Vénézuélien'@fr
+Q717-P1549-31	Q717	P1549	'Vénézuélienne'@fr
+Q717-P1549-24	Q717	P1549	'venezolana'@ast
+Q717-P1549-1	Q717	P1549	'venezolano'@es
+Q717-P1549-26	Q717	P1549	'venezolanos'@es
+Q717-P1549-23	Q717	P1549	'venezolanu'@ast
+Q717-P1549-2	Q717	P1549	'venezuelai'@hu
+Q717-P1549-22	Q717	P1549	'venezuelan'@lfn
+Q717-P1549-19	Q717	P1549	'venezuelana'@it
+Q717-P1549-21	Q717	P1549	'venezuelane'@it
+Q717-P1549-20	Q717	P1549	'venezuelani'@it
+Q717-P1549-18	Q717	P1549	'venezuelano'@it
+Q717-P1549-14	Q717	P1549	'venezuelean'@ro
+Q717-P1549-15	Q717	P1549	'venezueleană'@ro
+Q717-P1549-13	Q717	P1549	'venezueleni'@ro
+Q717-P1549-29	Q717	P1549	'veneçolana'@ca
+Q717-P1549-28	Q717	P1549	'veneçolà'@ca
+Q717-P1549-8	Q717	P1549	'венесуэлец'@ru
+Q717-P1549-9	Q717	P1549	'венесуэлка'@ru
+Q717-P1549-10	Q717	P1549	'венесуэльцы'@ru
+Q717-P1549-11	Q717	P1549	'ונצואלי'@he
+Q717-P1549-12	Q717	P1549	'ונצואלית'@he
+Q717-P1549-5	Q717	P1549	'فنزويلي'@ar
+Q717-P1549-6	Q717	P1549	'فنزويلية'@ar
+Q717-P1549-7	Q717	P1549	'فنزويليون'@ar
+Q717-P1549-16	Q717	P1549	'ভেনেজুয়েলীয়'@bn
+Q717-P1705-1	Q717	P1705	'República Bolivariana de Venezuela'@es
+Q717-P1813-1	Q717	P1813	'🇻🇪'@zxx
+Q750-P1448-1	Q750	P1448	'Estado Plurinacional de Bolivia'@es
+Q750-P1448-3	Q750	P1448	'l’État plurinational de Bolivie'@fr
+Q750-P1448-2	Q750	P1448	'État plurinational de Bolivie'@fr
+Q750-P1451-4	Q750	P1451	'Bolivia awaits you'@en
+Q750-P1451-1	Q750	P1451	'La Unión es la Fuerza'@es
+Q750-P1451-2	Q750	P1451	'Unity is Strength'@en
+Q750-P1451-3	Q750	P1451	'Обединението е силата'@bg
+Q750-P1549-1	Q750	P1549	'Bolivian'@en
+Q750-P1549-25	Q750	P1549	'Boliviano'@eo
+Q750-P1549-4	Q750	P1549	'Boliviano'@io
+Q750-P1549-26	Q750	P1549	'Bolivien'@fr
+Q750-P1549-27	Q750	P1549	'Bolivienne'@fr
+Q750-P1549-5	Q750	P1549	'Bolivänan'@vo
+Q750-P1549-22	Q750	P1549	'bolivian'@lfn
+Q750-P1549-15	Q750	P1549	'bolivian'@ro
+Q750-P1549-24	Q750	P1549	'boliviana'@ast
+Q750-P1549-19	Q750	P1549	'boliviana'@it
+Q750-P1549-21	Q750	P1549	'boliviane'@it
+Q750-P1549-3	Q750	P1549	'bolivianer'@da
+Q750-P1549-20	Q750	P1549	'boliviani'@it
+Q750-P1549-18	Q750	P1549	'boliviano'@it
+Q750-P1549-23	Q750	P1549	'bolivianu'@ast
+Q750-P1549-16	Q750	P1549	'boliviană'@ro
+Q750-P1549-14	Q750	P1549	'bolivieni'@ro
+Q750-P1549-2	Q750	P1549	'bolíviai'@hu
+Q750-P1549-10	Q750	P1549	'боливиец'@ru
+Q750-P1549-11	Q750	P1549	'боливийка'@ru
+Q750-P1549-9	Q750	P1549	'боливийцы'@ru
+Q750-P1549-12	Q750	P1549	'בוליבאני'@he
+Q750-P1549-13	Q750	P1549	'בוליבאנית'@he
+Q750-P1549-6	Q750	P1549	'بوليفي'@ar
+Q750-P1549-7	Q750	P1549	'بوليفية'@ar
+Q750-P1549-8	Q750	P1549	'بوليفيون'@ar
+Q750-P1549-17	Q750	P1549	'বলিভীয়'@bn
+Q750-P1705-2	Q750	P1705	'Buliwya Achka nasyunkunap Mama llaqta'@qu
+Q750-P1705-1	Q750	P1705	'Estado Plurinacional de Bolivia'@es
+Q750-P1705-4	Q750	P1705	'Tetã Volívia'@gn
+Q750-P1705-3	Q750	P1705	'Wuliwya Suyu'@ay
+Q750-P1813-1	Q750	P1813	'🇧🇴'@zxx
+Q756617-P1448-1	Q756617	P1448	'Kongeriget Danmark'@da
+Q756617-P1448-2	Q756617	P1448	'Taani Kuningriik'@et
+Q756617-P1451-1	Q756617	P1451	novalue
+Q756617-P1549-1	Q756617	P1549	'Danois'@fr
+Q756617-P1549-2	Q756617	P1549	'Danoise'@fr
+Q756617-P1705-1	Q756617	P1705	'Kongeriget Danmark'@da
+Q756617-P1813-1	Q756617	P1813	'Дания'@ru
+Q801-P1448-4	Q801	P1448	'l’État d’Israël'@fr
+Q801-P1448-3	Q801	P1448	'ישראל'@he
+Q801-P1448-1	Q801	P1448	'מדינת ישראל'@he
+Q801-P1448-2	Q801	P1448	'دولة إِسرائيل'@ar
+Q801-P1549-13	Q801	P1549	'Israelano'@io
+Q801-P1549-36	Q801	P1549	'Israeli'@de
+Q801-P1549-6	Q801	P1549	'Israeli'@en
+Q801-P1549-37	Q801	P1549	'Israelin'@de
+Q801-P1549-38	Q801	P1549	'Israelinnen'@de
+Q801-P1549-39	Q801	P1549	'Israelis'@de
+Q801-P1549-12	Q801	P1549	'Israelis'@en
+Q801-P1549-4	Q801	P1549	'Israélien'@fr
+Q801-P1549-5	Q801	P1549	'Israélienne'@fr
+Q801-P1549-2	Q801	P1549	'Israëli'@nl
+Q801-P1549-1	Q801	P1549	'Israëliër'@nl
+Q801-P1549-15	Q801	P1549	'Yisraelänan'@vo
+Q801-P1549-14	Q801	P1549	'israelano'@eo
+Q801-P1549-40	Q801	P1549	'israeli'@lfn
+Q801-P1549-27	Q801	P1549	'israelian'@ro
+Q801-P1549-21	Q801	P1549	'israeliana'@ca
+Q801-P1549-31	Q801	P1549	'israeliana'@it
+Q801-P1549-33	Q801	P1549	'israeliane'@it
+Q801-P1549-32	Q801	P1549	'israeliani'@it
+Q801-P1549-30	Q801	P1549	'israeliano'@it
+Q801-P1549-22	Q801	P1549	'israelians'@ca
+Q801-P1549-28	Q801	P1549	'israeliană'@ro
+Q801-P1549-26	Q801	P1549	'israelieni'@ro
+Q801-P1549-42	Q801	P1549	'israelina'@ast
+Q801-P1549-20	Q801	P1549	'israelià'@ca
+Q801-P1549-43	Q801	P1549	'israelí'@es
+Q801-P1549-41	Q801	P1549	'israelín'@ast
+Q801-P1549-11	Q801	P1549	'izraeli'@hu
+Q801-P1549-19	Q801	P1549	'израильтяне'@ru
+Q801-P1549-17	Q801	P1549	'израильтянин'@ru
+Q801-P1549-18	Q801	P1549	'израильтянка'@ru
+Q801-P1549-25	Q801	P1549	'ізраїльтяни'@uk
+Q801-P1549-23	Q801	P1549	'ізраїльтянин'@uk
+Q801-P1549-24	Q801	P1549	'ізраїльтянка'@uk
+Q801-P1549-8	Q801	P1549	'ישראלי'@he
+Q801-P1549-10	Q801	P1549	'ישראלית'@he
+Q801-P1549-16	Q801	P1549	'إسرائيليون'@ar
+Q801-P1549-7	Q801	P1549	'إسرائيليّ'@ar
+Q801-P1549-9	Q801	P1549	'إسرائيليّة'@ar
+Q801-P1549-29	Q801	P1549	'ইসরায়েলি'@bn
+Q801-P1549-35	Q801	P1549	'ისრაელები'@ka
+Q801-P1549-34	Q801	P1549	'ისრაელი'@ka
+Q801-P1549-3	Q801	P1549	'イスラエル'@ja
+Q801-P1705-1	Q801	P1705	'יִשְרָאֵל'@he
+Q801-P1705-3	Q801	P1705	'ישראל'@he
+Q801-P1705-2	Q801	P1705	'إسرائيل'@ar
+Q801-P1813-1	Q801	P1813	'🇮🇱'@zxx
+Q801-P4239-1	Q801	P4239	'מְדִינַת יִשְׂרָאֵל'@he
+Q822-P1448-1	Q822	P1448	'la République libanaise'@fr
+Q822-P1451-1	Q822	P1451	'Lebanon Passion for Living'@en
+Q822-P1549-1	Q822	P1549	'Lebanese'@en
+Q822-P1549-5	Q822	P1549	'Libanais'@fr
+Q822-P1549-6	Q822	P1549	'Libanaise'@fr
+Q822-P1549-3	Q822	P1549	'Libanano'@io
+Q822-P1549-4	Q822	P1549	'Libanänan'@vo
+Q822-P1549-22	Q822	P1549	'libanesa'@ast
+Q822-P1549-24	Q822	P1549	'libanesar'@nn
+Q822-P1549-18	Q822	P1549	'libanese'@it
+Q822-P1549-25	Q822	P1549	'libaneser'@nb
+Q822-P1549-19	Q822	P1549	'libanesi'@it
+Q822-P1549-23	Q822	P1549	'libanesisk'@sv
+Q822-P1549-15	Q822	P1549	'libanez'@ro
+Q822-P1549-14	Q822	P1549	'libanezi'@ro
+Q822-P1549-16	Q822	P1549	'libaneză'@ro
+Q822-P1549-2	Q822	P1549	'libanoni'@hu
+Q822-P1549-21	Q822	P1549	'libanés'@ast
+Q822-P1549-20	Q822	P1549	'lubnani'@lfn
+Q822-P1549-10	Q822	P1549	'ливанец'@ru
+Q822-P1549-11	Q822	P1549	'ливанка'@ru
+Q822-P1549-12	Q822	P1549	'לבנוני'@he
+Q822-P1549-13	Q822	P1549	'לבנונית'@he
+Q822-P1549-7	Q822	P1549	'لبناني'@ar
+Q822-P1549-8	Q822	P1549	'لبنانية'@ar
+Q822-P1549-9	Q822	P1549	'لبنانيون'@ar
+Q822-P1549-17	Q822	P1549	'লেবানীয়'@bn
+Q822-P1705-1	Q822	P1705	'الجمهورية اللبنانية'@ar
+Q822-P1813-1	Q822	P1813	'🇱🇧'@zxx
+Q837-P1448-2	Q837	P1448	'Federal Democratic Republic of Nepal'@en-gb
+Q837-P1448-3	Q837	P1448	'la République démocratique fédérale du Népal'@fr
+Q837-P1448-1	Q837	P1448	'सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल'@ne
+Q837-P1451-2	Q837	P1451	'Mother and Motherland are Greater than Heaven'@en
+Q837-P1451-4	Q837	P1451	'Once is not enough'@en
+Q837-P1451-3	Q837	P1451	'Майка и Родина са по-ценни от царството небесно'@bg
+Q837-P1451-1	Q837	P1451	'जननी जन्मभूमिश्च स्वर्गादपि गरीयसी'@sa
+Q837-P1549-4	Q837	P1549	'Nepalano'@io
+Q837-P1549-1	Q837	P1549	'Nepalese'@en
+Q837-P1549-3	Q837	P1549	'Nepali'@en
+Q837-P1549-5	Q837	P1549	'Nepalänan'@vo
+Q837-P1549-24	Q837	P1549	'Népalais'@fr
+Q837-P1549-25	Q837	P1549	'Népalaise'@fr
+Q837-P1549-23	Q837	P1549	'nepalesa'@ast
+Q837-P1549-19	Q837	P1549	'nepalese'@it
+Q837-P1549-20	Q837	P1549	'nepalesi'@it
+Q837-P1549-16	Q837	P1549	'nepalez'@ro
+Q837-P1549-15	Q837	P1549	'nepalezi'@ro
+Q837-P1549-17	Q837	P1549	'nepaleză'@ro
+Q837-P1549-21	Q837	P1549	'nepali'@lfn
+Q837-P1549-22	Q837	P1549	'nepalés'@ast
+Q837-P1549-2	Q837	P1549	'nepáli'@hu
+Q837-P1549-9	Q837	P1549	'непалец'@ru
+Q837-P1549-10	Q837	P1549	'непалка'@ru
+Q837-P1549-11	Q837	P1549	'непальцы'@ru
+Q837-P1549-13	Q837	P1549	'נפאלי'@he
+Q837-P1549-14	Q837	P1549	'נפאלית'@he
+Q837-P1549-6	Q837	P1549	'نيبالي'@ar
+Q837-P1549-8	Q837	P1549	'نيبالية'@ar
+Q837-P1549-7	Q837	P1549	'نيباليون'@ar
+Q837-P1549-18	Q837	P1549	'নেপালী'@bn
+Q837-P1549-12	Q837	P1549	'നേപ്പാളി'@ml
+Q837-P1705-1	Q837	P1705	'नेपाल'@ne
+Q837-P1813-1	Q837	P1813	'🇳🇵'@zxx
+Q869-P1448-3	Q869	P1448	'le Royaume de Thaïlande'@fr
+Q869-P1448-2	Q869	P1448	'ประเทศไทย'@th
+Q869-P1448-1	Q869	P1448	'ราชอาณาจักรไทย'@th
+Q869-P1449-1	Q869	P1449	'Land of Smiles'@en
+Q869-P1549-28	Q869	P1549	'Bangkokois'@fr
+Q869-P1549-27	Q869	P1549	'Bangkokoise'@fr
+Q869-P1549-3	Q869	P1549	'Tailandano'@io
+Q869-P1549-4	Q869	P1549	'Tayänan'@vo
+Q869-P1549-1	Q869	P1549	'Thai'@en
+Q869-P1549-26	Q869	P1549	'Thaïlandais'@fr
+Q869-P1549-29	Q869	P1549	'Thaïlandaise'@fr
+Q869-P1549-19	Q869	P1549	'tai'@lfn
+Q869-P1549-21	Q869	P1549	'tailandesa'@ast
+Q869-P1549-20	Q869	P1549	'tailandés'@ast
+Q869-P1549-2	Q869	P1549	'thai'@hu
+Q869-P1549-17	Q869	P1549	'thailandese'@it
+Q869-P1549-18	Q869	P1549	'thailandesi'@it
+Q869-P1549-14	Q869	P1549	'thailandez'@ro
+Q869-P1549-13	Q869	P1549	'thailandezi'@ro
+Q869-P1549-15	Q869	P1549	'thailandeză'@ro
+Q869-P1549-23	Q869	P1549	'Тајланѓанец'@mk
+Q869-P1549-22	Q869	P1549	'Тајланѓани'@mk
+Q869-P1549-8	Q869	P1549	'таиландец'@ru
+Q869-P1549-9	Q869	P1549	'таиландка'@ru
+Q869-P1549-10	Q869	P1549	'таиландцы'@ru
+Q869-P1549-11	Q869	P1549	'תאילנדי'@he
+Q869-P1549-12	Q869	P1549	'תאילנדית'@he
+Q869-P1549-5	Q869	P1549	'تايلندي'@ar
+Q869-P1549-6	Q869	P1549	'تايلندية'@ar
+Q869-P1549-7	Q869	P1549	'تايلنديون'@ar
+Q869-P1549-25	Q869	P1549	'تایلندی'@fa
+Q869-P1549-16	Q869	P1549	'থাই'@bn
+Q869-P1549-24	Q869	P1549	'태국인'@ko
+Q869-P1705-1	Q869	P1705	'ประเทศไทย'@th
+Q869-P1813-1	Q869	P1813	'🇹🇭'@zxx
+Q897711-P6375-1	Q897711	P6375	'Brouwerijstraat'@nl
+Q916-P1448-4	Q916	P1448	'People\\\\'s Republic of Angola'@en
+Q916-P1448-3	Q916	P1448	'Republic of Angola'@en
+Q916-P1448-5	Q916	P1448	'República Popular de Angola'@pt
+Q916-P1448-1	Q916	P1448	'República de Angola'@pt
+Q916-P1448-2	Q916	P1448	'République d’Angola'@fr
+Q916-P1448-6	Q916	P1448	'République populaire d\\\\'Angola'@fr
+Q916-P1451-1	Q916	P1451	'Virtus Unita Fortior'@la
+Q916-P1549-28	Q916	P1549	'Angolais'@fr
+Q916-P1549-29	Q916	P1549	'Angolaise'@fr
+Q916-P1549-4	Q916	P1549	'Angolan'@cs
+Q916-P1549-1	Q916	P1549	'Angolan'@en
+Q916-P1549-5	Q916	P1549	'Angolanka'@cs
+Q916-P1549-27	Q916	P1549	'Angolano'@eo
+Q916-P1549-6	Q916	P1549	'Angolano'@io
+Q916-P1549-7	Q916	P1549	'Langolänan'@vo
+Q916-P1549-2	Q916	P1549	'angolai'@hu
+Q916-P1549-26	Q916	P1549	'angolan'@lfn
+Q916-P1549-21	Q916	P1549	'angolana'@ast
+Q916-P1549-23	Q916	P1549	'angolana'@it
+Q916-P1549-25	Q916	P1549	'angolane'@it
+Q916-P1549-3	Q916	P1549	'angolaner'@da
+Q916-P1549-24	Q916	P1549	'angolani'@it
+Q916-P1549-22	Q916	P1549	'angolano'@it
+Q916-P1549-20	Q916	P1549	'angolanu'@ast
+Q916-P1549-17	Q916	P1549	'angolez'@ro
+Q916-P1549-16	Q916	P1549	'angolezi'@ro
+Q916-P1549-18	Q916	P1549	'angoleză'@ro
+Q916-P1549-13	Q916	P1549	'анголец'@ru
+Q916-P1549-12	Q916	P1549	'анголка'@ru
+Q916-P1549-11	Q916	P1549	'ангольцы'@ru
+Q916-P1549-14	Q916	P1549	'אנגולי'@he
+Q916-P1549-15	Q916	P1549	'אנגולית'@he
+Q916-P1549-8	Q916	P1549	'أنغولي'@ar
+Q916-P1549-9	Q916	P1549	'أنغولية'@ar
+Q916-P1549-10	Q916	P1549	'أنغوليون'@ar
+Q916-P1549-19	Q916	P1549	'অ্যাঙ্গোলীয়'@bn
+Q916-P1705-2	Q916	P1705	'Angola'@pt
+Q916-P1705-1	Q916	P1705	'República de Angola'@pt
+Q916-P1813-1	Q916	P1813	'🇦🇴'@zxx
+Q93561941-P1448-2	Q93561941	P1448	'TUVUNU A.E.'@el
+Q93561941-P1448-1	Q93561941	P1448	'TUVUNU S.A.'@en
+Q948-P1448-1	Q948	P1448	'Republic of Tunisia'@en
+Q948-P1448-3	Q948	P1448	'République tunisienne'@fr
+Q948-P1448-4	Q948	P1448	'la République tunisienne'@fr
+Q948-P1448-2	Q948	P1448	'الجمهورية التونسية'@ar
+Q948-P1451-5	Q948	P1451	'Libertad, dignidad, justicia y orden'@es
+Q948-P1451-4	Q948	P1451	'Llibertat, justícia, ordre'@ca
+Q948-P1451-2	Q948	P1451	'freedom, dignity, justice, and order'@en
+Q948-P1451-3	Q948	P1451	'Свобода, справедливост, ред'@bg
+Q948-P1451-1	Q948	P1451	'حرية، كرامة، عدالة، نظام'@ar
+Q948-P1549-1	Q948	P1549	'Tunisian'@en
+Q948-P1549-32	Q948	P1549	'Tunisien'@fr
+Q948-P1549-33	Q948	P1549	'Tunisienne'@fr
+Q948-P1549-7	Q948	P1549	'Tuniziano'@io
+Q948-P1549-8	Q948	P1549	'Tünisänan'@vo
+Q948-P1549-22	Q948	P1549	'tunecina'@ast
+Q948-P1549-29	Q948	P1549	'tunecina'@es
+Q948-P1549-31	Q948	P1549	'tunecinas'@es
+Q948-P1549-28	Q948	P1549	'tunecino'@es
+Q948-P1549-30	Q948	P1549	'tunecinos'@es
+Q948-P1549-21	Q948	P1549	'tunecín'@ast
+Q948-P1549-20	Q948	P1549	'tunisi'@lfn
+Q948-P1549-13	Q948	P1549	'tunisian'@ro
+Q948-P1549-14	Q948	P1549	'tunisiană'@ro
+Q948-P1549-27	Q948	P1549	'tunisien'@fr
+Q948-P1549-12	Q948	P1549	'tunisieni'@ro
+Q948-P1549-17	Q948	P1549	'tunisina'@it
+Q948-P1549-19	Q948	P1549	'tunisine'@it
+Q948-P1549-18	Q948	P1549	'tunisini'@it
+Q948-P1549-16	Q948	P1549	'tunisino'@it
+Q948-P1549-6	Q948	P1549	'tunéziai'@hu
+Q948-P1549-9	Q948	P1549	'тунисцы'@ru
+Q948-P1549-10	Q948	P1549	'תוניסאי'@he
+Q948-P1549-11	Q948	P1549	'תוניסאית'@he
+Q948-P1549-2	Q948	P1549	'تونسي'@ar
+Q948-P1549-5	Q948	P1549	'تونسيات'@ar
+Q948-P1549-23	Q948	P1549	'تونسيان'@ar
+Q948-P1549-3	Q948	P1549	'تونسية'@ar
+Q948-P1549-24	Q948	P1549	'تونسيتان'@ar
+Q948-P1549-26	Q948	P1549	'تونسيتين'@ar
+Q948-P1549-4	Q948	P1549	'تونسيون'@ar
+Q948-P1549-25	Q948	P1549	'تونسيين'@ar
+Q948-P1549-15	Q948	P1549	'তিউনিশীয়'@bn
+Q948-P1705-1	Q948	P1705	'تونس'@ar
+Q948-P1813-1	Q948	P1813	'🇹🇳'@zxx
+Q96-P1448-2	Q96	P1448	'Estados Unidos Mexicanos'@es
+Q96-P1448-3	Q96	P1448	'Estados Unidos Mexicanos'@pt
+Q96-P1448-1	Q96	P1448	'Estaos Xuníos Mexicanos'@ast
+Q96-P1448-9	Q96	P1448	'Estats Units Mexicans'@ca
+Q96-P1448-8	Q96	P1448	'Unol Daleithiau Mecsico'@cy
+Q96-P1448-10	Q96	P1448	'Unuiĝintaj Ŝtatoj de Meksiko'@eo
+Q96-P1448-4	Q96	P1448	'Vereinigte Mexikanische Staaten'@de
+Q96-P1448-11	Q96	P1448	'les États unis mexicains'@fr
+Q96-P1448-7	Q96	P1448	'États-Unis mexicains'@fr
+Q96-P1448-6	Q96	P1448	'Մեքսիկայի Միացյալ Նահանգներ'@hy
+Q96-P1448-5	Q96	P1448	'الولايات المكسيكية المتحدة'@ar
+Q96-P1549-33	Q96	P1549	'Meksikano'@eo
+Q96-P1549-1	Q96	P1549	'Mexicain'@fr
+Q96-P1549-3	Q96	P1549	'Mexicaine'@fr
+Q96-P1549-2	Q96	P1549	'Mexican'@en
+Q96-P1549-7	Q96	P1549	'Mexikiano'@io
+Q96-P1549-8	Q96	P1549	'Mäxikänan'@vo
+Q96-P1549-29	Q96	P1549	'messicana'@it
+Q96-P1549-31	Q96	P1549	'messicane'@it
+Q96-P1549-30	Q96	P1549	'messicani'@it
+Q96-P1549-28	Q96	P1549	'messicano'@it
+Q96-P1549-32	Q96	P1549	'mexican'@lfn
+Q96-P1549-23	Q96	P1549	'mexican'@ro
+Q96-P1549-27	Q96	P1549	'mexicana'@ast
+Q96-P1549-18	Q96	P1549	'mexicana'@ca
+Q96-P1549-34	Q96	P1549	'mexicana'@es
+Q96-P1549-24	Q96	P1549	'mexicancă'@ro
+Q96-P1549-22	Q96	P1549	'mexicani'@ro
+Q96-P1549-6	Q96	P1549	'mexicano'@es
+Q96-P1549-19	Q96	P1549	'mexicans'@ca
+Q96-P1549-26	Q96	P1549	'mexicanu'@ast
+Q96-P1549-17	Q96	P1549	'mexicà'@ca
+Q96-P1549-9	Q96	P1549	'mexikan'@sv
+Q96-P1549-5	Q96	P1549	'mexikói'@hu
+Q96-P1549-35	Q96	P1549	'мексиканец'@ru
+Q96-P1549-14	Q96	P1549	'мексиканець'@uk
+Q96-P1549-36	Q96	P1549	'мексиканка'@ru
+Q96-P1549-15	Q96	P1549	'мексиканка'@uk
+Q96-P1549-13	Q96	P1549	'мексиканцы'@ru
+Q96-P1549-16	Q96	P1549	'мексиканці'@uk
+Q96-P1549-20	Q96	P1549	'מקסיקני'@he
+Q96-P1549-21	Q96	P1549	'מקסיקנית'@he
+Q96-P1549-10	Q96	P1549	'مكسيكي'@ar
+Q96-P1549-11	Q96	P1549	'مكسيكية'@ar
+Q96-P1549-12	Q96	P1549	'مكسيكيون'@ar
+Q96-P1549-25	Q96	P1549	'মেক্সিকীয়'@bn
+Q96-P1549-4	Q96	P1549	'メキシコ人'@ja
+Q96-P1705-1	Q96	P1705	'México'@es
+Q96-P1813-1	Q96	P1813	'🇲🇽'@zxx
