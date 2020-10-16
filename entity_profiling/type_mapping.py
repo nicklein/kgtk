@@ -14,4 +14,3 @@ def build_type_mapping():
     
 if __name__ == "__main__":
     type_mapping = build_type_mapping()
-    print(type_mapping["Q1011"])
