@@ -1,0 +1,3686 @@
+type	prop	value	positives	property_label
+Q1066984	P1438	"15521"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q1066984	P281	"80331"	1	'postal code'@en
+Q1066984	P281	"80802"	1	'postal code'@en
+Q1066984	P281	"80805"	1	'postal code'@en
+Q1066984	P281	"81377"	1	'postal code'@en
+Q1066984	P281	"81379"	1	'postal code'@en
+Q1066984	P281	"81730"	1	'postal code'@en
+Q1066984	P281	"81735"	1	'postal code'@en
+Q1066984	P281	"81737"	1	'postal code'@en
+Q1066984	P281	"81825"	1	'postal code'@en
+Q1066984	P281	"81929"	1	'postal code'@en
+Q1066984	P373	"Munich"	1	'Commons category'@en
+Q1066984	P395	"M"	1	'licence plate code'@en
+Q1066984	P473	"089"	1	'local dialing code'@en
+Q1066984	P935	"München"	1	'Commons gallery'@en
+Q1093829	P238	"WAS"	1	'IATA airport code'@en
+Q1093829	P281	"20001–20098"	1	'postal code'@en
+Q1093829	P281	"20201–20599"	1	'postal code'@en
+Q1093829	P373	"Washington, D.C."	1	'Commons category'@en
+Q1093829	P473	"202"	1	'local dialing code'@en
+Q1093829	P935	"Washington, D.C."	1	'Commons gallery'@en
+Q1114461	P373	"Santa Claus"	1	'Commons category'@en
+Q1114461	P487	"🎅"	1	'Unicode character'@en
+Q1114461	P935	"Santa Claus"	1	'Commons gallery'@en
+Q11173	P1282	"Tag:resource=water"	1	'OpenStreetMap tag or key'@en
+Q11173	P233	"O"	1	'canonical SMILES'@en
+Q11173	P274	"H₂O"	1	'chemical formula'@en
+Q11173	P373	"Water"	1	'Commons category'@en
+Q11173	P487	"💧"	1	'Unicode character'@en
+Q11173	P935	"Water"	1	'Commons gallery'@en
+Q112099	P3238	"0"	4	'trunk prefix'@en
+Q112099	P1814	"にっぽん"	1	'name in kana'@en
+Q112099	P1814	"にほん"	1	'name in kana'@en
+Q112099	P1814	"にほんこく"	1	'name in kana'@en
+Q112099	P2258	"234"	1	'mobile country code'@en
+Q112099	P2258	"235"	1	'mobile country code'@en
+Q112099	P2258	"272"	1	'mobile country code'@en
+Q112099	P2258	"274"	1	'mobile country code'@en
+Q112099	P2258	"278"	1	'mobile country code'@en
+Q112099	P2258	"280"	1	'mobile country code'@en
+Q112099	P2258	"368"	1	'mobile country code'@en
+Q112099	P2258	"440"	1	'mobile country code'@en
+Q112099	P2258	"441"	1	'mobile country code'@en
+Q112099	P2258	"552"	1	'mobile country code'@en
+Q112099	P2258	"617"	1	'mobile country code'@en
+Q112099	P2258	"625"	1	'mobile country code'@en
+Q112099	P2258	"646"	1	'mobile country code'@en
+Q112099	P2979	"209"	1	'maritime identification digits'@en
+Q112099	P2979	"210"	1	'maritime identification digits'@en
+Q112099	P2979	"212"	1	'maritime identification digits'@en
+Q112099	P2979	"215"	1	'maritime identification digits'@en
+Q112099	P2979	"229"	1	'maritime identification digits'@en
+Q112099	P2979	"232"	1	'maritime identification digits'@en
+Q112099	P2979	"233"	1	'maritime identification digits'@en
+Q112099	P2979	"234"	1	'maritime identification digits'@en
+Q112099	P2979	"235"	1	'maritime identification digits'@en
+Q112099	P2979	"248"	1	'maritime identification digits'@en
+Q112099	P2979	"249"	1	'maritime identification digits'@en
+Q112099	P2979	"250"	1	'maritime identification digits'@en
+Q112099	P2979	"251"	1	'maritime identification digits'@en
+Q112099	P2979	"256"	1	'maritime identification digits'@en
+Q112099	P2979	"323"	1	'maritime identification digits'@en
+Q112099	P2979	"431"	1	'maritime identification digits'@en
+Q112099	P2979	"432"	1	'maritime identification digits'@en
+Q112099	P2979	"511"	1	'maritime identification digits'@en
+Q112099	P2979	"617"	1	'maritime identification digits'@en
+Q112099	P2979	"645"	1	'maritime identification digits'@en
+Q112099	P2979	"647"	1	'maritime identification digits'@en
+Q112099	P3067	"450-459"	1	'GS1 country code'@en
+Q112099	P3067	"490-499"	1	'GS1 country code'@en
+Q112099	P3067	"500-509"	1	'GS1 country code'@en
+Q112099	P3067	"529"	1	'GS1 country code'@en
+Q112099	P3067	"535"	1	'GS1 country code'@en
+Q112099	P3067	"539"	1	'GS1 country code'@en
+Q112099	P3067	"569"	1	'GS1 country code'@en
+Q112099	P3067	"609"	1	'GS1 country code'@en
+Q112099	P3067	"850"	1	'GS1 country code'@en
+Q112099	P3238	novalue	1	'trunk prefix'@en
+Q112099	P373	"Cape Verde"	1	'Commons category'@en
+Q112099	P373	"Cuba"	1	'Commons category'@en
+Q112099	P373	"Cyprus"	1	'Commons category'@en
+Q112099	P373	"Iceland"	1	'Commons category'@en
+Q112099	P373	"Japan"	1	'Commons category'@en
+Q112099	P373	"Madagascar"	1	'Commons category'@en
+Q112099	P373	"Malta"	1	'Commons category'@en
+Q112099	P373	"Mauritius"	1	'Commons category'@en
+Q112099	P373	"Palau"	1	'Commons category'@en
+Q112099	P373	"Republic of Ireland"	1	'Commons category'@en
+Q112099	P373	"United Kingdom"	1	'Commons category'@en
+Q112099	P395	"C"	1	'licence plate code'@en
+Q112099	P395	"CV"	1	'licence plate code'@en
+Q112099	P395	"CY"	1	'licence plate code'@en
+Q112099	P395	"GB"	1	'licence plate code'@en
+Q112099	P395	"IRL"	1	'licence plate code'@en
+Q112099	P395	"IS"	1	'licence plate code'@en
+Q112099	P395	"J"	1	'licence plate code'@en
+Q112099	P395	"M"	1	'licence plate code'@en
+Q112099	P395	"MS"	1	'licence plate code'@en
+Q112099	P395	"RM"	1	'licence plate code'@en
+Q112099	P474	"+230"	1	'country calling code'@en
+Q112099	P474	"+238"	1	'country calling code'@en
+Q112099	P474	"+261"	1	'country calling code'@en
+Q112099	P474	"+353"	1	'country calling code'@en
+Q112099	P474	"+354"	1	'country calling code'@en
+Q112099	P474	"+356"	1	'country calling code'@en
+Q112099	P474	"+357"	1	'country calling code'@en
+Q112099	P474	"+44"	1	'country calling code'@en
+Q112099	P474	"+53"	1	'country calling code'@en
+Q112099	P474	"+680"	1	'country calling code'@en
+Q112099	P474	"+81"	1	'country calling code'@en
+Q112099	P487	"🇨🇺"	1	'Unicode character'@en
+Q112099	P487	"🇨🇻"	1	'Unicode character'@en
+Q112099	P487	"🇨🇾"	1	'Unicode character'@en
+Q112099	P487	"🇬🇧"	1	'Unicode character'@en
+Q112099	P487	"🇮🇪"	1	'Unicode character'@en
+Q112099	P487	"🇮🇸"	1	'Unicode character'@en
+Q112099	P487	"🇯🇵"	1	'Unicode character'@en
+Q112099	P487	"🇲🇬"	1	'Unicode character'@en
+Q112099	P487	"🇲🇹"	1	'Unicode character'@en
+Q112099	P487	"🇲🇺"	1	'Unicode character'@en
+Q112099	P487	"🇵🇼"	1	'Unicode character'@en
+Q112099	P487	"🗾"	1	'Unicode character'@en
+Q112099	P898	"(j)ɪˈponʲɪjə"	1	'IPA transcription'@en
+Q112099	P898	"jʊ̈nai̯tɘd kɪŋɡdə̯m"	1	'IPA transcription'@en
+Q112099	P898	"kɑp\\\\\\\\'ʋæɾdə"	1	'IPA transcription'@en
+Q112099	P898	"kʲipr"	1	'IPA transcription'@en
+Q112099	P898	"mæʉ\\\\\\\\'ɾɪtsɪʉs"	1	'IPA transcription'@en
+Q112099	P898	"mɑdɑ\\\\\\\\'gɑskɑɾ"	1	'IPA transcription'@en
+Q112099	P898	"nʲihóɴ"	1	'IPA transcription'@en
+Q112099	P898	"pɑ\\\\\\\\'lɑːu"	1	'IPA transcription'@en
+Q112099	P898	"vʲɪlʲɪkəbrʲɪˈtanʲɪj"	1	'IPA transcription'@en
+Q112099	P898	"ɪˈslanʲdʲɪjə"	1	'IPA transcription'@en
+Q112099	P898	"ɪˈslan⁽ʲ⁾dʲɪjə"	1	'IPA transcription'@en
+Q112099	P898	"ʒaˈponi.a"	1	'IPA transcription'@en
+Q112099	P898	"ˈaɪəɹlənd"	1	'IPA transcription'@en
+Q112099	P898	"ˈaɪɹlənd"	1	'IPA transcription'@en
+Q112099	P898	"ˈcipros"	1	'IPA transcription'@en
+Q112099	P898	"ˈeːɾʲə"	1	'IPA transcription'@en
+Q112099	P898	"ˈislant"	1	'IPA transcription'@en
+Q112099	P898	"ˈiːslɑn"	1	'IPA transcription'@en
+Q112099	P898	"ˈjaːpan"	1	'IPA transcription'@en
+Q112099	P898	"ˈjɑːpɑn"	1	'IPA transcription'@en
+Q112099	P898	"ˈkyːpɾɔs"	1	'IPA transcription'@en
+Q112099	P898	"ˈkɯbɾɯs"	1	'IPA transcription'@en
+Q112099	P898	"ˈkʉːbɑ"	1	'IPA transcription'@en
+Q112099	P898	"ˈmalʲtə"	1	'IPA transcription'@en
+Q112099	P898	"ˈmɐltɐ"	1	'IPA transcription'@en
+Q112099	P898	"ˈmɑltɑ"	1	'IPA transcription'@en
+Q112099	P898	"ˈmɒltə"	1	'IPA transcription'@en
+Q112099	P898	"ˈstuɾbɾɪtɑːnɪɑ"	1	'IPA transcription'@en
+Q112099	P898	"ˈɪɾlɑn"	1	'IPA transcription'@en
+Q112099	P935	"Cabo Verde"	1	'Commons gallery'@en
+Q112099	P935	"Cuba"	1	'Commons gallery'@en
+Q112099	P935	"Ireland - Éire"	1	'Commons gallery'@en
+Q112099	P935	"Madagascar - Madagasikara"	1	'Commons gallery'@en
+Q112099	P935	"Malta"	1	'Commons gallery'@en
+Q112099	P935	"Mauritius"	1	'Commons gallery'@en
+Q112099	P935	"Palau"	1	'Commons gallery'@en
+Q112099	P935	"United Kingdom"	1	'Commons gallery'@en
+Q112099	P935	"Ísland"	1	'Commons gallery'@en
+Q112099	P935	"Κύπρος - Kıbrıs"	1	'Commons gallery'@en
+Q112099	P935	"日本"	1	'Commons gallery'@en
+Q11344	P1931	"7900"	1	'NIOSH Pocket Guide ID'@en
+Q11344	P233	"[Al]"	1	'canonical SMILES'@en
+Q11344	P246	"Al"	1	'element symbol'@en
+Q11344	P274	"Al"	1	'chemical formula'@en
+Q11344	P373	"Aluminium"	1	'Commons category'@en
+Q11344	P4213	"92C1"	1	'Unicode hex codepoint'@en
+Q11344	P487	"鋁"	1	'Unicode character'@en
+Q11344	P920	"LEM201000405"	1	'LEM ID'@en
+Q11344	P935	"Aluminium"	1	'Commons gallery'@en
+Q11396118	P2258	"280"	1	'mobile country code'@en
+Q11396118	P2979	"209"	1	'maritime identification digits'@en
+Q11396118	P2979	"210"	1	'maritime identification digits'@en
+Q11396118	P2979	"212"	1	'maritime identification digits'@en
+Q11396118	P3067	"529"	1	'GS1 country code'@en
+Q11396118	P373	"Cyprus"	1	'Commons category'@en
+Q11396118	P395	"CY"	1	'licence plate code'@en
+Q11396118	P474	"+357"	1	'country calling code'@en
+Q11396118	P487	"🇨🇾"	1	'Unicode character'@en
+Q11396118	P898	"kʲipr"	1	'IPA transcription'@en
+Q11396118	P898	"ˈcipros"	1	'IPA transcription'@en
+Q11396118	P898	"ˈkyːpɾɔs"	1	'IPA transcription'@en
+Q11396118	P898	"ˈkɯbɾɯs"	1	'IPA transcription'@en
+Q11396118	P935	"Κύπρος - Kıbrıs"	1	'Commons gallery'@en
+Q11514315	P373	"Ancient history"	1	'Commons category'@en
+Q11723014	P1282	"Tag:resource=water"	1	'OpenStreetMap tag or key'@en
+Q11723014	P233	"O"	1	'canonical SMILES'@en
+Q11723014	P274	"H₂O"	1	'chemical formula'@en
+Q11723014	P373	"Water"	1	'Commons category'@en
+Q11723014	P487	"💧"	1	'Unicode character'@en
+Q11723014	P935	"Water"	1	'Commons gallery'@en
+Q1180262	P1438	"15521"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q1180262	P281	"80331"	1	'postal code'@en
+Q1180262	P281	"80802"	1	'postal code'@en
+Q1180262	P281	"80805"	1	'postal code'@en
+Q1180262	P281	"81377"	1	'postal code'@en
+Q1180262	P281	"81379"	1	'postal code'@en
+Q1180262	P281	"81730"	1	'postal code'@en
+Q1180262	P281	"81735"	1	'postal code'@en
+Q1180262	P281	"81737"	1	'postal code'@en
+Q1180262	P281	"81825"	1	'postal code'@en
+Q1180262	P281	"81929"	1	'postal code'@en
+Q1180262	P373	"Munich"	1	'Commons category'@en
+Q1180262	P395	"M"	1	'licence plate code'@en
+Q1180262	P473	"089"	1	'local dialing code'@en
+Q1180262	P935	"München"	1	'Commons gallery'@en
+Q1187811	P1438	"15521"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q1187811	P281	"80331"	1	'postal code'@en
+Q1187811	P281	"80802"	1	'postal code'@en
+Q1187811	P281	"80805"	1	'postal code'@en
+Q1187811	P281	"81377"	1	'postal code'@en
+Q1187811	P281	"81379"	1	'postal code'@en
+Q1187811	P281	"81730"	1	'postal code'@en
+Q1187811	P281	"81735"	1	'postal code'@en
+Q1187811	P281	"81737"	1	'postal code'@en
+Q1187811	P281	"81825"	1	'postal code'@en
+Q1187811	P281	"81929"	1	'postal code'@en
+Q1187811	P373	"Munich"	1	'Commons category'@en
+Q1187811	P395	"M"	1	'licence plate code'@en
+Q1187811	P473	"089"	1	'local dialing code'@en
+Q1187811	P935	"München"	1	'Commons gallery'@en
+Q12139612	P373	"Cookbooks"	1	'Commons category'@en
+Q123480	P3238	"0"	6	'trunk prefix'@en
+Q123480	P3238	novalue	4	'trunk prefix'@en
+Q123480	P3238	"8"	2	'trunk prefix'@en
+Q123480	P2258	"213"	1	'mobile country code'@en
+Q123480	P2258	"216"	1	'mobile country code'@en
+Q123480	P2258	"228"	1	'mobile country code'@en
+Q123480	P2258	"230"	1	'mobile country code'@en
+Q123480	P2258	"231"	1	'mobile country code'@en
+Q123480	P2258	"232"	1	'mobile country code'@en
+Q123480	P2258	"257"	1	'mobile country code'@en
+Q123480	P2258	"270"	1	'mobile country code'@en
+Q123480	P2258	"283"	1	'mobile country code'@en
+Q123480	P2258	"294"	1	'mobile country code'@en
+Q123480	P2258	"400"	1	'mobile country code'@en
+Q123480	P2258	"429"	1	'mobile country code'@en
+Q123480	P2258	"641"	1	'mobile country code'@en
+Q123480	P2258	"736"	1	'mobile country code'@en
+Q123480	P2979	"202"	1	'maritime identification digits'@en
+Q123480	P2979	"203"	1	'maritime identification digits'@en
+Q123480	P2979	"206"	1	'maritime identification digits'@en
+Q123480	P2979	"216"	1	'maritime identification digits'@en
+Q123480	P2979	"243"	1	'maritime identification digits'@en
+Q123480	P2979	"253"	1	'maritime identification digits'@en
+Q123480	P2979	"267"	1	'maritime identification digits'@en
+Q123480	P2979	"269"	1	'maritime identification digits'@en
+Q123480	P2979	"270"	1	'maritime identification digits'@en
+Q123480	P2979	"274"	1	'maritime identification digits'@en
+Q123480	P2979	"423"	1	'maritime identification digits'@en
+Q123480	P2979	"459"	1	'maritime identification digits'@en
+Q123480	P2979	"675"	1	'maritime identification digits'@en
+Q123480	P2979	"720"	1	'maritime identification digits'@en
+Q123480	P3067	"390"	1	'GS1 country code'@en
+Q123480	P3067	"476"	1	'GS1 country code'@en
+Q123480	P3067	"481"	1	'GS1 country code'@en
+Q123480	P3067	"485"	1	'GS1 country code'@en
+Q123480	P3067	"524"	1	'GS1 country code'@en
+Q123480	P3067	"531"	1	'GS1 country code'@en
+Q123480	P3067	"540-549"	1	'GS1 country code'@en
+Q123480	P3067	"599"	1	'GS1 country code'@en
+Q123480	P3067	"760-769"	1	'GS1 country code'@en
+Q123480	P3067	"777"	1	'GS1 country code'@en
+Q123480	P3067	"840-849"	1	'GS1 country code'@en
+Q123480	P3067	"858"	1	'GS1 country code'@en
+Q123480	P3067	"859"	1	'GS1 country code'@en
+Q123480	P3067	"900-919"	1	'GS1 country code'@en
+Q123480	P3238	"06"	1	'trunk prefix'@en
+Q123480	P373	"Andorra"	1	'Commons category'@en
+Q123480	P373	"Armenia"	1	'Commons category'@en
+Q123480	P373	"Austria"	1	'Commons category'@en
+Q123480	P373	"Azerbaijan"	1	'Commons category'@en
+Q123480	P373	"Belarus"	1	'Commons category'@en
+Q123480	P373	"Bolivia"	1	'Commons category'@en
+Q123480	P373	"Czech Republic"	1	'Commons category'@en
+Q123480	P373	"Hungary"	1	'Commons category'@en
+Q123480	P373	"Kosovo"	1	'Commons category'@en
+Q123480	P373	"Luxembourg"	1	'Commons category'@en
+Q123480	P373	"Nepal"	1	'Commons category'@en
+Q123480	P373	"North Macedonia"	1	'Commons category'@en
+Q123480	P373	"Slovakia"	1	'Commons category'@en
+Q123480	P373	"Switzerland"	1	'Commons category'@en
+Q123480	P373	"Uganda"	1	'Commons category'@en
+Q123480	P395	"A"	1	'licence plate code'@en
+Q123480	P395	"AM"	1	'licence plate code'@en
+Q123480	P395	"AND"	1	'licence plate code'@en
+Q123480	P395	"AZ"	1	'licence plate code'@en
+Q123480	P395	"BLR"	1	'licence plate code'@en
+Q123480	P395	"BOL"	1	'licence plate code'@en
+Q123480	P395	"CH"	1	'licence plate code'@en
+Q123480	P395	"CZ"	1	'licence plate code'@en
+Q123480	P395	"EAU"	1	'licence plate code'@en
+Q123480	P395	"H"	1	'licence plate code'@en
+Q123480	P395	"L"	1	'licence plate code'@en
+Q123480	P395	"MK"	1	'licence plate code'@en
+Q123480	P395	"NEP"	1	'licence plate code'@en
+Q123480	P395	"SK"	1	'licence plate code'@en
+Q123480	P473	"+36"	1	'local dialing code'@en
+Q123480	P474	"+256"	1	'country calling code'@en
+Q123480	P474	"+352"	1	'country calling code'@en
+Q123480	P474	"+36"	1	'country calling code'@en
+Q123480	P474	"+374"	1	'country calling code'@en
+Q123480	P474	"+375"	1	'country calling code'@en
+Q123480	P474	"+376"	1	'country calling code'@en
+Q123480	P474	"+383"	1	'country calling code'@en
+Q123480	P474	"+389"	1	'country calling code'@en
+Q123480	P474	"+41"	1	'country calling code'@en
+Q123480	P474	"+420"	1	'country calling code'@en
+Q123480	P474	"+421"	1	'country calling code'@en
+Q123480	P474	"+43"	1	'country calling code'@en
+Q123480	P474	"+591"	1	'country calling code'@en
+Q123480	P474	"+977"	1	'country calling code'@en
+Q123480	P474	"+994"	1	'country calling code'@en
+Q123480	P487	"🇦🇩"	1	'Unicode character'@en
+Q123480	P487	"🇦🇲"	1	'Unicode character'@en
+Q123480	P487	"🇦🇹"	1	'Unicode character'@en
+Q123480	P487	"🇦🇿"	1	'Unicode character'@en
+Q123480	P487	"🇧🇴"	1	'Unicode character'@en
+Q123480	P487	"🇧🇾"	1	'Unicode character'@en
+Q123480	P487	"🇨🇭"	1	'Unicode character'@en
+Q123480	P487	"🇨🇿"	1	'Unicode character'@en
+Q123480	P487	"🇭🇺"	1	'Unicode character'@en
+Q123480	P487	"🇱🇺"	1	'Unicode character'@en
+Q123480	P487	"🇲🇰"	1	'Unicode character'@en
+Q123480	P487	"🇳🇵"	1	'Unicode character'@en
+Q123480	P487	"🇸🇰"	1	'Unicode character'@en
+Q123480	P487	"🇺🇬"	1	'Unicode character'@en
+Q123480	P487	"🇽🇰"	1	'Unicode character'@en
+Q123480	P898	"bu\\\\\\\\'liːʋɪɑ"	1	'IPA transcription'@en
+Q123480	P898	"bʲɛlaˈrusʲ"	1	'IPA transcription'@en
+Q123480	P898	"bʲɛɫ̪äˈrus̪ʲ"	1	'IPA transcription'@en
+Q123480	P898	"mɑkəˈduːnɪɑ"	1	'IPA transcription'@en
+Q123480	P898	"nɛˈpɑːl"	1	'IPA transcription'@en
+Q123480	P898	"rɛˈpublika makɛˈdɔnija"	1	'IPA transcription'@en
+Q123480	P898	"rʲɪˈspublʲɪkə məkʲɪˈdonʲɪjə"	1	'IPA transcription'@en
+Q123480	P898	"ɐnˈdorːə"	1	'IPA transcription'@en
+Q123480	P898	"ɑnˈdɔɾɑ"	1	'IPA transcription'@en
+Q123480	P898	"ɑsəɾbɑjdˈʂɑːn"	1	'IPA transcription'@en
+Q123480	P898	"ɑɾˈmeːnɪɑ"	1	'IPA transcription'@en
+Q123480	P898	"ɑːzæɾbɑjˈd͡ʒɑn"	1	'IPA transcription'@en
+Q123480	P898	"ənˈdɔ.rə"	1	'IPA transcription'@en
+Q123480	P898	"ʂluˈʋɑːkɪɑ"	1	'IPA transcription'@en
+Q123480	P898	"ʉ\\\\\\\\'gɑndɑ"	1	'IPA transcription'@en
+Q123480	P898	"ˈlʉksəmbʉɾg"	1	'IPA transcription'@en
+Q123480	P898	"ˈslɔʋɛnskɔ"	1	'IPA transcription'@en
+Q123480	P898	"ˈsʋæɪts"	1	'IPA transcription'@en
+Q123480	P898	"ˈtʂɛkɪɑ"	1	'IPA transcription'@en
+Q123480	P898	"ˈt͡ʃɛsko"	1	'IPA transcription'@en
+Q123480	P898	"ˈuŋgɑɳ"	1	'IPA transcription'@en
+Q123480	P898	"ˈvʲenɡrʲɪjə"	1	'IPA transcription'@en
+Q123480	P898	"ˈœstəɾiːkə"	1	'IPA transcription'@en
+Q123480	P898	"ˈʊŋɡaʁn"	1	'IPA transcription'@en
+Q123480	P898	"ˈʋiːtərʉslɑn"	1	'IPA transcription'@en
+Q123480	P898	"ˈʋiːtərʉʂlɑn"	1	'IPA transcription'@en
+Q123480	P935	"Andorra"	1	'Commons gallery'@en
+Q123480	P935	"Armenia - Հայաստան"	1	'Commons gallery'@en
+Q123480	P935	"Azərbaycan"	1	'Commons gallery'@en
+Q123480	P935	"Bolivia"	1	'Commons gallery'@en
+Q123480	P935	"Confoederatio Helvetica"	1	'Commons gallery'@en
+Q123480	P935	"Kosovo"	1	'Commons gallery'@en
+Q123480	P935	"Lëtzebuerg"	1	'Commons gallery'@en
+Q123480	P935	"Magyarország"	1	'Commons gallery'@en
+Q123480	P935	"North Macedonia"	1	'Commons gallery'@en
+Q123480	P935	"Slovensko"	1	'Commons gallery'@en
+Q123480	P935	"Uganda"	1	'Commons gallery'@en
+Q123480	P935	"Österreich"	1	'Commons gallery'@en
+Q123480	P935	"Česko"	1	'Commons gallery'@en
+Q123480	P935	"Беларусь"	1	'Commons gallery'@en
+Q123480	P935	"नेपाल"	1	'Commons gallery'@en
+Q1250464	P2258	"214"	1	'mobile country code'@en
+Q1250464	P2979	"224"	1	'maritime identification digits'@en
+Q1250464	P2979	"225"	1	'maritime identification digits'@en
+Q1250464	P3067	"840-849"	1	'GS1 country code'@en
+Q1250464	P373	"Spain"	1	'Commons category'@en
+Q1250464	P395	"E"	1	'licence plate code'@en
+Q1250464	P474	"+34"	1	'country calling code'@en
+Q1250464	P487	"🇪🇸"	1	'Unicode character'@en
+Q1250464	P898	"esˈpaɲa"	1	'IPA transcription'@en
+Q1250464	P898	"ɪˈspanʲɪjə"	1	'IPA transcription'@en
+Q1250464	P898	"ˈspeɪn"	1	'IPA transcription'@en
+Q1250464	P898	"ˈspɑːnɪɑ"	1	'IPA transcription'@en
+Q1250464	P935	"España"	1	'Commons gallery'@en
+Q1252971	P373	"Hijos de Rivera"	1	'Commons category'@en
+Q1269299	P373	"Joint-stock companies"	1	'Commons category'@en
+Q131734	P1329	"+30-2531-038715"	1	'phone number'@en
+Q131734	P1796	"1103"	1	'International Standard Industrial Classification code Rev.4'@en
+Q131734	P2572	"BoulevardBrewing"	1	'hashtag'@en
+Q131734	P2900	"+30-2531-038729"	1	'fax number'@en
+Q131734	P373	"Aass Bryggeri"	1	'Commons category'@en
+Q131734	P373	"Augustiner-Bräu"	1	'Commons category'@en
+Q131734	P373	"Boulevard Brewing Company"	1	'Commons category'@en
+Q131734	P373	"Brand (beer)"	1	'Commons category'@en
+Q131734	P373	"Brasserie Dubuisson"	1	'Commons category'@en
+Q131734	P373	"Brasserie de Luxembourg Mousel-Diekirch"	1	'Commons category'@en
+Q131734	P373	"Brasserie du Bocq"	1	'Commons category'@en
+Q131734	P373	"Brasseries Kronenbourg"	1	'Commons category'@en
+Q131734	P373	"Brewery Martens (Bocholt)"	1	'Commons category'@en
+Q131734	P373	"Brewery in Żywiec"	1	'Commons category'@en
+Q131734	P373	"Brouwerij Jopen"	1	'Commons category'@en
+Q131734	P373	"Brouwerij Van Honsebrouck"	1	'Commons category'@en
+Q131734	P373	"Brouwerij Wilderen"	1	'Commons category'@en
+Q131734	P373	"Brouwerij \\\\\\\\'t IJ"	1	'Commons category'@en
+Q131734	P373	"Cantillon Brewery"	1	'Commons category'@en
+Q131734	P373	"Carlsberg Group"	1	'Commons category'@en
+Q131734	P373	"Cuauhtémoc Moctezuma"	1	'Commons category'@en
+Q131734	P373	"De Plukker brewery"	1	'Commons category'@en
+Q131734	P373	"De Struise Brouwers"	1	'Commons category'@en
+Q131734	P373	"Firestone Walker Brewing Company"	1	'Commons category'@en
+Q131734	P373	"Grolsch"	1	'Commons category'@en
+Q131734	P373	"Guinness brewery"	1	'Commons category'@en
+Q131734	P373	"Gulpener"	1	'Commons category'@en
+Q131734	P373	"Haacht brewery"	1	'Commons category'@en
+Q131734	P373	"Heineken"	1	'Commons category'@en
+Q131734	P373	"Hertog Jan beer"	1	'Commons category'@en
+Q131734	P373	"Hijos de Rivera"	1	'Commons category'@en
+Q131734	P373	"Huyghe brewery"	1	'Commons category'@en
+Q131734	P373	"Lindeboom Brewery"	1	'Commons category'@en
+Q131734	P373	"Miller (beer)"	1	'Commons category'@en
+Q131734	P373	"Oettinger Brauerei"	1	'Commons category'@en
+Q131734	P373	"Olvi"	1	'Commons category'@en
+Q131734	P373	"Proef brewery"	1	'Commons category'@en
+Q131734	P373	"Sapporo Breweries"	1	'Commons category'@en
+Q131734	P373	"Sarajevo Brewery"	1	'Commons category'@en
+Q131734	P373	"Schlenkerla (Brauerei Heller)"	1	'Commons category'@en
+Q131734	P373	"Shepherd Neame Ltd"	1	'Commons category'@en
+Q131734	P373	"Spendrups"	1	'Commons category'@en
+Q131734	P373	"Stoombierbrouwerij De Keyzer"	1	'Commons category'@en
+Q131734	P373	"Svijany Brewery"	1	'Commons category'@en
+Q131734	P373	"Tsingtao Brewery"	1	'Commons category'@en
+Q131734	P3761	"145.47.0.0/16"	1	'IPv4 routing prefix'@en
+Q131734	P935	"Stoombierbrouwerij De Keyzer"	1	'Commons gallery'@en
+Q13218690	P281	"9400"	1	'postal code'@en
+Q13218690	P373	"Sopron"	1	'Commons category'@en
+Q13218690	P473	"99"	1	'local dialing code'@en
+Q13218690	P898	"ˈʃopron"	1	'IPA transcription'@en
+Q13218690	P935	"Sopron"	1	'Commons gallery'@en
+Q13220204	P281	"3270"	1	'postal code'@en
+Q13220204	P373	"Municipality of Laško"	1	'Commons category'@en
+Q13220204	P395	"CE"	1	'licence plate code'@en
+Q1323642	P3238	"8"	2	'trunk prefix'@en
+Q1323642	P2258	"250"	1	'mobile country code'@en
+Q1323642	P2258	"286"	1	'mobile country code'@en
+Q1323642	P2979	"271"	1	'maritime identification digits'@en
+Q1323642	P2979	"273"	1	'maritime identification digits'@en
+Q1323642	P3067	"460-469"	1	'GS1 country code'@en
+Q1323642	P3067	"868-869"	1	'GS1 country code'@en
+Q1323642	P3238	"0"	1	'trunk prefix'@en
+Q1323642	P373	"Russia"	1	'Commons category'@en
+Q1323642	P373	"Soviet Union"	1	'Commons category'@en
+Q1323642	P373	"Turkey"	1	'Commons category'@en
+Q1323642	P395	"RUS"	1	'licence plate code'@en
+Q1323642	P395	"TR"	1	'licence plate code'@en
+Q1323642	P474	"+7"	1	'country calling code'@en
+Q1323642	P474	"+90"	1	'country calling code'@en
+Q1323642	P487	"🇷🇺"	1	'Unicode character'@en
+Q1323642	P487	"🇹🇷"	1	'Unicode character'@en
+Q1323642	P898	"rɐˈsʲijə"	1	'IPA transcription'@en
+Q1323642	P898	"ˈtʏɾkɪɑ"	1	'IPA transcription'@en
+Q1323642	P898	"ˈɾʉslɑn"	1	'IPA transcription'@en
+Q1323642	P898	"ˈɾʉʂlɑn"	1	'IPA transcription'@en
+Q1323642	P935	"Türkiye"	1	'Commons gallery'@en
+Q1323642	P935	"Россия"	1	'Commons gallery'@en
+Q1323642	P935	"Союз Советских Социалистических Республик"	1	'Commons gallery'@en
+Q1335818	P3238	"8"	1	'trunk prefix'@en
+Q1335818	P373	"Soviet Union"	1	'Commons category'@en
+Q1335818	P935	"Союз Советских Социалистических Республик"	1	'Commons gallery'@en
+Q134626	P1438	"15521"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q134626	P281	"02625"	1	'postal code'@en
+Q134626	P281	"80331"	1	'postal code'@en
+Q134626	P281	"80802"	1	'postal code'@en
+Q134626	P281	"80805"	1	'postal code'@en
+Q134626	P281	"81377"	1	'postal code'@en
+Q134626	P281	"81379"	1	'postal code'@en
+Q134626	P281	"81730"	1	'postal code'@en
+Q134626	P281	"81735"	1	'postal code'@en
+Q134626	P281	"81737"	1	'postal code'@en
+Q134626	P281	"81825"	1	'postal code'@en
+Q134626	P281	"81929"	1	'postal code'@en
+Q134626	P281	"8600"	1	'postal code'@en
+Q134626	P373	"Bautzen"	1	'Commons category'@en
+Q134626	P373	"Munich"	1	'Commons category'@en
+Q134626	P395	"BZ"	1	'licence plate code'@en
+Q134626	P395	"M"	1	'licence plate code'@en
+Q134626	P473	"03591"	1	'local dialing code'@en
+Q134626	P473	"035935"	1	'local dialing code'@en
+Q134626	P473	"089"	1	'local dialing code'@en
+Q134626	P935	"Bautzen"	1	'Commons gallery'@en
+Q134626	P935	"München"	1	'Commons gallery'@en
+Q1363963	P373	"Private labels"	1	'Commons category'@en
+Q147538	P1329	"+30-2531-038718"	1	'phone number'@en
+Q14770218	P281	"6969"	1	'postal code'@en
+Q14770218	P373	"Chur"	1	'Commons category'@en
+Q14770218	P395	"GR"	1	'licence plate code'@en
+Q14770218	P473	"081"	1	'local dialing code'@en
+Q14770218	P935	"Chur"	1	'Commons gallery'@en
+Q14784328	P1438	"15521"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q14784328	P281	"80331"	1	'postal code'@en
+Q14784328	P281	"80802"	1	'postal code'@en
+Q14784328	P281	"80805"	1	'postal code'@en
+Q14784328	P281	"81377"	1	'postal code'@en
+Q14784328	P281	"81379"	1	'postal code'@en
+Q14784328	P281	"81730"	1	'postal code'@en
+Q14784328	P281	"81735"	1	'postal code'@en
+Q14784328	P281	"81737"	1	'postal code'@en
+Q14784328	P281	"81825"	1	'postal code'@en
+Q14784328	P281	"81929"	1	'postal code'@en
+Q14784328	P373	"Munich"	1	'Commons category'@en
+Q14784328	P395	"M"	1	'licence plate code'@en
+Q14784328	P473	"089"	1	'local dialing code'@en
+Q14784328	P935	"München"	1	'Commons gallery'@en
+Q1489259	P2258	"310"	1	'mobile country code'@en
+Q1489259	P2258	"311"	1	'mobile country code'@en
+Q1489259	P2258	"312"	1	'mobile country code'@en
+Q1489259	P2258	"313"	1	'mobile country code'@en
+Q1489259	P2258	"316"	1	'mobile country code'@en
+Q1489259	P2979	"338"	1	'maritime identification digits'@en
+Q1489259	P2979	"366"	1	'maritime identification digits'@en
+Q1489259	P2979	"367"	1	'maritime identification digits'@en
+Q1489259	P2979	"368"	1	'maritime identification digits'@en
+Q1489259	P2979	"369"	1	'maritime identification digits'@en
+Q1489259	P3067	"000-139"	1	'GS1 country code'@en
+Q1489259	P373	"United States"	1	'Commons category'@en
+Q1489259	P395	"USA"	1	'licence plate code'@en
+Q1489259	P474	"+1"	1	'country calling code'@en
+Q1489259	P487	"🇺🇸"	1	'Unicode character'@en
+Q1489259	P898	"ʉːɛˈsɑː"	1	'IPA transcription'@en
+Q1489259	P935	"United States"	1	'Commons gallery'@en
+Q15075508	P1329	"+30-2531-038715"	1	'phone number'@en
+Q15075508	P1796	"1103"	1	'International Standard Industrial Classification code Rev.4'@en
+Q15075508	P2900	"+30-2531-038729"	1	'fax number'@en
+Q15075508	P373	"Grolsch"	1	'Commons category'@en
+Q15075508	P373	"Soproni"	1	'Commons category'@en
+Q1520223	P3238	"0"	2	'trunk prefix'@en
+Q1520223	P2258	"218"	1	'mobile country code'@en
+Q1520223	P2258	"310"	1	'mobile country code'@en
+Q1520223	P2258	"311"	1	'mobile country code'@en
+Q1520223	P2258	"312"	1	'mobile country code'@en
+Q1520223	P2258	"313"	1	'mobile country code'@en
+Q1520223	P2258	"316"	1	'mobile country code'@en
+Q1520223	P2258	"460"	1	'mobile country code'@en
+Q1520223	P2979	"338"	1	'maritime identification digits'@en
+Q1520223	P2979	"366"	1	'maritime identification digits'@en
+Q1520223	P2979	"367"	1	'maritime identification digits'@en
+Q1520223	P2979	"368"	1	'maritime identification digits'@en
+Q1520223	P2979	"369"	1	'maritime identification digits'@en
+Q1520223	P2979	"412"	1	'maritime identification digits'@en
+Q1520223	P2979	"413"	1	'maritime identification digits'@en
+Q1520223	P2979	"414"	1	'maritime identification digits'@en
+Q1520223	P2979	"478"	1	'maritime identification digits'@en
+Q1520223	P3067	"000-139"	1	'GS1 country code'@en
+Q1520223	P3067	"387"	1	'GS1 country code'@en
+Q1520223	P3067	"690-699"	1	'GS1 country code'@en
+Q1520223	P373	"Bosnia and Herzegovina"	1	'Commons category'@en
+Q1520223	P373	"People\\\\\\\\'s Republic of China"	1	'Commons category'@en
+Q1520223	P373	"United States"	1	'Commons category'@en
+Q1520223	P395	"BIH"	1	'licence plate code'@en
+Q1520223	P395	"USA"	1	'licence plate code'@en
+Q1520223	P474	"+1"	1	'country calling code'@en
+Q1520223	P474	"+387"	1	'country calling code'@en
+Q1520223	P474	"+86"	1	'country calling code'@en
+Q1520223	P487	"🇧🇦"	1	'Unicode character'@en
+Q1520223	P487	"🇨🇳"	1	'Unicode character'@en
+Q1520223	P487	"🇺🇸"	1	'Unicode character'@en
+Q1520223	P898	"bôsna i xěrtseɡoʋina"	1	'IPA transcription'@en
+Q1520223	P898	"ʉːɛˈsɑː"	1	'IPA transcription'@en
+Q1520223	P898	"ˈbos⁽ʲ⁾nʲɪjə ɪɡʲɪrt͡sɨɡɐˈvʲinə"	1	'IPA transcription'@en
+Q1520223	P898	"ˈbɔsnɪɑ hæʈsəˈgoːʋɪnɑ"	1	'IPA transcription'@en
+Q1520223	P898	"ˈfɔɽkərɛpʉblɪkən ˈçiːnɑ"	1	'IPA transcription'@en
+Q1520223	P898	"ˈçiːnɑ"	1	'IPA transcription'@en
+Q1520223	P935	"Bosna i Hercegovina / Босна и Херцеговина"	1	'Commons gallery'@en
+Q1520223	P935	"United States"	1	'Commons gallery'@en
+Q1520223	P935	"中华人民共和国"	1	'Commons gallery'@en
+Q15273785	P281	"3740"	1	'postal code'@en
+Q15273785	P281	"3742"	1	'postal code'@en
+Q15273785	P281	"3746"	1	'postal code'@en
+Q15273785	P373	"Bilzen"	1	'Commons category'@en
+Q15273785	P473	"089"	1	'local dialing code'@en
+Q15303838	P281	"4000"	1	'postal code'@en
+Q15303838	P373	"Plovdiv"	1	'Commons category'@en
+Q15303838	P395	"РВ (П)"	1	'licence plate code'@en
+Q15303838	P473	"032"	1	'local dialing code'@en
+Q15304003	P2258	"204"	1	'mobile country code'@en
+Q15304003	P3067	"870-879"	1	'GS1 country code'@en
+Q15304003	P3238	"0"	1	'trunk prefix'@en
+Q15304003	P373	"Netherlands"	1	'Commons category'@en
+Q15304003	P395	"NL"	1	'licence plate code'@en
+Q15304003	P474	"+31"	1	'country calling code'@en
+Q15304003	P474	"+599"	1	'country calling code'@en
+Q15304003	P487	"🇳🇱"	1	'Unicode character'@en
+Q15304003	P898	"ˈneːdəɭɑn"	1	'IPA transcription'@en
+Q15304003	P935	"Nederland"	1	'Commons gallery'@en
+Q15344922	P281	"4000"	1	'postal code'@en
+Q15344922	P373	"Plovdiv"	1	'Commons category'@en
+Q15344922	P395	"РВ (П)"	1	'licence plate code'@en
+Q15344922	P473	"032"	1	'local dialing code'@en
+Q1549591	P1438	"12407"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q1549591	P1438	"15521"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q1549591	P238	"LEJ"	1	'IATA airport code'@en
+Q1549591	P238	"WAS"	1	'IATA airport code'@en
+Q1549591	P281	"04003"	1	'postal code'@en
+Q1549591	P281	"04105"	1	'postal code'@en
+Q1549591	P281	"04109"	1	'postal code'@en
+Q1549591	P281	"04155"	1	'postal code'@en
+Q1549591	P281	"04157"	1	'postal code'@en
+Q1549591	P281	"04159"	1	'postal code'@en
+Q1549591	P281	"04229"	1	'postal code'@en
+Q1549591	P281	"04275"	1	'postal code'@en
+Q1549591	P281	"04317"	1	'postal code'@en
+Q1549591	P281	"04357"	1	'postal code'@en
+Q1549591	P281	"10xxx, 11xxx, 120xx"	1	'postal code'@en
+Q1549591	P281	"13000"	1	'postal code'@en
+Q1549591	P281	"13001"	1	'postal code'@en
+Q1549591	P281	"13002"	1	'postal code'@en
+Q1549591	P281	"13003"	1	'postal code'@en
+Q1549591	P281	"13004"	1	'postal code'@en
+Q1549591	P281	"13005"	1	'postal code'@en
+Q1549591	P281	"13006"	1	'postal code'@en
+Q1549591	P281	"13007"	1	'postal code'@en
+Q1549591	P281	"13008"	1	'postal code'@en
+Q1549591	P281	"13009"	1	'postal code'@en
+Q1549591	P281	"13010"	1	'postal code'@en
+Q1549591	P281	"13011"	1	'postal code'@en
+Q1549591	P281	"13012"	1	'postal code'@en
+Q1549591	P281	"13013"	1	'postal code'@en
+Q1549591	P281	"13014"	1	'postal code'@en
+Q1549591	P281	"13015"	1	'postal code'@en
+Q1549591	P281	"13016"	1	'postal code'@en
+Q1549591	P281	"20001–20098"	1	'postal code'@en
+Q1549591	P281	"20201–20599"	1	'postal code'@en
+Q1549591	P281	"26x xx"	1	'postal code'@en
+Q1549591	P281	"4000"	1	'postal code'@en
+Q1549591	P281	"530–539"	1	'postal code'@en
+Q1549591	P281	"54015–54655"	1	'postal code'@en
+Q1549591	P281	"56404"	1	'postal code'@en
+Q1549591	P281	"80331"	1	'postal code'@en
+Q1549591	P281	"80802"	1	'postal code'@en
+Q1549591	P281	"80805"	1	'postal code'@en
+Q1549591	P281	"81377"	1	'postal code'@en
+Q1549591	P281	"81379"	1	'postal code'@en
+Q1549591	P281	"81730"	1	'postal code'@en
+Q1549591	P281	"81735"	1	'postal code'@en
+Q1549591	P281	"81737"	1	'postal code'@en
+Q1549591	P281	"81825"	1	'postal code'@en
+Q1549591	P281	"81929"	1	'postal code'@en
+Q1549591	P373	"Athens"	1	'Commons category'@en
+Q1549591	P373	"Leipzig"	1	'Commons category'@en
+Q1549591	P373	"Marseille"	1	'Commons category'@en
+Q1549591	P373	"Munich"	1	'Commons category'@en
+Q1549591	P373	"Patras"	1	'Commons category'@en
+Q1549591	P373	"Plovdiv"	1	'Commons category'@en
+Q1549591	P373	"Thessaloniki"	1	'Commons category'@en
+Q1549591	P373	"Washington, D.C."	1	'Commons category'@en
+Q1549591	P395	"AZ"	1	'licence plate code'@en
+Q1549591	P395	"BK"	1	'licence plate code'@en
+Q1549591	P395	"BM"	1	'licence plate code'@en
+Q1549591	P395	"BN"	1	'licence plate code'@en
+Q1549591	P395	"BP"	1	'licence plate code'@en
+Q1549591	P395	"HY"	1	'licence plate code'@en
+Q1549591	P395	"IA"	1	'licence plate code'@en
+Q1549591	P395	"IB"	1	'licence plate code'@en
+Q1549591	P395	"IE"	1	'licence plate code'@en
+Q1549591	P395	"IK"	1	'licence plate code'@en
+Q1549591	P395	"IM"	1	'licence plate code'@en
+Q1549591	P395	"IO"	1	'licence plate code'@en
+Q1549591	P395	"IP"	1	'licence plate code'@en
+Q1549591	P395	"IT"	1	'licence plate code'@en
+Q1549591	P395	"IX"	1	'licence plate code'@en
+Q1549591	P395	"IY"	1	'licence plate code'@en
+Q1549591	P395	"IZ"	1	'licence plate code'@en
+Q1549591	P395	"L"	1	'licence plate code'@en
+Q1549591	P395	"M"	1	'licence plate code'@en
+Q1549591	P395	"MM"	1	'licence plate code'@en
+Q1549591	P395	"NA"	1	'licence plate code'@en
+Q1549591	P395	"NB"	1	'licence plate code'@en
+Q1549591	P395	"NE"	1	'licence plate code'@en
+Q1549591	P395	"NH"	1	'licence plate code'@en
+Q1549591	P395	"NI"	1	'licence plate code'@en
+Q1549591	P395	"NK"	1	'licence plate code'@en
+Q1549591	P395	"NM"	1	'licence plate code'@en
+Q1549591	P395	"NN"	1	'licence plate code'@en
+Q1549591	P395	"NO"	1	'licence plate code'@en
+Q1549591	P395	"NP"	1	'licence plate code'@en
+Q1549591	P395	"NT"	1	'licence plate code'@en
+Q1549591	P395	"NX"	1	'licence plate code'@en
+Q1549591	P395	"NY"	1	'licence plate code'@en
+Q1549591	P395	"NZ"	1	'licence plate code'@en
+Q1549591	P395	"OA"	1	'licence plate code'@en
+Q1549591	P395	"TT"	1	'licence plate code'@en
+Q1549591	P395	"XE"	1	'licence plate code'@en
+Q1549591	P395	"XH"	1	'licence plate code'@en
+Q1549591	P395	"XP"	1	'licence plate code'@en
+Q1549591	P395	"XT"	1	'licence plate code'@en
+Q1549591	P395	"XX"	1	'licence plate code'@en
+Q1549591	P395	"XY"	1	'licence plate code'@en
+Q1549591	P395	"XZ"	1	'licence plate code'@en
+Q1549591	P395	"YA"	1	'licence plate code'@en
+Q1549591	P395	"YB"	1	'licence plate code'@en
+Q1549591	P395	"YE"	1	'licence plate code'@en
+Q1549591	P395	"YH"	1	'licence plate code'@en
+Q1549591	P395	"YZ"	1	'licence plate code'@en
+Q1549591	P395	"ZH"	1	'licence plate code'@en
+Q1549591	P395	"ZK"	1	'licence plate code'@en
+Q1549591	P395	"ZM"	1	'licence plate code'@en
+Q1549591	P395	"ZZ"	1	'licence plate code'@en
+Q1549591	P395	"ΑX"	1	'licence plate code'@en
+Q1549591	P395	"РВ (П)"	1	'licence plate code'@en
+Q1549591	P473	"032"	1	'local dialing code'@en
+Q1549591	P473	"0341"	1	'local dialing code'@en
+Q1549591	P473	"089"	1	'local dialing code'@en
+Q1549591	P473	"202"	1	'local dialing code'@en
+Q1549591	P473	"210"	1	'local dialing code'@en
+Q1549591	P473	"2310"	1	'local dialing code'@en
+Q1549591	P473	"2610"	1	'local dialing code'@en
+Q1549591	P473	"491"	1	'local dialing code'@en
+Q1549591	P473	"496"	1	'local dialing code'@en
+Q1549591	P742	"Η νύμφη του Θερμαϊκού"	1	'pseudonym'@en
+Q1549591	P935	"Athens"	1	'Commons gallery'@en
+Q1549591	P935	"Leipzig"	1	'Commons gallery'@en
+Q1549591	P935	"Marseille"	1	'Commons gallery'@en
+Q1549591	P935	"München"	1	'Commons gallery'@en
+Q1549591	P935	"Patras"	1	'Commons gallery'@en
+Q1549591	P935	"Washington, D.C."	1	'Commons gallery'@en
+Q1549591	P935	"Θεσσαλονίκη"	1	'Commons gallery'@en
+Q15634554	P3067	"390"	1	'GS1 country code'@en
+Q15634554	P3238	"0"	1	'trunk prefix'@en
+Q15634554	P373	"Kosovo"	1	'Commons category'@en
+Q15634554	P474	"+383"	1	'country calling code'@en
+Q15634554	P487	"🇽🇰"	1	'Unicode character'@en
+Q15634554	P935	"Kosovo"	1	'Commons gallery'@en
+Q15711870	P373	"Santa Claus"	1	'Commons category'@en
+Q15711870	P487	"🎅"	1	'Unicode character'@en
+Q15711870	P935	"Santa Claus"	1	'Commons gallery'@en
+Q15773347	P373	"Santa Claus"	1	'Commons category'@en
+Q15773347	P487	"🎅"	1	'Unicode character'@en
+Q15773347	P935	"Santa Claus"	1	'Commons gallery'@en
+Q1637706	P1438	"15521"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q1637706	P281	"80331"	1	'postal code'@en
+Q1637706	P281	"80802"	1	'postal code'@en
+Q1637706	P281	"80805"	1	'postal code'@en
+Q1637706	P281	"81377"	1	'postal code'@en
+Q1637706	P281	"81379"	1	'postal code'@en
+Q1637706	P281	"81730"	1	'postal code'@en
+Q1637706	P281	"81735"	1	'postal code'@en
+Q1637706	P281	"81737"	1	'postal code'@en
+Q1637706	P281	"81825"	1	'postal code'@en
+Q1637706	P281	"81929"	1	'postal code'@en
+Q1637706	P373	"Munich"	1	'Commons category'@en
+Q1637706	P395	"M"	1	'licence plate code'@en
+Q1637706	P473	"089"	1	'local dialing code'@en
+Q1637706	P935	"München"	1	'Commons gallery'@en
+Q165116	P2258	"270"	1	'mobile country code'@en
+Q165116	P2979	"253"	1	'maritime identification digits'@en
+Q165116	P3067	"540-549"	1	'GS1 country code'@en
+Q165116	P3238	novalue	1	'trunk prefix'@en
+Q165116	P373	"Luxembourg"	1	'Commons category'@en
+Q165116	P395	"L"	1	'licence plate code'@en
+Q165116	P474	"+352"	1	'country calling code'@en
+Q165116	P487	"🇱🇺"	1	'Unicode character'@en
+Q165116	P898	"ˈlʉksəmbʉɾg"	1	'IPA transcription'@en
+Q165116	P935	"Lëtzebuerg"	1	'Commons gallery'@en
+Q16521	P225	"Hordeum vulgare"	1	'taxon name'@en
+Q16521	P225	"Sorghum"	1	'taxon name'@en
+Q16521	P225	"Zea mays"	1	'taxon name'@en
+Q16521	P373	"Hordeum vulgare"	1	'Commons category'@en
+Q16521	P373	"Sorghum"	1	'Commons category'@en
+Q16521	P373	"Zea mays"	1	'Commons category'@en
+Q16521	P487	"🌽"	1	'Unicode character'@en
+Q16521	P627	"77726273"	1	'IUCN taxon ID'@en
+Q16521	P920	"LEM201008505"	1	'LEM ID'@en
+Q16521	P935	"Hordeum vulgare"	1	'Commons gallery'@en
+Q16521	P935	"Zea mays"	1	'Commons gallery'@en
+Q167270	P373	"Augustiner-Bräu"	1	'Commons category'@en
+Q167270	P373	"Efes Beverage Group"	1	'Commons category'@en
+Q167270	P373	"Harbin Beer"	1	'Commons category'@en
+Q170156	P2258	"228"	1	'mobile country code'@en
+Q170156	P2979	"269"	1	'maritime identification digits'@en
+Q170156	P3067	"760-769"	1	'GS1 country code'@en
+Q170156	P3238	"0"	1	'trunk prefix'@en
+Q170156	P373	"Switzerland"	1	'Commons category'@en
+Q170156	P395	"CH"	1	'licence plate code'@en
+Q170156	P474	"+41"	1	'country calling code'@en
+Q170156	P487	"🇨🇭"	1	'Unicode character'@en
+Q170156	P898	"ˈsʋæɪts"	1	'IPA transcription'@en
+Q170156	P935	"Confoederatio Helvetica"	1	'Commons gallery'@en
+Q179164	P3238	"0"	9	'trunk prefix'@en
+Q179164	P3238	novalue	4	'trunk prefix'@en
+Q179164	P3238	"8"	2	'trunk prefix'@en
+Q179164	P2258	"202"	1	'mobile country code'@en
+Q179164	P2258	"219"	1	'mobile country code'@en
+Q179164	P2258	"222"	1	'mobile country code'@en
+Q179164	P2258	"240"	1	'mobile country code'@en
+Q179164	P2258	"244"	1	'mobile country code'@en
+Q179164	P2258	"246"	1	'mobile country code'@en
+Q179164	P2258	"248"	1	'mobile country code'@en
+Q179164	P2258	"255"	1	'mobile country code'@en
+Q179164	P2258	"257"	1	'mobile country code'@en
+Q179164	P2258	"270"	1	'mobile country code'@en
+Q179164	P2258	"276"	1	'mobile country code'@en
+Q179164	P2258	"278"	1	'mobile country code'@en
+Q179164	P2258	"282"	1	'mobile country code'@en
+Q179164	P2258	"284"	1	'mobile country code'@en
+Q179164	P2258	"368"	1	'mobile country code'@en
+Q179164	P2572	"greece"	1	'hashtag'@en
+Q179164	P2572	"україна"	1	'hashtag'@en
+Q179164	P2979	"201"	1	'maritime identification digits'@en
+Q179164	P2979	"206"	1	'maritime identification digits'@en
+Q179164	P2979	"207"	1	'maritime identification digits'@en
+Q179164	P2979	"213"	1	'maritime identification digits'@en
+Q179164	P2979	"215"	1	'maritime identification digits'@en
+Q179164	P2979	"229"	1	'maritime identification digits'@en
+Q179164	P2979	"230"	1	'maritime identification digits'@en
+Q179164	P2979	"237"	1	'maritime identification digits'@en
+Q179164	P2979	"238"	1	'maritime identification digits'@en
+Q179164	P2979	"239"	1	'maritime identification digits'@en
+Q179164	P2979	"240"	1	'maritime identification digits'@en
+Q179164	P2979	"241"	1	'maritime identification digits'@en
+Q179164	P2979	"247"	1	'maritime identification digits'@en
+Q179164	P2979	"248"	1	'maritime identification digits'@en
+Q179164	P2979	"249"	1	'maritime identification digits'@en
+Q179164	P2979	"253"	1	'maritime identification digits'@en
+Q179164	P2979	"256"	1	'maritime identification digits'@en
+Q179164	P2979	"265"	1	'maritime identification digits'@en
+Q179164	P2979	"266"	1	'maritime identification digits'@en
+Q179164	P2979	"272"	1	'maritime identification digits'@en
+Q179164	P2979	"276"	1	'maritime identification digits'@en
+Q179164	P2979	"277"	1	'maritime identification digits'@en
+Q179164	P2979	"323"	1	'maritime identification digits'@en
+Q179164	P3067	"380"	1	'GS1 country code'@en
+Q179164	P3067	"385"	1	'GS1 country code'@en
+Q179164	P3067	"390"	1	'GS1 country code'@en
+Q179164	P3067	"474"	1	'GS1 country code'@en
+Q179164	P3067	"477"	1	'GS1 country code'@en
+Q179164	P3067	"481"	1	'GS1 country code'@en
+Q179164	P3067	"482"	1	'GS1 country code'@en
+Q179164	P3067	"486"	1	'GS1 country code'@en
+Q179164	P3067	"520"	1	'GS1 country code'@en
+Q179164	P3067	"521"	1	'GS1 country code'@en
+Q179164	P3067	"530"	1	'GS1 country code'@en
+Q179164	P3067	"535"	1	'GS1 country code'@en
+Q179164	P3067	"540-549"	1	'GS1 country code'@en
+Q179164	P3067	"640-649"	1	'GS1 country code'@en
+Q179164	P3067	"730-739"	1	'GS1 country code'@en
+Q179164	P3067	"800-839"	1	'GS1 country code'@en
+Q179164	P3067	"850"	1	'GS1 country code'@en
+Q179164	P373	"Albania"	1	'Commons category'@en
+Q179164	P373	"Belarus"	1	'Commons category'@en
+Q179164	P373	"Bulgaria"	1	'Commons category'@en
+Q179164	P373	"Croatia"	1	'Commons category'@en
+Q179164	P373	"Cuba"	1	'Commons category'@en
+Q179164	P373	"Estonia"	1	'Commons category'@en
+Q179164	P373	"Finland"	1	'Commons category'@en
+Q179164	P373	"Georgia"	1	'Commons category'@en
+Q179164	P373	"Greece"	1	'Commons category'@en
+Q179164	P373	"Italy"	1	'Commons category'@en
+Q179164	P373	"Kosovo"	1	'Commons category'@en
+Q179164	P373	"Lithuania"	1	'Commons category'@en
+Q179164	P373	"Luxembourg"	1	'Commons category'@en
+Q179164	P373	"Malta"	1	'Commons category'@en
+Q179164	P373	"Sweden"	1	'Commons category'@en
+Q179164	P373	"Ukraine"	1	'Commons category'@en
+Q179164	P395	"AL"	1	'licence plate code'@en
+Q179164	P395	"BG"	1	'licence plate code'@en
+Q179164	P395	"BLR"	1	'licence plate code'@en
+Q179164	P395	"C"	1	'licence plate code'@en
+Q179164	P395	"EST"	1	'licence plate code'@en
+Q179164	P395	"FIN"	1	'licence plate code'@en
+Q179164	P395	"GE"	1	'licence plate code'@en
+Q179164	P395	"GR"	1	'licence plate code'@en
+Q179164	P395	"HR"	1	'licence plate code'@en
+Q179164	P395	"I"	1	'licence plate code'@en
+Q179164	P395	"L"	1	'licence plate code'@en
+Q179164	P395	"LT"	1	'licence plate code'@en
+Q179164	P395	"M"	1	'licence plate code'@en
+Q179164	P395	"S"	1	'licence plate code'@en
+Q179164	P395	"UA"	1	'licence plate code'@en
+Q179164	P474	"+30"	1	'country calling code'@en
+Q179164	P474	"+352"	1	'country calling code'@en
+Q179164	P474	"+355"	1	'country calling code'@en
+Q179164	P474	"+356"	1	'country calling code'@en
+Q179164	P474	"+358"	1	'country calling code'@en
+Q179164	P474	"+359"	1	'country calling code'@en
+Q179164	P474	"+370"	1	'country calling code'@en
+Q179164	P474	"+372"	1	'country calling code'@en
+Q179164	P474	"+375"	1	'country calling code'@en
+Q179164	P474	"+380"	1	'country calling code'@en
+Q179164	P474	"+383"	1	'country calling code'@en
+Q179164	P474	"+385"	1	'country calling code'@en
+Q179164	P474	"+39"	1	'country calling code'@en
+Q179164	P474	"+46"	1	'country calling code'@en
+Q179164	P474	"+53"	1	'country calling code'@en
+Q179164	P474	"+995"	1	'country calling code'@en
+Q179164	P487	"🇦🇱"	1	'Unicode character'@en
+Q179164	P487	"🇧🇬"	1	'Unicode character'@en
+Q179164	P487	"🇧🇾"	1	'Unicode character'@en
+Q179164	P487	"🇨🇺"	1	'Unicode character'@en
+Q179164	P487	"🇪🇪"	1	'Unicode character'@en
+Q179164	P487	"🇫🇮"	1	'Unicode character'@en
+Q179164	P487	"🇬🇪"	1	'Unicode character'@en
+Q179164	P487	"🇬🇷"	1	'Unicode character'@en
+Q179164	P487	"🇭🇷"	1	'Unicode character'@en
+Q179164	P487	"🇮🇹"	1	'Unicode character'@en
+Q179164	P487	"🇱🇹"	1	'Unicode character'@en
+Q179164	P487	"🇱🇺"	1	'Unicode character'@en
+Q179164	P487	"🇲🇹"	1	'Unicode character'@en
+Q179164	P487	"🇸🇪"	1	'Unicode character'@en
+Q179164	P487	"🇺🇦"	1	'Unicode character'@en
+Q179164	P487	"🇽🇰"	1	'Unicode character'@en
+Q179164	P898	"bɐlˈɡarʲɪjə"	1	'IPA transcription'@en
+Q179164	P898	"bʉlˈgɑːɾɪɑ"	1	'IPA transcription'@en
+Q179164	P898	"bʲɛlaˈrusʲ"	1	'IPA transcription'@en
+Q179164	P898	"bʲɛɫ̪äˈrus̪ʲ"	1	'IPA transcription'@en
+Q179164	P898	"gɛˈɔɾgjɑ"	1	'IPA transcription'@en
+Q179164	P898	"iˈtalja"	1	'IPA transcription'@en
+Q179164	P898	"kɾuːˈɑtsɪɑ"	1	'IPA transcription'@en
+Q179164	P898	"lʲɪɛtʊˈvɐ"	1	'IPA transcription'@en
+Q179164	P898	"lʲɪˈtva"	1	'IPA transcription'@en
+Q179164	P898	"rɛˈpublikɐ bɤ̞lˈɡarijɐ"	1	'IPA transcription'@en
+Q179164	P898	"xř̩ʋaːtskaː"	1	'IPA transcription'@en
+Q179164	P898	"xɐrˈvatʲɪjə"	1	'IPA transcription'@en
+Q179164	P898	"y.kʁɛn"	1	'IPA transcription'@en
+Q179164	P898	"ɐlˈbanʲɪjə"	1	'IPA transcription'@en
+Q179164	P898	"ɑlˈbɑːnɪɑ"	1	'IPA transcription'@en
+Q179164	P898	"ɛˈstonʲɪjə"	1	'IPA transcription'@en
+Q179164	P898	"ɪˈtalʲɪjə"	1	'IPA transcription'@en
+Q179164	P898	"ɪˈtɑːlɪɑ"	1	'IPA transcription'@en
+Q179164	P898	"ɾɛpuˈblika ɛ ʃcipəˈɾiːs"	1	'IPA transcription'@en
+Q179164	P898	"ʉkɾɑˈiːnɑ"	1	'IPA transcription'@en
+Q179164	P898	"ʊkrɐˈjɪn̪ɐ"	1	'IPA transcription'@en
+Q179164	P898	"ʔukʁaˈiːnə"	1	'IPA transcription'@en
+Q179164	P898	"ˈeːsti"	1	'IPA transcription'@en
+Q179164	P898	"ˈfɪnlɑn"	1	'IPA transcription'@en
+Q179164	P898	"ˈhɛlɑs"	1	'IPA transcription'@en
+Q179164	P898	"ˈkʉːbɑ"	1	'IPA transcription'@en
+Q179164	P898	"ˈlɪtæʉən"	1	'IPA transcription'@en
+Q179164	P898	"ˈlʉksəmbʉɾg"	1	'IPA transcription'@en
+Q179164	P898	"ˈmalʲtə"	1	'IPA transcription'@en
+Q179164	P898	"ˈmɐltɐ"	1	'IPA transcription'@en
+Q179164	P898	"ˈmɑltɑ"	1	'IPA transcription'@en
+Q179164	P898	"ˈmɒltə"	1	'IPA transcription'@en
+Q179164	P898	"ˈsuo̯mi"	1	'IPA transcription'@en
+Q179164	P898	"ˈsvɛːrjɛ"	1	'IPA transcription'@en
+Q179164	P898	"ˈsʋæɾjə"	1	'IPA transcription'@en
+Q179164	P898	"ˈɛstlɑn"	1	'IPA transcription'@en
+Q179164	P898	"ˈɡrʲet͡sɨjə"	1	'IPA transcription'@en
+Q179164	P898	"ˈʂvʲet͡sɨjə"	1	'IPA transcription'@en
+Q179164	P898	"ˈʋiːtərʉslɑn"	1	'IPA transcription'@en
+Q179164	P898	"ˈʋiːtərʉʂlɑn"	1	'IPA transcription'@en
+Q179164	P935	"Cuba"	1	'Commons gallery'@en
+Q179164	P935	"Eesti"	1	'Commons gallery'@en
+Q179164	P935	"Hrvatska"	1	'Commons gallery'@en
+Q179164	P935	"Italia"	1	'Commons gallery'@en
+Q179164	P935	"Kosovo"	1	'Commons gallery'@en
+Q179164	P935	"Lietuva"	1	'Commons gallery'@en
+Q179164	P935	"Lëtzebuerg"	1	'Commons gallery'@en
+Q179164	P935	"Malta"	1	'Commons gallery'@en
+Q179164	P935	"Shqipëria"	1	'Commons gallery'@en
+Q179164	P935	"Suomi – Finland"	1	'Commons gallery'@en
+Q179164	P935	"Sverige"	1	'Commons gallery'@en
+Q179164	P935	"Ελλάδα"	1	'Commons gallery'@en
+Q179164	P935	"Беларусь"	1	'Commons gallery'@en
+Q179164	P935	"България"	1	'Commons gallery'@en
+Q179164	P935	"Україна"	1	'Commons gallery'@en
+Q179164	P935	"საქართველო"	1	'Commons gallery'@en
+Q184208	P373	"Ginger"	1	'Commons category'@en
+Q185145	P2258	"250"	1	'mobile country code'@en
+Q185145	P2979	"273"	1	'maritime identification digits'@en
+Q185145	P3067	"460-469"	1	'GS1 country code'@en
+Q185145	P3238	"8"	1	'trunk prefix'@en
+Q185145	P373	"Russia"	1	'Commons category'@en
+Q185145	P395	"RUS"	1	'licence plate code'@en
+Q185145	P474	"+7"	1	'country calling code'@en
+Q185145	P487	"🇷🇺"	1	'Unicode character'@en
+Q185145	P898	"rɐˈsʲijə"	1	'IPA transcription'@en
+Q185145	P898	"ˈɾʉslɑn"	1	'IPA transcription'@en
+Q185145	P898	"ˈɾʉʂlɑn"	1	'IPA transcription'@en
+Q185145	P935	"Россия"	1	'Commons gallery'@en
+Q187661	P373	"Alcoholic beverages"	1	'Commons category'@en
+Q191067	P304	"40"	1	'page(s)'@en
+Q191067	P304	"52"	1	'page(s)'@en
+Q191067	P304	"604–605"	1	'page(s)'@en
+Q191067	P433	"2"	1	'issue'@en
+Q191067	P433	"3"	1	'issue'@en
+Q191067	P433	"45"	1	'issue'@en
+Q196294	P373	"CC-BY-SA"	1	'Commons category'@en
+Q196756	P373	"Protected geographical indication"	1	'Commons category'@en
+Q1968435	P1282	"Tag:cuisine=turkish"	1	'OpenStreetMap tag or key'@en
+Q1968435	P373	"Cuisine of Turkey"	1	'Commons category'@en
+Q1968435	P935	"Cuisine of Turkey"	1	'Commons gallery'@en
+Q19861951	P373	"Beverages"	1	'Commons category'@en
+Q19861951	P935	"Beverages"	1	'Commons gallery'@en
+Q1998962	P1987	"2202.91.00"	1	'MCN code'@en
+Q1998962	P373	"Ale (beer)"	1	'Commons category'@en
+Q1998962	P373	"Helles"	1	'Commons category'@en
+Q1998962	P373	"Lager beer"	1	'Commons category'@en
+Q1998962	P373	"Lambic beers"	1	'Commons category'@en
+Q1998962	P373	"Pale ales"	1	'Commons category'@en
+Q1998962	P373	"Pilsner"	1	'Commons category'@en
+Q1998962	P373	"Smoked beer"	1	'Commons category'@en
+Q1998962	P373	"Stout"	1	'Commons category'@en
+Q1998962	P373	"Trappist beers"	1	'Commons category'@en
+Q1998962	P373	"Wheat beers"	1	'Commons category'@en
+Q200250	P1438	"15521"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q200250	P281	"80331"	1	'postal code'@en
+Q200250	P281	"80802"	1	'postal code'@en
+Q200250	P281	"80805"	1	'postal code'@en
+Q200250	P281	"81377"	1	'postal code'@en
+Q200250	P281	"81379"	1	'postal code'@en
+Q200250	P281	"81730"	1	'postal code'@en
+Q200250	P281	"81735"	1	'postal code'@en
+Q200250	P281	"81737"	1	'postal code'@en
+Q200250	P281	"81825"	1	'postal code'@en
+Q200250	P281	"81929"	1	'postal code'@en
+Q200250	P373	"Munich"	1	'Commons category'@en
+Q200250	P395	"M"	1	'licence plate code'@en
+Q200250	P473	"089"	1	'local dialing code'@en
+Q200250	P935	"München"	1	'Commons gallery'@en
+Q200464	P2258	"631"	1	'mobile country code'@en
+Q200464	P2979	"603"	1	'maritime identification digits'@en
+Q200464	P3238	novalue	1	'trunk prefix'@en
+Q200464	P373	"Angola"	1	'Commons category'@en
+Q200464	P474	"+244"	1	'country calling code'@en
+Q200464	P487	"🇦🇴"	1	'Unicode character'@en
+Q200464	P898	"ɑŋ\\\\\\\\'guːlɑ"	1	'IPA transcription'@en
+Q200464	P935	"Angola"	1	'Commons gallery'@en
+Q20181813	P3238	"0"	3	'trunk prefix'@en
+Q20181813	P3238	novalue	2	'trunk prefix'@en
+Q20181813	P487	"🇩🇰"	2	'Unicode character'@en
+Q20181813	P2258	"206"	1	'mobile country code'@en
+Q20181813	P2258	"208"	1	'mobile country code'@en
+Q20181813	P2258	"234"	1	'mobile country code'@en
+Q20181813	P2258	"235"	1	'mobile country code'@en
+Q20181813	P2258	"238"	1	'mobile country code'@en
+Q20181813	P2258	"268"	1	'mobile country code'@en
+Q20181813	P2979	"205"	1	'maritime identification digits'@en
+Q20181813	P2979	"219"	1	'maritime identification digits'@en
+Q20181813	P2979	"220"	1	'maritime identification digits'@en
+Q20181813	P2979	"226"	1	'maritime identification digits'@en
+Q20181813	P2979	"227"	1	'maritime identification digits'@en
+Q20181813	P2979	"228"	1	'maritime identification digits'@en
+Q20181813	P2979	"232"	1	'maritime identification digits'@en
+Q20181813	P2979	"233"	1	'maritime identification digits'@en
+Q20181813	P2979	"234"	1	'maritime identification digits'@en
+Q20181813	P2979	"235"	1	'maritime identification digits'@en
+Q20181813	P2979	"263"	1	'maritime identification digits'@en
+Q20181813	P3067	"300-379"	1	'GS1 country code'@en
+Q20181813	P3067	"500-509"	1	'GS1 country code'@en
+Q20181813	P3067	"540-549"	1	'GS1 country code'@en
+Q20181813	P3067	"560"	1	'GS1 country code'@en
+Q20181813	P3067	"570"	1	'GS1 country code'@en
+Q20181813	P3067	"571"	1	'GS1 country code'@en
+Q20181813	P3067	"572"	1	'GS1 country code'@en
+Q20181813	P3067	"573"	1	'GS1 country code'@en
+Q20181813	P3067	"574"	1	'GS1 country code'@en
+Q20181813	P3067	"575"	1	'GS1 country code'@en
+Q20181813	P3067	"576"	1	'GS1 country code'@en
+Q20181813	P3067	"577"	1	'GS1 country code'@en
+Q20181813	P3067	"578"	1	'GS1 country code'@en
+Q20181813	P3067	"579"	1	'GS1 country code'@en
+Q20181813	P373	"Belgium"	1	'Commons category'@en
+Q20181813	P373	"Denmark"	1	'Commons category'@en
+Q20181813	P373	"France"	1	'Commons category'@en
+Q20181813	P373	"Kingdom of Denmark"	1	'Commons category'@en
+Q20181813	P373	"Portugal"	1	'Commons category'@en
+Q20181813	P373	"United Kingdom"	1	'Commons category'@en
+Q20181813	P395	"B"	1	'licence plate code'@en
+Q20181813	P395	"F"	1	'licence plate code'@en
+Q20181813	P395	"GB"	1	'licence plate code'@en
+Q20181813	P395	"P"	1	'licence plate code'@en
+Q20181813	P474	"+32"	1	'country calling code'@en
+Q20181813	P474	"+33"	1	'country calling code'@en
+Q20181813	P474	"+351"	1	'country calling code'@en
+Q20181813	P474	"+44"	1	'country calling code'@en
+Q20181813	P474	"+45"	1	'country calling code'@en
+Q20181813	P487	"🇧🇪"	1	'Unicode character'@en
+Q20181813	P487	"🇫🇷"	1	'Unicode character'@en
+Q20181813	P487	"🇬🇧"	1	'Unicode character'@en
+Q20181813	P487	"🇵🇹"	1	'Unicode character'@en
+Q20181813	P898	"bɛl.ʒik"	1	'IPA transcription'@en
+Q20181813	P898	"fʁɑ̃s"	1	'IPA transcription'@en
+Q20181813	P898	"jʊ̈nai̯tɘd kɪŋɡdə̯m"	1	'IPA transcription'@en
+Q20181813	P898	"puɾtuˈɣaɫ"	1	'IPA transcription'@en
+Q20181813	P898	"puʈʉˈgɑːl"	1	'IPA transcription'@en
+Q20181813	P898	"pərtʊˈɡalʲɪjə"	1	'IPA transcription'@en
+Q20181813	P898	"vʲɪlʲɪkəbrʲɪˈtanʲɪj"	1	'IPA transcription'@en
+Q20181813	P898	"ˈbɛlgɪɑ"	1	'IPA transcription'@en
+Q20181813	P898	"ˈbʲelʲɡʲɪjə"	1	'IPA transcription'@en
+Q20181813	P898	"ˈdɑnmɑɾk"	1	'IPA transcription'@en
+Q20181813	P898	"ˈfɾɑŋkɾiːkə"	1	'IPA transcription'@en
+Q20181813	P898	"ˈstuɾbɾɪtɑːnɪɑ"	1	'IPA transcription'@en
+Q20181813	P935	"België - Belgique - Belgien"	1	'Commons gallery'@en
+Q20181813	P935	"Danmark"	1	'Commons gallery'@en
+Q20181813	P935	"France"	1	'Commons gallery'@en
+Q20181813	P935	"Portugal"	1	'Commons gallery'@en
+Q20181813	P935	"United Kingdom"	1	'Commons gallery'@en
+Q202686	P3238	"0"	2	'trunk prefix'@en
+Q202686	P1438	"15425#15"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q202686	P2258	"234"	1	'mobile country code'@en
+Q202686	P2258	"235"	1	'mobile country code'@en
+Q202686	P2258	"302"	1	'mobile country code'@en
+Q202686	P2258	"505"	1	'mobile country code'@en
+Q202686	P2979	"232"	1	'maritime identification digits'@en
+Q202686	P2979	"233"	1	'maritime identification digits'@en
+Q202686	P2979	"234"	1	'maritime identification digits'@en
+Q202686	P2979	"235"	1	'maritime identification digits'@en
+Q202686	P2979	"316"	1	'maritime identification digits'@en
+Q202686	P2979	"503"	1	'maritime identification digits'@en
+Q202686	P3067	"000-019"	1	'GS1 country code'@en
+Q202686	P3067	"060-099"	1	'GS1 country code'@en
+Q202686	P3067	"500-509"	1	'GS1 country code'@en
+Q202686	P3067	"754-755"	1	'GS1 country code'@en
+Q202686	P3067	"930"	1	'GS1 country code'@en
+Q202686	P3067	"931"	1	'GS1 country code'@en
+Q202686	P3067	"932"	1	'GS1 country code'@en
+Q202686	P3067	"933"	1	'GS1 country code'@en
+Q202686	P3067	"934"	1	'GS1 country code'@en
+Q202686	P3067	"935"	1	'GS1 country code'@en
+Q202686	P3067	"936"	1	'GS1 country code'@en
+Q202686	P3067	"937"	1	'GS1 country code'@en
+Q202686	P3067	"938"	1	'GS1 country code'@en
+Q202686	P3067	"939"	1	'GS1 country code'@en
+Q202686	P3238	"1"	1	'trunk prefix'@en
+Q202686	P373	"Australia"	1	'Commons category'@en
+Q202686	P373	"Canada"	1	'Commons category'@en
+Q202686	P373	"United Kingdom"	1	'Commons category'@en
+Q202686	P395	"AUS"	1	'licence plate code'@en
+Q202686	P395	"CDN"	1	'licence plate code'@en
+Q202686	P395	"GB"	1	'licence plate code'@en
+Q202686	P474	"+1"	1	'country calling code'@en
+Q202686	P474	"+44"	1	'country calling code'@en
+Q202686	P474	"+61"	1	'country calling code'@en
+Q202686	P487	"🇦🇺"	1	'Unicode character'@en
+Q202686	P487	"🇨🇦"	1	'Unicode character'@en
+Q202686	P487	"🇬🇧"	1	'Unicode character'@en
+Q202686	P898	"jʊ̈nai̯tɘd kɪŋɡdə̯m"	1	'IPA transcription'@en
+Q202686	P898	"kanadɑ"	1	'IPA transcription'@en
+Q202686	P898	"vʲɪlʲɪkəbrʲɪˈtanʲɪj"	1	'IPA transcription'@en
+Q202686	P898	"æʉsˈtɾɑːlɪɑ"	1	'IPA transcription'@en
+Q202686	P898	"ɐfˈstralʲɪjə"	1	'IPA transcription'@en
+Q202686	P898	"əˈstreɪljə"	1	'IPA transcription'@en
+Q202686	P898	"ˈkænədə"	1	'IPA transcription'@en
+Q202686	P898	"ˈkɑnɑdɑ"	1	'IPA transcription'@en
+Q202686	P898	"ˈstuɾbɾɪtɑːnɪɑ"	1	'IPA transcription'@en
+Q202686	P935	"Australia"	1	'Commons gallery'@en
+Q202686	P935	"Canada"	1	'Commons gallery'@en
+Q202686	P935	"United Kingdom"	1	'Commons gallery'@en
+Q206361	P373	"Diageo"	1	'Commons category'@en
+Q207174	P373	"Santa Claus in France"	1	'Commons category'@en
+Q208500	P2258	"213"	1	'mobile country code'@en
+Q208500	P2979	"202"	1	'maritime identification digits'@en
+Q208500	P3067	"840-849"	1	'GS1 country code'@en
+Q208500	P3238	novalue	1	'trunk prefix'@en
+Q208500	P373	"Andorra"	1	'Commons category'@en
+Q208500	P395	"AND"	1	'licence plate code'@en
+Q208500	P474	"+376"	1	'country calling code'@en
+Q208500	P487	"🇦🇩"	1	'Unicode character'@en
+Q208500	P898	"ɐnˈdorːə"	1	'IPA transcription'@en
+Q208500	P898	"ɑnˈdɔɾɑ"	1	'IPA transcription'@en
+Q208500	P898	"ənˈdɔ.rə"	1	'IPA transcription'@en
+Q208500	P935	"Andorra"	1	'Commons gallery'@en
+Q2095	P373	"Bread"	1	'Commons category'@en
+Q2095	P487	"🍞"	1	'Unicode character'@en
+Q2095	P935	"Bread"	1	'Commons gallery'@en
+Q209824	P373	"Haskovo Province"	1	'Commons category'@en
+Q209824	P395	"X"	1	'licence plate code'@en
+Q213907	P225	"Zea mays"	1	'taxon name'@en
+Q213907	P373	"Zea mays"	1	'Commons category'@en
+Q213907	P487	"🌽"	1	'Unicode character'@en
+Q213907	P627	"77726273"	1	'IUCN taxon ID'@en
+Q213907	P935	"Zea mays"	1	'Commons gallery'@en
+Q214609	P1931	"7900"	1	'NIOSH Pocket Guide ID'@en
+Q214609	P233	"[Al]"	1	'canonical SMILES'@en
+Q214609	P246	"Al"	1	'element symbol'@en
+Q214609	P274	"Al"	1	'chemical formula'@en
+Q214609	P373	"Aluminium"	1	'Commons category'@en
+Q214609	P4213	"92C1"	1	'Unicode hex codepoint'@en
+Q214609	P487	"鋁"	1	'Unicode character'@en
+Q214609	P920	"LEM201000405"	1	'LEM ID'@en
+Q214609	P935	"Aluminium"	1	'Commons gallery'@en
+Q2185963	P373	"Lambic beers"	1	'Commons category'@en
+Q2221906	P2258	"617"	1	'mobile country code'@en
+Q2221906	P2979	"645"	1	'maritime identification digits'@en
+Q2221906	P3067	"609"	1	'GS1 country code'@en
+Q2221906	P373	"Mauritius"	1	'Commons category'@en
+Q2221906	P395	"MS"	1	'licence plate code'@en
+Q2221906	P474	"+230"	1	'country calling code'@en
+Q2221906	P487	"🇲🇺"	1	'Unicode character'@en
+Q2221906	P898	"mæʉ\\\\\\\\'ɾɪtsɪʉs"	1	'IPA transcription'@en
+Q2221906	P935	"Mauritius"	1	'Commons gallery'@en
+Q223832	P1438	"15425#15"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q223832	P2258	"302"	1	'mobile country code'@en
+Q223832	P2258	"505"	1	'mobile country code'@en
+Q223832	P2979	"316"	1	'maritime identification digits'@en
+Q223832	P2979	"503"	1	'maritime identification digits'@en
+Q223832	P3067	"000-019"	1	'GS1 country code'@en
+Q223832	P3067	"060-099"	1	'GS1 country code'@en
+Q223832	P3067	"754-755"	1	'GS1 country code'@en
+Q223832	P3067	"930"	1	'GS1 country code'@en
+Q223832	P3067	"931"	1	'GS1 country code'@en
+Q223832	P3067	"932"	1	'GS1 country code'@en
+Q223832	P3067	"933"	1	'GS1 country code'@en
+Q223832	P3067	"934"	1	'GS1 country code'@en
+Q223832	P3067	"935"	1	'GS1 country code'@en
+Q223832	P3067	"936"	1	'GS1 country code'@en
+Q223832	P3067	"937"	1	'GS1 country code'@en
+Q223832	P3067	"938"	1	'GS1 country code'@en
+Q223832	P3067	"939"	1	'GS1 country code'@en
+Q223832	P3238	"0"	1	'trunk prefix'@en
+Q223832	P3238	"1"	1	'trunk prefix'@en
+Q223832	P373	"Australia"	1	'Commons category'@en
+Q223832	P373	"Canada"	1	'Commons category'@en
+Q223832	P395	"AUS"	1	'licence plate code'@en
+Q223832	P395	"CDN"	1	'licence plate code'@en
+Q223832	P474	"+1"	1	'country calling code'@en
+Q223832	P474	"+61"	1	'country calling code'@en
+Q223832	P487	"🇦🇺"	1	'Unicode character'@en
+Q223832	P487	"🇨🇦"	1	'Unicode character'@en
+Q223832	P898	"kanadɑ"	1	'IPA transcription'@en
+Q223832	P898	"æʉsˈtɾɑːlɪɑ"	1	'IPA transcription'@en
+Q223832	P898	"ɐfˈstralʲɪjə"	1	'IPA transcription'@en
+Q223832	P898	"əˈstreɪljə"	1	'IPA transcription'@en
+Q223832	P898	"ˈkænədə"	1	'IPA transcription'@en
+Q223832	P898	"ˈkɑnɑdɑ"	1	'IPA transcription'@en
+Q223832	P935	"Australia"	1	'Commons gallery'@en
+Q223832	P935	"Canada"	1	'Commons gallery'@en
+Q2264924	P281	"13000"	1	'postal code'@en
+Q2264924	P281	"13001"	1	'postal code'@en
+Q2264924	P281	"13002"	1	'postal code'@en
+Q2264924	P281	"13003"	1	'postal code'@en
+Q2264924	P281	"13004"	1	'postal code'@en
+Q2264924	P281	"13005"	1	'postal code'@en
+Q2264924	P281	"13006"	1	'postal code'@en
+Q2264924	P281	"13007"	1	'postal code'@en
+Q2264924	P281	"13008"	1	'postal code'@en
+Q2264924	P281	"13009"	1	'postal code'@en
+Q2264924	P281	"13010"	1	'postal code'@en
+Q2264924	P281	"13011"	1	'postal code'@en
+Q2264924	P281	"13012"	1	'postal code'@en
+Q2264924	P281	"13013"	1	'postal code'@en
+Q2264924	P281	"13014"	1	'postal code'@en
+Q2264924	P281	"13015"	1	'postal code'@en
+Q2264924	P281	"13016"	1	'postal code'@en
+Q2264924	P373	"Marseille"	1	'Commons category'@en
+Q2264924	P473	"491"	1	'local dialing code'@en
+Q2264924	P473	"496"	1	'local dialing code'@en
+Q2264924	P935	"Marseille"	1	'Commons gallery'@en
+Q22865	P1438	"12407"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q22865	P1438	"15521"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q22865	P238	"LEJ"	1	'IATA airport code'@en
+Q22865	P281	"04003"	1	'postal code'@en
+Q22865	P281	"04105"	1	'postal code'@en
+Q22865	P281	"04109"	1	'postal code'@en
+Q22865	P281	"04155"	1	'postal code'@en
+Q22865	P281	"04157"	1	'postal code'@en
+Q22865	P281	"04159"	1	'postal code'@en
+Q22865	P281	"04229"	1	'postal code'@en
+Q22865	P281	"04275"	1	'postal code'@en
+Q22865	P281	"04317"	1	'postal code'@en
+Q22865	P281	"04357"	1	'postal code'@en
+Q22865	P281	"80331"	1	'postal code'@en
+Q22865	P281	"80802"	1	'postal code'@en
+Q22865	P281	"80805"	1	'postal code'@en
+Q22865	P281	"81377"	1	'postal code'@en
+Q22865	P281	"81379"	1	'postal code'@en
+Q22865	P281	"81730"	1	'postal code'@en
+Q22865	P281	"81735"	1	'postal code'@en
+Q22865	P281	"81737"	1	'postal code'@en
+Q22865	P281	"81825"	1	'postal code'@en
+Q22865	P281	"81929"	1	'postal code'@en
+Q22865	P373	"Leipzig"	1	'Commons category'@en
+Q22865	P373	"Munich"	1	'Commons category'@en
+Q22865	P395	"L"	1	'licence plate code'@en
+Q22865	P395	"M"	1	'licence plate code'@en
+Q22865	P473	"0341"	1	'local dialing code'@en
+Q22865	P473	"089"	1	'local dialing code'@en
+Q22865	P935	"Leipzig"	1	'Commons gallery'@en
+Q22865	P935	"München"	1	'Commons gallery'@en
+Q2349698	P373	"Hops"	1	'Commons category'@en
+Q24017414	P1282	"Key:brand"	1	'OpenStreetMap tag or key'@en
+Q24017414	P373	"Beer styles"	1	'Commons category'@en
+Q24017414	P373	"Brands"	1	'Commons category'@en
+Q2424752	P373	"Malt"	1	'Commons category'@en
+Q253030	P1438	"12407"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q253030	P238	"LEJ"	1	'IATA airport code'@en
+Q253030	P281	"04003"	1	'postal code'@en
+Q253030	P281	"04105"	1	'postal code'@en
+Q253030	P281	"04109"	1	'postal code'@en
+Q253030	P281	"04155"	1	'postal code'@en
+Q253030	P281	"04157"	1	'postal code'@en
+Q253030	P281	"04159"	1	'postal code'@en
+Q253030	P281	"04229"	1	'postal code'@en
+Q253030	P281	"04275"	1	'postal code'@en
+Q253030	P281	"04317"	1	'postal code'@en
+Q253030	P281	"04357"	1	'postal code'@en
+Q253030	P373	"Leipzig"	1	'Commons category'@en
+Q253030	P395	"L"	1	'licence plate code'@en
+Q253030	P473	"0341"	1	'local dialing code'@en
+Q253030	P935	"Leipzig"	1	'Commons gallery'@en
+Q25403900	P1282	"Tag:crop=wheat"	1	'OpenStreetMap tag or key'@en
+Q25403900	P373	"Clove"	1	'Commons category'@en
+Q25403900	P373	"Ginger"	1	'Commons category'@en
+Q25403900	P373	"Nutmegs"	1	'Commons category'@en
+Q25403900	P373	"Wheat"	1	'Commons category'@en
+Q25403900	P935	"Myristica fragrans"	1	'Commons gallery'@en
+Q25403900	P935	"Wheat"	1	'Commons gallery'@en
+Q25810847	P373	"Santa Claus in France"	1	'Commons category'@en
+Q264554	P1329	"+30-2531-038718"	1	'phone number'@en
+Q268592	P1796	"10"	1	'International Standard Industrial Classification code Rev.4'@en
+Q268592	P373	"Food industry"	1	'Commons category'@en
+Q26879769	P373	"Kingdom of Saxony"	1	'Commons category'@en
+Q26934845	P2979	"255"	1	'maritime identification digits'@en
+Q26934845	P373	"Madeira"	1	'Commons category'@en
+Q26934845	P395	"P"	1	'licence plate code'@en
+Q26934845	P473	"351 291"	1	'local dialing code'@en
+Q26934845	P935	"Madeira"	1	'Commons gallery'@en
+Q28171280	P373	"Sumer"	1	'Commons category'@en
+Q28171280	P935	"Sumer"	1	'Commons gallery'@en
+Q2831985	P373	"Nutmegs"	1	'Commons category'@en
+Q2831985	P935	"Myristica fragrans"	1	'Commons gallery'@en
+Q284742	P373	"CC-BY-SA"	1	'Commons category'@en
+Q2858704	P373	"Protected geographical indication"	1	'Commons category'@en
+Q2914565	P2979	"255"	1	'maritime identification digits'@en
+Q2914565	P373	"Madeira"	1	'Commons category'@en
+Q2914565	P395	"P"	1	'licence plate code'@en
+Q2914565	P473	"351 291"	1	'local dialing code'@en
+Q2914565	P935	"Madeira"	1	'Commons gallery'@en
+Q3024240	P3238	"8"	1	'trunk prefix'@en
+Q3024240	P373	"Kingdom of Saxony"	1	'Commons category'@en
+Q3024240	P373	"Soviet Union"	1	'Commons category'@en
+Q3024240	P373	"Sumer"	1	'Commons category'@en
+Q3024240	P935	"Sumer"	1	'Commons gallery'@en
+Q3024240	P935	"Союз Советских Социалистических Республик"	1	'Commons gallery'@en
+Q32489	P373	"Kukri"	1	'Commons category'@en
+Q328584	P281	"3270"	1	'postal code'@en
+Q328584	P373	"Municipality of Laško"	1	'Commons category'@en
+Q328584	P395	"CE"	1	'licence plate code'@en
+Q33506	P373	"Stoombierbrouwerij De Keyzer"	1	'Commons category'@en
+Q33506	P935	"Stoombierbrouwerij De Keyzer"	1	'Commons gallery'@en
+Q3502482	P373	"Tibet"	1	'Commons category'@en
+Q3502482	P935	"བོད་"	1	'Commons gallery'@en
+Q3624078	P3238	"0"	34	'trunk prefix'@en
+Q3624078	P3238	novalue	14	'trunk prefix'@en
+Q3624078	P3238	"8"	5	'trunk prefix'@en
+Q3624078	P3067	"540-549"	2	'GS1 country code'@en
+Q3624078	P3067	"840-849"	2	'GS1 country code'@en
+Q3624078	P474	"+1"	2	'country calling code'@en
+Q3624078	P487	"🇩🇰"	2	'Unicode character'@en
+Q3624078	P1438	"11730"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q3624078	P1438	"12335"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q3624078	P1438	"15425#15"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q3624078	P1814	"にっぽん"	1	'name in kana'@en
+Q3624078	P1814	"にほん"	1	'name in kana'@en
+Q3624078	P1814	"にほんこく"	1	'name in kana'@en
+Q3624078	P2258	"202"	1	'mobile country code'@en
+Q3624078	P2258	"206"	1	'mobile country code'@en
+Q3624078	P2258	"208"	1	'mobile country code'@en
+Q3624078	P2258	"213"	1	'mobile country code'@en
+Q3624078	P2258	"214"	1	'mobile country code'@en
+Q3624078	P2258	"216"	1	'mobile country code'@en
+Q3624078	P2258	"218"	1	'mobile country code'@en
+Q3624078	P2258	"219"	1	'mobile country code'@en
+Q3624078	P2258	"222"	1	'mobile country code'@en
+Q3624078	P2258	"228"	1	'mobile country code'@en
+Q3624078	P2258	"230"	1	'mobile country code'@en
+Q3624078	P2258	"231"	1	'mobile country code'@en
+Q3624078	P2258	"232"	1	'mobile country code'@en
+Q3624078	P2258	"234"	1	'mobile country code'@en
+Q3624078	P2258	"235"	1	'mobile country code'@en
+Q3624078	P2258	"238"	1	'mobile country code'@en
+Q3624078	P2258	"240"	1	'mobile country code'@en
+Q3624078	P2258	"244"	1	'mobile country code'@en
+Q3624078	P2258	"246"	1	'mobile country code'@en
+Q3624078	P2258	"247"	1	'mobile country code'@en
+Q3624078	P2258	"248"	1	'mobile country code'@en
+Q3624078	P2258	"250"	1	'mobile country code'@en
+Q3624078	P2258	"255"	1	'mobile country code'@en
+Q3624078	P2258	"257"	1	'mobile country code'@en
+Q3624078	P2258	"260"	1	'mobile country code'@en
+Q3624078	P2258	"262"	1	'mobile country code'@en
+Q3624078	P2258	"268"	1	'mobile country code'@en
+Q3624078	P2258	"270"	1	'mobile country code'@en
+Q3624078	P2258	"272"	1	'mobile country code'@en
+Q3624078	P2258	"274"	1	'mobile country code'@en
+Q3624078	P2258	"276"	1	'mobile country code'@en
+Q3624078	P2258	"278"	1	'mobile country code'@en
+Q3624078	P2258	"280"	1	'mobile country code'@en
+Q3624078	P2258	"282"	1	'mobile country code'@en
+Q3624078	P2258	"283"	1	'mobile country code'@en
+Q3624078	P2258	"284"	1	'mobile country code'@en
+Q3624078	P2258	"286"	1	'mobile country code'@en
+Q3624078	P2258	"294"	1	'mobile country code'@en
+Q3624078	P2258	"297"	1	'mobile country code'@en
+Q3624078	P2258	"302"	1	'mobile country code'@en
+Q3624078	P2258	"310"	1	'mobile country code'@en
+Q3624078	P2258	"311"	1	'mobile country code'@en
+Q3624078	P2258	"312"	1	'mobile country code'@en
+Q3624078	P2258	"313"	1	'mobile country code'@en
+Q3624078	P2258	"316"	1	'mobile country code'@en
+Q3624078	P2258	"334"	1	'mobile country code'@en
+Q3624078	P2258	"368"	1	'mobile country code'@en
+Q3624078	P2258	"400"	1	'mobile country code'@en
+Q3624078	P2258	"415"	1	'mobile country code'@en
+Q3624078	P2258	"425"	1	'mobile country code'@en
+Q3624078	P2258	"429"	1	'mobile country code'@en
+Q3624078	P2258	"440"	1	'mobile country code'@en
+Q3624078	P2258	"441"	1	'mobile country code'@en
+Q3624078	P2258	"456"	1	'mobile country code'@en
+Q3624078	P2258	"460"	1	'mobile country code'@en
+Q3624078	P2258	"505"	1	'mobile country code'@en
+Q3624078	P2258	"520"	1	'mobile country code'@en
+Q3624078	P2258	"552"	1	'mobile country code'@en
+Q3624078	P2258	"605"	1	'mobile country code'@en
+Q3624078	P2258	"617"	1	'mobile country code'@en
+Q3624078	P2258	"620"	1	'mobile country code'@en
+Q3624078	P2258	"621"	1	'mobile country code'@en
+Q3624078	P2258	"625"	1	'mobile country code'@en
+Q3624078	P2258	"631"	1	'mobile country code'@en
+Q3624078	P2258	"641"	1	'mobile country code'@en
+Q3624078	P2258	"646"	1	'mobile country code'@en
+Q3624078	P2258	"655"	1	'mobile country code'@en
+Q3624078	P2258	"716"	1	'mobile country code'@en
+Q3624078	P2258	"722"	1	'mobile country code'@en
+Q3624078	P2258	"724"	1	'mobile country code'@en
+Q3624078	P2258	"730"	1	'mobile country code'@en
+Q3624078	P2258	"734"	1	'mobile country code'@en
+Q3624078	P2258	"736"	1	'mobile country code'@en
+Q3624078	P2572	"Deutschland"	1	'hashtag'@en
+Q3624078	P2572	"greece"	1	'hashtag'@en
+Q3624078	P2572	"україна"	1	'hashtag'@en
+Q3624078	P2979	"201"	1	'maritime identification digits'@en
+Q3624078	P2979	"202"	1	'maritime identification digits'@en
+Q3624078	P2979	"203"	1	'maritime identification digits'@en
+Q3624078	P2979	"205"	1	'maritime identification digits'@en
+Q3624078	P2979	"206"	1	'maritime identification digits'@en
+Q3624078	P2979	"207"	1	'maritime identification digits'@en
+Q3624078	P2979	"209"	1	'maritime identification digits'@en
+Q3624078	P2979	"210"	1	'maritime identification digits'@en
+Q3624078	P2979	"211"	1	'maritime identification digits'@en
+Q3624078	P2979	"212"	1	'maritime identification digits'@en
+Q3624078	P2979	"213"	1	'maritime identification digits'@en
+Q3624078	P2979	"215"	1	'maritime identification digits'@en
+Q3624078	P2979	"216"	1	'maritime identification digits'@en
+Q3624078	P2979	"218"	1	'maritime identification digits'@en
+Q3624078	P2979	"219"	1	'maritime identification digits'@en
+Q3624078	P2979	"220"	1	'maritime identification digits'@en
+Q3624078	P2979	"224"	1	'maritime identification digits'@en
+Q3624078	P2979	"225"	1	'maritime identification digits'@en
+Q3624078	P2979	"226"	1	'maritime identification digits'@en
+Q3624078	P2979	"227"	1	'maritime identification digits'@en
+Q3624078	P2979	"228"	1	'maritime identification digits'@en
+Q3624078	P2979	"229"	1	'maritime identification digits'@en
+Q3624078	P2979	"230"	1	'maritime identification digits'@en
+Q3624078	P2979	"232"	1	'maritime identification digits'@en
+Q3624078	P2979	"233"	1	'maritime identification digits'@en
+Q3624078	P2979	"234"	1	'maritime identification digits'@en
+Q3624078	P2979	"235"	1	'maritime identification digits'@en
+Q3624078	P2979	"237"	1	'maritime identification digits'@en
+Q3624078	P2979	"238"	1	'maritime identification digits'@en
+Q3624078	P2979	"239"	1	'maritime identification digits'@en
+Q3624078	P2979	"240"	1	'maritime identification digits'@en
+Q3624078	P2979	"241"	1	'maritime identification digits'@en
+Q3624078	P2979	"243"	1	'maritime identification digits'@en
+Q3624078	P2979	"247"	1	'maritime identification digits'@en
+Q3624078	P2979	"248"	1	'maritime identification digits'@en
+Q3624078	P2979	"249"	1	'maritime identification digits'@en
+Q3624078	P2979	"250"	1	'maritime identification digits'@en
+Q3624078	P2979	"251"	1	'maritime identification digits'@en
+Q3624078	P2979	"253"	1	'maritime identification digits'@en
+Q3624078	P2979	"256"	1	'maritime identification digits'@en
+Q3624078	P2979	"261"	1	'maritime identification digits'@en
+Q3624078	P2979	"262"	1	'maritime identification digits'@en
+Q3624078	P2979	"263"	1	'maritime identification digits'@en
+Q3624078	P2979	"265"	1	'maritime identification digits'@en
+Q3624078	P2979	"266"	1	'maritime identification digits'@en
+Q3624078	P2979	"267"	1	'maritime identification digits'@en
+Q3624078	P2979	"269"	1	'maritime identification digits'@en
+Q3624078	P2979	"270"	1	'maritime identification digits'@en
+Q3624078	P2979	"271"	1	'maritime identification digits'@en
+Q3624078	P2979	"272"	1	'maritime identification digits'@en
+Q3624078	P2979	"273"	1	'maritime identification digits'@en
+Q3624078	P2979	"274"	1	'maritime identification digits'@en
+Q3624078	P2979	"275"	1	'maritime identification digits'@en
+Q3624078	P2979	"276"	1	'maritime identification digits'@en
+Q3624078	P2979	"277"	1	'maritime identification digits'@en
+Q3624078	P2979	"316"	1	'maritime identification digits'@en
+Q3624078	P2979	"323"	1	'maritime identification digits'@en
+Q3624078	P2979	"338"	1	'maritime identification digits'@en
+Q3624078	P2979	"345"	1	'maritime identification digits'@en
+Q3624078	P2979	"366"	1	'maritime identification digits'@en
+Q3624078	P2979	"367"	1	'maritime identification digits'@en
+Q3624078	P2979	"368"	1	'maritime identification digits'@en
+Q3624078	P2979	"369"	1	'maritime identification digits'@en
+Q3624078	P2979	"412"	1	'maritime identification digits'@en
+Q3624078	P2979	"413"	1	'maritime identification digits'@en
+Q3624078	P2979	"414"	1	'maritime identification digits'@en
+Q3624078	P2979	"423"	1	'maritime identification digits'@en
+Q3624078	P2979	"428"	1	'maritime identification digits'@en
+Q3624078	P2979	"431"	1	'maritime identification digits'@en
+Q3624078	P2979	"432"	1	'maritime identification digits'@en
+Q3624078	P2979	"450"	1	'maritime identification digits'@en
+Q3624078	P2979	"459"	1	'maritime identification digits'@en
+Q3624078	P2979	"478"	1	'maritime identification digits'@en
+Q3624078	P2979	"503"	1	'maritime identification digits'@en
+Q3624078	P2979	"511"	1	'maritime identification digits'@en
+Q3624078	P2979	"514"	1	'maritime identification digits'@en
+Q3624078	P2979	"515"	1	'maritime identification digits'@en
+Q3624078	P2979	"567"	1	'maritime identification digits'@en
+Q3624078	P2979	"601"	1	'maritime identification digits'@en
+Q3624078	P2979	"603"	1	'maritime identification digits'@en
+Q3624078	P2979	"617"	1	'maritime identification digits'@en
+Q3624078	P2979	"627"	1	'maritime identification digits'@en
+Q3624078	P2979	"645"	1	'maritime identification digits'@en
+Q3624078	P2979	"647"	1	'maritime identification digits'@en
+Q3624078	P2979	"657"	1	'maritime identification digits'@en
+Q3624078	P2979	"672"	1	'maritime identification digits'@en
+Q3624078	P2979	"675"	1	'maritime identification digits'@en
+Q3624078	P2979	"701"	1	'maritime identification digits'@en
+Q3624078	P2979	"710"	1	'maritime identification digits'@en
+Q3624078	P2979	"720"	1	'maritime identification digits'@en
+Q3624078	P2979	"725"	1	'maritime identification digits'@en
+Q3624078	P2979	"760"	1	'maritime identification digits'@en
+Q3624078	P2979	"775"	1	'maritime identification digits'@en
+Q3624078	P3067	"000-019"	1	'GS1 country code'@en
+Q3624078	P3067	"000-139"	1	'GS1 country code'@en
+Q3624078	P3067	"060-099"	1	'GS1 country code'@en
+Q3624078	P3067	"300-379"	1	'GS1 country code'@en
+Q3624078	P3067	"380"	1	'GS1 country code'@en
+Q3624078	P3067	"385"	1	'GS1 country code'@en
+Q3624078	P3067	"387"	1	'GS1 country code'@en
+Q3624078	P3067	"389"	1	'GS1 country code'@en
+Q3624078	P3067	"400-440"	1	'GS1 country code'@en
+Q3624078	P3067	"450-459"	1	'GS1 country code'@en
+Q3624078	P3067	"460-469"	1	'GS1 country code'@en
+Q3624078	P3067	"474"	1	'GS1 country code'@en
+Q3624078	P3067	"475"	1	'GS1 country code'@en
+Q3624078	P3067	"476"	1	'GS1 country code'@en
+Q3624078	P3067	"477"	1	'GS1 country code'@en
+Q3624078	P3067	"481"	1	'GS1 country code'@en
+Q3624078	P3067	"482"	1	'GS1 country code'@en
+Q3624078	P3067	"485"	1	'GS1 country code'@en
+Q3624078	P3067	"486"	1	'GS1 country code'@en
+Q3624078	P3067	"490-499"	1	'GS1 country code'@en
+Q3624078	P3067	"500-509"	1	'GS1 country code'@en
+Q3624078	P3067	"520"	1	'GS1 country code'@en
+Q3624078	P3067	"521"	1	'GS1 country code'@en
+Q3624078	P3067	"524"	1	'GS1 country code'@en
+Q3624078	P3067	"528"	1	'GS1 country code'@en
+Q3624078	P3067	"529"	1	'GS1 country code'@en
+Q3624078	P3067	"530"	1	'GS1 country code'@en
+Q3624078	P3067	"531"	1	'GS1 country code'@en
+Q3624078	P3067	"535"	1	'GS1 country code'@en
+Q3624078	P3067	"539"	1	'GS1 country code'@en
+Q3624078	P3067	"560"	1	'GS1 country code'@en
+Q3624078	P3067	"569"	1	'GS1 country code'@en
+Q3624078	P3067	"570"	1	'GS1 country code'@en
+Q3624078	P3067	"571"	1	'GS1 country code'@en
+Q3624078	P3067	"572"	1	'GS1 country code'@en
+Q3624078	P3067	"573"	1	'GS1 country code'@en
+Q3624078	P3067	"574"	1	'GS1 country code'@en
+Q3624078	P3067	"575"	1	'GS1 country code'@en
+Q3624078	P3067	"576"	1	'GS1 country code'@en
+Q3624078	P3067	"577"	1	'GS1 country code'@en
+Q3624078	P3067	"578"	1	'GS1 country code'@en
+Q3624078	P3067	"579"	1	'GS1 country code'@en
+Q3624078	P3067	"590"	1	'GS1 country code'@en
+Q3624078	P3067	"599"	1	'GS1 country code'@en
+Q3624078	P3067	"600-601"	1	'GS1 country code'@en
+Q3624078	P3067	"603"	1	'GS1 country code'@en
+Q3624078	P3067	"609"	1	'GS1 country code'@en
+Q3624078	P3067	"615"	1	'GS1 country code'@en
+Q3624078	P3067	"619"	1	'GS1 country code'@en
+Q3624078	P3067	"640-649"	1	'GS1 country code'@en
+Q3624078	P3067	"690-699"	1	'GS1 country code'@en
+Q3624078	P3067	"729"	1	'GS1 country code'@en
+Q3624078	P3067	"730-739"	1	'GS1 country code'@en
+Q3624078	P3067	"750"	1	'GS1 country code'@en
+Q3624078	P3067	"754-755"	1	'GS1 country code'@en
+Q3624078	P3067	"759"	1	'GS1 country code'@en
+Q3624078	P3067	"760-769"	1	'GS1 country code'@en
+Q3624078	P3067	"775"	1	'GS1 country code'@en
+Q3624078	P3067	"777"	1	'GS1 country code'@en
+Q3624078	P3067	"778-779"	1	'GS1 country code'@en
+Q3624078	P3067	"780"	1	'GS1 country code'@en
+Q3624078	P3067	"789-790"	1	'GS1 country code'@en
+Q3624078	P3067	"800-839"	1	'GS1 country code'@en
+Q3624078	P3067	"850"	1	'GS1 country code'@en
+Q3624078	P3067	"858"	1	'GS1 country code'@en
+Q3624078	P3067	"859"	1	'GS1 country code'@en
+Q3624078	P3067	"868-869"	1	'GS1 country code'@en
+Q3624078	P3067	"884"	1	'GS1 country code'@en
+Q3624078	P3067	"885"	1	'GS1 country code'@en
+Q3624078	P3067	"900-919"	1	'GS1 country code'@en
+Q3624078	P3067	"930"	1	'GS1 country code'@en
+Q3624078	P3067	"931"	1	'GS1 country code'@en
+Q3624078	P3067	"932"	1	'GS1 country code'@en
+Q3624078	P3067	"933"	1	'GS1 country code'@en
+Q3624078	P3067	"934"	1	'GS1 country code'@en
+Q3624078	P3067	"935"	1	'GS1 country code'@en
+Q3624078	P3067	"936"	1	'GS1 country code'@en
+Q3624078	P3067	"937"	1	'GS1 country code'@en
+Q3624078	P3067	"938"	1	'GS1 country code'@en
+Q3624078	P3067	"939"	1	'GS1 country code'@en
+Q3624078	P3238	"00"	1	'trunk prefix'@en
+Q3624078	P3238	"06"	1	'trunk prefix'@en
+Q3624078	P3238	"1"	1	'trunk prefix'@en
+Q3624078	P373	"Albania"	1	'Commons category'@en
+Q3624078	P373	"Andorra"	1	'Commons category'@en
+Q3624078	P373	"Angola"	1	'Commons category'@en
+Q3624078	P373	"Argentina"	1	'Commons category'@en
+Q3624078	P373	"Armenia"	1	'Commons category'@en
+Q3624078	P373	"Australia"	1	'Commons category'@en
+Q3624078	P373	"Austria"	1	'Commons category'@en
+Q3624078	P373	"Azerbaijan"	1	'Commons category'@en
+Q3624078	P373	"Belarus"	1	'Commons category'@en
+Q3624078	P373	"Belgium"	1	'Commons category'@en
+Q3624078	P373	"Bolivia"	1	'Commons category'@en
+Q3624078	P373	"Bosnia and Herzegovina"	1	'Commons category'@en
+Q3624078	P373	"Brazil"	1	'Commons category'@en
+Q3624078	P373	"Bulgaria"	1	'Commons category'@en
+Q3624078	P373	"Cambodia"	1	'Commons category'@en
+Q3624078	P373	"Canada"	1	'Commons category'@en
+Q3624078	P373	"Cape Verde"	1	'Commons category'@en
+Q3624078	P373	"Chile"	1	'Commons category'@en
+Q3624078	P373	"Croatia"	1	'Commons category'@en
+Q3624078	P373	"Cuba"	1	'Commons category'@en
+Q3624078	P373	"Cyprus"	1	'Commons category'@en
+Q3624078	P373	"Czech Republic"	1	'Commons category'@en
+Q3624078	P373	"Denmark"	1	'Commons category'@en
+Q3624078	P373	"Estonia"	1	'Commons category'@en
+Q3624078	P373	"Finland"	1	'Commons category'@en
+Q3624078	P373	"France"	1	'Commons category'@en
+Q3624078	P373	"Georgia"	1	'Commons category'@en
+Q3624078	P373	"Germany"	1	'Commons category'@en
+Q3624078	P373	"Ghana"	1	'Commons category'@en
+Q3624078	P373	"Greece"	1	'Commons category'@en
+Q3624078	P373	"Hungary"	1	'Commons category'@en
+Q3624078	P373	"Iceland"	1	'Commons category'@en
+Q3624078	P373	"Israel"	1	'Commons category'@en
+Q3624078	P373	"Italy"	1	'Commons category'@en
+Q3624078	P373	"Japan"	1	'Commons category'@en
+Q3624078	P373	"Kingdom of Denmark"	1	'Commons category'@en
+Q3624078	P373	"Latvia"	1	'Commons category'@en
+Q3624078	P373	"Lebanon"	1	'Commons category'@en
+Q3624078	P373	"Lithuania"	1	'Commons category'@en
+Q3624078	P373	"Luxembourg"	1	'Commons category'@en
+Q3624078	P373	"Madagascar"	1	'Commons category'@en
+Q3624078	P373	"Malta"	1	'Commons category'@en
+Q3624078	P373	"Mauritius"	1	'Commons category'@en
+Q3624078	P373	"Mexico"	1	'Commons category'@en
+Q3624078	P373	"Montenegro"	1	'Commons category'@en
+Q3624078	P373	"Nepal"	1	'Commons category'@en
+Q3624078	P373	"Nigeria"	1	'Commons category'@en
+Q3624078	P373	"North Macedonia"	1	'Commons category'@en
+Q3624078	P373	"Palau"	1	'Commons category'@en
+Q3624078	P373	"People\\\\\\\\'s Republic of China"	1	'Commons category'@en
+Q3624078	P373	"Peru"	1	'Commons category'@en
+Q3624078	P373	"Poland"	1	'Commons category'@en
+Q3624078	P373	"Portugal"	1	'Commons category'@en
+Q3624078	P373	"Republic of Ireland"	1	'Commons category'@en
+Q3624078	P373	"Russia"	1	'Commons category'@en
+Q3624078	P373	"Slovakia"	1	'Commons category'@en
+Q3624078	P373	"South Africa"	1	'Commons category'@en
+Q3624078	P373	"Soviet Union"	1	'Commons category'@en
+Q3624078	P373	"Spain"	1	'Commons category'@en
+Q3624078	P373	"Sweden"	1	'Commons category'@en
+Q3624078	P373	"Switzerland"	1	'Commons category'@en
+Q3624078	P373	"Thailand"	1	'Commons category'@en
+Q3624078	P373	"Tunisia"	1	'Commons category'@en
+Q3624078	P373	"Turkey"	1	'Commons category'@en
+Q3624078	P373	"Uganda"	1	'Commons category'@en
+Q3624078	P373	"Ukraine"	1	'Commons category'@en
+Q3624078	P373	"United Kingdom"	1	'Commons category'@en
+Q3624078	P373	"United States"	1	'Commons category'@en
+Q3624078	P373	"Venezuela"	1	'Commons category'@en
+Q3624078	P395	"A"	1	'licence plate code'@en
+Q3624078	P395	"AL"	1	'licence plate code'@en
+Q3624078	P395	"AM"	1	'licence plate code'@en
+Q3624078	P395	"AND"	1	'licence plate code'@en
+Q3624078	P395	"AUS"	1	'licence plate code'@en
+Q3624078	P395	"AZ"	1	'licence plate code'@en
+Q3624078	P395	"B"	1	'licence plate code'@en
+Q3624078	P395	"BG"	1	'licence plate code'@en
+Q3624078	P395	"BIH"	1	'licence plate code'@en
+Q3624078	P395	"BLR"	1	'licence plate code'@en
+Q3624078	P395	"BOL"	1	'licence plate code'@en
+Q3624078	P395	"BR"	1	'licence plate code'@en
+Q3624078	P395	"C"	1	'licence plate code'@en
+Q3624078	P395	"CDN"	1	'licence plate code'@en
+Q3624078	P395	"CH"	1	'licence plate code'@en
+Q3624078	P395	"CV"	1	'licence plate code'@en
+Q3624078	P395	"CY"	1	'licence plate code'@en
+Q3624078	P395	"CZ"	1	'licence plate code'@en
+Q3624078	P395	"D"	1	'licence plate code'@en
+Q3624078	P395	"E"	1	'licence plate code'@en
+Q3624078	P395	"EAU"	1	'licence plate code'@en
+Q3624078	P395	"EST"	1	'licence plate code'@en
+Q3624078	P395	"F"	1	'licence plate code'@en
+Q3624078	P395	"FIN"	1	'licence plate code'@en
+Q3624078	P395	"GB"	1	'licence plate code'@en
+Q3624078	P395	"GE"	1	'licence plate code'@en
+Q3624078	P395	"GH"	1	'licence plate code'@en
+Q3624078	P395	"GR"	1	'licence plate code'@en
+Q3624078	P395	"H"	1	'licence plate code'@en
+Q3624078	P395	"HR"	1	'licence plate code'@en
+Q3624078	P395	"I"	1	'licence plate code'@en
+Q3624078	P395	"IL"	1	'licence plate code'@en
+Q3624078	P395	"IRL"	1	'licence plate code'@en
+Q3624078	P395	"IS"	1	'licence plate code'@en
+Q3624078	P395	"J"	1	'licence plate code'@en
+Q3624078	P395	"K"	1	'licence plate code'@en
+Q3624078	P395	"L"	1	'licence plate code'@en
+Q3624078	P395	"LT"	1	'licence plate code'@en
+Q3624078	P395	"LV"	1	'licence plate code'@en
+Q3624078	P395	"M"	1	'licence plate code'@en
+Q3624078	P395	"MEX"	1	'licence plate code'@en
+Q3624078	P395	"MK"	1	'licence plate code'@en
+Q3624078	P395	"MNE"	1	'licence plate code'@en
+Q3624078	P395	"MS"	1	'licence plate code'@en
+Q3624078	P395	"NEP"	1	'licence plate code'@en
+Q3624078	P395	"P"	1	'licence plate code'@en
+Q3624078	P395	"PE"	1	'licence plate code'@en
+Q3624078	P395	"PL"	1	'licence plate code'@en
+Q3624078	P395	"RA"	1	'licence plate code'@en
+Q3624078	P395	"RCH"	1	'licence plate code'@en
+Q3624078	P395	"RL"	1	'licence plate code'@en
+Q3624078	P395	"RM"	1	'licence plate code'@en
+Q3624078	P395	"RUS"	1	'licence plate code'@en
+Q3624078	P395	"S"	1	'licence plate code'@en
+Q3624078	P395	"SK"	1	'licence plate code'@en
+Q3624078	P395	"T"	1	'licence plate code'@en
+Q3624078	P395	"TN"	1	'licence plate code'@en
+Q3624078	P395	"TR"	1	'licence plate code'@en
+Q3624078	P395	"UA"	1	'licence plate code'@en
+Q3624078	P395	"USA"	1	'licence plate code'@en
+Q3624078	P395	"WAN"	1	'licence plate code'@en
+Q3624078	P395	"YV"	1	'licence plate code'@en
+Q3624078	P395	"ZA"	1	'licence plate code'@en
+Q3624078	P473	"+36"	1	'local dialing code'@en
+Q3624078	P474	"+216"	1	'country calling code'@en
+Q3624078	P474	"+230"	1	'country calling code'@en
+Q3624078	P474	"+233"	1	'country calling code'@en
+Q3624078	P474	"+234"	1	'country calling code'@en
+Q3624078	P474	"+238"	1	'country calling code'@en
+Q3624078	P474	"+244"	1	'country calling code'@en
+Q3624078	P474	"+256"	1	'country calling code'@en
+Q3624078	P474	"+261"	1	'country calling code'@en
+Q3624078	P474	"+27"	1	'country calling code'@en
+Q3624078	P474	"+30"	1	'country calling code'@en
+Q3624078	P474	"+32"	1	'country calling code'@en
+Q3624078	P474	"+33"	1	'country calling code'@en
+Q3624078	P474	"+34"	1	'country calling code'@en
+Q3624078	P474	"+351"	1	'country calling code'@en
+Q3624078	P474	"+352"	1	'country calling code'@en
+Q3624078	P474	"+353"	1	'country calling code'@en
+Q3624078	P474	"+354"	1	'country calling code'@en
+Q3624078	P474	"+355"	1	'country calling code'@en
+Q3624078	P474	"+356"	1	'country calling code'@en
+Q3624078	P474	"+357"	1	'country calling code'@en
+Q3624078	P474	"+358"	1	'country calling code'@en
+Q3624078	P474	"+359"	1	'country calling code'@en
+Q3624078	P474	"+36"	1	'country calling code'@en
+Q3624078	P474	"+370"	1	'country calling code'@en
+Q3624078	P474	"+371"	1	'country calling code'@en
+Q3624078	P474	"+372"	1	'country calling code'@en
+Q3624078	P474	"+374"	1	'country calling code'@en
+Q3624078	P474	"+375"	1	'country calling code'@en
+Q3624078	P474	"+376"	1	'country calling code'@en
+Q3624078	P474	"+380"	1	'country calling code'@en
+Q3624078	P474	"+382"	1	'country calling code'@en
+Q3624078	P474	"+385"	1	'country calling code'@en
+Q3624078	P474	"+387"	1	'country calling code'@en
+Q3624078	P474	"+389"	1	'country calling code'@en
+Q3624078	P474	"+39"	1	'country calling code'@en
+Q3624078	P474	"+41"	1	'country calling code'@en
+Q3624078	P474	"+420"	1	'country calling code'@en
+Q3624078	P474	"+421"	1	'country calling code'@en
+Q3624078	P474	"+43"	1	'country calling code'@en
+Q3624078	P474	"+44"	1	'country calling code'@en
+Q3624078	P474	"+45"	1	'country calling code'@en
+Q3624078	P474	"+46"	1	'country calling code'@en
+Q3624078	P474	"+48"	1	'country calling code'@en
+Q3624078	P474	"+49"	1	'country calling code'@en
+Q3624078	P474	"+51"	1	'country calling code'@en
+Q3624078	P474	"+52"	1	'country calling code'@en
+Q3624078	P474	"+53"	1	'country calling code'@en
+Q3624078	P474	"+54"	1	'country calling code'@en
+Q3624078	P474	"+55"	1	'country calling code'@en
+Q3624078	P474	"+56"	1	'country calling code'@en
+Q3624078	P474	"+58"	1	'country calling code'@en
+Q3624078	P474	"+591"	1	'country calling code'@en
+Q3624078	P474	"+61"	1	'country calling code'@en
+Q3624078	P474	"+66"	1	'country calling code'@en
+Q3624078	P474	"+680"	1	'country calling code'@en
+Q3624078	P474	"+7"	1	'country calling code'@en
+Q3624078	P474	"+81"	1	'country calling code'@en
+Q3624078	P474	"+855"	1	'country calling code'@en
+Q3624078	P474	"+86"	1	'country calling code'@en
+Q3624078	P474	"+90"	1	'country calling code'@en
+Q3624078	P474	"+961"	1	'country calling code'@en
+Q3624078	P474	"+972"	1	'country calling code'@en
+Q3624078	P474	"+977"	1	'country calling code'@en
+Q3624078	P474	"+994"	1	'country calling code'@en
+Q3624078	P474	"+995"	1	'country calling code'@en
+Q3624078	P487	"🇦🇩"	1	'Unicode character'@en
+Q3624078	P487	"🇦🇱"	1	'Unicode character'@en
+Q3624078	P487	"🇦🇲"	1	'Unicode character'@en
+Q3624078	P487	"🇦🇴"	1	'Unicode character'@en
+Q3624078	P487	"🇦🇷"	1	'Unicode character'@en
+Q3624078	P487	"🇦🇹"	1	'Unicode character'@en
+Q3624078	P487	"🇦🇺"	1	'Unicode character'@en
+Q3624078	P487	"🇦🇿"	1	'Unicode character'@en
+Q3624078	P487	"🇧🇦"	1	'Unicode character'@en
+Q3624078	P487	"🇧🇪"	1	'Unicode character'@en
+Q3624078	P487	"🇧🇬"	1	'Unicode character'@en
+Q3624078	P487	"🇧🇴"	1	'Unicode character'@en
+Q3624078	P487	"🇧🇷"	1	'Unicode character'@en
+Q3624078	P487	"🇧🇾"	1	'Unicode character'@en
+Q3624078	P487	"🇨🇦"	1	'Unicode character'@en
+Q3624078	P487	"🇨🇭"	1	'Unicode character'@en
+Q3624078	P487	"🇨🇱"	1	'Unicode character'@en
+Q3624078	P487	"🇨🇳"	1	'Unicode character'@en
+Q3624078	P487	"🇨🇺"	1	'Unicode character'@en
+Q3624078	P487	"🇨🇻"	1	'Unicode character'@en
+Q3624078	P487	"🇨🇾"	1	'Unicode character'@en
+Q3624078	P487	"🇨🇿"	1	'Unicode character'@en
+Q3624078	P487	"🇩🇪"	1	'Unicode character'@en
+Q3624078	P487	"🇪🇪"	1	'Unicode character'@en
+Q3624078	P487	"🇪🇸"	1	'Unicode character'@en
+Q3624078	P487	"🇫🇮"	1	'Unicode character'@en
+Q3624078	P487	"🇫🇷"	1	'Unicode character'@en
+Q3624078	P487	"🇬🇧"	1	'Unicode character'@en
+Q3624078	P487	"🇬🇪"	1	'Unicode character'@en
+Q3624078	P487	"🇬🇭"	1	'Unicode character'@en
+Q3624078	P487	"🇬🇷"	1	'Unicode character'@en
+Q3624078	P487	"🇭🇷"	1	'Unicode character'@en
+Q3624078	P487	"🇭🇺"	1	'Unicode character'@en
+Q3624078	P487	"🇮🇪"	1	'Unicode character'@en
+Q3624078	P487	"🇮🇱"	1	'Unicode character'@en
+Q3624078	P487	"🇮🇸"	1	'Unicode character'@en
+Q3624078	P487	"🇮🇹"	1	'Unicode character'@en
+Q3624078	P487	"🇯🇵"	1	'Unicode character'@en
+Q3624078	P487	"🇰🇭"	1	'Unicode character'@en
+Q3624078	P487	"🇱🇧"	1	'Unicode character'@en
+Q3624078	P487	"🇱🇹"	1	'Unicode character'@en
+Q3624078	P487	"🇱🇺"	1	'Unicode character'@en
+Q3624078	P487	"🇱🇻"	1	'Unicode character'@en
+Q3624078	P487	"🇲🇪"	1	'Unicode character'@en
+Q3624078	P487	"🇲🇬"	1	'Unicode character'@en
+Q3624078	P487	"🇲🇰"	1	'Unicode character'@en
+Q3624078	P487	"🇲🇹"	1	'Unicode character'@en
+Q3624078	P487	"🇲🇺"	1	'Unicode character'@en
+Q3624078	P487	"🇲🇽"	1	'Unicode character'@en
+Q3624078	P487	"🇳🇬"	1	'Unicode character'@en
+Q3624078	P487	"🇳🇵"	1	'Unicode character'@en
+Q3624078	P487	"🇵🇪"	1	'Unicode character'@en
+Q3624078	P487	"🇵🇱"	1	'Unicode character'@en
+Q3624078	P487	"🇵🇹"	1	'Unicode character'@en
+Q3624078	P487	"🇵🇼"	1	'Unicode character'@en
+Q3624078	P487	"🇷🇺"	1	'Unicode character'@en
+Q3624078	P487	"🇸🇪"	1	'Unicode character'@en
+Q3624078	P487	"🇸🇰"	1	'Unicode character'@en
+Q3624078	P487	"🇹🇭"	1	'Unicode character'@en
+Q3624078	P487	"🇹🇳"	1	'Unicode character'@en
+Q3624078	P487	"🇹🇷"	1	'Unicode character'@en
+Q3624078	P487	"🇺🇦"	1	'Unicode character'@en
+Q3624078	P487	"🇺🇬"	1	'Unicode character'@en
+Q3624078	P487	"🇺🇸"	1	'Unicode character'@en
+Q3624078	P487	"🇻🇪"	1	'Unicode character'@en
+Q3624078	P487	"🇿🇦"	1	'Unicode character'@en
+Q3624078	P487	"🗾"	1	'Unicode character'@en
+Q3624078	P898	"(j)ɪˈponʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"\\\\\\\\'liːbɑnɔn"	1	'IPA transcription'@en
+Q3624078	P898	"brɐˈzʲilʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"bu\\\\\\\\'liːʋɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"bôsna i xěrtseɡoʋina"	1	'IPA transcription'@en
+Q3624078	P898	"bɐlˈɡarʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"bɛl.ʒik"	1	'IPA transcription'@en
+Q3624078	P898	"bɾaˈziw"	1	'IPA transcription'@en
+Q3624078	P898	"bɾɑˈsiːl"	1	'IPA transcription'@en
+Q3624078	P898	"bʉlˈgɑːɾɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"bʲɛlaˈrusʲ"	1	'IPA transcription'@en
+Q3624078	P898	"bʲɛɫ̪äˈrus̪ʲ"	1	'IPA transcription'@en
+Q3624078	P898	"esˈpaɲa"	1	'IPA transcription'@en
+Q3624078	P898	"fʁɑ̃s"	1	'IPA transcription'@en
+Q3624078	P898	"gɛˈɔɾgjɑ"	1	'IPA transcription'@en
+Q3624078	P898	"iˈtalja"	1	'IPA transcription'@en
+Q3624078	P898	"jisʁaˈʔel"	1	'IPA transcription'@en
+Q3624078	P898	"jʊ̈nai̯tɘd kɪŋɡdə̯m"	1	'IPA transcription'@en
+Q3624078	P898	"kanadɑ"	1	'IPA transcription'@en
+Q3624078	P898	"kɑmˈbɔtʂɔ"	1	'IPA transcription'@en
+Q3624078	P898	"kɑp\\\\\\\\'ʋæɾdə"	1	'IPA transcription'@en
+Q3624078	P898	"kɾuːˈɑtsɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"kʲipr"	1	'IPA transcription'@en
+Q3624078	P898	"lʲɪɛtʊˈvɐ"	1	'IPA transcription'@en
+Q3624078	P898	"lʲɪˈtva"	1	'IPA transcription'@en
+Q3624078	P898	"mæʉ\\\\\\\\'ɾɪtsɪʉs"	1	'IPA transcription'@en
+Q3624078	P898	"mɑdɑ\\\\\\\\'gɑskɑɾ"	1	'IPA transcription'@en
+Q3624078	P898	"mɑkəˈduːnɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"mɔntəˈneːgɾu"	1	'IPA transcription'@en
+Q3624078	P898	"nɛˈpɑːl"	1	'IPA transcription'@en
+Q3624078	P898	"nɪ\\\\\\\\'geːɾɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"nʲihóɴ"	1	'IPA transcription'@en
+Q3624078	P898	"puɾtuˈɣaɫ"	1	'IPA transcription'@en
+Q3624078	P898	"puʈʉˈgɑːl"	1	'IPA transcription'@en
+Q3624078	P898	"pɑ\\\\\\\\'lɑːu"	1	'IPA transcription'@en
+Q3624078	P898	"pərtʊˈɡalʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"pəˈɾʉː"	1	'IPA transcription'@en
+Q3624078	P898	"rɐˈsʲijə"	1	'IPA transcription'@en
+Q3624078	P898	"rɛˈpublika makɛˈdɔnija"	1	'IPA transcription'@en
+Q3624078	P898	"rɛˈpublikɐ bɤ̞lˈɡarijɐ"	1	'IPA transcription'@en
+Q3624078	P898	"rʲɪˈspublʲɪkə məkʲɪˈdonʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"tʉ\\\\\\\\'niːsɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"t͡sr̩̂ːnaː ɡɔ̌ra"	1	'IPA transcription'@en
+Q3624078	P898	"t͡ɕɪrnɐˈɡorʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"vʲɪlʲɪkəbrʲɪˈtanʲɪj"	1	'IPA transcription'@en
+Q3624078	P898	"xř̩ʋaːtskaː"	1	'IPA transcription'@en
+Q3624078	P898	"xɐrˈvatʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"y.kʁɛn"	1	'IPA transcription'@en
+Q3624078	P898	"æʉsˈtɾɑːlɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ɐfˈstralʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"ɐlˈbanʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"ɐnˈdorːə"	1	'IPA transcription'@en
+Q3624078	P898	"ɑlˈbɑːnɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ɑnˈdɔɾɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ɑsəɾbɑjdˈʂɑːn"	1	'IPA transcription'@en
+Q3624078	P898	"ɑŋ\\\\\\\\'guːlɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ɑɾgənˈtiːnɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ɑɾˈmeːnɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ɑːzæɾbɑjˈd͡ʒɑn"	1	'IPA transcription'@en
+Q3624078	P898	"ənˈdɔ.rə"	1	'IPA transcription'@en
+Q3624078	P898	"əˈstreɪljə"	1	'IPA transcription'@en
+Q3624078	P898	"ɛˈstonʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"ɪˈslanʲdʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"ɪˈslan⁽ʲ⁾dʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"ɪˈspanʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"ɪˈtalʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"ɪˈtɑːlɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ɾɛpuˈblika ɛ ʃcipəˈɾiːs"	1	'IPA transcription'@en
+Q3624078	P898	"ʂluˈʋɑːkɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ʉ\\\\\\\\'gɑndɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ʉkɾɑˈiːnɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ʉːɛˈsɑː"	1	'IPA transcription'@en
+Q3624078	P898	"ʊkrɐˈjɪn̪ɐ"	1	'IPA transcription'@en
+Q3624078	P898	"ʋɛnə\\\\\\\\'sʉeːlɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ʒaˈponi.a"	1	'IPA transcription'@en
+Q3624078	P898	"ʔukʁaˈiːnə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈaɪəɹlənd"	1	'IPA transcription'@en
+Q3624078	P898	"ˈaɪɹlənd"	1	'IPA transcription'@en
+Q3624078	P898	"ˈbos⁽ʲ⁾nʲɪjə ɪɡʲɪrt͡sɨɡɐˈvʲinə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈbɔsnɪɑ hæʈsəˈgoːʋɪnɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈbɛlgɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈbʲelʲɡʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈcipros"	1	'IPA transcription'@en
+Q3624078	P898	"ˈdɑnmɑɾk"	1	'IPA transcription'@en
+Q3624078	P898	"ˈdɔɪ̯ʧlant"	1	'IPA transcription'@en
+Q3624078	P898	"ˈeːsti"	1	'IPA transcription'@en
+Q3624078	P898	"ˈeːɾʲə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈfɔɽkərɛpʉblɪkən ˈçiːnɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈfɪnlɑn"	1	'IPA transcription'@en
+Q3624078	P898	"ˈfɾɑŋkɾiːkə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈgɑːnɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈhɛlɑs"	1	'IPA transcription'@en
+Q3624078	P898	"ˈislant"	1	'IPA transcription'@en
+Q3624078	P898	"ˈiːslɑn"	1	'IPA transcription'@en
+Q3624078	P898	"ˈiːsɾɑɛl"	1	'IPA transcription'@en
+Q3624078	P898	"ˈjaːpan"	1	'IPA transcription'@en
+Q3624078	P898	"ˈjɑːpɑn"	1	'IPA transcription'@en
+Q3624078	P898	"ˈkyːpɾɔs"	1	'IPA transcription'@en
+Q3624078	P898	"ˈkænədə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈkɑnɑdɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈkɯbɾɯs"	1	'IPA transcription'@en
+Q3624078	P898	"ˈkʉːbɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈlat.vi.ja"	1	'IPA transcription'@en
+Q3624078	P898	"ˈlɑtʋɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈlɪtæʉən"	1	'IPA transcription'@en
+Q3624078	P898	"ˈlʉksəmbʉɾg"	1	'IPA transcription'@en
+Q3624078	P898	"ˈmalʲtə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈmexiko"	1	'IPA transcription'@en
+Q3624078	P898	"ˈmɐltɐ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈmɑltɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈmɒltə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈmɛksɪkuː"	1	'IPA transcription'@en
+Q3624078	P898	"ˈpuːln̩"	1	'IPA transcription'@en
+Q3624078	P898	"ˈpɔlska"	1	'IPA transcription'@en
+Q3624078	P898	"ˈslɔʋɛnskɔ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈspeɪn"	1	'IPA transcription'@en
+Q3624078	P898	"ˈspɑːnɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈstuɾbɾɪtɑːnɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈsuo̯mi"	1	'IPA transcription'@en
+Q3624078	P898	"ˈsvɛːrjɛ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈsøːɾɑfɾɪkɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈsʋæɪts"	1	'IPA transcription'@en
+Q3624078	P898	"ˈsʋæɾjə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈtʂiːlə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈtʂɛkɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈtʏsklɑn"	1	'IPA transcription'@en
+Q3624078	P898	"ˈtʏɾkɪɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈt͡ʃɛsko"	1	'IPA transcription'@en
+Q3624078	P898	"ˈuŋgɑɳ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈvʲenɡrʲɪjə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈçiːnɑ"	1	'IPA transcription'@en
+Q3624078	P898	"ˈœstəɾiːkə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈɛstlɑn"	1	'IPA transcription'@en
+Q3624078	P898	"ˈɡrʲet͡sɨjə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈɪzreɪəl"	1	'IPA transcription'@en
+Q3624078	P898	"ˈɪɾlɑn"	1	'IPA transcription'@en
+Q3624078	P898	"ˈɾʉslɑn"	1	'IPA transcription'@en
+Q3624078	P898	"ˈɾʉʂlɑn"	1	'IPA transcription'@en
+Q3624078	P898	"ˈʂvʲet͡sɨjə"	1	'IPA transcription'@en
+Q3624078	P898	"ˈʊŋɡaʁn"	1	'IPA transcription'@en
+Q3624078	P898	"ˈʋiːtərʉslɑn"	1	'IPA transcription'@en
+Q3624078	P898	"ˈʋiːtərʉʂlɑn"	1	'IPA transcription'@en
+Q3624078	P935	"Andorra"	1	'Commons gallery'@en
+Q3624078	P935	"Angola"	1	'Commons gallery'@en
+Q3624078	P935	"Argentina"	1	'Commons gallery'@en
+Q3624078	P935	"Armenia - Հայաստան"	1	'Commons gallery'@en
+Q3624078	P935	"Australia"	1	'Commons gallery'@en
+Q3624078	P935	"Azərbaycan"	1	'Commons gallery'@en
+Q3624078	P935	"België - Belgique - Belgien"	1	'Commons gallery'@en
+Q3624078	P935	"Bolivia"	1	'Commons gallery'@en
+Q3624078	P935	"Bosna i Hercegovina / Босна и Херцеговина"	1	'Commons gallery'@en
+Q3624078	P935	"Brasil"	1	'Commons gallery'@en
+Q3624078	P935	"Cabo Verde"	1	'Commons gallery'@en
+Q3624078	P935	"Canada"	1	'Commons gallery'@en
+Q3624078	P935	"Chile"	1	'Commons gallery'@en
+Q3624078	P935	"Confoederatio Helvetica"	1	'Commons gallery'@en
+Q3624078	P935	"Cuba"	1	'Commons gallery'@en
+Q3624078	P935	"Danmark"	1	'Commons gallery'@en
+Q3624078	P935	"Deutschland"	1	'Commons gallery'@en
+Q3624078	P935	"Eesti"	1	'Commons gallery'@en
+Q3624078	P935	"España"	1	'Commons gallery'@en
+Q3624078	P935	"France"	1	'Commons gallery'@en
+Q3624078	P935	"Ghana"	1	'Commons gallery'@en
+Q3624078	P935	"Hrvatska"	1	'Commons gallery'@en
+Q3624078	P935	"Ireland - Éire"	1	'Commons gallery'@en
+Q3624078	P935	"Israel"	1	'Commons gallery'@en
+Q3624078	P935	"Italia"	1	'Commons gallery'@en
+Q3624078	P935	"Latvija"	1	'Commons gallery'@en
+Q3624078	P935	"Lietuva"	1	'Commons gallery'@en
+Q3624078	P935	"Lëtzebuerg"	1	'Commons gallery'@en
+Q3624078	P935	"Madagascar - Madagasikara"	1	'Commons gallery'@en
+Q3624078	P935	"Magyarország"	1	'Commons gallery'@en
+Q3624078	P935	"Malta"	1	'Commons gallery'@en
+Q3624078	P935	"Mauritius"	1	'Commons gallery'@en
+Q3624078	P935	"México"	1	'Commons gallery'@en
+Q3624078	P935	"Nigeria"	1	'Commons gallery'@en
+Q3624078	P935	"North Macedonia"	1	'Commons gallery'@en
+Q3624078	P935	"Palau"	1	'Commons gallery'@en
+Q3624078	P935	"Peru"	1	'Commons gallery'@en
+Q3624078	P935	"Polska"	1	'Commons gallery'@en
+Q3624078	P935	"Portugal"	1	'Commons gallery'@en
+Q3624078	P935	"Shqipëria"	1	'Commons gallery'@en
+Q3624078	P935	"Slovensko"	1	'Commons gallery'@en
+Q3624078	P935	"South Africa - Ningizimu Afrika - Suid-Afrika - Afrika Borwa"	1	'Commons gallery'@en
+Q3624078	P935	"Suomi – Finland"	1	'Commons gallery'@en
+Q3624078	P935	"Sverige"	1	'Commons gallery'@en
+Q3624078	P935	"Türkiye"	1	'Commons gallery'@en
+Q3624078	P935	"Uganda"	1	'Commons gallery'@en
+Q3624078	P935	"United Kingdom"	1	'Commons gallery'@en
+Q3624078	P935	"United States"	1	'Commons gallery'@en
+Q3624078	P935	"Venezuela"	1	'Commons gallery'@en
+Q3624078	P935	"Ísland"	1	'Commons gallery'@en
+Q3624078	P935	"Österreich"	1	'Commons gallery'@en
+Q3624078	P935	"Česko"	1	'Commons gallery'@en
+Q3624078	P935	"Ελλάδα"	1	'Commons gallery'@en
+Q3624078	P935	"Κύπρος - Kıbrıs"	1	'Commons gallery'@en
+Q3624078	P935	"Беларусь"	1	'Commons gallery'@en
+Q3624078	P935	"България"	1	'Commons gallery'@en
+Q3624078	P935	"Россия"	1	'Commons gallery'@en
+Q3624078	P935	"Союз Советских Социалистических Республик"	1	'Commons gallery'@en
+Q3624078	P935	"Україна"	1	'Commons gallery'@en
+Q3624078	P935	"Црна Гора / Crna Gora"	1	'Commons gallery'@en
+Q3624078	P935	"تونس"	1	'Commons gallery'@en
+Q3624078	P935	"لبنان"	1	'Commons gallery'@en
+Q3624078	P935	"नेपाल"	1	'Commons gallery'@en
+Q3624078	P935	"ประเทศไทย"	1	'Commons gallery'@en
+Q3624078	P935	"საქართველო"	1	'Commons gallery'@en
+Q3624078	P935	"ព្រះរាជាណាចក្រកម្ពុជា"	1	'Commons gallery'@en
+Q3624078	P935	"中华人民共和国"	1	'Commons gallery'@en
+Q3624078	P935	"日本"	1	'Commons gallery'@en
+Q3658341	P373	"Santa Claus"	1	'Commons category'@en
+Q3658341	P487	"🎅"	1	'Unicode character'@en
+Q3658341	P935	"Santa Claus"	1	'Commons gallery'@en
+Q3957	P281	"21400–21499"	1	'postal code'@en
+Q3957	P281	"DE14"	1	'postal code'@en
+Q3957	P281	"LE67"	1	'postal code'@en
+Q3957	P373	"Burton upon Trent"	1	'Commons category'@en
+Q3957	P373	"Coalville"	1	'Commons category'@en
+Q3957	P373	"Tecate"	1	'Commons category'@en
+Q3957	P473	"01283"	1	'local dialing code'@en
+Q3957	P473	"01530"	1	'local dialing code'@en
+Q3957	P473	"665"	1	'local dialing code'@en
+Q3957	P613	"SK245225"	1	'OS grid reference'@en
+Q3957	P613	"SK433138"	1	'OS grid reference'@en
+Q40050	P1329	"+30-2531-038715"	1	'phone number'@en
+Q40050	P1796	"1103"	1	'International Standard Industrial Classification code Rev.4'@en
+Q40050	P2900	"+30-2531-038729"	1	'fax number'@en
+Q4100298	P373	"Clove"	1	'Commons category'@en
+Q41614	P2258	"456"	1	'mobile country code'@en
+Q41614	P2258	"520"	1	'mobile country code'@en
+Q41614	P2979	"514"	1	'maritime identification digits'@en
+Q41614	P2979	"515"	1	'maritime identification digits'@en
+Q41614	P2979	"567"	1	'maritime identification digits'@en
+Q41614	P3067	"884"	1	'GS1 country code'@en
+Q41614	P3067	"885"	1	'GS1 country code'@en
+Q41614	P3238	"0"	1	'trunk prefix'@en
+Q41614	P373	"Cambodia"	1	'Commons category'@en
+Q41614	P373	"Kingdom of Denmark"	1	'Commons category'@en
+Q41614	P373	"Thailand"	1	'Commons category'@en
+Q41614	P395	"K"	1	'licence plate code'@en
+Q41614	P395	"T"	1	'licence plate code'@en
+Q41614	P474	"+66"	1	'country calling code'@en
+Q41614	P474	"+855"	1	'country calling code'@en
+Q41614	P487	"🇩🇰"	1	'Unicode character'@en
+Q41614	P487	"🇰🇭"	1	'Unicode character'@en
+Q41614	P487	"🇹🇭"	1	'Unicode character'@en
+Q41614	P898	"kɑmˈbɔtʂɔ"	1	'IPA transcription'@en
+Q41614	P935	"ประเทศไทย"	1	'Commons gallery'@en
+Q41614	P935	"ព្រះរាជាណាចក្រកម្ពុជា"	1	'Commons gallery'@en
+Q417175	P373	"Kingdom of Denmark"	1	'Commons category'@en
+Q417175	P373	"Kingdom of Saxony"	1	'Commons category'@en
+Q417175	P487	"🇩🇰"	1	'Unicode character'@en
+Q4198907	P2258	"617"	1	'mobile country code'@en
+Q4198907	P2979	"645"	1	'maritime identification digits'@en
+Q4198907	P3067	"609"	1	'GS1 country code'@en
+Q4198907	P373	"Mauritius"	1	'Commons category'@en
+Q4198907	P395	"MS"	1	'licence plate code'@en
+Q4198907	P474	"+230"	1	'country calling code'@en
+Q4198907	P487	"🇲🇺"	1	'Unicode character'@en
+Q4198907	P898	"mæʉ\\\\\\\\'ɾɪtsɪʉs"	1	'IPA transcription'@en
+Q4198907	P935	"Mauritius"	1	'Commons gallery'@en
+Q4204501	P373	"Sumer"	1	'Commons category'@en
+Q4204501	P935	"Sumer"	1	'Commons gallery'@en
+Q4209223	P3238	"0"	4	'trunk prefix'@en
+Q4209223	P2258	"232"	1	'mobile country code'@en
+Q4209223	P2258	"250"	1	'mobile country code'@en
+Q4209223	P2258	"255"	1	'mobile country code'@en
+Q4209223	P2258	"262"	1	'mobile country code'@en
+Q4209223	P2258	"282"	1	'mobile country code'@en
+Q4209223	P2258	"724"	1	'mobile country code'@en
+Q4209223	P2572	"Deutschland"	1	'hashtag'@en
+Q4209223	P2572	"україна"	1	'hashtag'@en
+Q4209223	P2979	"203"	1	'maritime identification digits'@en
+Q4209223	P2979	"211"	1	'maritime identification digits'@en
+Q4209223	P2979	"213"	1	'maritime identification digits'@en
+Q4209223	P2979	"218"	1	'maritime identification digits'@en
+Q4209223	P2979	"272"	1	'maritime identification digits'@en
+Q4209223	P2979	"273"	1	'maritime identification digits'@en
+Q4209223	P2979	"710"	1	'maritime identification digits'@en
+Q4209223	P3067	"400-440"	1	'GS1 country code'@en
+Q4209223	P3067	"460-469"	1	'GS1 country code'@en
+Q4209223	P3067	"482"	1	'GS1 country code'@en
+Q4209223	P3067	"486"	1	'GS1 country code'@en
+Q4209223	P3067	"789-790"	1	'GS1 country code'@en
+Q4209223	P3067	"900-919"	1	'GS1 country code'@en
+Q4209223	P3238	"8"	1	'trunk prefix'@en
+Q4209223	P3238	novalue	1	'trunk prefix'@en
+Q4209223	P373	"Austria"	1	'Commons category'@en
+Q4209223	P373	"Brazil"	1	'Commons category'@en
+Q4209223	P373	"Georgia"	1	'Commons category'@en
+Q4209223	P373	"Germany"	1	'Commons category'@en
+Q4209223	P373	"Russia"	1	'Commons category'@en
+Q4209223	P373	"Ukraine"	1	'Commons category'@en
+Q4209223	P395	"A"	1	'licence plate code'@en
+Q4209223	P395	"BR"	1	'licence plate code'@en
+Q4209223	P395	"D"	1	'licence plate code'@en
+Q4209223	P395	"GE"	1	'licence plate code'@en
+Q4209223	P395	"RUS"	1	'licence plate code'@en
+Q4209223	P395	"UA"	1	'licence plate code'@en
+Q4209223	P474	"+380"	1	'country calling code'@en
+Q4209223	P474	"+43"	1	'country calling code'@en
+Q4209223	P474	"+49"	1	'country calling code'@en
+Q4209223	P474	"+55"	1	'country calling code'@en
+Q4209223	P474	"+7"	1	'country calling code'@en
+Q4209223	P474	"+995"	1	'country calling code'@en
+Q4209223	P487	"🇦🇹"	1	'Unicode character'@en
+Q4209223	P487	"🇧🇷"	1	'Unicode character'@en
+Q4209223	P487	"🇩🇪"	1	'Unicode character'@en
+Q4209223	P487	"🇬🇪"	1	'Unicode character'@en
+Q4209223	P487	"🇷🇺"	1	'Unicode character'@en
+Q4209223	P487	"🇺🇦"	1	'Unicode character'@en
+Q4209223	P898	"brɐˈzʲilʲɪjə"	1	'IPA transcription'@en
+Q4209223	P898	"bɾaˈziw"	1	'IPA transcription'@en
+Q4209223	P898	"bɾɑˈsiːl"	1	'IPA transcription'@en
+Q4209223	P898	"gɛˈɔɾgjɑ"	1	'IPA transcription'@en
+Q4209223	P898	"rɐˈsʲijə"	1	'IPA transcription'@en
+Q4209223	P898	"y.kʁɛn"	1	'IPA transcription'@en
+Q4209223	P898	"ʉkɾɑˈiːnɑ"	1	'IPA transcription'@en
+Q4209223	P898	"ʊkrɐˈjɪn̪ɐ"	1	'IPA transcription'@en
+Q4209223	P898	"ʔukʁaˈiːnə"	1	'IPA transcription'@en
+Q4209223	P898	"ˈdɔɪ̯ʧlant"	1	'IPA transcription'@en
+Q4209223	P898	"ˈtʏsklɑn"	1	'IPA transcription'@en
+Q4209223	P898	"ˈœstəɾiːkə"	1	'IPA transcription'@en
+Q4209223	P898	"ˈɾʉslɑn"	1	'IPA transcription'@en
+Q4209223	P898	"ˈɾʉʂlɑn"	1	'IPA transcription'@en
+Q4209223	P935	"Brasil"	1	'Commons gallery'@en
+Q4209223	P935	"Deutschland"	1	'Commons gallery'@en
+Q4209223	P935	"Österreich"	1	'Commons gallery'@en
+Q4209223	P935	"Россия"	1	'Commons gallery'@en
+Q4209223	P935	"Україна"	1	'Commons gallery'@en
+Q4209223	P935	"საქართველო"	1	'Commons gallery'@en
+Q42527	P373	"Nutmegs"	1	'Commons category'@en
+Q42527	P935	"Myristica fragrans"	1	'Commons gallery'@en
+Q4271324	P373	"Santa Claus"	1	'Commons category'@en
+Q4271324	P487	"🎅"	1	'Unicode character'@en
+Q4271324	P935	"Santa Claus"	1	'Commons gallery'@en
+Q42744322	P1438	"12407"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q42744322	P1438	"15521"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q42744322	P238	"LEJ"	1	'IATA airport code'@en
+Q42744322	P281	"02625"	1	'postal code'@en
+Q42744322	P281	"04003"	1	'postal code'@en
+Q42744322	P281	"04105"	1	'postal code'@en
+Q42744322	P281	"04109"	1	'postal code'@en
+Q42744322	P281	"04155"	1	'postal code'@en
+Q42744322	P281	"04157"	1	'postal code'@en
+Q42744322	P281	"04159"	1	'postal code'@en
+Q42744322	P281	"04229"	1	'postal code'@en
+Q42744322	P281	"04275"	1	'postal code'@en
+Q42744322	P281	"04317"	1	'postal code'@en
+Q42744322	P281	"04357"	1	'postal code'@en
+Q42744322	P281	"80331"	1	'postal code'@en
+Q42744322	P281	"80802"	1	'postal code'@en
+Q42744322	P281	"80805"	1	'postal code'@en
+Q42744322	P281	"81377"	1	'postal code'@en
+Q42744322	P281	"81379"	1	'postal code'@en
+Q42744322	P281	"81730"	1	'postal code'@en
+Q42744322	P281	"81735"	1	'postal code'@en
+Q42744322	P281	"81737"	1	'postal code'@en
+Q42744322	P281	"81825"	1	'postal code'@en
+Q42744322	P281	"81929"	1	'postal code'@en
+Q42744322	P281	"8600"	1	'postal code'@en
+Q42744322	P373	"Bautzen"	1	'Commons category'@en
+Q42744322	P373	"Leipzig"	1	'Commons category'@en
+Q42744322	P373	"Munich"	1	'Commons category'@en
+Q42744322	P395	"BZ"	1	'licence plate code'@en
+Q42744322	P395	"L"	1	'licence plate code'@en
+Q42744322	P395	"M"	1	'licence plate code'@en
+Q42744322	P473	"0341"	1	'local dialing code'@en
+Q42744322	P473	"03591"	1	'local dialing code'@en
+Q42744322	P473	"035935"	1	'local dialing code'@en
+Q42744322	P473	"089"	1	'local dialing code'@en
+Q42744322	P935	"Bautzen"	1	'Commons gallery'@en
+Q42744322	P935	"Leipzig"	1	'Commons gallery'@en
+Q42744322	P935	"München"	1	'Commons gallery'@en
+Q431289	P373	"Tuborg"	1	'Commons category'@en
+Q43702	P3238	"0"	4	'trunk prefix'@en
+Q43702	P1438	"15425#15"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q43702	P2258	"206"	1	'mobile country code'@en
+Q43702	P2258	"228"	1	'mobile country code'@en
+Q43702	P2258	"262"	1	'mobile country code'@en
+Q43702	P2258	"310"	1	'mobile country code'@en
+Q43702	P2258	"311"	1	'mobile country code'@en
+Q43702	P2258	"312"	1	'mobile country code'@en
+Q43702	P2258	"313"	1	'mobile country code'@en
+Q43702	P2258	"316"	1	'mobile country code'@en
+Q43702	P2258	"505"	1	'mobile country code'@en
+Q43702	P2572	"Deutschland"	1	'hashtag'@en
+Q43702	P2979	"205"	1	'maritime identification digits'@en
+Q43702	P2979	"211"	1	'maritime identification digits'@en
+Q43702	P2979	"218"	1	'maritime identification digits'@en
+Q43702	P2979	"269"	1	'maritime identification digits'@en
+Q43702	P2979	"338"	1	'maritime identification digits'@en
+Q43702	P2979	"366"	1	'maritime identification digits'@en
+Q43702	P2979	"367"	1	'maritime identification digits'@en
+Q43702	P2979	"368"	1	'maritime identification digits'@en
+Q43702	P2979	"369"	1	'maritime identification digits'@en
+Q43702	P2979	"503"	1	'maritime identification digits'@en
+Q43702	P3067	"000-139"	1	'GS1 country code'@en
+Q43702	P3067	"400-440"	1	'GS1 country code'@en
+Q43702	P3067	"540-549"	1	'GS1 country code'@en
+Q43702	P3067	"760-769"	1	'GS1 country code'@en
+Q43702	P3067	"930"	1	'GS1 country code'@en
+Q43702	P3067	"931"	1	'GS1 country code'@en
+Q43702	P3067	"932"	1	'GS1 country code'@en
+Q43702	P3067	"933"	1	'GS1 country code'@en
+Q43702	P3067	"934"	1	'GS1 country code'@en
+Q43702	P3067	"935"	1	'GS1 country code'@en
+Q43702	P3067	"936"	1	'GS1 country code'@en
+Q43702	P3067	"937"	1	'GS1 country code'@en
+Q43702	P3067	"938"	1	'GS1 country code'@en
+Q43702	P3067	"939"	1	'GS1 country code'@en
+Q43702	P373	"Australia"	1	'Commons category'@en
+Q43702	P373	"Belgium"	1	'Commons category'@en
+Q43702	P373	"Germany"	1	'Commons category'@en
+Q43702	P373	"Switzerland"	1	'Commons category'@en
+Q43702	P373	"United States"	1	'Commons category'@en
+Q43702	P395	"AUS"	1	'licence plate code'@en
+Q43702	P395	"B"	1	'licence plate code'@en
+Q43702	P395	"CH"	1	'licence plate code'@en
+Q43702	P395	"D"	1	'licence plate code'@en
+Q43702	P395	"USA"	1	'licence plate code'@en
+Q43702	P474	"+1"	1	'country calling code'@en
+Q43702	P474	"+32"	1	'country calling code'@en
+Q43702	P474	"+41"	1	'country calling code'@en
+Q43702	P474	"+49"	1	'country calling code'@en
+Q43702	P474	"+61"	1	'country calling code'@en
+Q43702	P487	"🇦🇺"	1	'Unicode character'@en
+Q43702	P487	"🇧🇪"	1	'Unicode character'@en
+Q43702	P487	"🇨🇭"	1	'Unicode character'@en
+Q43702	P487	"🇩🇪"	1	'Unicode character'@en
+Q43702	P487	"🇺🇸"	1	'Unicode character'@en
+Q43702	P898	"bɛl.ʒik"	1	'IPA transcription'@en
+Q43702	P898	"æʉsˈtɾɑːlɪɑ"	1	'IPA transcription'@en
+Q43702	P898	"ɐfˈstralʲɪjə"	1	'IPA transcription'@en
+Q43702	P898	"əˈstreɪljə"	1	'IPA transcription'@en
+Q43702	P898	"ʉːɛˈsɑː"	1	'IPA transcription'@en
+Q43702	P898	"ˈbɛlgɪɑ"	1	'IPA transcription'@en
+Q43702	P898	"ˈbʲelʲɡʲɪjə"	1	'IPA transcription'@en
+Q43702	P898	"ˈdɔɪ̯ʧlant"	1	'IPA transcription'@en
+Q43702	P898	"ˈsʋæɪts"	1	'IPA transcription'@en
+Q43702	P898	"ˈtʏsklɑn"	1	'IPA transcription'@en
+Q43702	P935	"Australia"	1	'Commons gallery'@en
+Q43702	P935	"België - Belgique - Belgien"	1	'Commons gallery'@en
+Q43702	P935	"Confoederatio Helvetica"	1	'Commons gallery'@en
+Q43702	P935	"Deutschland"	1	'Commons gallery'@en
+Q43702	P935	"United States"	1	'Commons gallery'@en
+Q44	P1329	"+30-2531-038715"	1	'phone number'@en
+Q44	P1796	"1103"	1	'International Standard Industrial Classification code Rev.4'@en
+Q44	P2900	"+30-2531-038729"	1	'fax number'@en
+Q4445055	P2979	"255"	1	'maritime identification digits'@en
+Q4445055	P373	"Madeira"	1	'Commons category'@en
+Q4445055	P395	"P"	1	'licence plate code'@en
+Q4445055	P473	"351 291"	1	'local dialing code'@en
+Q4445055	P935	"Madeira"	1	'Commons gallery'@en
+Q448801	P281	"02625"	1	'postal code'@en
+Q448801	P281	"8600"	1	'postal code'@en
+Q448801	P373	"Bautzen"	1	'Commons category'@en
+Q448801	P395	"BZ"	1	'licence plate code'@en
+Q448801	P473	"03591"	1	'local dialing code'@en
+Q448801	P473	"035935"	1	'local dialing code'@en
+Q448801	P935	"Bautzen"	1	'Commons gallery'@en
+Q453181	P373	"Private labels"	1	'Commons category'@en
+Q465299	P373	"Sumer"	1	'Commons category'@en
+Q465299	P935	"Sumer"	1	'Commons gallery'@en
+Q4686758	P373	"Santa Claus"	1	'Commons category'@en
+Q4686758	P487	"🎅"	1	'Unicode character'@en
+Q4686758	P935	"Santa Claus"	1	'Commons gallery'@en
+Q475050	P238	"WAS"	1	'IATA airport code'@en
+Q475050	P281	"20001–20098"	1	'postal code'@en
+Q475050	P281	"20201–20599"	1	'postal code'@en
+Q475050	P373	"Washington, D.C."	1	'Commons category'@en
+Q475050	P473	"202"	1	'local dialing code'@en
+Q475050	P935	"Washington, D.C."	1	'Commons gallery'@en
+Q4830453	P1329	"+30-2531-038715"	1	'phone number'@en
+Q4830453	P1796	"1103"	1	'International Standard Industrial Classification code Rev.4'@en
+Q4830453	P281	"4640"	1	'postal code'@en
+Q4830453	P2900	"+30-2531-038729"	1	'fax number'@en
+Q4830453	P373	"Anheuser-Busch InBev"	1	'Commons category'@en
+Q4830453	P373	"Asahi Breweries"	1	'Commons category'@en
+Q4830453	P373	"Baltika (brewery)"	1	'Commons category'@en
+Q4830453	P373	"Brasserie Dubuisson"	1	'Commons category'@en
+Q4830453	P373	"Brasseries Kronenbourg"	1	'Commons category'@en
+Q4830453	P373	"Cantillon Brewery"	1	'Commons category'@en
+Q4830453	P373	"Carlsberg Group"	1	'Commons category'@en
+Q4830453	P373	"Ceres Brewery"	1	'Commons category'@en
+Q4830453	P373	"Cuauhtémoc Moctezuma"	1	'Commons category'@en
+Q4830453	P373	"Damm (beer)"	1	'Commons category'@en
+Q4830453	P373	"De Struise Brouwers"	1	'Commons category'@en
+Q4830453	P373	"Diageo"	1	'Commons category'@en
+Q4830453	P373	"Efes Beverage Group"	1	'Commons category'@en
+Q4830453	P373	"Grolsch"	1	'Commons category'@en
+Q4830453	P373	"Grupo Modelo"	1	'Commons category'@en
+Q4830453	P373	"Heineken"	1	'Commons category'@en
+Q4830453	P373	"Huyghe brewery"	1	'Commons category'@en
+Q4830453	P373	"Molson Coors Brewing Company"	1	'Commons category'@en
+Q4830453	P373	"Oettinger Brauerei"	1	'Commons category'@en
+Q4830453	P373	"Olvi"	1	'Commons category'@en
+Q4830453	P373	"Oriental Brewery Company"	1	'Commons category'@en
+Q4830453	P373	"Peroni (brewery)"	1	'Commons category'@en
+Q4830453	P373	"Royal Unibrew"	1	'Commons category'@en
+Q4830453	P373	"Samson (brewery)"	1	'Commons category'@en
+Q4830453	P373	"Sapporo Breweries"	1	'Commons category'@en
+Q4830453	P373	"Sarajevo Brewery"	1	'Commons category'@en
+Q4830453	P373	"Shepherd Neame Ltd"	1	'Commons category'@en
+Q4830453	P373	"Sinebrychoff"	1	'Commons category'@en
+Q4830453	P373	"Spendrups"	1	'Commons category'@en
+Q4830453	P373	"Tekel"	1	'Commons category'@en
+Q4830453	P373	"Tuborg"	1	'Commons category'@en
+Q4830453	P3761	"145.47.0.0/16"	1	'IPv4 routing prefix'@en
+Q484083	P1329	"+30-2531-038718"	1	'phone number'@en
+Q484170	P281	"13000"	1	'postal code'@en
+Q484170	P281	"13001"	1	'postal code'@en
+Q484170	P281	"13002"	1	'postal code'@en
+Q484170	P281	"13003"	1	'postal code'@en
+Q484170	P281	"13004"	1	'postal code'@en
+Q484170	P281	"13005"	1	'postal code'@en
+Q484170	P281	"13006"	1	'postal code'@en
+Q484170	P281	"13007"	1	'postal code'@en
+Q484170	P281	"13008"	1	'postal code'@en
+Q484170	P281	"13009"	1	'postal code'@en
+Q484170	P281	"13010"	1	'postal code'@en
+Q484170	P281	"13011"	1	'postal code'@en
+Q484170	P281	"13012"	1	'postal code'@en
+Q484170	P281	"13013"	1	'postal code'@en
+Q484170	P281	"13014"	1	'postal code'@en
+Q484170	P281	"13015"	1	'postal code'@en
+Q484170	P281	"13016"	1	'postal code'@en
+Q484170	P373	"Marseille"	1	'Commons category'@en
+Q484170	P473	"491"	1	'local dialing code'@en
+Q484170	P473	"496"	1	'local dialing code'@en
+Q484170	P935	"Marseille"	1	'Commons gallery'@en
+Q493522	P281	"3740"	1	'postal code'@en
+Q493522	P281	"3742"	1	'postal code'@en
+Q493522	P281	"3746"	1	'postal code'@en
+Q493522	P373	"Bilzen"	1	'Commons category'@en
+Q493522	P473	"089"	1	'local dialing code'@en
+Q49773	P373	"Free culture"	1	'Commons category'@en
+Q5	P935	"Arthur Guinness"	1	'Commons gallery'@en
+Q50330360	P281	"4000"	1	'postal code'@en
+Q50330360	P373	"Plovdiv"	1	'Commons category'@en
+Q50330360	P395	"РВ (П)"	1	'licence plate code'@en
+Q50330360	P473	"032"	1	'local dialing code'@en
+Q506139	P1282	"Tag:crop=wheat"	1	'OpenStreetMap tag or key'@en
+Q506139	P225	"Hordeum vulgare L."	1	'taxon name'@en
+Q506139	P373	"Wheat"	1	'Commons category'@en
+Q506139	P935	"Wheat"	1	'Commons gallery'@en
+Q50690	P1282	"Tag:resource=water"	1	'OpenStreetMap tag or key'@en
+Q50690	P233	"O"	1	'canonical SMILES'@en
+Q50690	P274	"H₂O"	1	'chemical formula'@en
+Q50690	P373	"Water"	1	'Commons category'@en
+Q50690	P487	"💧"	1	'Unicode character'@en
+Q50690	P935	"Water"	1	'Commons gallery'@en
+Q5119	P238	"WAS"	1	'IATA airport code'@en
+Q5119	P281	"10xxx, 11xxx, 120xx"	1	'postal code'@en
+Q5119	P281	"20001–20098"	1	'postal code'@en
+Q5119	P281	"20201–20599"	1	'postal code'@en
+Q5119	P281	"6969"	1	'postal code'@en
+Q5119	P373	"Athens"	1	'Commons category'@en
+Q5119	P373	"Chur"	1	'Commons category'@en
+Q5119	P373	"Washington, D.C."	1	'Commons category'@en
+Q5119	P395	"BK"	1	'licence plate code'@en
+Q5119	P395	"BM"	1	'licence plate code'@en
+Q5119	P395	"BN"	1	'licence plate code'@en
+Q5119	P395	"BP"	1	'licence plate code'@en
+Q5119	P395	"GR"	1	'licence plate code'@en
+Q5119	P395	"HY"	1	'licence plate code'@en
+Q5119	P395	"IA"	1	'licence plate code'@en
+Q5119	P395	"IB"	1	'licence plate code'@en
+Q5119	P395	"IE"	1	'licence plate code'@en
+Q5119	P395	"IK"	1	'licence plate code'@en
+Q5119	P395	"IM"	1	'licence plate code'@en
+Q5119	P395	"IO"	1	'licence plate code'@en
+Q5119	P395	"IP"	1	'licence plate code'@en
+Q5119	P395	"IT"	1	'licence plate code'@en
+Q5119	P395	"IX"	1	'licence plate code'@en
+Q5119	P395	"IY"	1	'licence plate code'@en
+Q5119	P395	"IZ"	1	'licence plate code'@en
+Q5119	P395	"OA"	1	'licence plate code'@en
+Q5119	P395	"TT"	1	'licence plate code'@en
+Q5119	P395	"XE"	1	'licence plate code'@en
+Q5119	P395	"XH"	1	'licence plate code'@en
+Q5119	P395	"XP"	1	'licence plate code'@en
+Q5119	P395	"XT"	1	'licence plate code'@en
+Q5119	P395	"XX"	1	'licence plate code'@en
+Q5119	P395	"XY"	1	'licence plate code'@en
+Q5119	P395	"XZ"	1	'licence plate code'@en
+Q5119	P395	"YA"	1	'licence plate code'@en
+Q5119	P395	"YB"	1	'licence plate code'@en
+Q5119	P395	"YE"	1	'licence plate code'@en
+Q5119	P395	"YH"	1	'licence plate code'@en
+Q5119	P395	"YZ"	1	'licence plate code'@en
+Q5119	P395	"ZH"	1	'licence plate code'@en
+Q5119	P395	"ZK"	1	'licence plate code'@en
+Q5119	P395	"ZM"	1	'licence plate code'@en
+Q5119	P395	"ZZ"	1	'licence plate code'@en
+Q5119	P473	"081"	1	'local dialing code'@en
+Q5119	P473	"202"	1	'local dialing code'@en
+Q5119	P473	"210"	1	'local dialing code'@en
+Q5119	P935	"Athens"	1	'Commons gallery'@en
+Q5119	P935	"Chur"	1	'Commons gallery'@en
+Q5119	P935	"Washington, D.C."	1	'Commons gallery'@en
+Q512187	P2258	"621"	1	'mobile country code'@en
+Q512187	P2979	"657"	1	'maritime identification digits'@en
+Q512187	P3067	"615"	1	'GS1 country code'@en
+Q512187	P3238	"0"	1	'trunk prefix'@en
+Q512187	P3238	"8"	1	'trunk prefix'@en
+Q512187	P373	"Nigeria"	1	'Commons category'@en
+Q512187	P373	"Soviet Union"	1	'Commons category'@en
+Q512187	P395	"WAN"	1	'licence plate code'@en
+Q512187	P474	"+234"	1	'country calling code'@en
+Q512187	P487	"🇳🇬"	1	'Unicode character'@en
+Q512187	P898	"nɪ\\\\\\\\'geːɾɪɑ"	1	'IPA transcription'@en
+Q512187	P935	"Nigeria"	1	'Commons gallery'@en
+Q512187	P935	"Союз Советских Социалистических Республик"	1	'Commons gallery'@en
+Q515	P1438	"12407"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q515	P1438	"15521"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q515	P238	"LEJ"	1	'IATA airport code'@en
+Q515	P281	"04003"	1	'postal code'@en
+Q515	P281	"04105"	1	'postal code'@en
+Q515	P281	"04109"	1	'postal code'@en
+Q515	P281	"04155"	1	'postal code'@en
+Q515	P281	"04157"	1	'postal code'@en
+Q515	P281	"04159"	1	'postal code'@en
+Q515	P281	"04229"	1	'postal code'@en
+Q515	P281	"04275"	1	'postal code'@en
+Q515	P281	"04317"	1	'postal code'@en
+Q515	P281	"04357"	1	'postal code'@en
+Q515	P281	"10xxx, 11xxx, 120xx"	1	'postal code'@en
+Q515	P281	"26x xx"	1	'postal code'@en
+Q515	P281	"530–539"	1	'postal code'@en
+Q515	P281	"54015–54655"	1	'postal code'@en
+Q515	P281	"56404"	1	'postal code'@en
+Q515	P281	"69100"	1	'postal code'@en
+Q515	P281	"69131"	1	'postal code'@en
+Q515	P281	"69132"	1	'postal code'@en
+Q515	P281	"69133"	1	'postal code'@en
+Q515	P281	"80331"	1	'postal code'@en
+Q515	P281	"80802"	1	'postal code'@en
+Q515	P281	"80805"	1	'postal code'@en
+Q515	P281	"81377"	1	'postal code'@en
+Q515	P281	"81379"	1	'postal code'@en
+Q515	P281	"81730"	1	'postal code'@en
+Q515	P281	"81735"	1	'postal code'@en
+Q515	P281	"81737"	1	'postal code'@en
+Q515	P281	"81825"	1	'postal code'@en
+Q515	P281	"81929"	1	'postal code'@en
+Q515	P373	"Athens"	1	'Commons category'@en
+Q515	P373	"Komotini"	1	'Commons category'@en
+Q515	P373	"Leipzig"	1	'Commons category'@en
+Q515	P373	"Munich"	1	'Commons category'@en
+Q515	P373	"Patras"	1	'Commons category'@en
+Q515	P373	"Thessaloniki"	1	'Commons category'@en
+Q515	P395	"AZ"	1	'licence plate code'@en
+Q515	P395	"BK"	1	'licence plate code'@en
+Q515	P395	"BM"	1	'licence plate code'@en
+Q515	P395	"BN"	1	'licence plate code'@en
+Q515	P395	"BP"	1	'licence plate code'@en
+Q515	P395	"HY"	1	'licence plate code'@en
+Q515	P395	"IA"	1	'licence plate code'@en
+Q515	P395	"IB"	1	'licence plate code'@en
+Q515	P395	"IE"	1	'licence plate code'@en
+Q515	P395	"IK"	1	'licence plate code'@en
+Q515	P395	"IM"	1	'licence plate code'@en
+Q515	P395	"IO"	1	'licence plate code'@en
+Q515	P395	"IP"	1	'licence plate code'@en
+Q515	P395	"IT"	1	'licence plate code'@en
+Q515	P395	"IX"	1	'licence plate code'@en
+Q515	P395	"IY"	1	'licence plate code'@en
+Q515	P395	"IZ"	1	'licence plate code'@en
+Q515	P395	"L"	1	'licence plate code'@en
+Q515	P395	"M"	1	'licence plate code'@en
+Q515	P395	"MM"	1	'licence plate code'@en
+Q515	P395	"NA"	1	'licence plate code'@en
+Q515	P395	"NB"	1	'licence plate code'@en
+Q515	P395	"NE"	1	'licence plate code'@en
+Q515	P395	"NH"	1	'licence plate code'@en
+Q515	P395	"NI"	1	'licence plate code'@en
+Q515	P395	"NK"	1	'licence plate code'@en
+Q515	P395	"NM"	1	'licence plate code'@en
+Q515	P395	"NN"	1	'licence plate code'@en
+Q515	P395	"NO"	1	'licence plate code'@en
+Q515	P395	"NP"	1	'licence plate code'@en
+Q515	P395	"NT"	1	'licence plate code'@en
+Q515	P395	"NX"	1	'licence plate code'@en
+Q515	P395	"NY"	1	'licence plate code'@en
+Q515	P395	"NZ"	1	'licence plate code'@en
+Q515	P395	"OA"	1	'licence plate code'@en
+Q515	P395	"TT"	1	'licence plate code'@en
+Q515	P395	"XE"	1	'licence plate code'@en
+Q515	P395	"XH"	1	'licence plate code'@en
+Q515	P395	"XP"	1	'licence plate code'@en
+Q515	P395	"XT"	1	'licence plate code'@en
+Q515	P395	"XX"	1	'licence plate code'@en
+Q515	P395	"XY"	1	'licence plate code'@en
+Q515	P395	"XZ"	1	'licence plate code'@en
+Q515	P395	"YA"	1	'licence plate code'@en
+Q515	P395	"YB"	1	'licence plate code'@en
+Q515	P395	"YE"	1	'licence plate code'@en
+Q515	P395	"YH"	1	'licence plate code'@en
+Q515	P395	"YZ"	1	'licence plate code'@en
+Q515	P395	"ZH"	1	'licence plate code'@en
+Q515	P395	"ZK"	1	'licence plate code'@en
+Q515	P395	"ZM"	1	'licence plate code'@en
+Q515	P395	"ZZ"	1	'licence plate code'@en
+Q515	P395	"ΑX"	1	'licence plate code'@en
+Q515	P473	"0341"	1	'local dialing code'@en
+Q515	P473	"089"	1	'local dialing code'@en
+Q515	P473	"210"	1	'local dialing code'@en
+Q515	P473	"2310"	1	'local dialing code'@en
+Q515	P473	"2531Χ"	1	'local dialing code'@en
+Q515	P473	"2610"	1	'local dialing code'@en
+Q515	P742	"Η νύμφη του Θερμαϊκού"	1	'pseudonym'@en
+Q515	P935	"Athens"	1	'Commons gallery'@en
+Q515	P935	"Komotini"	1	'Commons gallery'@en
+Q515	P935	"Leipzig"	1	'Commons gallery'@en
+Q515	P935	"München"	1	'Commons gallery'@en
+Q515	P935	"Patras"	1	'Commons gallery'@en
+Q515	P935	"Θεσσαλονίκη"	1	'Commons gallery'@en
+Q51576574	P3238	"0"	8	'trunk prefix'@en
+Q51576574	P3238	novalue	2	'trunk prefix'@en
+Q51576574	P1438	"11730"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q51576574	P2258	"202"	1	'mobile country code'@en
+Q51576574	P2258	"208"	1	'mobile country code'@en
+Q51576574	P2258	"214"	1	'mobile country code'@en
+Q51576574	P2258	"218"	1	'mobile country code'@en
+Q51576574	P2258	"219"	1	'mobile country code'@en
+Q51576574	P2258	"222"	1	'mobile country code'@en
+Q51576574	P2258	"276"	1	'mobile country code'@en
+Q51576574	P2258	"278"	1	'mobile country code'@en
+Q51576574	P2258	"280"	1	'mobile country code'@en
+Q51576574	P2258	"286"	1	'mobile country code'@en
+Q51576574	P2258	"297"	1	'mobile country code'@en
+Q51576574	P2258	"415"	1	'mobile country code'@en
+Q51576574	P2258	"425"	1	'mobile country code'@en
+Q51576574	P2258	"605"	1	'mobile country code'@en
+Q51576574	P2572	"greece"	1	'hashtag'@en
+Q51576574	P2979	"201"	1	'maritime identification digits'@en
+Q51576574	P2979	"209"	1	'maritime identification digits'@en
+Q51576574	P2979	"210"	1	'maritime identification digits'@en
+Q51576574	P2979	"212"	1	'maritime identification digits'@en
+Q51576574	P2979	"215"	1	'maritime identification digits'@en
+Q51576574	P2979	"224"	1	'maritime identification digits'@en
+Q51576574	P2979	"225"	1	'maritime identification digits'@en
+Q51576574	P2979	"226"	1	'maritime identification digits'@en
+Q51576574	P2979	"227"	1	'maritime identification digits'@en
+Q51576574	P2979	"228"	1	'maritime identification digits'@en
+Q51576574	P2979	"229"	1	'maritime identification digits'@en
+Q51576574	P2979	"237"	1	'maritime identification digits'@en
+Q51576574	P2979	"238"	1	'maritime identification digits'@en
+Q51576574	P2979	"239"	1	'maritime identification digits'@en
+Q51576574	P2979	"240"	1	'maritime identification digits'@en
+Q51576574	P2979	"241"	1	'maritime identification digits'@en
+Q51576574	P2979	"247"	1	'maritime identification digits'@en
+Q51576574	P2979	"248"	1	'maritime identification digits'@en
+Q51576574	P2979	"249"	1	'maritime identification digits'@en
+Q51576574	P2979	"256"	1	'maritime identification digits'@en
+Q51576574	P2979	"262"	1	'maritime identification digits'@en
+Q51576574	P2979	"271"	1	'maritime identification digits'@en
+Q51576574	P2979	"428"	1	'maritime identification digits'@en
+Q51576574	P2979	"450"	1	'maritime identification digits'@en
+Q51576574	P2979	"478"	1	'maritime identification digits'@en
+Q51576574	P2979	"672"	1	'maritime identification digits'@en
+Q51576574	P3067	"300-379"	1	'GS1 country code'@en
+Q51576574	P3067	"385"	1	'GS1 country code'@en
+Q51576574	P3067	"387"	1	'GS1 country code'@en
+Q51576574	P3067	"389"	1	'GS1 country code'@en
+Q51576574	P3067	"520"	1	'GS1 country code'@en
+Q51576574	P3067	"521"	1	'GS1 country code'@en
+Q51576574	P3067	"528"	1	'GS1 country code'@en
+Q51576574	P3067	"529"	1	'GS1 country code'@en
+Q51576574	P3067	"530"	1	'GS1 country code'@en
+Q51576574	P3067	"535"	1	'GS1 country code'@en
+Q51576574	P3067	"619"	1	'GS1 country code'@en
+Q51576574	P3067	"729"	1	'GS1 country code'@en
+Q51576574	P3067	"800-839"	1	'GS1 country code'@en
+Q51576574	P3067	"840-849"	1	'GS1 country code'@en
+Q51576574	P3067	"868-869"	1	'GS1 country code'@en
+Q51576574	P3238	"00"	1	'trunk prefix'@en
+Q51576574	P373	"Albania"	1	'Commons category'@en
+Q51576574	P373	"Bosnia and Herzegovina"	1	'Commons category'@en
+Q51576574	P373	"Croatia"	1	'Commons category'@en
+Q51576574	P373	"Cyprus"	1	'Commons category'@en
+Q51576574	P373	"France"	1	'Commons category'@en
+Q51576574	P373	"Greece"	1	'Commons category'@en
+Q51576574	P373	"Israel"	1	'Commons category'@en
+Q51576574	P373	"Italy"	1	'Commons category'@en
+Q51576574	P373	"Lebanon"	1	'Commons category'@en
+Q51576574	P373	"Malta"	1	'Commons category'@en
+Q51576574	P373	"Montenegro"	1	'Commons category'@en
+Q51576574	P373	"Spain"	1	'Commons category'@en
+Q51576574	P373	"Tunisia"	1	'Commons category'@en
+Q51576574	P373	"Turkey"	1	'Commons category'@en
+Q51576574	P395	"AL"	1	'licence plate code'@en
+Q51576574	P395	"BIH"	1	'licence plate code'@en
+Q51576574	P395	"CY"	1	'licence plate code'@en
+Q51576574	P395	"E"	1	'licence plate code'@en
+Q51576574	P395	"F"	1	'licence plate code'@en
+Q51576574	P395	"GR"	1	'licence plate code'@en
+Q51576574	P395	"HR"	1	'licence plate code'@en
+Q51576574	P395	"I"	1	'licence plate code'@en
+Q51576574	P395	"IL"	1	'licence plate code'@en
+Q51576574	P395	"M"	1	'licence plate code'@en
+Q51576574	P395	"MNE"	1	'licence plate code'@en
+Q51576574	P395	"RL"	1	'licence plate code'@en
+Q51576574	P395	"TN"	1	'licence plate code'@en
+Q51576574	P395	"TR"	1	'licence plate code'@en
+Q51576574	P474	"+216"	1	'country calling code'@en
+Q51576574	P474	"+30"	1	'country calling code'@en
+Q51576574	P474	"+33"	1	'country calling code'@en
+Q51576574	P474	"+34"	1	'country calling code'@en
+Q51576574	P474	"+355"	1	'country calling code'@en
+Q51576574	P474	"+356"	1	'country calling code'@en
+Q51576574	P474	"+357"	1	'country calling code'@en
+Q51576574	P474	"+382"	1	'country calling code'@en
+Q51576574	P474	"+385"	1	'country calling code'@en
+Q51576574	P474	"+387"	1	'country calling code'@en
+Q51576574	P474	"+39"	1	'country calling code'@en
+Q51576574	P474	"+90"	1	'country calling code'@en
+Q51576574	P474	"+961"	1	'country calling code'@en
+Q51576574	P474	"+972"	1	'country calling code'@en
+Q51576574	P487	"🇦🇱"	1	'Unicode character'@en
+Q51576574	P487	"🇧🇦"	1	'Unicode character'@en
+Q51576574	P487	"🇨🇾"	1	'Unicode character'@en
+Q51576574	P487	"🇪🇸"	1	'Unicode character'@en
+Q51576574	P487	"🇫🇷"	1	'Unicode character'@en
+Q51576574	P487	"🇬🇷"	1	'Unicode character'@en
+Q51576574	P487	"🇭🇷"	1	'Unicode character'@en
+Q51576574	P487	"🇮🇱"	1	'Unicode character'@en
+Q51576574	P487	"🇮🇹"	1	'Unicode character'@en
+Q51576574	P487	"🇱🇧"	1	'Unicode character'@en
+Q51576574	P487	"🇲🇪"	1	'Unicode character'@en
+Q51576574	P487	"🇲🇹"	1	'Unicode character'@en
+Q51576574	P487	"🇹🇳"	1	'Unicode character'@en
+Q51576574	P487	"🇹🇷"	1	'Unicode character'@en
+Q51576574	P898	"\\\\\\\\'liːbɑnɔn"	1	'IPA transcription'@en
+Q51576574	P898	"bôsna i xěrtseɡoʋina"	1	'IPA transcription'@en
+Q51576574	P898	"esˈpaɲa"	1	'IPA transcription'@en
+Q51576574	P898	"fʁɑ̃s"	1	'IPA transcription'@en
+Q51576574	P898	"iˈtalja"	1	'IPA transcription'@en
+Q51576574	P898	"jisʁaˈʔel"	1	'IPA transcription'@en
+Q51576574	P898	"kɾuːˈɑtsɪɑ"	1	'IPA transcription'@en
+Q51576574	P898	"kʲipr"	1	'IPA transcription'@en
+Q51576574	P898	"mɔntəˈneːgɾu"	1	'IPA transcription'@en
+Q51576574	P898	"tʉ\\\\\\\\'niːsɪɑ"	1	'IPA transcription'@en
+Q51576574	P898	"t͡sr̩̂ːnaː ɡɔ̌ra"	1	'IPA transcription'@en
+Q51576574	P898	"t͡ɕɪrnɐˈɡorʲɪjə"	1	'IPA transcription'@en
+Q51576574	P898	"xř̩ʋaːtskaː"	1	'IPA transcription'@en
+Q51576574	P898	"xɐrˈvatʲɪjə"	1	'IPA transcription'@en
+Q51576574	P898	"ɐlˈbanʲɪjə"	1	'IPA transcription'@en
+Q51576574	P898	"ɑlˈbɑːnɪɑ"	1	'IPA transcription'@en
+Q51576574	P898	"ɪˈspanʲɪjə"	1	'IPA transcription'@en
+Q51576574	P898	"ɪˈtalʲɪjə"	1	'IPA transcription'@en
+Q51576574	P898	"ɪˈtɑːlɪɑ"	1	'IPA transcription'@en
+Q51576574	P898	"ɾɛpuˈblika ɛ ʃcipəˈɾiːs"	1	'IPA transcription'@en
+Q51576574	P898	"ˈbos⁽ʲ⁾nʲɪjə ɪɡʲɪrt͡sɨɡɐˈvʲinə"	1	'IPA transcription'@en
+Q51576574	P898	"ˈbɔsnɪɑ hæʈsəˈgoːʋɪnɑ"	1	'IPA transcription'@en
+Q51576574	P898	"ˈcipros"	1	'IPA transcription'@en
+Q51576574	P898	"ˈfɾɑŋkɾiːkə"	1	'IPA transcription'@en
+Q51576574	P898	"ˈhɛlɑs"	1	'IPA transcription'@en
+Q51576574	P898	"ˈiːsɾɑɛl"	1	'IPA transcription'@en
+Q51576574	P898	"ˈkyːpɾɔs"	1	'IPA transcription'@en
+Q51576574	P898	"ˈkɯbɾɯs"	1	'IPA transcription'@en
+Q51576574	P898	"ˈmalʲtə"	1	'IPA transcription'@en
+Q51576574	P898	"ˈmɐltɐ"	1	'IPA transcription'@en
+Q51576574	P898	"ˈmɑltɑ"	1	'IPA transcription'@en
+Q51576574	P898	"ˈmɒltə"	1	'IPA transcription'@en
+Q51576574	P898	"ˈspeɪn"	1	'IPA transcription'@en
+Q51576574	P898	"ˈspɑːnɪɑ"	1	'IPA transcription'@en
+Q51576574	P898	"ˈtʏɾkɪɑ"	1	'IPA transcription'@en
+Q51576574	P898	"ˈɡrʲet͡sɨjə"	1	'IPA transcription'@en
+Q51576574	P898	"ˈɪzreɪəl"	1	'IPA transcription'@en
+Q51576574	P935	"Bosna i Hercegovina / Босна и Херцеговина"	1	'Commons gallery'@en
+Q51576574	P935	"España"	1	'Commons gallery'@en
+Q51576574	P935	"France"	1	'Commons gallery'@en
+Q51576574	P935	"Hrvatska"	1	'Commons gallery'@en
+Q51576574	P935	"Israel"	1	'Commons gallery'@en
+Q51576574	P935	"Italia"	1	'Commons gallery'@en
+Q51576574	P935	"Malta"	1	'Commons gallery'@en
+Q51576574	P935	"Shqipëria"	1	'Commons gallery'@en
+Q51576574	P935	"Türkiye"	1	'Commons gallery'@en
+Q51576574	P935	"Ελλάδα"	1	'Commons gallery'@en
+Q51576574	P935	"Κύπρος - Kıbrıs"	1	'Commons gallery'@en
+Q51576574	P935	"Црна Гора / Crna Gora"	1	'Commons gallery'@en
+Q51576574	P935	"تونس"	1	'Commons gallery'@en
+Q51576574	P935	"لبنان"	1	'Commons gallery'@en
+Q5255892	P2258	"310"	1	'mobile country code'@en
+Q5255892	P2258	"311"	1	'mobile country code'@en
+Q5255892	P2258	"312"	1	'mobile country code'@en
+Q5255892	P2258	"313"	1	'mobile country code'@en
+Q5255892	P2258	"316"	1	'mobile country code'@en
+Q5255892	P2979	"338"	1	'maritime identification digits'@en
+Q5255892	P2979	"366"	1	'maritime identification digits'@en
+Q5255892	P2979	"367"	1	'maritime identification digits'@en
+Q5255892	P2979	"368"	1	'maritime identification digits'@en
+Q5255892	P2979	"369"	1	'maritime identification digits'@en
+Q5255892	P3067	"000-139"	1	'GS1 country code'@en
+Q5255892	P373	"United States"	1	'Commons category'@en
+Q5255892	P395	"USA"	1	'licence plate code'@en
+Q5255892	P474	"+1"	1	'country calling code'@en
+Q5255892	P487	"🇺🇸"	1	'Unicode character'@en
+Q5255892	P898	"ʉːɛˈsɑː"	1	'IPA transcription'@en
+Q5255892	P935	"United States"	1	'Commons gallery'@en
+Q532	P281	"5121"	1	'postal code'@en
+Q532	P373	"Fucking, Austria"	1	'Commons category'@en
+Q532	P473	"06278"	1	'local dialing code'@en
+Q5464477	P373	"Santa Claus"	1	'Commons category'@en
+Q5464477	P487	"🎅"	1	'Unicode character'@en
+Q5464477	P935	"Santa Claus"	1	'Commons gallery'@en
+Q54935504	P281	"6969"	1	'postal code'@en
+Q54935504	P373	"Chur"	1	'Commons category'@en
+Q54935504	P395	"GR"	1	'licence plate code'@en
+Q54935504	P473	"081"	1	'local dialing code'@en
+Q54935504	P935	"Chur"	1	'Commons gallery'@en
+Q56061	P2258	"400"	1	'mobile country code'@en
+Q56061	P2979	"423"	1	'maritime identification digits'@en
+Q56061	P3067	"476"	1	'GS1 country code'@en
+Q56061	P3238	"8"	1	'trunk prefix'@en
+Q56061	P373	"Azerbaijan"	1	'Commons category'@en
+Q56061	P395	"AZ"	1	'licence plate code'@en
+Q56061	P474	"+994"	1	'country calling code'@en
+Q56061	P487	"🇦🇿"	1	'Unicode character'@en
+Q56061	P898	"ɑsəɾbɑjdˈʂɑːn"	1	'IPA transcription'@en
+Q56061	P898	"ɑːzæɾbɑjˈd͡ʒɑn"	1	'IPA transcription'@en
+Q56061	P935	"Azərbaycan"	1	'Commons gallery'@en
+Q5852411	P373	"Tasmania"	1	'Commons category'@en
+Q5852411	P473	"03"	1	'local dialing code'@en
+Q5852411	P935	"Tasmania"	1	'Commons gallery'@en
+Q587089	P281	"9400"	1	'postal code'@en
+Q587089	P373	"Sopron"	1	'Commons category'@en
+Q587089	P473	"99"	1	'local dialing code'@en
+Q587089	P898	"ˈʃopron"	1	'IPA transcription'@en
+Q587089	P935	"Sopron"	1	'Commons gallery'@en
+Q61708099	P1438	"12407"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q61708099	P238	"LEJ"	1	'IATA airport code'@en
+Q61708099	P281	"04003"	1	'postal code'@en
+Q61708099	P281	"04105"	1	'postal code'@en
+Q61708099	P281	"04109"	1	'postal code'@en
+Q61708099	P281	"04155"	1	'postal code'@en
+Q61708099	P281	"04157"	1	'postal code'@en
+Q61708099	P281	"04159"	1	'postal code'@en
+Q61708099	P281	"04229"	1	'postal code'@en
+Q61708099	P281	"04275"	1	'postal code'@en
+Q61708099	P281	"04317"	1	'postal code'@en
+Q61708099	P281	"04357"	1	'postal code'@en
+Q61708099	P373	"Leipzig"	1	'Commons category'@en
+Q61708099	P395	"L"	1	'licence plate code'@en
+Q61708099	P473	"0341"	1	'local dialing code'@en
+Q61708099	P935	"Leipzig"	1	'Commons gallery'@en
+Q619610	P3238	"0"	2	'trunk prefix'@en
+Q619610	P3238	"8"	2	'trunk prefix'@en
+Q619610	P2258	"222"	1	'mobile country code'@en
+Q619610	P2258	"250"	1	'mobile country code'@en
+Q619610	P2258	"255"	1	'mobile country code'@en
+Q619610	P2258	"257"	1	'mobile country code'@en
+Q619610	P2258	"262"	1	'mobile country code'@en
+Q619610	P2572	"Deutschland"	1	'hashtag'@en
+Q619610	P2572	"україна"	1	'hashtag'@en
+Q619610	P2979	"206"	1	'maritime identification digits'@en
+Q619610	P2979	"211"	1	'maritime identification digits'@en
+Q619610	P2979	"218"	1	'maritime identification digits'@en
+Q619610	P2979	"247"	1	'maritime identification digits'@en
+Q619610	P2979	"272"	1	'maritime identification digits'@en
+Q619610	P2979	"273"	1	'maritime identification digits'@en
+Q619610	P3067	"400-440"	1	'GS1 country code'@en
+Q619610	P3067	"460-469"	1	'GS1 country code'@en
+Q619610	P3067	"481"	1	'GS1 country code'@en
+Q619610	P3067	"482"	1	'GS1 country code'@en
+Q619610	P3067	"800-839"	1	'GS1 country code'@en
+Q619610	P3238	novalue	1	'trunk prefix'@en
+Q619610	P373	"Belarus"	1	'Commons category'@en
+Q619610	P373	"Germany"	1	'Commons category'@en
+Q619610	P373	"Italy"	1	'Commons category'@en
+Q619610	P373	"Russia"	1	'Commons category'@en
+Q619610	P373	"Ukraine"	1	'Commons category'@en
+Q619610	P395	"BLR"	1	'licence plate code'@en
+Q619610	P395	"D"	1	'licence plate code'@en
+Q619610	P395	"I"	1	'licence plate code'@en
+Q619610	P395	"RUS"	1	'licence plate code'@en
+Q619610	P395	"UA"	1	'licence plate code'@en
+Q619610	P474	"+375"	1	'country calling code'@en
+Q619610	P474	"+380"	1	'country calling code'@en
+Q619610	P474	"+39"	1	'country calling code'@en
+Q619610	P474	"+49"	1	'country calling code'@en
+Q619610	P474	"+7"	1	'country calling code'@en
+Q619610	P487	"🇧🇾"	1	'Unicode character'@en
+Q619610	P487	"🇩🇪"	1	'Unicode character'@en
+Q619610	P487	"🇮🇹"	1	'Unicode character'@en
+Q619610	P487	"🇷🇺"	1	'Unicode character'@en
+Q619610	P487	"🇺🇦"	1	'Unicode character'@en
+Q619610	P898	"bʲɛlaˈrusʲ"	1	'IPA transcription'@en
+Q619610	P898	"bʲɛɫ̪äˈrus̪ʲ"	1	'IPA transcription'@en
+Q619610	P898	"iˈtalja"	1	'IPA transcription'@en
+Q619610	P898	"rɐˈsʲijə"	1	'IPA transcription'@en
+Q619610	P898	"y.kʁɛn"	1	'IPA transcription'@en
+Q619610	P898	"ɪˈtalʲɪjə"	1	'IPA transcription'@en
+Q619610	P898	"ɪˈtɑːlɪɑ"	1	'IPA transcription'@en
+Q619610	P898	"ʉkɾɑˈiːnɑ"	1	'IPA transcription'@en
+Q619610	P898	"ʊkrɐˈjɪn̪ɐ"	1	'IPA transcription'@en
+Q619610	P898	"ʔukʁaˈiːnə"	1	'IPA transcription'@en
+Q619610	P898	"ˈdɔɪ̯ʧlant"	1	'IPA transcription'@en
+Q619610	P898	"ˈtʏsklɑn"	1	'IPA transcription'@en
+Q619610	P898	"ˈɾʉslɑn"	1	'IPA transcription'@en
+Q619610	P898	"ˈɾʉʂlɑn"	1	'IPA transcription'@en
+Q619610	P898	"ˈʋiːtərʉslɑn"	1	'IPA transcription'@en
+Q619610	P898	"ˈʋiːtərʉʂlɑn"	1	'IPA transcription'@en
+Q619610	P935	"Deutschland"	1	'Commons gallery'@en
+Q619610	P935	"Italia"	1	'Commons gallery'@en
+Q619610	P935	"Беларусь"	1	'Commons gallery'@en
+Q619610	P935	"Россия"	1	'Commons gallery'@en
+Q619610	P935	"Україна"	1	'Commons gallery'@en
+Q6256	P3238	"0"	12	'trunk prefix'@en
+Q6256	P3238	novalue	6	'trunk prefix'@en
+Q6256	P3238	"8"	3	'trunk prefix'@en
+Q6256	P2258	"204"	1	'mobile country code'@en
+Q6256	P2258	"206"	1	'mobile country code'@en
+Q6256	P2258	"213"	1	'mobile country code'@en
+Q6256	P2258	"230"	1	'mobile country code'@en
+Q6256	P2258	"232"	1	'mobile country code'@en
+Q6256	P2258	"234"	1	'mobile country code'@en
+Q6256	P2258	"235"	1	'mobile country code'@en
+Q6256	P2258	"240"	1	'mobile country code'@en
+Q6256	P2258	"244"	1	'mobile country code'@en
+Q6256	P2258	"248"	1	'mobile country code'@en
+Q6256	P2258	"250"	1	'mobile country code'@en
+Q6256	P2258	"255"	1	'mobile country code'@en
+Q6256	P2258	"257"	1	'mobile country code'@en
+Q6256	P2258	"260"	1	'mobile country code'@en
+Q6256	P2258	"268"	1	'mobile country code'@en
+Q6256	P2258	"274"	1	'mobile country code'@en
+Q6256	P2258	"278"	1	'mobile country code'@en
+Q6256	P2258	"282"	1	'mobile country code'@en
+Q6256	P2258	"284"	1	'mobile country code'@en
+Q6256	P2258	"286"	1	'mobile country code'@en
+Q6256	P2258	"302"	1	'mobile country code'@en
+Q6256	P2258	"400"	1	'mobile country code'@en
+Q6256	P2258	"456"	1	'mobile country code'@en
+Q6256	P2258	"605"	1	'mobile country code'@en
+Q6256	P2258	"617"	1	'mobile country code'@en
+Q6256	P2258	"655"	1	'mobile country code'@en
+Q6256	P2572	"україна"	1	'hashtag'@en
+Q6256	P2979	"202"	1	'maritime identification digits'@en
+Q6256	P2979	"203"	1	'maritime identification digits'@en
+Q6256	P2979	"205"	1	'maritime identification digits'@en
+Q6256	P2979	"206"	1	'maritime identification digits'@en
+Q6256	P2979	"207"	1	'maritime identification digits'@en
+Q6256	P2979	"213"	1	'maritime identification digits'@en
+Q6256	P2979	"215"	1	'maritime identification digits'@en
+Q6256	P2979	"229"	1	'maritime identification digits'@en
+Q6256	P2979	"230"	1	'maritime identification digits'@en
+Q6256	P2979	"232"	1	'maritime identification digits'@en
+Q6256	P2979	"233"	1	'maritime identification digits'@en
+Q6256	P2979	"234"	1	'maritime identification digits'@en
+Q6256	P2979	"235"	1	'maritime identification digits'@en
+Q6256	P2979	"248"	1	'maritime identification digits'@en
+Q6256	P2979	"249"	1	'maritime identification digits'@en
+Q6256	P2979	"251"	1	'maritime identification digits'@en
+Q6256	P2979	"256"	1	'maritime identification digits'@en
+Q6256	P2979	"261"	1	'maritime identification digits'@en
+Q6256	P2979	"263"	1	'maritime identification digits'@en
+Q6256	P2979	"265"	1	'maritime identification digits'@en
+Q6256	P2979	"266"	1	'maritime identification digits'@en
+Q6256	P2979	"270"	1	'maritime identification digits'@en
+Q6256	P2979	"271"	1	'maritime identification digits'@en
+Q6256	P2979	"272"	1	'maritime identification digits'@en
+Q6256	P2979	"273"	1	'maritime identification digits'@en
+Q6256	P2979	"276"	1	'maritime identification digits'@en
+Q6256	P2979	"316"	1	'maritime identification digits'@en
+Q6256	P2979	"423"	1	'maritime identification digits'@en
+Q6256	P2979	"514"	1	'maritime identification digits'@en
+Q6256	P2979	"515"	1	'maritime identification digits'@en
+Q6256	P2979	"601"	1	'maritime identification digits'@en
+Q6256	P2979	"645"	1	'maritime identification digits'@en
+Q6256	P2979	"672"	1	'maritime identification digits'@en
+Q6256	P3067	"000-019"	1	'GS1 country code'@en
+Q6256	P3067	"060-099"	1	'GS1 country code'@en
+Q6256	P3067	"380"	1	'GS1 country code'@en
+Q6256	P3067	"390"	1	'GS1 country code'@en
+Q6256	P3067	"460-469"	1	'GS1 country code'@en
+Q6256	P3067	"474"	1	'GS1 country code'@en
+Q6256	P3067	"476"	1	'GS1 country code'@en
+Q6256	P3067	"481"	1	'GS1 country code'@en
+Q6256	P3067	"482"	1	'GS1 country code'@en
+Q6256	P3067	"486"	1	'GS1 country code'@en
+Q6256	P3067	"500-509"	1	'GS1 country code'@en
+Q6256	P3067	"535"	1	'GS1 country code'@en
+Q6256	P3067	"540-549"	1	'GS1 country code'@en
+Q6256	P3067	"560"	1	'GS1 country code'@en
+Q6256	P3067	"569"	1	'GS1 country code'@en
+Q6256	P3067	"590"	1	'GS1 country code'@en
+Q6256	P3067	"600-601"	1	'GS1 country code'@en
+Q6256	P3067	"609"	1	'GS1 country code'@en
+Q6256	P3067	"619"	1	'GS1 country code'@en
+Q6256	P3067	"640-649"	1	'GS1 country code'@en
+Q6256	P3067	"730-739"	1	'GS1 country code'@en
+Q6256	P3067	"754-755"	1	'GS1 country code'@en
+Q6256	P3067	"840-849"	1	'GS1 country code'@en
+Q6256	P3067	"859"	1	'GS1 country code'@en
+Q6256	P3067	"868-869"	1	'GS1 country code'@en
+Q6256	P3067	"870-879"	1	'GS1 country code'@en
+Q6256	P3067	"884"	1	'GS1 country code'@en
+Q6256	P3067	"900-919"	1	'GS1 country code'@en
+Q6256	P3238	"00"	1	'trunk prefix'@en
+Q6256	P3238	"1"	1	'trunk prefix'@en
+Q6256	P373	"Andorra"	1	'Commons category'@en
+Q6256	P373	"Austria"	1	'Commons category'@en
+Q6256	P373	"Azerbaijan"	1	'Commons category'@en
+Q6256	P373	"Belarus"	1	'Commons category'@en
+Q6256	P373	"Belgium"	1	'Commons category'@en
+Q6256	P373	"Bulgaria"	1	'Commons category'@en
+Q6256	P373	"Cambodia"	1	'Commons category'@en
+Q6256	P373	"Canada"	1	'Commons category'@en
+Q6256	P373	"Czech Republic"	1	'Commons category'@en
+Q6256	P373	"Estonia"	1	'Commons category'@en
+Q6256	P373	"Finland"	1	'Commons category'@en
+Q6256	P373	"Georgia"	1	'Commons category'@en
+Q6256	P373	"Iceland"	1	'Commons category'@en
+Q6256	P373	"Kosovo"	1	'Commons category'@en
+Q6256	P373	"Malta"	1	'Commons category'@en
+Q6256	P373	"Mauritius"	1	'Commons category'@en
+Q6256	P373	"Netherlands"	1	'Commons category'@en
+Q6256	P373	"Poland"	1	'Commons category'@en
+Q6256	P373	"Portugal"	1	'Commons category'@en
+Q6256	P373	"Russia"	1	'Commons category'@en
+Q6256	P373	"South Africa"	1	'Commons category'@en
+Q6256	P373	"Sweden"	1	'Commons category'@en
+Q6256	P373	"Tunisia"	1	'Commons category'@en
+Q6256	P373	"Turkey"	1	'Commons category'@en
+Q6256	P373	"Ukraine"	1	'Commons category'@en
+Q6256	P373	"United Kingdom"	1	'Commons category'@en
+Q6256	P395	"A"	1	'licence plate code'@en
+Q6256	P395	"AND"	1	'licence plate code'@en
+Q6256	P395	"AZ"	1	'licence plate code'@en
+Q6256	P395	"B"	1	'licence plate code'@en
+Q6256	P395	"BG"	1	'licence plate code'@en
+Q6256	P395	"BLR"	1	'licence plate code'@en
+Q6256	P395	"CDN"	1	'licence plate code'@en
+Q6256	P395	"CZ"	1	'licence plate code'@en
+Q6256	P395	"EST"	1	'licence plate code'@en
+Q6256	P395	"FIN"	1	'licence plate code'@en
+Q6256	P395	"GB"	1	'licence plate code'@en
+Q6256	P395	"GE"	1	'licence plate code'@en
+Q6256	P395	"IS"	1	'licence plate code'@en
+Q6256	P395	"K"	1	'licence plate code'@en
+Q6256	P395	"M"	1	'licence plate code'@en
+Q6256	P395	"MS"	1	'licence plate code'@en
+Q6256	P395	"NL"	1	'licence plate code'@en
+Q6256	P395	"P"	1	'licence plate code'@en
+Q6256	P395	"PL"	1	'licence plate code'@en
+Q6256	P395	"RUS"	1	'licence plate code'@en
+Q6256	P395	"S"	1	'licence plate code'@en
+Q6256	P395	"TN"	1	'licence plate code'@en
+Q6256	P395	"TR"	1	'licence plate code'@en
+Q6256	P395	"UA"	1	'licence plate code'@en
+Q6256	P395	"ZA"	1	'licence plate code'@en
+Q6256	P474	"+1"	1	'country calling code'@en
+Q6256	P474	"+216"	1	'country calling code'@en
+Q6256	P474	"+230"	1	'country calling code'@en
+Q6256	P474	"+27"	1	'country calling code'@en
+Q6256	P474	"+31"	1	'country calling code'@en
+Q6256	P474	"+32"	1	'country calling code'@en
+Q6256	P474	"+351"	1	'country calling code'@en
+Q6256	P474	"+354"	1	'country calling code'@en
+Q6256	P474	"+356"	1	'country calling code'@en
+Q6256	P474	"+358"	1	'country calling code'@en
+Q6256	P474	"+359"	1	'country calling code'@en
+Q6256	P474	"+372"	1	'country calling code'@en
+Q6256	P474	"+375"	1	'country calling code'@en
+Q6256	P474	"+376"	1	'country calling code'@en
+Q6256	P474	"+380"	1	'country calling code'@en
+Q6256	P474	"+383"	1	'country calling code'@en
+Q6256	P474	"+420"	1	'country calling code'@en
+Q6256	P474	"+43"	1	'country calling code'@en
+Q6256	P474	"+44"	1	'country calling code'@en
+Q6256	P474	"+46"	1	'country calling code'@en
+Q6256	P474	"+48"	1	'country calling code'@en
+Q6256	P474	"+599"	1	'country calling code'@en
+Q6256	P474	"+7"	1	'country calling code'@en
+Q6256	P474	"+855"	1	'country calling code'@en
+Q6256	P474	"+90"	1	'country calling code'@en
+Q6256	P474	"+994"	1	'country calling code'@en
+Q6256	P474	"+995"	1	'country calling code'@en
+Q6256	P487	"🇦🇩"	1	'Unicode character'@en
+Q6256	P487	"🇦🇹"	1	'Unicode character'@en
+Q6256	P487	"🇦🇿"	1	'Unicode character'@en
+Q6256	P487	"🇧🇪"	1	'Unicode character'@en
+Q6256	P487	"🇧🇬"	1	'Unicode character'@en
+Q6256	P487	"🇧🇾"	1	'Unicode character'@en
+Q6256	P487	"🇨🇦"	1	'Unicode character'@en
+Q6256	P487	"🇨🇿"	1	'Unicode character'@en
+Q6256	P487	"🇪🇪"	1	'Unicode character'@en
+Q6256	P487	"🇫🇮"	1	'Unicode character'@en
+Q6256	P487	"🇬🇧"	1	'Unicode character'@en
+Q6256	P487	"🇬🇪"	1	'Unicode character'@en
+Q6256	P487	"🇮🇸"	1	'Unicode character'@en
+Q6256	P487	"🇰🇭"	1	'Unicode character'@en
+Q6256	P487	"🇲🇹"	1	'Unicode character'@en
+Q6256	P487	"🇲🇺"	1	'Unicode character'@en
+Q6256	P487	"🇳🇱"	1	'Unicode character'@en
+Q6256	P487	"🇵🇱"	1	'Unicode character'@en
+Q6256	P487	"🇵🇹"	1	'Unicode character'@en
+Q6256	P487	"🇷🇺"	1	'Unicode character'@en
+Q6256	P487	"🇸🇪"	1	'Unicode character'@en
+Q6256	P487	"🇹🇳"	1	'Unicode character'@en
+Q6256	P487	"🇹🇷"	1	'Unicode character'@en
+Q6256	P487	"🇺🇦"	1	'Unicode character'@en
+Q6256	P487	"🇽🇰"	1	'Unicode character'@en
+Q6256	P487	"🇿🇦"	1	'Unicode character'@en
+Q6256	P898	"bɐlˈɡarʲɪjə"	1	'IPA transcription'@en
+Q6256	P898	"bɛl.ʒik"	1	'IPA transcription'@en
+Q6256	P898	"bʉlˈgɑːɾɪɑ"	1	'IPA transcription'@en
+Q6256	P898	"bʲɛlaˈrusʲ"	1	'IPA transcription'@en
+Q6256	P898	"bʲɛɫ̪äˈrus̪ʲ"	1	'IPA transcription'@en
+Q6256	P898	"gɛˈɔɾgjɑ"	1	'IPA transcription'@en
+Q6256	P898	"jʊ̈nai̯tɘd kɪŋɡdə̯m"	1	'IPA transcription'@en
+Q6256	P898	"kanadɑ"	1	'IPA transcription'@en
+Q6256	P898	"kɑmˈbɔtʂɔ"	1	'IPA transcription'@en
+Q6256	P898	"mæʉ\\\\\\\\'ɾɪtsɪʉs"	1	'IPA transcription'@en
+Q6256	P898	"puɾtuˈɣaɫ"	1	'IPA transcription'@en
+Q6256	P898	"puʈʉˈgɑːl"	1	'IPA transcription'@en
+Q6256	P898	"pərtʊˈɡalʲɪjə"	1	'IPA transcription'@en
+Q6256	P898	"rɐˈsʲijə"	1	'IPA transcription'@en
+Q6256	P898	"rɛˈpublikɐ bɤ̞lˈɡarijɐ"	1	'IPA transcription'@en
+Q6256	P898	"tʉ\\\\\\\\'niːsɪɑ"	1	'IPA transcription'@en
+Q6256	P898	"vʲɪlʲɪkəbrʲɪˈtanʲɪj"	1	'IPA transcription'@en
+Q6256	P898	"y.kʁɛn"	1	'IPA transcription'@en
+Q6256	P898	"ɐnˈdorːə"	1	'IPA transcription'@en
+Q6256	P898	"ɑnˈdɔɾɑ"	1	'IPA transcription'@en
+Q6256	P898	"ɑsəɾbɑjdˈʂɑːn"	1	'IPA transcription'@en
+Q6256	P898	"ɑːzæɾbɑjˈd͡ʒɑn"	1	'IPA transcription'@en
+Q6256	P898	"ənˈdɔ.rə"	1	'IPA transcription'@en
+Q6256	P898	"ɛˈstonʲɪjə"	1	'IPA transcription'@en
+Q6256	P898	"ɪˈslanʲdʲɪjə"	1	'IPA transcription'@en
+Q6256	P898	"ɪˈslan⁽ʲ⁾dʲɪjə"	1	'IPA transcription'@en
+Q6256	P898	"ʉkɾɑˈiːnɑ"	1	'IPA transcription'@en
+Q6256	P898	"ʊkrɐˈjɪn̪ɐ"	1	'IPA transcription'@en
+Q6256	P898	"ʔukʁaˈiːnə"	1	'IPA transcription'@en
+Q6256	P898	"ˈbɛlgɪɑ"	1	'IPA transcription'@en
+Q6256	P898	"ˈbʲelʲɡʲɪjə"	1	'IPA transcription'@en
+Q6256	P898	"ˈeːsti"	1	'IPA transcription'@en
+Q6256	P898	"ˈfɪnlɑn"	1	'IPA transcription'@en
+Q6256	P898	"ˈislant"	1	'IPA transcription'@en
+Q6256	P898	"ˈiːslɑn"	1	'IPA transcription'@en
+Q6256	P898	"ˈkænədə"	1	'IPA transcription'@en
+Q6256	P898	"ˈkɑnɑdɑ"	1	'IPA transcription'@en
+Q6256	P898	"ˈmalʲtə"	1	'IPA transcription'@en
+Q6256	P898	"ˈmɐltɐ"	1	'IPA transcription'@en
+Q6256	P898	"ˈmɑltɑ"	1	'IPA transcription'@en
+Q6256	P898	"ˈmɒltə"	1	'IPA transcription'@en
+Q6256	P898	"ˈneːdəɭɑn"	1	'IPA transcription'@en
+Q6256	P898	"ˈpuːln̩"	1	'IPA transcription'@en
+Q6256	P898	"ˈpɔlska"	1	'IPA transcription'@en
+Q6256	P898	"ˈstuɾbɾɪtɑːnɪɑ"	1	'IPA transcription'@en
+Q6256	P898	"ˈsuo̯mi"	1	'IPA transcription'@en
+Q6256	P898	"ˈsvɛːrjɛ"	1	'IPA transcription'@en
+Q6256	P898	"ˈsøːɾɑfɾɪkɑ"	1	'IPA transcription'@en
+Q6256	P898	"ˈsʋæɾjə"	1	'IPA transcription'@en
+Q6256	P898	"ˈtʂɛkɪɑ"	1	'IPA transcription'@en
+Q6256	P898	"ˈtʏɾkɪɑ"	1	'IPA transcription'@en
+Q6256	P898	"ˈt͡ʃɛsko"	1	'IPA transcription'@en
+Q6256	P898	"ˈœstəɾiːkə"	1	'IPA transcription'@en
+Q6256	P898	"ˈɛstlɑn"	1	'IPA transcription'@en
+Q6256	P898	"ˈɾʉslɑn"	1	'IPA transcription'@en
+Q6256	P898	"ˈɾʉʂlɑn"	1	'IPA transcription'@en
+Q6256	P898	"ˈʂvʲet͡sɨjə"	1	'IPA transcription'@en
+Q6256	P898	"ˈʋiːtərʉslɑn"	1	'IPA transcription'@en
+Q6256	P898	"ˈʋiːtərʉʂlɑn"	1	'IPA transcription'@en
+Q6256	P935	"Andorra"	1	'Commons gallery'@en
+Q6256	P935	"Azərbaycan"	1	'Commons gallery'@en
+Q6256	P935	"België - Belgique - Belgien"	1	'Commons gallery'@en
+Q6256	P935	"Canada"	1	'Commons gallery'@en
+Q6256	P935	"Eesti"	1	'Commons gallery'@en
+Q6256	P935	"Kosovo"	1	'Commons gallery'@en
+Q6256	P935	"Malta"	1	'Commons gallery'@en
+Q6256	P935	"Mauritius"	1	'Commons gallery'@en
+Q6256	P935	"Nederland"	1	'Commons gallery'@en
+Q6256	P935	"Polska"	1	'Commons gallery'@en
+Q6256	P935	"Portugal"	1	'Commons gallery'@en
+Q6256	P935	"South Africa - Ningizimu Afrika - Suid-Afrika - Afrika Borwa"	1	'Commons gallery'@en
+Q6256	P935	"Suomi – Finland"	1	'Commons gallery'@en
+Q6256	P935	"Sverige"	1	'Commons gallery'@en
+Q6256	P935	"Türkiye"	1	'Commons gallery'@en
+Q6256	P935	"United Kingdom"	1	'Commons gallery'@en
+Q6256	P935	"Ísland"	1	'Commons gallery'@en
+Q6256	P935	"Österreich"	1	'Commons gallery'@en
+Q6256	P935	"Česko"	1	'Commons gallery'@en
+Q6256	P935	"Беларусь"	1	'Commons gallery'@en
+Q6256	P935	"България"	1	'Commons gallery'@en
+Q6256	P935	"Россия"	1	'Commons gallery'@en
+Q6256	P935	"Україна"	1	'Commons gallery'@en
+Q6256	P935	"تونس"	1	'Commons gallery'@en
+Q6256	P935	"საქართველო"	1	'Commons gallery'@en
+Q6256	P935	"ព្រះរាជាណាចក្រកម្ពុជា"	1	'Commons gallery'@en
+Q63791824	P3238	novalue	4	'trunk prefix'@en
+Q63791824	P3238	"0"	3	'trunk prefix'@en
+Q63791824	P3238	"8"	2	'trunk prefix'@en
+Q63791824	P1438	"12335"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q63791824	P2258	"238"	1	'mobile country code'@en
+Q63791824	P2258	"240"	1	'mobile country code'@en
+Q63791824	P2258	"244"	1	'mobile country code'@en
+Q63791824	P2258	"246"	1	'mobile country code'@en
+Q63791824	P2258	"247"	1	'mobile country code'@en
+Q63791824	P2258	"248"	1	'mobile country code'@en
+Q63791824	P2258	"250"	1	'mobile country code'@en
+Q63791824	P2258	"260"	1	'mobile country code'@en
+Q63791824	P2258	"262"	1	'mobile country code'@en
+Q63791824	P2572	"Deutschland"	1	'hashtag'@en
+Q63791824	P2979	"211"	1	'maritime identification digits'@en
+Q63791824	P2979	"218"	1	'maritime identification digits'@en
+Q63791824	P2979	"219"	1	'maritime identification digits'@en
+Q63791824	P2979	"220"	1	'maritime identification digits'@en
+Q63791824	P2979	"230"	1	'maritime identification digits'@en
+Q63791824	P2979	"261"	1	'maritime identification digits'@en
+Q63791824	P2979	"265"	1	'maritime identification digits'@en
+Q63791824	P2979	"266"	1	'maritime identification digits'@en
+Q63791824	P2979	"273"	1	'maritime identification digits'@en
+Q63791824	P2979	"275"	1	'maritime identification digits'@en
+Q63791824	P2979	"276"	1	'maritime identification digits'@en
+Q63791824	P2979	"277"	1	'maritime identification digits'@en
+Q63791824	P3067	"400-440"	1	'GS1 country code'@en
+Q63791824	P3067	"460-469"	1	'GS1 country code'@en
+Q63791824	P3067	"474"	1	'GS1 country code'@en
+Q63791824	P3067	"475"	1	'GS1 country code'@en
+Q63791824	P3067	"477"	1	'GS1 country code'@en
+Q63791824	P3067	"570"	1	'GS1 country code'@en
+Q63791824	P3067	"571"	1	'GS1 country code'@en
+Q63791824	P3067	"572"	1	'GS1 country code'@en
+Q63791824	P3067	"573"	1	'GS1 country code'@en
+Q63791824	P3067	"574"	1	'GS1 country code'@en
+Q63791824	P3067	"575"	1	'GS1 country code'@en
+Q63791824	P3067	"576"	1	'GS1 country code'@en
+Q63791824	P3067	"577"	1	'GS1 country code'@en
+Q63791824	P3067	"578"	1	'GS1 country code'@en
+Q63791824	P3067	"579"	1	'GS1 country code'@en
+Q63791824	P3067	"590"	1	'GS1 country code'@en
+Q63791824	P3067	"640-649"	1	'GS1 country code'@en
+Q63791824	P3067	"730-739"	1	'GS1 country code'@en
+Q63791824	P373	"Denmark"	1	'Commons category'@en
+Q63791824	P373	"Estonia"	1	'Commons category'@en
+Q63791824	P373	"Finland"	1	'Commons category'@en
+Q63791824	P373	"Germany"	1	'Commons category'@en
+Q63791824	P373	"Latvia"	1	'Commons category'@en
+Q63791824	P373	"Lithuania"	1	'Commons category'@en
+Q63791824	P373	"Poland"	1	'Commons category'@en
+Q63791824	P373	"Russia"	1	'Commons category'@en
+Q63791824	P373	"Sweden"	1	'Commons category'@en
+Q63791824	P395	"D"	1	'licence plate code'@en
+Q63791824	P395	"EST"	1	'licence plate code'@en
+Q63791824	P395	"FIN"	1	'licence plate code'@en
+Q63791824	P395	"LT"	1	'licence plate code'@en
+Q63791824	P395	"LV"	1	'licence plate code'@en
+Q63791824	P395	"PL"	1	'licence plate code'@en
+Q63791824	P395	"RUS"	1	'licence plate code'@en
+Q63791824	P395	"S"	1	'licence plate code'@en
+Q63791824	P474	"+358"	1	'country calling code'@en
+Q63791824	P474	"+370"	1	'country calling code'@en
+Q63791824	P474	"+371"	1	'country calling code'@en
+Q63791824	P474	"+372"	1	'country calling code'@en
+Q63791824	P474	"+45"	1	'country calling code'@en
+Q63791824	P474	"+46"	1	'country calling code'@en
+Q63791824	P474	"+48"	1	'country calling code'@en
+Q63791824	P474	"+49"	1	'country calling code'@en
+Q63791824	P474	"+7"	1	'country calling code'@en
+Q63791824	P487	"🇩🇪"	1	'Unicode character'@en
+Q63791824	P487	"🇩🇰"	1	'Unicode character'@en
+Q63791824	P487	"🇪🇪"	1	'Unicode character'@en
+Q63791824	P487	"🇫🇮"	1	'Unicode character'@en
+Q63791824	P487	"🇱🇹"	1	'Unicode character'@en
+Q63791824	P487	"🇱🇻"	1	'Unicode character'@en
+Q63791824	P487	"🇵🇱"	1	'Unicode character'@en
+Q63791824	P487	"🇷🇺"	1	'Unicode character'@en
+Q63791824	P487	"🇸🇪"	1	'Unicode character'@en
+Q63791824	P898	"lʲɪɛtʊˈvɐ"	1	'IPA transcription'@en
+Q63791824	P898	"lʲɪˈtva"	1	'IPA transcription'@en
+Q63791824	P898	"rɐˈsʲijə"	1	'IPA transcription'@en
+Q63791824	P898	"ɛˈstonʲɪjə"	1	'IPA transcription'@en
+Q63791824	P898	"ˈdɑnmɑɾk"	1	'IPA transcription'@en
+Q63791824	P898	"ˈdɔɪ̯ʧlant"	1	'IPA transcription'@en
+Q63791824	P898	"ˈeːsti"	1	'IPA transcription'@en
+Q63791824	P898	"ˈfɪnlɑn"	1	'IPA transcription'@en
+Q63791824	P898	"ˈlat.vi.ja"	1	'IPA transcription'@en
+Q63791824	P898	"ˈlɑtʋɪɑ"	1	'IPA transcription'@en
+Q63791824	P898	"ˈlɪtæʉən"	1	'IPA transcription'@en
+Q63791824	P898	"ˈpuːln̩"	1	'IPA transcription'@en
+Q63791824	P898	"ˈpɔlska"	1	'IPA transcription'@en
+Q63791824	P898	"ˈsuo̯mi"	1	'IPA transcription'@en
+Q63791824	P898	"ˈsvɛːrjɛ"	1	'IPA transcription'@en
+Q63791824	P898	"ˈsʋæɾjə"	1	'IPA transcription'@en
+Q63791824	P898	"ˈtʏsklɑn"	1	'IPA transcription'@en
+Q63791824	P898	"ˈɛstlɑn"	1	'IPA transcription'@en
+Q63791824	P898	"ˈɾʉslɑn"	1	'IPA transcription'@en
+Q63791824	P898	"ˈɾʉʂlɑn"	1	'IPA transcription'@en
+Q63791824	P898	"ˈʂvʲet͡sɨjə"	1	'IPA transcription'@en
+Q63791824	P935	"Danmark"	1	'Commons gallery'@en
+Q63791824	P935	"Deutschland"	1	'Commons gallery'@en
+Q63791824	P935	"Eesti"	1	'Commons gallery'@en
+Q63791824	P935	"Latvija"	1	'Commons gallery'@en
+Q63791824	P935	"Lietuva"	1	'Commons gallery'@en
+Q63791824	P935	"Polska"	1	'Commons gallery'@en
+Q63791824	P935	"Suomi – Finland"	1	'Commons gallery'@en
+Q63791824	P935	"Sverige"	1	'Commons gallery'@en
+Q63791824	P935	"Россия"	1	'Commons gallery'@en
+Q66724388	P2258	"238"	1	'mobile country code'@en
+Q66724388	P2979	"219"	1	'maritime identification digits'@en
+Q66724388	P2979	"220"	1	'maritime identification digits'@en
+Q66724388	P3067	"570"	1	'GS1 country code'@en
+Q66724388	P3067	"571"	1	'GS1 country code'@en
+Q66724388	P3067	"572"	1	'GS1 country code'@en
+Q66724388	P3067	"573"	1	'GS1 country code'@en
+Q66724388	P3067	"574"	1	'GS1 country code'@en
+Q66724388	P3067	"575"	1	'GS1 country code'@en
+Q66724388	P3067	"576"	1	'GS1 country code'@en
+Q66724388	P3067	"577"	1	'GS1 country code'@en
+Q66724388	P3067	"578"	1	'GS1 country code'@en
+Q66724388	P3067	"579"	1	'GS1 country code'@en
+Q66724388	P3238	novalue	1	'trunk prefix'@en
+Q66724388	P373	"Denmark"	1	'Commons category'@en
+Q66724388	P474	"+45"	1	'country calling code'@en
+Q66724388	P487	"🇩🇰"	1	'Unicode character'@en
+Q66724388	P898	"ˈdɑnmɑɾk"	1	'IPA transcription'@en
+Q66724388	P935	"Danmark"	1	'Commons gallery'@en
+Q681277	P281	"9400"	1	'postal code'@en
+Q681277	P373	"Sopron"	1	'Commons category'@en
+Q681277	P473	"99"	1	'local dialing code'@en
+Q681277	P898	"ˈʃopron"	1	'IPA transcription'@en
+Q681277	P935	"Sopron"	1	'Commons gallery'@en
+Q6881511	P281	"4640"	1	'postal code'@en
+Q6881511	P373	"Asahi Breweries"	1	'Commons category'@en
+Q6881511	P373	"Baltika (brewery)"	1	'Commons category'@en
+Q6881511	P373	"Brasseries Kronenbourg"	1	'Commons category'@en
+Q6881511	P373	"Carlsberg Group"	1	'Commons category'@en
+Q6881511	P373	"De Struise Brouwers"	1	'Commons category'@en
+Q6881511	P373	"Diageo"	1	'Commons category'@en
+Q6881511	P373	"Efes Beverage Group"	1	'Commons category'@en
+Q6881511	P373	"Grolsch"	1	'Commons category'@en
+Q6881511	P373	"Grupo Modelo"	1	'Commons category'@en
+Q6881511	P373	"Heineken"	1	'Commons category'@en
+Q6881511	P373	"Molson Coors Brewing Company"	1	'Commons category'@en
+Q6881511	P373	"Olvi"	1	'Commons category'@en
+Q6881511	P373	"Peroni (brewery)"	1	'Commons category'@en
+Q6881511	P373	"Royal Unibrew"	1	'Commons category'@en
+Q6881511	P373	"Samson (brewery)"	1	'Commons category'@en
+Q6881511	P373	"Sapporo Breweries"	1	'Commons category'@en
+Q6881511	P373	"Sarajevo Brewery"	1	'Commons category'@en
+Q6881511	P3761	"145.47.0.0/16"	1	'IPv4 routing prefix'@en
+Q70208	P281	"6969"	1	'postal code'@en
+Q70208	P373	"Chur"	1	'Commons category'@en
+Q70208	P395	"GR"	1	'licence plate code'@en
+Q70208	P473	"081"	1	'local dialing code'@en
+Q70208	P935	"Chur"	1	'Commons gallery'@en
+Q717040	P373	"Santa Claus in France"	1	'Commons category'@en
+Q717040	P373	"Santa Claus"	1	'Commons category'@en
+Q717040	P487	"🎅"	1	'Unicode character'@en
+Q717040	P935	"Santa Claus"	1	'Commons gallery'@en
+Q726870	P373	"Tekel"	1	'Commons category'@en
+Q7270	P3238	"0"	8	'trunk prefix'@en
+Q7270	P3238	novalue	4	'trunk prefix'@en
+Q7270	P1438	"12335"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q7270	P2258	"202"	1	'mobile country code'@en
+Q7270	P2258	"208"	1	'mobile country code'@en
+Q7270	P2258	"222"	1	'mobile country code'@en
+Q7270	P2258	"231"	1	'mobile country code'@en
+Q7270	P2258	"232"	1	'mobile country code'@en
+Q7270	P2258	"247"	1	'mobile country code'@en
+Q7270	P2258	"248"	1	'mobile country code'@en
+Q7270	P2258	"255"	1	'mobile country code'@en
+Q7270	P2258	"257"	1	'mobile country code'@en
+Q7270	P2258	"262"	1	'mobile country code'@en
+Q7270	P2258	"276"	1	'mobile country code'@en
+Q7270	P2258	"282"	1	'mobile country code'@en
+Q7270	P2258	"552"	1	'mobile country code'@en
+Q7270	P2258	"605"	1	'mobile country code'@en
+Q7270	P2258	"617"	1	'mobile country code'@en
+Q7270	P2258	"641"	1	'mobile country code'@en
+Q7270	P2258	"716"	1	'mobile country code'@en
+Q7270	P2258	"736"	1	'mobile country code'@en
+Q7270	P2572	"Deutschland"	1	'hashtag'@en
+Q7270	P2572	"greece"	1	'hashtag'@en
+Q7270	P2572	"україна"	1	'hashtag'@en
+Q7270	P2979	"201"	1	'maritime identification digits'@en
+Q7270	P2979	"203"	1	'maritime identification digits'@en
+Q7270	P2979	"206"	1	'maritime identification digits'@en
+Q7270	P2979	"211"	1	'maritime identification digits'@en
+Q7270	P2979	"213"	1	'maritime identification digits'@en
+Q7270	P2979	"218"	1	'maritime identification digits'@en
+Q7270	P2979	"226"	1	'maritime identification digits'@en
+Q7270	P2979	"227"	1	'maritime identification digits'@en
+Q7270	P2979	"228"	1	'maritime identification digits'@en
+Q7270	P2979	"237"	1	'maritime identification digits'@en
+Q7270	P2979	"239"	1	'maritime identification digits'@en
+Q7270	P2979	"240"	1	'maritime identification digits'@en
+Q7270	P2979	"241"	1	'maritime identification digits'@en
+Q7270	P2979	"247"	1	'maritime identification digits'@en
+Q7270	P2979	"267"	1	'maritime identification digits'@en
+Q7270	P2979	"272"	1	'maritime identification digits'@en
+Q7270	P2979	"275"	1	'maritime identification digits'@en
+Q7270	P2979	"276"	1	'maritime identification digits'@en
+Q7270	P2979	"511"	1	'maritime identification digits'@en
+Q7270	P2979	"645"	1	'maritime identification digits'@en
+Q7270	P2979	"672"	1	'maritime identification digits'@en
+Q7270	P2979	"675"	1	'maritime identification digits'@en
+Q7270	P2979	"720"	1	'maritime identification digits'@en
+Q7270	P2979	"760"	1	'maritime identification digits'@en
+Q7270	P3067	"300-379"	1	'GS1 country code'@en
+Q7270	P3067	"400-440"	1	'GS1 country code'@en
+Q7270	P3067	"474"	1	'GS1 country code'@en
+Q7270	P3067	"475"	1	'GS1 country code'@en
+Q7270	P3067	"481"	1	'GS1 country code'@en
+Q7270	P3067	"482"	1	'GS1 country code'@en
+Q7270	P3067	"486"	1	'GS1 country code'@en
+Q7270	P3067	"520"	1	'GS1 country code'@en
+Q7270	P3067	"521"	1	'GS1 country code'@en
+Q7270	P3067	"530"	1	'GS1 country code'@en
+Q7270	P3067	"609"	1	'GS1 country code'@en
+Q7270	P3067	"619"	1	'GS1 country code'@en
+Q7270	P3067	"775"	1	'GS1 country code'@en
+Q7270	P3067	"777"	1	'GS1 country code'@en
+Q7270	P3067	"800-839"	1	'GS1 country code'@en
+Q7270	P3067	"858"	1	'GS1 country code'@en
+Q7270	P3067	"900-919"	1	'GS1 country code'@en
+Q7270	P3238	"00"	1	'trunk prefix'@en
+Q7270	P3238	"8"	1	'trunk prefix'@en
+Q7270	P373	"Albania"	1	'Commons category'@en
+Q7270	P373	"Austria"	1	'Commons category'@en
+Q7270	P373	"Belarus"	1	'Commons category'@en
+Q7270	P373	"Bolivia"	1	'Commons category'@en
+Q7270	P373	"Estonia"	1	'Commons category'@en
+Q7270	P373	"France"	1	'Commons category'@en
+Q7270	P373	"Georgia"	1	'Commons category'@en
+Q7270	P373	"Germany"	1	'Commons category'@en
+Q7270	P373	"Greece"	1	'Commons category'@en
+Q7270	P373	"Italy"	1	'Commons category'@en
+Q7270	P373	"Latvia"	1	'Commons category'@en
+Q7270	P373	"Mauritius"	1	'Commons category'@en
+Q7270	P373	"Palau"	1	'Commons category'@en
+Q7270	P373	"Peru"	1	'Commons category'@en
+Q7270	P373	"Slovakia"	1	'Commons category'@en
+Q7270	P373	"Tunisia"	1	'Commons category'@en
+Q7270	P373	"Uganda"	1	'Commons category'@en
+Q7270	P373	"Ukraine"	1	'Commons category'@en
+Q7270	P395	"A"	1	'licence plate code'@en
+Q7270	P395	"AL"	1	'licence plate code'@en
+Q7270	P395	"BLR"	1	'licence plate code'@en
+Q7270	P395	"BOL"	1	'licence plate code'@en
+Q7270	P395	"D"	1	'licence plate code'@en
+Q7270	P395	"EAU"	1	'licence plate code'@en
+Q7270	P395	"EST"	1	'licence plate code'@en
+Q7270	P395	"F"	1	'licence plate code'@en
+Q7270	P395	"GE"	1	'licence plate code'@en
+Q7270	P395	"GR"	1	'licence plate code'@en
+Q7270	P395	"I"	1	'licence plate code'@en
+Q7270	P395	"LV"	1	'licence plate code'@en
+Q7270	P395	"MS"	1	'licence plate code'@en
+Q7270	P395	"PE"	1	'licence plate code'@en
+Q7270	P395	"SK"	1	'licence plate code'@en
+Q7270	P395	"TN"	1	'licence plate code'@en
+Q7270	P395	"UA"	1	'licence plate code'@en
+Q7270	P474	"+216"	1	'country calling code'@en
+Q7270	P474	"+230"	1	'country calling code'@en
+Q7270	P474	"+256"	1	'country calling code'@en
+Q7270	P474	"+30"	1	'country calling code'@en
+Q7270	P474	"+33"	1	'country calling code'@en
+Q7270	P474	"+355"	1	'country calling code'@en
+Q7270	P474	"+371"	1	'country calling code'@en
+Q7270	P474	"+372"	1	'country calling code'@en
+Q7270	P474	"+375"	1	'country calling code'@en
+Q7270	P474	"+380"	1	'country calling code'@en
+Q7270	P474	"+39"	1	'country calling code'@en
+Q7270	P474	"+421"	1	'country calling code'@en
+Q7270	P474	"+43"	1	'country calling code'@en
+Q7270	P474	"+49"	1	'country calling code'@en
+Q7270	P474	"+51"	1	'country calling code'@en
+Q7270	P474	"+591"	1	'country calling code'@en
+Q7270	P474	"+680"	1	'country calling code'@en
+Q7270	P474	"+995"	1	'country calling code'@en
+Q7270	P487	"🇦🇱"	1	'Unicode character'@en
+Q7270	P487	"🇦🇹"	1	'Unicode character'@en
+Q7270	P487	"🇧🇴"	1	'Unicode character'@en
+Q7270	P487	"🇧🇾"	1	'Unicode character'@en
+Q7270	P487	"🇩🇪"	1	'Unicode character'@en
+Q7270	P487	"🇪🇪"	1	'Unicode character'@en
+Q7270	P487	"🇫🇷"	1	'Unicode character'@en
+Q7270	P487	"🇬🇪"	1	'Unicode character'@en
+Q7270	P487	"🇬🇷"	1	'Unicode character'@en
+Q7270	P487	"🇮🇹"	1	'Unicode character'@en
+Q7270	P487	"🇱🇻"	1	'Unicode character'@en
+Q7270	P487	"🇲🇺"	1	'Unicode character'@en
+Q7270	P487	"🇵🇪"	1	'Unicode character'@en
+Q7270	P487	"🇵🇼"	1	'Unicode character'@en
+Q7270	P487	"🇸🇰"	1	'Unicode character'@en
+Q7270	P487	"🇹🇳"	1	'Unicode character'@en
+Q7270	P487	"🇺🇦"	1	'Unicode character'@en
+Q7270	P487	"🇺🇬"	1	'Unicode character'@en
+Q7270	P898	"bu\\\\\\\\'liːʋɪɑ"	1	'IPA transcription'@en
+Q7270	P898	"bʲɛlaˈrusʲ"	1	'IPA transcription'@en
+Q7270	P898	"bʲɛɫ̪äˈrus̪ʲ"	1	'IPA transcription'@en
+Q7270	P898	"fʁɑ̃s"	1	'IPA transcription'@en
+Q7270	P898	"gɛˈɔɾgjɑ"	1	'IPA transcription'@en
+Q7270	P898	"iˈtalja"	1	'IPA transcription'@en
+Q7270	P898	"mæʉ\\\\\\\\'ɾɪtsɪʉs"	1	'IPA transcription'@en
+Q7270	P898	"pɑ\\\\\\\\'lɑːu"	1	'IPA transcription'@en
+Q7270	P898	"pəˈɾʉː"	1	'IPA transcription'@en
+Q7270	P898	"tʉ\\\\\\\\'niːsɪɑ"	1	'IPA transcription'@en
+Q7270	P898	"y.kʁɛn"	1	'IPA transcription'@en
+Q7270	P898	"ɐlˈbanʲɪjə"	1	'IPA transcription'@en
+Q7270	P898	"ɑlˈbɑːnɪɑ"	1	'IPA transcription'@en
+Q7270	P898	"ɛˈstonʲɪjə"	1	'IPA transcription'@en
+Q7270	P898	"ɪˈtalʲɪjə"	1	'IPA transcription'@en
+Q7270	P898	"ɪˈtɑːlɪɑ"	1	'IPA transcription'@en
+Q7270	P898	"ɾɛpuˈblika ɛ ʃcipəˈɾiːs"	1	'IPA transcription'@en
+Q7270	P898	"ʂluˈʋɑːkɪɑ"	1	'IPA transcription'@en
+Q7270	P898	"ʉ\\\\\\\\'gɑndɑ"	1	'IPA transcription'@en
+Q7270	P898	"ʉkɾɑˈiːnɑ"	1	'IPA transcription'@en
+Q7270	P898	"ʊkrɐˈjɪn̪ɐ"	1	'IPA transcription'@en
+Q7270	P898	"ʔukʁaˈiːnə"	1	'IPA transcription'@en
+Q7270	P898	"ˈdɔɪ̯ʧlant"	1	'IPA transcription'@en
+Q7270	P898	"ˈeːsti"	1	'IPA transcription'@en
+Q7270	P898	"ˈfɾɑŋkɾiːkə"	1	'IPA transcription'@en
+Q7270	P898	"ˈhɛlɑs"	1	'IPA transcription'@en
+Q7270	P898	"ˈlat.vi.ja"	1	'IPA transcription'@en
+Q7270	P898	"ˈlɑtʋɪɑ"	1	'IPA transcription'@en
+Q7270	P898	"ˈslɔʋɛnskɔ"	1	'IPA transcription'@en
+Q7270	P898	"ˈtʏsklɑn"	1	'IPA transcription'@en
+Q7270	P898	"ˈœstəɾiːkə"	1	'IPA transcription'@en
+Q7270	P898	"ˈɛstlɑn"	1	'IPA transcription'@en
+Q7270	P898	"ˈɡrʲet͡sɨjə"	1	'IPA transcription'@en
+Q7270	P898	"ˈʋiːtərʉslɑn"	1	'IPA transcription'@en
+Q7270	P898	"ˈʋiːtərʉʂlɑn"	1	'IPA transcription'@en
+Q7270	P935	"Bolivia"	1	'Commons gallery'@en
+Q7270	P935	"Deutschland"	1	'Commons gallery'@en
+Q7270	P935	"Eesti"	1	'Commons gallery'@en
+Q7270	P935	"France"	1	'Commons gallery'@en
+Q7270	P935	"Italia"	1	'Commons gallery'@en
+Q7270	P935	"Latvija"	1	'Commons gallery'@en
+Q7270	P935	"Mauritius"	1	'Commons gallery'@en
+Q7270	P935	"Palau"	1	'Commons gallery'@en
+Q7270	P935	"Peru"	1	'Commons gallery'@en
+Q7270	P935	"Shqipëria"	1	'Commons gallery'@en
+Q7270	P935	"Slovensko"	1	'Commons gallery'@en
+Q7270	P935	"Uganda"	1	'Commons gallery'@en
+Q7270	P935	"Österreich"	1	'Commons gallery'@en
+Q7270	P935	"Ελλάδα"	1	'Commons gallery'@en
+Q7270	P935	"Беларусь"	1	'Commons gallery'@en
+Q7270	P935	"Україна"	1	'Commons gallery'@en
+Q7270	P935	"تونس"	1	'Commons gallery'@en
+Q7270	P935	"საქართველო"	1	'Commons gallery'@en
+Q7275	P2258	"232"	1	'mobile country code'@en
+Q7275	P2258	"238"	1	'mobile country code'@en
+Q7275	P2258	"280"	1	'mobile country code'@en
+Q7275	P2979	"203"	1	'maritime identification digits'@en
+Q7275	P2979	"209"	1	'maritime identification digits'@en
+Q7275	P2979	"210"	1	'maritime identification digits'@en
+Q7275	P2979	"212"	1	'maritime identification digits'@en
+Q7275	P2979	"219"	1	'maritime identification digits'@en
+Q7275	P2979	"220"	1	'maritime identification digits'@en
+Q7275	P3067	"529"	1	'GS1 country code'@en
+Q7275	P3067	"570"	1	'GS1 country code'@en
+Q7275	P3067	"571"	1	'GS1 country code'@en
+Q7275	P3067	"572"	1	'GS1 country code'@en
+Q7275	P3067	"573"	1	'GS1 country code'@en
+Q7275	P3067	"574"	1	'GS1 country code'@en
+Q7275	P3067	"575"	1	'GS1 country code'@en
+Q7275	P3067	"576"	1	'GS1 country code'@en
+Q7275	P3067	"577"	1	'GS1 country code'@en
+Q7275	P3067	"578"	1	'GS1 country code'@en
+Q7275	P3067	"579"	1	'GS1 country code'@en
+Q7275	P3067	"900-919"	1	'GS1 country code'@en
+Q7275	P3238	"0"	1	'trunk prefix'@en
+Q7275	P3238	novalue	1	'trunk prefix'@en
+Q7275	P373	"Austria"	1	'Commons category'@en
+Q7275	P373	"Cyprus"	1	'Commons category'@en
+Q7275	P373	"Denmark"	1	'Commons category'@en
+Q7275	P395	"A"	1	'licence plate code'@en
+Q7275	P395	"CY"	1	'licence plate code'@en
+Q7275	P474	"+357"	1	'country calling code'@en
+Q7275	P474	"+43"	1	'country calling code'@en
+Q7275	P474	"+45"	1	'country calling code'@en
+Q7275	P487	"🇦🇹"	1	'Unicode character'@en
+Q7275	P487	"🇨🇾"	1	'Unicode character'@en
+Q7275	P487	"🇩🇰"	1	'Unicode character'@en
+Q7275	P898	"kʲipr"	1	'IPA transcription'@en
+Q7275	P898	"ˈcipros"	1	'IPA transcription'@en
+Q7275	P898	"ˈdɑnmɑɾk"	1	'IPA transcription'@en
+Q7275	P898	"ˈkyːpɾɔs"	1	'IPA transcription'@en
+Q7275	P898	"ˈkɯbɾɯs"	1	'IPA transcription'@en
+Q7275	P898	"ˈœstəɾiːkə"	1	'IPA transcription'@en
+Q7275	P935	"Danmark"	1	'Commons gallery'@en
+Q7275	P935	"Österreich"	1	'Commons gallery'@en
+Q7275	P935	"Κύπρος - Kıbrıs"	1	'Commons gallery'@en
+Q735160	P373	"Clove"	1	'Commons category'@en
+Q735160	P373	"Hops"	1	'Commons category'@en
+Q747074	P281	"32034"	1	'postal code'@en
+Q747074	P373	"Pedavena"	1	'Commons category'@en
+Q747074	P395	"BL"	1	'licence plate code'@en
+Q747074	P473	"0439"	1	'local dialing code'@en
+Q783794	P1329	"+30-2531-038715"	1	'phone number'@en
+Q783794	P1329	"+30-2531-038718"	1	'phone number'@en
+Q783794	P1796	"1103"	1	'International Standard Industrial Classification code Rev.4'@en
+Q783794	P2900	"+30-2531-038729"	1	'fax number'@en
+Q79529	P373	"Whey"	1	'Commons category'@en
+Q79719	P373	"CC-BY-SA"	1	'Commons category'@en
+Q8148	P373	"Beer brewing"	1	'Commons category'@en
+Q82794	P2258	"429"	1	'mobile country code'@en
+Q82794	P2979	"459"	1	'maritime identification digits'@en
+Q82794	P3067	"524"	1	'GS1 country code'@en
+Q82794	P3238	novalue	1	'trunk prefix'@en
+Q82794	P373	"Caribbean"	1	'Commons category'@en
+Q82794	P373	"Nepal"	1	'Commons category'@en
+Q82794	P373	"Tibet"	1	'Commons category'@en
+Q82794	P395	"NEP"	1	'licence plate code'@en
+Q82794	P474	"+977"	1	'country calling code'@en
+Q82794	P487	"🇳🇵"	1	'Unicode character'@en
+Q82794	P898	"nɛˈpɑːl"	1	'IPA transcription'@en
+Q82794	P935	"नेपाल"	1	'Commons gallery'@en
+Q82794	P935	"བོད་"	1	'Commons gallery'@en
+Q8386	P373	"Alcoholic beverages"	1	'Commons category'@en
+Q842112	P2258	"460"	1	'mobile country code'@en
+Q842112	P2979	"412"	1	'maritime identification digits'@en
+Q842112	P2979	"413"	1	'maritime identification digits'@en
+Q842112	P2979	"414"	1	'maritime identification digits'@en
+Q842112	P3067	"690-699"	1	'GS1 country code'@en
+Q842112	P3238	"0"	1	'trunk prefix'@en
+Q842112	P3238	"8"	1	'trunk prefix'@en
+Q842112	P373	"People\\\\\\\\'s Republic of China"	1	'Commons category'@en
+Q842112	P373	"Soviet Union"	1	'Commons category'@en
+Q842112	P474	"+86"	1	'country calling code'@en
+Q842112	P487	"🇨🇳"	1	'Unicode character'@en
+Q842112	P898	"ˈfɔɽkərɛpʉblɪkən ˈçiːnɑ"	1	'IPA transcription'@en
+Q842112	P898	"ˈçiːnɑ"	1	'IPA transcription'@en
+Q842112	P935	"Союз Советских Социалистических Республик"	1	'Commons gallery'@en
+Q842112	P935	"中华人民共和国"	1	'Commons gallery'@en
+Q847705	P373	"Nutmegs"	1	'Commons category'@en
+Q847705	P935	"Myristica fragrans"	1	'Commons gallery'@en
+Q849866	P2258	"368"	1	'mobile country code'@en
+Q849866	P2979	"323"	1	'maritime identification digits'@en
+Q849866	P3067	"850"	1	'GS1 country code'@en
+Q849866	P3238	"0"	1	'trunk prefix'@en
+Q849866	P3238	"8"	1	'trunk prefix'@en
+Q849866	P373	"Cuba"	1	'Commons category'@en
+Q849866	P373	"Soviet Union"	1	'Commons category'@en
+Q849866	P395	"C"	1	'licence plate code'@en
+Q849866	P474	"+53"	1	'country calling code'@en
+Q849866	P487	"🇨🇺"	1	'Unicode character'@en
+Q849866	P898	"ˈkʉːbɑ"	1	'IPA transcription'@en
+Q849866	P935	"Cuba"	1	'Commons gallery'@en
+Q849866	P935	"Союз Советских Социалистических Республик"	1	'Commons gallery'@en
+Q85631896	P1438	"15521"	1	'Jewish Encyclopedia ID (Russian)'@en
+Q85631896	P281	"80331"	1	'postal code'@en
+Q85631896	P281	"80802"	1	'postal code'@en
+Q85631896	P281	"80805"	1	'postal code'@en
+Q85631896	P281	"81377"	1	'postal code'@en
+Q85631896	P281	"81379"	1	'postal code'@en
+Q85631896	P281	"81730"	1	'postal code'@en
+Q85631896	P281	"81735"	1	'postal code'@en
+Q85631896	P281	"81737"	1	'postal code'@en
+Q85631896	P281	"81825"	1	'postal code'@en
+Q85631896	P281	"81929"	1	'postal code'@en
+Q85631896	P373	"Munich"	1	'Commons category'@en
+Q85631896	P395	"M"	1	'licence plate code'@en
+Q85631896	P473	"089"	1	'local dialing code'@en
+Q85631896	P935	"München"	1	'Commons gallery'@en
+Q859563	P2258	"250"	1	'mobile country code'@en
+Q859563	P2258	"460"	1	'mobile country code'@en
+Q859563	P2258	"724"	1	'mobile country code'@en
+Q859563	P2979	"273"	1	'maritime identification digits'@en
+Q859563	P2979	"412"	1	'maritime identification digits'@en
+Q859563	P2979	"413"	1	'maritime identification digits'@en
+Q859563	P2979	"414"	1	'maritime identification digits'@en
+Q859563	P2979	"710"	1	'maritime identification digits'@en
+Q859563	P3067	"460-469"	1	'GS1 country code'@en
+Q859563	P3067	"690-699"	1	'GS1 country code'@en
+Q859563	P3067	"789-790"	1	'GS1 country code'@en
+Q859563	P3238	"0"	1	'trunk prefix'@en
+Q859563	P3238	"8"	1	'trunk prefix'@en
+Q859563	P3238	novalue	1	'trunk prefix'@en
+Q859563	P373	"Brazil"	1	'Commons category'@en
+Q859563	P373	"People\\\\\\\\'s Republic of China"	1	'Commons category'@en
+Q859563	P373	"Russia"	1	'Commons category'@en
+Q859563	P395	"BR"	1	'licence plate code'@en
+Q859563	P395	"RUS"	1	'licence plate code'@en
+Q859563	P474	"+55"	1	'country calling code'@en
+Q859563	P474	"+7"	1	'country calling code'@en
+Q859563	P474	"+86"	1	'country calling code'@en
+Q859563	P487	"🇧🇷"	1	'Unicode character'@en
+Q859563	P487	"🇨🇳"	1	'Unicode character'@en
+Q859563	P487	"🇷🇺"	1	'Unicode character'@en
+Q859563	P898	"brɐˈzʲilʲɪjə"	1	'IPA transcription'@en
+Q859563	P898	"bɾaˈziw"	1	'IPA transcription'@en
+Q859563	P898	"bɾɑˈsiːl"	1	'IPA transcription'@en
+Q859563	P898	"rɐˈsʲijə"	1	'IPA transcription'@en
+Q859563	P898	"ˈfɔɽkərɛpʉblɪkən ˈçiːnɑ"	1	'IPA transcription'@en
+Q859563	P898	"ˈçiːnɑ"	1	'IPA transcription'@en
+Q859563	P898	"ˈɾʉslɑn"	1	'IPA transcription'@en
+Q859563	P898	"ˈɾʉʂlɑn"	1	'IPA transcription'@en
+Q859563	P935	"Brasil"	1	'Commons gallery'@en
+Q859563	P935	"Россия"	1	'Commons gallery'@en
+Q859563	P935	"中华人民共和国"	1	'Commons gallery'@en
+Q878223	P373	"Tibet"	1	'Commons category'@en
+Q878223	P935	"བོད་"	1	'Commons gallery'@en
+Q891723	P373	"ThaiBev"	1	'Commons category'@en
+Q89487741	P281	"4000"	1	'postal code'@en
+Q89487741	P373	"Plovdiv"	1	'Commons category'@en
+Q89487741	P395	"РВ (П)"	1	'licence plate code'@en
+Q89487741	P473	"032"	1	'local dialing code'@en
+Q902814	P281	"21400–21499"	1	'postal code'@en
+Q902814	P281	"9400"	1	'postal code'@en
+Q902814	P373	"Sopron"	1	'Commons category'@en
+Q902814	P373	"Tecate"	1	'Commons category'@en
+Q902814	P473	"665"	1	'local dialing code'@en
+Q902814	P473	"99"	1	'local dialing code'@en
+Q902814	P898	"ˈʃopron"	1	'IPA transcription'@en
+Q902814	P935	"Sopron"	1	'Commons gallery'@en
+Q908620	P373	"Traditional Specialities Guaranteed"	1	'Commons category'@en
+Q91325574	P373	"Mount St Bernard Abbey"	1	'Commons category'@en
+Q95997873	P373	"Clove"	1	'Commons category'@en
+Q95997873	P373	"Hops"	1	'Commons category'@en
