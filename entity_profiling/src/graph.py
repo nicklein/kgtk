@@ -12,7 +12,7 @@ from time import time
 from glob import glob
 from six.moves import range, zip, zip_longest
 from six import iterkeys
-from collections import defaultdict, Iterable
+from collections import defaultdict, Iterable, Counter
 import random
 from random import shuffle
 from itertools import product,permutations
@@ -139,6 +139,18 @@ def random_walk(self, path_length, alpha=0, rand=random.Random(), start=None):
             break
     return [str(node) for node in path]
 
+# NMK - copied in from A-path....
+# this function is copy pasted in like 6 files and yet they couldn't specify one of them to use here???
+def write_dict(file_path,dict):
+    with open(file_path, "a") as f:
+        for k in dict.keys():
+            s=str(k)
+            if dict[k]:
+                for i in dict[k]:
+                    s=s+' '+str(i)
+            s=s+'\n'
+            f.writelines(s)
+    f.close()
 
 # TODO add build_walks in here
 def build_corpus(G, num_paths, path_length, alpha=0, rand=random.Random(0)):
