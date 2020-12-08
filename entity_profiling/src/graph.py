@@ -164,7 +164,9 @@ def build_corpus(G, num_paths, path_length, alpha=0, rand=random.Random(0)):
     return walks
 
 
-def load_edgelist_with_nodetype(file_, undirected=False):
+def load_edgelist_with_nodetype(file_, db_path, undirected=False):
+
+    # This stuff isn't actually used...
     entity1=[]
     entity2=[]
     entity1_type=[]
@@ -180,6 +182,8 @@ def load_edgelist_with_nodetype(file_, undirected=False):
     f.close()
     entity2_type=list(set(entity2_type))
 
+
+    # below they are doing some querying to get the s-path feature for each entity. Could be done in Kypher easily I think.
     global typelist
     connection = sqlite3.connect(db_path)
     cursor = connection.cursor()
@@ -208,11 +212,11 @@ def load_edgelist_with_nodetype(file_, undirected=False):
         #查找该类型下的所有的实体的宾语种类数
         dictentity = {}
         for e1 in num_entity1:
-            res=Counter(dict_add[e1])
+            res=Counter(dict_add[e1]) #NMK - distinct types for e2 that e1 has a relation to along with their counts
             list1=[]
             for e2 in num_entity2:
                 list1.append(res[e2])
-            dictentity[e1]=list1
+            dictentity[e1]=list1    #NMK - e1 to list of counts corresponding to each type of e2 taht we have relation to...
         logging.info('finished %s', t)
         write_dict('../data/sdata/' + str(t) + '.txt', dictentity)
         dictentity.clear()
