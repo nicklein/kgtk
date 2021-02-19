@@ -2,6 +2,7 @@ import numpy as np
 from kgtk.gt.gt_load import load_graph_from_kgtk
 from kgtk.io.kgtkreader import KgtkReader
 import pathlib
+from functools import lru_cache
 
 # Performs num_walks random walks at each node in the graph
 # i.e. if there are 10 nodes in the graph and num_walks=10, then we'll do 10*10 = 100 random walks.
@@ -29,15 +30,30 @@ def gt_random_walks_from_nodes(g, start_nodes, walk_length, num_walks):
     
     walks[:,0] = start_nodes
     cur_length = 1
+    node_neighs = {}
     while cur_length < walk_length:
         cur_nodes = walks[:,cur_length - 1]
         # if we've previously hit a dead end, then we could have -1 as a 
         # current node value in this case, we want to continue filling in -1.
-        neighbors = [np.array([-1]) if v < 0 else g.get_out_neighbors(v) for v in cur_nodes]
-        # if there are no outbound edges we can take for 
-        # some vertex, we'll make the next vertex we visit = -1
-        neighbors = [np.array([-1]) if len(arr) < 1 else arr for arr in neighbors]
-        next_nodes = [np.random.choice(arr) for arr in neighbors]
+        next_nodes = list(range(len(cur_nodes)))
+        for i in range(len(cur_nodes)):
+            v = cur_nodes[i]
+            if v < 0:
+                next_nodes[i] = -1
+            else:
+                next_nodes[i] = np.random.choice(gt_get_out_neighbors(g,v))
+#             elif v in node_neighs:
+#                 next_nodes[i] = np.random.choice(node_neighs[v])
+#             else:
+#                 neighs = g.get_out_neighbors(v)
+#                 node_neighs[v] = neighs
+#                 next_nodes[i] = np.random.choice(neighs)      
+
+#         neighbors = [np.array([-1]) if v < 0 else g.get_out_neighbors(v) for v in cur_nodes]
+#         # if there are no outbound edges we can take for 
+#         # some vertex, we'll make the next vertex we visit = -1
+#         neighbors = [np.array([-1]) if len(arr) < 1 else arr for arr in neighbors]
+#         next_nodes = [np.random.choice(arr) for arr in neighbors]
         walks[:,cur_length] = next_nodes
         cur_length += 1
     # trim -1's from any walks that reached a dead end
@@ -45,6 +61,10 @@ def gt_random_walks_from_nodes(g, start_nodes, walk_length, num_walks):
     # change vertex indexes to Q-node names
     walks_by_qnode = [[g.vp.name[v_ix] for v_ix in walk] for walk in walks]
     return walks_by_qnode
+
+@lru_cache(maxsize = 10000000)
+def gt_get_out_neighbors(g, v):
+    return g.get_out_neighbors(v)
 
 def get_h_walks_from_kgtk_item_file(item_file, walks_file, directed=False, walk_length=10, num_walks=10, batch_size=50000):
     kr = KgtkReader.open(pathlib.Path(item_file))
