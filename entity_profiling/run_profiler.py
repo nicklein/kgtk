@@ -14,7 +14,7 @@ File and directory params that you likely need to change if you
 want to run the profiler on a new dataset:
     profiler_run_dir: Directory to save output files and notebooks to
 """
-data_dir = "../../wikidata_humans/data" # my data files are all in the same directory, so I'll reuse this path prefix
+data_dir = "./data/wikidata_humans" # my data files are all in the same directory, so I'll reuse this path prefix
 untrimmed_quantity_file_in = "{}/claims.quantity.tsv.gz".format(data_dir)
 quantity_qualifiers_file = "{}/qualifiers.quantity.tsv.gz".format(data_dir)
 trimmed_quantity_file_out = "{}/claims.quantity_trimmed.tsv.gz".format(data_dir)
@@ -22,8 +22,7 @@ item_file = "{}/claims.wikibase-item.tsv.gz".format(data_dir)
 time_file = "{}/claims.time.tsv.gz".format(data_dir)
 quantity_file = "{}/claims.quantity_trimmed.tsv.gz".format(data_dir)
 label_file = "{}/labels.en.tsv.gz".format(data_dir)
-work_dir = "../../wikidata_humans/profiler_work"
-store_dir = "../../wikidata_humans"
+work_dir_name = "wikidata_humans"
 type_to_profile = "Q5" # Human
 string_file = None #"{}/claims.string.tsv.gz".format(data_dir)
 
@@ -44,17 +43,22 @@ window_size = 5
 workers = 32
 k = 5
 # File/Directory params
-h_walks_file = "h_walks.txt"
-a_walks_file = "a_walks.txt"
-s_walks_file = "s_walks.txt"
+h_walks_filename = "h_walks.txt"
+a_walks_filename = "a_walks.txt"
+s_walks_filename = "s_walks.txt"
 
 """
 Flags to pick and choose which notebooks to run.
 """
-run_quantity_trim = True
-run_explore_ents = True
-run_label_creation = True
-run_filter = True
+# run_quantity_trim = True
+# run_explore_ents = True
+# run_label_creation = True
+# run_filter = True
+run_quantity_trim = False
+run_explore_ents = False
+run_label_creation = False
+run_filter = False
+
 run_embeddings = True
 run_select_label_set = True
 run_view_profiles = True
@@ -74,10 +78,11 @@ item_file = os.path.abspath(item_file)
 time_file = os.path.abspath(time_file)
 quantity_file = os.path.abspath(quantity_file)
 label_file = os.path.abspath(label_file)
-work_dir = os.path.abspath(work_dir)
-store_dir = os.path.abspath(store_dir)
 if string_file:
     string_file = os.path.abspath(string_file)
+# Set work and store directory paths
+work_dir = os.path.abspath("./output/{}".format(work_dir_name))
+store_dir = os.path.abspath("{}/temp".format(work_dir))
     
 # Validation
 err_msg = None
@@ -184,9 +189,9 @@ if run_embeddings:
             workers = workers,
             type_to_profile = type_to_profile,
             k = k,
-            h_walks_file = h_walks_file,
-            a_walks_file = a_walks_file,
-            s_walks_file = s_walks_file
+            h_walks_filename = h_walks_filename,
+            a_walks_filename = a_walks_filename,
+            s_walks_filename = s_walks_filename
         )
     )
 if run_select_label_set:
