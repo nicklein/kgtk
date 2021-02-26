@@ -14,7 +14,7 @@ class ProfileRetriever:
         info_cols = ["node1", "type", "type_label", "prop", "prop_label", "value", "value_label", "value_lb", "value_ub", "prop2", "prop2_label", "value2", "value2_lb", "value2_ub", "si_units", "wd_units"]
         self.label_info = labels_df.loc[:,info_cols].rename(columns={"node1":"label_id"}).groupby("label_id").first()
         
-        with open("{}/ordered_final_label_set.json".format(final_profiles_dir), 'r') as f:
+        with open(ordered_label_set_file, 'r') as f:
             self.label_set = json.load(f)
             
     def get_entity_profiles(self, entities, max_labels_in_profile=5):
