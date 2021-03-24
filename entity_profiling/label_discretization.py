@@ -99,7 +99,7 @@ def get_intervals_for_values_based_on_clusters(values, labels):
 
 # Given a file containing numeric valued attribute labels,
 # discretize these labels create a new file with the resulting attribute interval labels
-def discretize_labels(avl_file_in, ail_file_out):
+def discretize_labels_DBSCAN(avl_file_in, ail_file_out):
     df = pd.read_csv(avl_file_in, delimiter='\t')
     
     # add lower bound and upper bound columns
@@ -131,6 +131,7 @@ def discretize_labels(avl_file_in, ail_file_out):
             subset_mask = subset_mask & (df["si_units"] == row["si_units"]) & (df["wd_units"] == row["wd_units"])
         subset = df.loc[subset_mask]
         
+        # Shouldn't happen, just checking.
         values = subset.loc[:,"node2"]
         if(len(values) == 0):
             print("no values found for subset:\n{}\n".format(subset))
@@ -139,6 +140,113 @@ def discretize_labels(avl_file_in, ail_file_out):
         min_samples, epsilon = choose_DBSCAN_params(subset)
         cluster_labels = DBSCAN_1d_values(values, epsilon, min_samples)
         intervals_for_values = get_intervals_for_values_based_on_clusters(values, cluster_labels)
+        lbounds = [pair[0] for pair in intervals_for_values]
+        ubounds = [pair[1] for pair in intervals_for_values]
+        df.loc[subset_mask,"lower_bound"] = lbounds
+        df.loc[subset_mask,"upper_bound"] = ubounds
+    
+    df.to_csv(ail_file_out, sep = '\t', index = False)
+    
+    
+    
+# Given a file containing numeric valued attribute labels,
+# discretize these labels create a new file with the resulting attribute interval labels
+def discretize_labels_fixed_width(avl_file_in, ail_file_out, width):
+    df = pd.read_csv(avl_file_in, delimiter='\t')
+    
+    # add lower bound and upper bound columns
+    df.insert(loc = len(df.columns), column = "lower_bound", value = ["" for i in range(df.shape[0])])
+    df.insert(loc = len(df.columns), column = "upper_bound", value = ["" for i in range(df.shape[0])])
+        
+    # we don't want to consider any string type values
+    types = [type(v) for v in df.loc[:,"node2"]]
+    non_str_mask = [True if (t != str) else False for t in types]
+    df = df.loc[non_str_mask]
+    
+    values = df.loc[:,"node2"]
+    df.loc[:,"lower_bound"] = values - values.mod(width)
+    df.loc[:,"upper_bound"] = values - values.mod(width) + width
+    
+    df.to_csv(ail_file_out, sep = '\t', index = False)
+    
+
+    
+    
+    
+# given values that all correspond to the same label kind,
+# return corresponding intervals based on percentile
+def get_intervals_for_values_based_on_percentile(values, num_bins):
+    values = np.array(values)
+    indexes = np.arange(len(values))
+    
+    # sort values and corresponding labels in ascending order
+    indexes = np.array([i for i, v in sorted(zip(indexes, values), key=lambda pair: pair[1])])
+    values.sort()
+    
+    interval_bounds = []
+    for i in range(num_bins):
+        index_of_lbound = int(((i)/num_bins)*len(values))
+        index_of_ubound = int(((i+1)/num_bins)*len(values)) - 1
+        lbound = values[index_of_lbound]
+        ubound = values[index_of_ubound]
+        interval_bounds.append((lbound,ubound))
+    intervals_for_values=[]
+    cur_interval_idx=0
+    for i in range(len(values)):
+        while values[i] > interval_bounds[cur_interval_idx][1]:
+            cur_interval_idx += 1
+        intervals_for_values.append(interval_bounds[cur_interval_idx])
+    
+    # rearrange intervals to original order of values
+    intervals_for_values_unscrambled = np.zeros(len(intervals_for_values), dtype=tuple)
+    for i in range(len(indexes)):
+        intervals_for_values_unscrambled[indexes[i]] = intervals_for_values[i]
+        
+    return intervals_for_values_unscrambled
+    
+    
+# Given a file containing numeric valued attribute labels,
+# discretize these labels create a new file with the resulting attribute interval labels
+def discretize_labels_by_percentile(avl_file_in, ail_file_out, num_bins):
+    df = pd.read_csv(avl_file_in, delimiter='\t')
+    
+    # add lower bound and upper bound columns
+    df.insert(loc = len(df.columns), column = "lower_bound", value = ["" for i in range(df.shape[0])])
+    df.insert(loc = len(df.columns), column = "upper_bound", value = ["" for i in range(df.shape[0])])
+    
+    # blank values in units columns are expected as not all values will have units.
+    # we want blank units to compare equal to eachother, so fill NaN's in as "" in units columns.
+    if "si_units" in df.columns and "wd_units" in df.columns:
+        df.fillna("", inplace = True)
+        
+    # we also don't want to consider any string type values
+    types = [type(v) for v in df.loc[:,"node2"]]
+    non_str_mask = [True if (t != str) else False for t in types]
+    df = df.loc[non_str_mask]
+    
+    # get distinct label types (defined by type and property, as well as si and wd units if we have them)
+    if "si_units" in df.columns and "wd_units" in df.columns:
+        distinct_labels = df.loc[:, ["node1", "label", "si_units", "wd_units"]].drop_duplicates()
+    else:
+        distinct_labels = df.loc[:, ["node1", "label"]].drop_duplicates()
+        
+    # Could probably be improved with a list comprehension
+    for index, row in distinct_labels.iterrows():
+        # Get subset of labels that match this distinct kind of label
+        subset_mask = (df["node1"] == row["node1"]) & (df["label"] == row["label"])
+        # if we have units, treat these as part of the kind of label
+        if "si_units" in df.columns and "wd_units" in df.columns:
+            subset_mask = subset_mask & (df["si_units"] == row["si_units"]) & (df["wd_units"] == row["wd_units"])
+        subset = df.loc[subset_mask]
+        
+        # Shouldn't happen, just checking.
+        values = subset.loc[:,"node2"]
+        if(len(values) == 0):
+            print("no values found for subset:\n{}\n".format(subset))
+            print("row:\n{}\n".format(row))
+        
+        intervals_for_values = get_intervals_for_values_based_on_percentile(values, num_bins)
+        
         lbounds = [pair[0] for pair in intervals_for_values]
         ubounds = [pair[1] for pair in intervals_for_values]
         df.loc[subset_mask,"lower_bound"] = lbounds
