@@ -1,5 +1,6 @@
 import os
 import subprocess
+import pandas as pd
 
 
 """ NOTE
@@ -44,3 +45,11 @@ def rename_cols_and_overwrite_id(file_path_wo_ext, ext, old_cols_str, new_cols_s
                -o {0}{1} --overwrite-id \
                && rm {0}_temp{1}".format(file_path_wo_ext, ext, old_cols_str, new_cols_str)
     run_command(command)
+    
+# copy-pasta from Pedro's tutorial setup script
+def kgtk_to_dataframe(kgtk):
+    columns = kgtk[0].split("\t")
+    data = []
+    for line in kgtk[1:]:
+        data.append(line.encode('utf-8').decode('utf-8').split("\t"))
+    return pd.DataFrame(data, columns=columns)
