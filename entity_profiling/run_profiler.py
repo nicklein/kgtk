@@ -14,6 +14,7 @@ File and directory params that you likely need to change if you
 want to run the profiler on a new dataset:
     profiler_run_dir: Directory to save output files and notebooks to
 """
+#data files
 data_dir = "./data/wikidata_humans" # my data files are all in the same directory, so I'll reuse this path prefix
 untrimmed_quantity_file_in = "{}/claims.quantity.tsv.gz".format(data_dir)
 quantity_qualifiers_file = "{}/qualifiers.quantity.tsv.gz".format(data_dir)
@@ -22,15 +23,25 @@ item_file = "{}/claims.wikibase-item.tsv.gz".format(data_dir)
 time_file = "{}/claims.time.tsv.gz".format(data_dir)
 quantity_file = "{}/claims.quantity_trimmed.tsv.gz".format(data_dir)
 label_file = "{}/labels.en.tsv.gz".format(data_dir)
-work_dir_name = "wikidata_humans"
-type_to_profile = "Q5" # Human
 string_file = None #"{}/claims.string.tsv.gz".format(data_dir)
+
+work_dir_name = "wikidata_humans_v3"
+type_to_profile = "Q5" # Human
 
 """
 Params that don't *need* to be changed every time you run on a new dataset...
 These will affect the results, but don't need to be changed for the profiler
 to run correctly on your dataset:
 """
+# Filter notebook
+lower_bound_avl = .1
+lower_bound_ail = .001
+lower_bound_rel = .001
+lower_bound_ral = .1
+
+# embedding_feature_A notebook
+a_feature_nb_num_walks = 10
+
 # HAS_embeddings notebook
 # Embedding model params
 directed = False
@@ -50,18 +61,14 @@ s_walks_filename = "s_walks.txt"
 """
 Flags to pick and choose which notebooks to run.
 """
-# run_quantity_trim = True
-# run_explore_ents = True
-# run_label_creation = True
-# run_filter = True
 run_quantity_trim = False
 run_explore_ents = False
 run_label_creation = False
 run_filter = False
-
-run_embeddings = True
+run_embedding_feature_A = False
+run_embeddings = False
 run_select_label_set = True
-run_view_profiles = True
+run_view_profiles = False
 
 #=================================================#
 #                   End of Parameters             #
@@ -164,7 +171,29 @@ if run_filter:
         "{}/3_candidate_filter.out.ipynb".format(pm_out_dir),
         parameters=dict(
             work_dir = work_dir,
-            store_dir = store_dir
+            store_dir = store_dir,
+            lower_bound_avl = lower_bound_avl,
+            lower_bound_ail = lower_bound_ail,
+            lower_bound_rel = lower_bound_rel,
+            lower_bound_ral = lower_bound_ral
+        )
+    )
+if run_embedding_feature_A:
+    print("Running embedding_feature_A.ipynb")
+    pm.execute_notebook(
+        "embedding_feature_A.ipynb",
+        "{}/embedding_feature_A.out.ipynb".format(pm_out_dir),
+        parameters=dict(
+            label_file = label_file,
+            work_dir = work_dir,
+            store_dir = store_dir,
+            num_walks = a_feature_nb_num_walks,
+            walk_length = walk_length,
+            representation_size = representation_size,
+            window_size = window_size,
+            workers = workers,
+            type_to_profile = type_to_profile,
+            k = k
         )
     )
 if run_embeddings:
