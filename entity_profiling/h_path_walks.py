@@ -1,4 +1,5 @@
 import numpy as np
+import random
 from kgtk.gt.gt_load import load_graph_from_kgtk
 from kgtk.io.kgtkreader import KgtkReader
 import pathlib
@@ -10,7 +11,7 @@ from tqdm.auto import tqdm
 # Appends walks to specified file, where each walk is a list of Q-node strings
 def gt_random_walks_to_file(g, walks_file, walk_length=10, num_walks=10, batch_size=50000):
     vertices = g.get_vertices()
-    num_batches = int(np.ceil(len(vertices) / batch_size))
+    num_batches = math.ceil(len(vertices) / batch_size)
     print("num_batches: {}".format(num_batches))
     for batch_num in tqdm(range(num_batches)):
         start_nodes = vertices[batch_num*batch_size : (batch_num+1)*batch_size]
@@ -34,7 +35,7 @@ def gt_random_walks_from_nodes(g, start_nodes, walk_length, num_walks):
     while cur_length < walk_length:
         cur_nodes = walks[:,cur_length - 1]
         # Pad dead ends with -1s
-        next_nodes = [-1 if v < 0 else np.random.choice(gt_get_out_neighbors(g,v)) for v in cur_nodes]
+        next_nodes = [-1 if v < 0 else random.choice(gt_get_out_neighbors(g,v)) for v in cur_nodes]
         walks[:,cur_length] = next_nodes
         cur_length += 1
     # trim -1's from any walks that reached a dead end
