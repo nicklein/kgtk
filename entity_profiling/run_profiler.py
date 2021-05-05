@@ -15,7 +15,7 @@ want to run the profiler on a new dataset:
     profiler_run_dir: Directory to save output files and notebooks to
 """
 #data files
-data_dir = "./data/wikidata_humans" # my data files are all in the same directory, so I'll reuse this path prefix
+data_dir = "./data/wikidata-20210215-dwd" # my data files are all in the same directory, so I'll reuse this path prefix
 untrimmed_quantity_file_in = "{}/claims.quantity.tsv.gz".format(data_dir)
 quantity_qualifiers_file = "{}/qualifiers.quantity.tsv.gz".format(data_dir)
 trimmed_quantity_file_out = "{}/claims.quantity_trimmed.tsv.gz".format(data_dir)
@@ -25,7 +25,7 @@ quantity_file = "{}/claims.quantity_trimmed.tsv.gz".format(data_dir)
 label_file = "{}/labels.en.tsv.gz".format(data_dir)
 string_file = None #"{}/claims.string.tsv.gz".format(data_dir)
 
-work_dir_name = "wikidata_humans_v3"
+work_dir_name = "wikidata-20210215-dwd"
 type_to_profile = "Q5" # Human
 
 """
@@ -63,11 +63,11 @@ Flags to pick and choose which notebooks to run.
 """
 run_quantity_trim = False
 run_explore_ents = False
-run_label_creation = False
+run_label_creation = True
 run_filter = False
 run_embedding_feature_A = False
 run_embeddings = False
-run_select_label_set = True
+run_select_label_set = False
 run_view_profiles = False
 
 #=================================================#
@@ -192,7 +192,6 @@ if run_embedding_feature_A:
             representation_size = representation_size,
             window_size = window_size,
             workers = workers,
-            type_to_profile = type_to_profile,
             k = k
         )
     )
