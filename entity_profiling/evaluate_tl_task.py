@@ -1,11 +1,15 @@
-
+import pandas as pd
+import random
+import numpy as np
+from sklearn.metrics import accuracy_score, recall_score, precision_score, f1_score
+from tabulate import tabulate
 
 # loading data from table
 def get_candidates_by_cell(table_df):
-    cells = df.groupby("row")["kg_id"].apply(list).to_list()
+    cells = table_df.groupby("row")["kg_id"].apply(list).to_list()
     return cells
 def get_cell_ground_truths(table_df):
-    cells_gt = [l[0] for l in df.groupby("row")["GT_kg_id"].apply(list).to_list()]
+    cells_gt = [l[0] for l in table_df.groupby("row")["GT_kg_id"].apply(list).to_list()]
     return cells_gt
 # loading type mapping
 def load_type_mapping(type_mapping_file):
@@ -27,7 +31,7 @@ def get_num_gt_cands_w_profiles(gt_cands, profile_dict):
     return sum([1 for gt_cand in gt_cands if gt_cand in profile_dict])
 def get_num_cands_w_embeddings(cells, embeddings):
     return sum([1 for cell in cells for cand in cell if cand in embeddings])
-def get_num_gt_cands_w_embeddings(cells, embeddings):
+def get_num_gt_cands_w_embeddings(gt_cands, embeddings):
     return sum([1 for gt_cand in gt_cands if gt_cand in embeddings])
 
 
@@ -98,6 +102,7 @@ def avg_cell_profile_intersect_size_candidate_scoring(cells, profile_dict, max_l
 
 def max_cell_profile_intersect_size_candidate_scoring(cells, profile_dict, max_labels_in_profile=5):
     profiles = {cand : set(get_entity_profile(profile_dict, cand, max_labels_in_profile)) for candidates in cells for cand in candidates}
+        
     cells_candidate_profile_overlaps = []
     for cur_cell_idx, candidates in enumerate(cells):
         cell_candidate_profile_overlaps = {}
@@ -126,6 +131,9 @@ def max_cell_profile_intersect_size_candidate_scoring(cells, profile_dict, max_l
 
 def profile_intersect_size_w_gt_neighbors_candidate_scoring(cells, cells_gt, profile_dict, max_labels_in_profile=5):
     profiles = {cand : set(get_entity_profile(profile_dict, cand, max_labels_in_profile)) for candidates in cells for cand in candidates}
+    for cand in cells_gt:
+        profiles[cand] = set(get_entity_profile(profile_dict, cand, max_labels_in_profile))
+        
     cells_candidate_profile_overlaps = []
     for cur_cell_idx, candidates in enumerate(cells):
         cell_candidate_profile_overlaps = {}
@@ -146,8 +154,9 @@ def profile_intersect_size_w_gt_neighbors_candidate_scoring(cells, cells_gt, pro
             
         # Normalize within each cell
         denominator = sum(cell_candidate_profile_overlaps.values())
-        for cand in cell_candidate_profile_overlaps:
-            cell_candidate_profile_overlaps[cand] /= denominator
+        if denominator != 0:
+            for cand in cell_candidate_profile_overlaps:
+                cell_candidate_profile_overlaps[cand] /= denominator
         cells_candidate_profile_overlaps.append(cell_candidate_profile_overlaps)
         
     return cells_candidate_profile_overlaps
@@ -233,8 +242,9 @@ def embedding_sim_w_gt_neighbors_candidate_scoring(cells, cells_gt, embeddings):
 
         # normalize within each cell
         denominator = sum(cell_cand_sims.values())
-        for cand in cell_cand_sims:
-            cell_cand_sims[cand] /= denominator
+        if denominator != 0:
+            for cand in cell_cand_sims:
+                cell_cand_sims[cand] /= denominator
         candidate_similarities.append(cell_cand_sims)
     
     return candidate_similarities
@@ -303,7 +313,7 @@ def get_margin_stats(scores, cells_gt):
     
     return margin_stats
 
-def print_f1_and_margin_stats_for_method_scores(scores_by_method, num_trials=10):
+def print_f1_and_margin_stats_for_method_scores(scores_by_method, cells_gt, num_trials=10):
     # headers = ["Method", "Precision", "Recall", "F1"]
     headers = ["Method", "F1", "Margin Avg", "Min", "25%", "50%", "75%", "Max"] # just looking at one metric for now since they are currently all the same
     rows = []
@@ -339,7 +349,7 @@ def print_f1_and_margin_stats_for_method_scores(scores_by_method, num_trials=10)
 #=======================
 # Agreement Analysis
 #=======================
-def print_cell_agreement_of_methods(method_scores, num_trials=10):
+def print_cell_agreement_of_methods(method_scores, cells_gt, num_trials=10):
     headers = ([""] + list(method_scores.keys()))
     rows = []
 
@@ -371,7 +381,7 @@ def print_cell_agreement_of_methods(method_scores, num_trials=10):
     print("# cells agreed upon: 'correct, incorrect'")
     print(tabulate(rows, headers=headers, tablefmt="fancy_grid"))
     
-def print_f1_of_method_combs(method_scores, combs, num_trials=10):
+def print_f1_of_method_combs(method_scores, combs, cells_gt, num_trials=10):
     headers = ["Methods", "F1 of logical OR", "F1 of logical AND"] # just looking at one metric for now since they are currently all the same
     rows = []
     for method_comb in combs:
