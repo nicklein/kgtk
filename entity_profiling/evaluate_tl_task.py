@@ -21,6 +21,11 @@ def get_entity_profile(profile_dict, entity, max_labels_in_profile = 5):
     return profile_dict[entity][:max_labels_in_profile] if entity in profile_dict else []
 def get_entity_profiles(profile_dict, entities, max_labels_in_profile = 5):
     return [get_entity_profile(profile_dict, ent, max_labels_in_profile) for ent in entities]
+# getting centroids
+def get_centroid_ents(df, is_centroid_col):
+    centroid_ents = df.loc[df.loc[:,is_centroid_col] == 1, "kg_id"]
+    return list(set(centroid_ents))
+    
 
 # getting table info and coverage of profiles and embeddings
 def get_gt_cands(cells, cells_gt):
@@ -161,6 +166,35 @@ def profile_intersect_size_w_gt_neighbors_candidate_scoring(cells, cells_gt, pro
         
     return cells_candidate_profile_overlaps
 
+def profile_intersect_size_w_centroid_candidate_scoring(cells, centroid_ents, profile_dict, max_labels_in_profile=5):
+    profiles = {cand : set(get_entity_profile(profile_dict, cand, max_labels_in_profile)) for candidates in cells for cand in candidates}
+    for cand in centroid_ents:
+        profiles[cand] = set(get_entity_profile(profile_dict, cand, max_labels_in_profile))
+        
+    cells_candidate_profile_overlaps = []
+    for cur_cell_idx, candidates in enumerate(cells):
+        cell_candidate_profile_overlaps = {}
+        for cand in candidates:
+            cand_profile = profiles[cand]
+            
+            if len(cand_profile) == 0:
+                cell_candidate_profile_overlaps[cand] = 0
+                continue
+                
+            cumulative_cell_overlap = 0
+            for centroid_ent in centroid_ents:
+                cumulative_cell_overlap += len(cand_profile & profiles[centroid_ent])
+            cell_candidate_profile_overlaps[cand] = cumulative_cell_overlap
+            
+        # Normalize within each cell
+        denominator = sum(cell_candidate_profile_overlaps.values())
+        if denominator != 0:
+            for cand in cell_candidate_profile_overlaps:
+                cell_candidate_profile_overlaps[cand] /= denominator
+        cells_candidate_profile_overlaps.append(cell_candidate_profile_overlaps)
+        
+    return cells_candidate_profile_overlaps
+
 # Embedding methods
 def random_amongst_embedding_ents(cells, embeddings):
     candidate_similarities = []
@@ -238,6 +272,31 @@ def embedding_sim_w_gt_neighbors_candidate_scoring(cells, cells_gt, embeddings):
                     continue
                 
                 cumulative_cell_sim += embeddings.similarity(cand, cells_gt[cell_idx])
+            cell_cand_sims[cand] = cumulative_cell_sim
+
+        # normalize within each cell
+        denominator = sum(cell_cand_sims.values())
+        if denominator != 0:
+            for cand in cell_cand_sims:
+                cell_cand_sims[cand] /= denominator
+        candidate_similarities.append(cell_cand_sims)
+    
+    return candidate_similarities
+
+def embedding_sim_w_centroid_candidate_scoring(cells, centroid_ents, embeddings):
+    candidate_similarities = []
+    for cur_cell_idx, candidates in enumerate(cells):
+        cell_cand_sims = {}
+        for cand in candidates:
+            if cand not in embeddings:
+                cell_cand_sims[cand] = 0
+                continue
+                
+            cumulative_cell_sim = 0
+            for centroid_ent in centroid_ents:
+                # only compare to gt neighbors that have an embedding in our embedding model
+                if centroid_ent in embeddings:
+                    cumulative_cell_sim += embeddings.similarity(cand, centroid_ent)
             cell_cand_sims[cand] = cumulative_cell_sim
 
         # normalize within each cell
