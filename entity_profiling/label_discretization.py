@@ -159,11 +159,11 @@ def discretize_labels_fixed_width(avl_file_in, ail_file_out, width):
     df.insert(loc = len(df.columns), column = "upper_bound", value = ["" for i in range(df.shape[0])])
         
     # we don't want to consider any string type values
-    types = [type(v) for v in df.loc[:,"node2"]]
+    types = [type(v) for v in df.loc[:,"value"]]
     non_str_mask = [True if (t != str) else False for t in types]
     df = df.loc[non_str_mask]
     
-    values = df.loc[:,"node2"]
+    values = df.loc[:,"value"]
     df.loc[:,"lower_bound"] = values - values.mod(width)
     df.loc[:,"upper_bound"] = values - values.mod(width) + width
     
@@ -220,27 +220,27 @@ def discretize_labels_by_percentile(avl_file_in, ail_file_out, num_bins):
         df.fillna("", inplace = True)
         
     # we also don't want to consider any string type values
-    types = [type(v) for v in df.loc[:,"node2"]]
+    types = [type(v) for v in df.loc[:,"value"]]
     non_str_mask = [True if (t != str) else False for t in types]
     df = df.loc[non_str_mask]
     
     # get distinct label types (defined by type and property, as well as si and wd units if we have them)
     if "si_units" in df.columns and "wd_units" in df.columns:
-        distinct_labels = df.loc[:, ["node1", "label", "si_units", "wd_units"]].drop_duplicates()
+        distinct_labels = df.loc[:, ["type", "prop", "si_units", "wd_units"]].drop_duplicates()
     else:
-        distinct_labels = df.loc[:, ["node1", "label"]].drop_duplicates()
+        distinct_labels = df.loc[:, ["type", "prop"]].drop_duplicates()
         
     # Could probably be improved with a list comprehension
     for index, row in distinct_labels.iterrows():
         # Get subset of labels that match this distinct kind of label
-        subset_mask = (df["node1"] == row["node1"]) & (df["label"] == row["label"])
+        subset_mask = (df["type"] == row["type"]) & (df["prop"] == row["prop"])
         # if we have units, treat these as part of the kind of label
         if "si_units" in df.columns and "wd_units" in df.columns:
             subset_mask = subset_mask & (df["si_units"] == row["si_units"]) & (df["wd_units"] == row["wd_units"])
         subset = df.loc[subset_mask]
         
         # Shouldn't happen, just checking.
-        values = subset.loc[:,"node2"]
+        values = subset.loc[:,"value"]
         if(len(values) == 0):
             print("no values found for subset:\n{}\n".format(subset))
             print("row:\n{}\n".format(row))
